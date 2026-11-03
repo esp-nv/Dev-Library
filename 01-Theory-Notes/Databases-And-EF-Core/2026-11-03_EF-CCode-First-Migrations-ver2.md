@@ -179,3 +179,14 @@ EF Core автоматично ще разбере кои таблици и ко
 • Капан №1 (Забравен Update-Database): Добавяш свойство public string Email { get; set; } в C# кода, но забравиш да пуснеш миграция. Програмата ще забие с SqlException: Invalid column name 'Email'.
 • Капан №2 (Липса на празен конструктор): Ако създадеш твой конструктор с параметри (напр. public Product(string name)), EF Core ще забие с InvalidOperationException: Each entity type requires a parameterless constructor. Винаги дописвай по един празен конструктор public Product() { }!
 • Капан №3 (Изтриване на файлове с миграции на ръка): Никога не трий файлове в папка Migrations ръчно през Windows Explorer! Това чупи вътрешната база данни на EF Core (__EFMigrationsHistory). Винаги използвай Remove-Migration през конзолата.
+
+🗺️ Общата картина на потока данни:
+C# Class ──> Entity ──> Mapping ──> DbContext ──> Table + Columns ──> DbSet ──> LINQ ──> EF Core ──> SQL ──> Database
+
+Основните етапи от съдържанието са организирани по следния начин:
+• Етапи 1-2: Създаване на Entity класа и преглед на методите за мапинг към базата данни [Dev-Library/01-Theory-Notes/Databases-And-EF-Core/ef.md].
+• Етапи 3-6: Конфигуриране на ConnectionString в appsettings.json, свързване на таблици и колони с Fluent API ограничения (HasKey, HasMaxLength, IsRequired, HasDefaultValue) и обединяването им в метода OnModelCreating на AppDbContext [Dev-Library/01-Theory-Notes/Databases-And-EF-Core/ef.md].
+• Етапи 7-8: Добавяне на DbSet и управление на миграционния цикъл чрез команди като Add-Migration, Update-Database, Remove-Migration и Drop-Database [Dev-Library/01-Theory-Notes/Databases-And-EF-Core/ef.md].
+• Етапи 9-11 и Наръчник: Изписване на LINQ заявки, разясняване на лабда изразите, превод към суров SQL и списък с най-честите капани при работа с EF Core [Dev-Library/01-Theory-Notes/Databases-And-EF-Core/ef.md].
+````
+Можеш да намериш пълния структуриран текст, примери за код и пълния checklist директно в референтния документ  [отвори от тук](./ef.md) а това е карта [отвори от тук](./map-efcore.md)
