@@ -4,8 +4,8 @@
 
 ## CONFIGURATION (SWITCH)
 
-• [Ниво на сложност]: Сложи "Базово (Junior/Учене)" / "Напреднало (Enterprise/SOLID)"
-• [Основна структура]: Сложи "List" / "Dictionary" / "HashSet" / "Queue или Stack"
+- • [Ниво на сложност]: Сложи "Базово (Junior/Учене)" / "Напреднало (Enterprise/SOLID)"
+- • [Основна структура]: Сложи "List" / "Dictionary" / "HashSet" / "Queue или Stack"
 
 ## ARCHITECT CONTEXT
 
