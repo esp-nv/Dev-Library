@@ -18,6 +18,8 @@
 ---
 
 ## 🔗 Референции за шаблоните (Свързани файлове)
-* **Главен контролен панел:** [Назад към MASTER-BLUEPRINT.md](../02-Project-Blueprints/MASTER-BLUEPRINT.md)
-* **Генериране на код:** [Към подшаблона за Писане на код](../02-Project-Blueprints/Sub-Write-Code.md)
-* **Генериране на тестове:** [Към подшаблона за Тестове](../02-Project-Blueprints/Sub-Write-Tests.md)
+* **Главен диспечерски пулт:** [Назад към 01-MASTER-BLUEPRINT.md](Main-Control-Panel-and-Trackers/01-MASTER-BLUEPRINT.md)
+* **Динамичен прогрес:** [Към Project-Tracker.md](Main-Control-Panel-and-Trackers/Project-Tracker.md)
+* **Писане на основен код:** [Към подшаблона Sub-Write-Code.md](Sub-Actions/Sub-Write-Code.md)
+* **Писане на тестове:** [Към подшаблона Sub-Write-Tests.md](Sub-Actions/Sub-Write-Tests.md)
+* **Разработка на фийчъри:** [Към подшаблона Feature-Development.md](Sub-Actions/Feature-Development.md)
