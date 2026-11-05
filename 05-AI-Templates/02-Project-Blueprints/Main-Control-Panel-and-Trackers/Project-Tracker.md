@@ -1,19 +1,8 @@
 ### [1. СТРУКТУРА И СХЕМА НА ПРОЕКТА]
-#### 📁 Дърво на папките и файловете (Folder Structure)
-```text
-[Например:]
-MyProject/
-│── Contracts/          # Интерфейси (IEngine.cs)
-│── Models/             # Данни и обекти (DataModel.cs)
-│── Core/               # Бизнес логика (CalculationEngine.cs)
-└── Tests/              # xUnit Тестове (EngineTests.cs)
-```
 
-#### 📐 Логическа схема / Архитектурна диаграма (Architecture Blueprint)
-```text
-[Например:]
-[Потребителски вход] ──> [Валидация] ──> [Интерфейс: IEngine] ──> [Изчисления] ──> [xUnit Тест]
-```
+Моля, използвай и спазвай съответната архитектурна структура спрямо типа на текущия проект:
+* 🌐 **За Web API / MVC / DB проекти:** Виж [Шаблон за Layered Web API](../App-Architectures/Folder-Structures/Layered-Web-API.md)
+* 💻 **За прости Конзолни / Алгоритмични проекти:** Виж [Шаблон за Basic Console](../App-Architectures/Folder-Structures/Basic-Console.md)
 
 ---
 
