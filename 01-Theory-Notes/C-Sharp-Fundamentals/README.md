@@ -37,8 +37,9 @@
 ### 🔹 Модул 2: Обектно-Ориентирано Програмиране (OOP), LINQ и Архитектура
 
 * **02. ООП Концепции и Ключови думи**
-  * 📄 [Кратък справочник](./02-OOP-Concepts-And-Keywords.md)
+  * 📄 [Кратък справочник](./02-OOP-Concepts-And-Keywords.md) | 📘 [Дълъг учебник](./oop-concepts-csharp.md)
   * *Обхваща:* Наследяване, капсулация, абстракция, полиморфизъм, `virtual`/`override`, `abstract` и `interface`.
+
 * **03. LINQ и Отложено изпълнение (Deferred Execution)**
   * 📄 [Дълбок анализ](./03-LINQ-Deep-Dive-And-Deferred-Execution.md) | 📋 [Cheat Sheet](./LINQ-Operations-Cheat-Sheet.md) | 🗺️ [LINQ Карта](./map-linq.md)
   * *Обхваща:* `IEnumerable<T>` vs `IQueryable<T>`, филтриране, групиране, агрегации и материализация.
