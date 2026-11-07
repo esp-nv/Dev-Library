@@ -1,8 +1,12 @@
+🏠 [Към главната папка](README.md) | ➡️ [01-01. Логика и Ред на SELECT](01-01-SQL-Logic-And-Select-Order.md)
+---
 # ⚡ 01. Въведение в БД, Типове данни и CRUD операции (Кратък справочник)
 
 **Цел:** Бърз преговор на SQL подмножествата (DDL, DML, DQL), правилния избор на типове данни и основните CRUD операции в MS SQL Server и PostgreSQL.
 
 ---
+
+
 
 ## 🧩 1. ПОДМНОЖЕСТВА НА SQL (ЕЗИКОВИ КОМАНДИ)
 
@@ -85,6 +89,18 @@
 | `VARCHAR(n)` / `NVARCHAR(n)` | `L + 2 B` / `2*L + 2 B` | Дължина (2 B) + реални символи | Заема памет само за реално въведения текст. | При удължаване при `UPDATE` може да премести реда (Page Split). |
 | `DATETIME2(0..7)` | `6` до `8 B` | Дата + часовник с точност до 100 ns | Точност и компактен размер спрямо стария `DATETIME`. | Не пази часова зона (за разлика от `DATETIMEOFFSET` — `10 B`). |
 | `UNIQUEIDENTIFIER` (`Guid`) | `16 B` | 128-битов произволен хеш | Генерира се в C# без заявка към базата. | **4x по-голям от `INT`** и причинява тежка фрагментация в индексите! |
+
+---
+## 📂 Детайлни подмодули към Глава 01
+
+* 🪜 **[01-01. Логика на мислене и Ред на написване на SELECT](01-01-SQL-Logic-And-Select-Order.md)** — Синтактичната „стълба“, логически ред на изпълнение и реални примери.
+* 💾 **[01-02. Типове данни, Памет и Мостът към C#](01-02-SQL-Data-Types-Memory-And-CSharp.md)** — Размери в байтове, Data Pages (8 KB), Unicode (`N'...'`) и Nullable типове.
+* 🗄️ **[01-03. Релационни диалекти: MS SQL, PostgreSQL, MySQL и SQLite](01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md)** — Разлики в синтаксиса, Auto-Increment, пагинация и кога се избира всяка база.
+* 🍃 **[01-04. NoSQL Бази данни: MongoDB и Apache Cassandra](01-04-NoSQL-Documents-And-WideColumn-Mongo-Cassandra.md)** — Превод от SQL, CRUD команди и C# интеграция.
+* ⚡ **[01-05. Redis Cache, Cloud NoSQL (DynamoDB & Cosmos DB) и Корпоративни системи](01-05-NoSQL-InMemory-Cache-Redis.md)** — RAM кеширане, TTL, облачни NoSQL бази и ролята на AD/SAP.
+* 📦 **[01-06. Формати за данни: JSON и XML](01-06-Data-Formats-JSON-And-XML.md)** — Сравнение, работа с `JSONB` / `OPENJSON` и сериализация в C#.
+* 🧩 **[01-07. Съседи на Базата данни: RabbitMQ, Kafka, GraphQL, Mobile, AD и SAP](01-07-Architecture-Neighbors-RabbitMQ-Kafka-GraphQL-Enterprise.md)** — Опашки за съобщения, API протоколи, мобилни локални бази и корпоративни системи.
+* 🧠 **[01-08. Специализирани Бази данни: Vector (AI), Search Engines и Graph / Time-Series](01-08-Specialized-Databases-Vector-Search-Graph.md)** — Търсене по смисъл (`pgvector`), Elasticsearch и Neo4j.
 
 ---
 © 2026 Dev-Library / Кратък справочник: Въведение в SQL и CRUD
