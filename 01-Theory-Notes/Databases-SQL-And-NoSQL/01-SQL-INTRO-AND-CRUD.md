@@ -1,0 +1,62 @@
+# ⚡ 01. Въведение в БД, Типове данни и CRUD операции (Кратък справочник)
+
+**Цел:** Бърз преговор на SQL подмножествата (DDL, DML, DQL), правилния избор на типове данни и основните CRUD операции в MS SQL Server и PostgreSQL.
+
+---
+
+## 🧩 1. ПОДМНОЖЕСТВА НА SQL (ЕЗИКОВИ КОМАНДИ)
+
+| Категория | Пълно име | Какво прави? | Основни команди |
+| :--- | :--- | :--- | :--- |
+| **DDL** | Data Definition Language | Създава и променя **структурата** (таблици, колони, ограничения). | `CREATE`, `ALTER`, `DROP`, `TRUNCATE` |
+| **DML** | Data Manipulation Language | Добавя, променя и трие **данните (редовете)** в таблиците. | `INSERT`, `UPDATE`, `DELETE` |
+| **DQL** | Data Query Language | Чете и филтрира данни без да ги променя. | `SELECT` |
+| **DCL** | Data Control Language | Управлява правата за достъп на потребителите. | `GRANT`, `REVOKE` |
+| **TCL** | Transaction Control Language | Управлява транзакциите („всичко или нищо“). | `BEGIN TRANSACTION`, `COMMIT`, `ROLLBACK` |
+
+---
+
+## 📊 2. МАТРИЦА НА ОСНОВНИТЕ ТИПОВЕ ДАННИ (MS SQL ➔ POSTGRESQL ➔ C#)
+
+| Категория | MS SQL Server | PostgreSQL | C# Тип | Кога се ползва? |
+| :--- | :--- | :--- | :--- | :--- |
+| **Цели числа** | `INT` (4 B) / `BIGINT` (8 B) | `INT` / `BIGINT` | `int` / `long` | ID-та, бройки, наличности. |
+| **Точни дробни** | `DECIMAL(18, 2)` | `NUMERIC(18, 2)` | `decimal` | **Пари, цени, данъци** (без грешки от закръгляне). |
+| **Научни дробни** | `FLOAT` | `DOUBLE PRECISION` | `double` | Координати, сензори, графики (никога за пари!). |
+| **Текст (Unicode)** | `NVARCHAR(100)` / `NVARCHAR(MAX)` | `VARCHAR(100)` / `TEXT` | `string` | Имена, имейли, описания (поддържа кирилица). |
+| **Фиксиран текст** | `NCHAR(2)` / `CHAR(10)` | `CHAR(2)` | `string` | Код на държава (`BG`), ЕГН, IBAN. |
+| **Логически** | `BIT` (`0` или `1`) | `BOOLEAN` (`TRUE`/`FALSE`) | `bool` | Флагове (`IsActive`, `IsDeleted`). |
+| **Дата и час** | `DATETIME2` | `TIMESTAMPTZ` | `DateTime` / `DateTimeOffset` | Време на създаване (`CreatedAt` в UTC). |
+| **Уникален ключ** | `UNIQUEIDENTIFIER` | `UUID` | `Guid` | Публични ID-та в API-та и разпределени системи. |
+
+---
+
+## 🛠️ 3. CRUD ОПЕРАЦИИ И ЛОГИЧЕСКИ РЕД НА ИЗПЪЛНЕНИЕ
+
+### 🔹 Логически ред, в който базата изпълнява `SELECT` (не както го пишем!):
+1. `FROM` / `JOIN` (взима таблиците)
+2. `WHERE` (филтрира редовете)
+3. `GROUP BY` (групира редовете)
+4. `HAVING` (филтрира групите)
+5. `SELECT` (избира колоните и смята изрази)
+6. `DISTINCT` (премахва дубликати)
+7. `ORDER BY` (сортира резултата)
+8. `TOP` / `OFFSET-FETCH` / `LIMIT` (реже страниците)
+
+### 🔹 Бърз синтаксис за CRUD:
+* **Create (Добавяне):** `INSERT INTO Users (Name, Age) VALUES (N'Иван', 25);`
+* **Read (Четене):** `SELECT Name, Age FROM Users WHERE Age >= 18 ORDER BY Name ASC;`
+* **Update (Промяна):** `UPDATE Users SET Age = 26 WHERE Id = 1;`
+* **Delete (Изтриване):** `DELETE FROM Users WHERE Id = 1;`
+
+---
+
+## 🚨 4. КРИТИЧНИ JUNIOR КАПАНИ В ГЛАВА 01
+
+1. **`UPDATE` или `DELETE` без `WHERE`:** Променя или изтрива **всички редове** в таблицата мигновено! Винаги първо пиши `SELECT * FROM Table WHERE ...`, за да видиш кои редове ще засегнеш.
+2. **Липсващо `N` пред кирилица в MS SQL:** В MS SQL `INSERT INTO Users (Name) VALUES ('Иван')` може да запише `'????'`, ако не сложиш префикс `N'Иван'` за Unicode низ.
+3. **`DELETE` срещу `TRUNCATE`:** `DELETE` трие ред по ред, записва в лога и **не нулира** брояча `IDENTITY` (`Id`). `TRUNCATE TABLE` изпразва цялата таблица мигновено и нулира `IDENTITY` обратно на `1`.
+4. **Сравнение с `NULL`:** `WHERE DeletedAt = NULL` винаги връща празен резултат! Винаги ползвай `IS NULL` или `IS NOT NULL`.
+
+---
+© 2026 Dev-Library / Кратък справочник: Въведение в SQL и CRUD
