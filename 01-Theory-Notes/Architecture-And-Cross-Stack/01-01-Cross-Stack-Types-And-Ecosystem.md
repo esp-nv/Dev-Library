@@ -1,14 +1,29 @@
-# 🌐 00. Cross-Stack Карта: SQL ➔ C# / LINQ / ASP.NET ➔ Други езици
-
-**Статус:** Архитектурна карта (Full-Stack & Multi-Language) | **Цел:** Превод на типове данни, заявки и уеб архитектури между SQL, .NET, TypeScript, Python и Java
+🏠 [Начало (Библиотека БД)](../Databases-SQL-And-NoSQL/README.md) | ➡️ [01-02. Стек и Купчина](01-02-Stack-Vs-Heap-Memory-Deep-Dive.md)
 
 ---
 
-## 📊 1. МАТРИЦА НА ТИПОВЕТЕ ДАННИ (БАЗА ДАННИ ➔ БЕКЕНД ➔ ФРОНТЕНД)
+# 01-01. Cross-Stack Карта: SQL ➔ C# ➔ JS / TypeScript ➔ Python
+
+**Цел:** Превод на типове данни, заявки и уеб архитектури между SQL, .NET, JavaScript, TypeScript, Python и Java.
+
+## Съдържание на темата
+* [1. Матрица на типовете данни (База данни ➔ Бекенд ➔ Фронтенд)](#1-матрица-на-типовете-данни-база-данни-➔-бекенд-➔-фронтенд)
+* [2. Пътят на един модел от край до край (End-to-End Flow)](#2-пътят-на-един-модел-от-край-до-край-end-to-end-flow)
+* [3. Превод на заявки: SQL ➔ C# LINQ ➔ JS / TypeScript ➔ Python](#3-превод-на-заявки-sql-➔-c-linq-➔-js--typescript-➔-python)
+* [4. ASP.NET Core срещу други уеб платформи (Backend екосистеми)](#4-aspnet-core-срещу-други-уеб-платформи-backend-екосистеми)
+* [5. Критични Full-Stack капани при превод между езици](#5-критични-full-stack-капани-при-превод-между-езици)
+
+---
+
+
+
+---
+
+## 1. МАТРИЦА НА ТИПОВЕТЕ ДАННИ (БАЗА ДАННИ ➔ БЕКЕНД ➔ ФРОНТЕНД)
 
 Когато един запис пътува от базата данни към C# сървъра и оттам като JSON към клиента, типовете се преобразуват по строго определени правила:
 
-| Концепция | MS SQL Server | PostgreSQL | C# (.NET 8+) | JSON / TypeScript | Python | Java |
+| Концепция | MS SQL Server | PostgreSQL | C# (.NET 8+) | JSON / JS /TypeScript | Python | Java |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Цяло число (32-bit)** | `INT` | `INTEGER` (`INT4`) | `int` | `number` | `int` | `int` / `Integer` |
 | **Голямо цяло (64-bit)** | `BIGINT` | `BIGINT` (`INT8`) | `long` | `number` / `bigint` | `int` | `long` / `Long` |
@@ -25,7 +40,7 @@
 
 ---
 
-## 🔄 2. ПЪТЯТ НА ЕДИН МОДЕЛ ОТ КРАЙ ДО КРАЙ (END-TO-END FLOW)
+## 2. ПЪТЯТ НА ЕДИН МОДЕЛ ОТ КРАЙ ДО КРАЙ (END-TO-END FLOW)
 
 Ето как изглежда една и съща таблица `Orders` в целия стек:
 
@@ -75,7 +90,8 @@ export interface OrderResponse {
 
 ---
 
-## 🔍 3. ПРЕВОД НА ЗАЯВКИ: SQL ➔ C# LINQ ➔ TYPESCRIPT ➔ PYTHON
+## 3. ПРЕВОД НА ЗАЯВКИ: SQL ➔ C# LINQ ➔ JS / TYPESCRIPT ➔ PYTHON
+
 
 Една и съща операция (филтриране, сортиране и проекция на данни) в различните езици:
 
@@ -91,7 +107,7 @@ export interface OrderResponse {
 
 ---
 
-## 🌐 4. ASP.NET CORE СРЕЩУ ДРУГИ УЕБ ПЛАТФОРМИ (BACKEND ЕКОСИСТЕМИ)
+## 4. ASP.NET CORE СРЕЩУ ДРУГИ УЕБ ПЛАТФОРМИ (BACKEND ЕКОСИСТЕМИ)
 
 Когато усвоиш архитектурата на **ASP.NET Core**, преминаването към друг език е само смяна на синтаксиса — слоевете (`Controller ➔ Service ➔ Repository`) са идентични:
 
@@ -107,7 +123,7 @@ export interface OrderResponse {
 
 ---
 
-## 🚨 5. КРИТИЧНИ FULL-STACK КАПАНИ ПРИ ПРЕВОД МЕЖДУ ЕЗИЦИ
+## 5. КРИТИЧНИ FULL-STACK КАПАНИ ПРИ ПРЕВОД МЕЖДУ ЕЗИЦИ
 
 ### 🛑 Капан 1: Загуба на точност при пари (`DECIMAL` ➔ JavaScript `number`)
 * **Проблем:** В C# ползваш `decimal`, в базата `DECIMAL(18,2)`, но JavaScript/TypeScript има само 64-bit `number` (`0.1 + 0.2 === 0.30000000000000004`).
@@ -122,6 +138,9 @@ export interface OrderResponse {
 * **PostgreSQL и Python:** `snake_case` (`first_name`, `order_items`).
 * **JSON, TypeScript и Java:** `camelCase` (`firstName`, `orderItems`).
 * *(Съвет: В EF Core с PostgreSQL инсталирай пакета `EFCore.NamingConventions` и добави `.UseSnakeCaseNamingConvention()`, за да не пишеш ръчно `[Column("first_name")]` навсякъде!)*
+
+---
+🏠 [Начало (Библиотека БД)](../Databases-SQL-And-NoSQL/README.md) | ➡️ [01-02. Стек и Купчина](01-02-Stack-Vs-Heap-Memory-Deep-Dive.md)
 
 ---
 © 2026 Dev-Library / Full-Stack & Multi-Language Архитектурна карта
