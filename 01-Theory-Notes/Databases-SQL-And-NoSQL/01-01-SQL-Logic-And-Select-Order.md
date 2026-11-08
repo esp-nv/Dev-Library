@@ -142,7 +142,7 @@ OFFSET 5 ROWS FETCH NEXT 5 ROWS ONLY;
    * `COUNT(*)` брои целия ред (и ще върне `1` дори за клиент без поръчки!).
    * `COUNT(o.Id)` игнорира `NULL` стойностите и правилно връща `0` за клиент без поръчки.
 ---
-⬅️ [01-00. Начало (Основи и CRUD)](01-00-SQL-INTRO-AND-CRUD.md) | 🏠 [01-00. Основи и CRUD](01-00-SQL-INTRO-AND-CRUD.md) | ➡️ [01-02. Типове данни и Памет](01-02-SQL-Data-Types-Memory-And-CSharp.md)
+[⬅️ 01-00. Въведение в БД](01-00-SQL-INTRO-AND-CRUD.md) | [📂 Глава 01](01-00-SQL-INTRO-AND-CRUD.md) | [🏠 Начало (README)](README.md) | [➡️ 01-02. Типове данни](01-02-SQL-Data-Types-Memory-And-CSharp.md)
 
 ---
 © 2026 Dev-Library / Бази данни: Логика и ред на SELECT
