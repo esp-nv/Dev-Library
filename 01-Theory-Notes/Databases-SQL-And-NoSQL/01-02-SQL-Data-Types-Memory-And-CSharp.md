@@ -1,4 +1,5 @@
-⬅️ [01-01. Логика и Ред на SELECT](01-01-SQL-Logic-And-Select-Order.md) | 🏠 [01-00. Начало (Основи и CRUD)](01-00-SQL-INTRO-AND-CRUD.md) | ➡️ [01-03. Релационни диалекти](01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md)
+[⬅️ 01-01. Логика на SELECT](01-01-SQL-Logic-And-Select-Order.md) | [📂 Глава 01](01-00-SQL-INTRO-AND-CRUD.md) | [🏠 Начало (README)](README.md) | [➡️ 01-03. Релационни диалекти](01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md)
+
 ---
 # 💾 01-02. Типове данни, Заемане на памет и Мостът към C#
 
@@ -142,7 +143,7 @@ public class Student
 3. **`NVARCHAR(MAX)` навсякъде по навик:** Полетата с `(MAX)` се изнасят в отделни LOB страници, забавят `SELECT` и **не могат да бъдат индексирани** като ключови колони. Слагай точен лимит (`NVARCHAR(100)`, `NVARCHAR(500)`).
 4. **Използване на `BIGINT` за малки таблици:** Ако таблицата има 500 или 50 000 реда (напр. `Cities`, `Categories`), `INT` (до 2.14 милиарда) е напълно достатъчен и пести памет във всички свързани таблици и индекси.
 ---
-⬅️ [01-01. Логика и Ред на SELECT](01-01-SQL-Logic-And-Select-Order.md) | 🏠 [01-00. Начало (Основи и CRUD)](01-00-SQL-INTRO-AND-CRUD.md) | ➡️ [01-03. Релационни диалекти](01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md)
+[⬅️ 01-01. Логика на SELECT](01-01-SQL-Logic-And-Select-Order.md) | [📂 Глава 01](01-00-SQL-INTRO-AND-CRUD.md) | [🏠 Начало (README)](README.md) | [➡️ 01-03. Релационни диалекти](01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md)
 
 ---
 © 2026 Dev-Library / Бази данни: Типове данни, Памет и C#
