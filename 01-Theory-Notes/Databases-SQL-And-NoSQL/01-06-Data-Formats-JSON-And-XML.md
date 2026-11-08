@@ -155,6 +155,6 @@ OrderDto? parsedOrder = JsonSerializer.Deserialize<OrderDto>(json);
 2. **Case-Sensitivity при `JsonSerializer.Deserialize` в C#:** По подразбиране `System.Text.Json` прави разлика между `"orderId"` и `"OrderId"`. Когато четеш JSON от външни API-та (които ползват `camelCase`), винаги подавай `new JsonSerializerOptions { PropertyNameCaseInsensitive = true }`.
 
 ---
-⬅️ [01-05. Redis и Cloud NoSQL](01-05-NoSQL-InMemory-Cache-Redis.md) | 🏠 [01-00. Начало (Основи и CRUD)](01-00-SQL-INTRO-AND-CRUD.md) | ➡️ [01-07. Съседи на БД (RabbitMQ, Kafka, GraphQL, AD, SAP)](01-07-Architecture-Neighbors-RabbitMQ-Kafka-GraphQL-Enterprise.md)
+⬅️ [01-05. Redis и Cloud NoSQL](01-05-NoSQL-InMemory-Cache-Redis.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | [🏠 Начало (README)](README.md) | ➡️ [01-07. Съседи на БД (RabbitMQ, Kafka, GraphQL, AD, SAP)](01-07-Architecture-Neighbors-RabbitMQ-Kafka-GraphQL-Enterprise.md)
 
 © 2026 Dev-Library / Бази данни: Формати JSON и XML
