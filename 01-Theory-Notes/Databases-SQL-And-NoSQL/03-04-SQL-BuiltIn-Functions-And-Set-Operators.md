@@ -1,4 +1,4 @@
-⬅️ [03-03. Групиране, Агрегации и Window Functions](03-03-SQL-Grouping-Aggregations-Window-Functions.md) | 📂 [Глава 03](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md) | ⏩ [Глава 04. Производителност и Програмируемост](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md)
+⬅️ [03-03. Групиране, Агрегации и Window Functions](03-03-SQL-Grouping-Aggregations-Window-Functions.md) | 📂 [03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и Функции](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md)  | ⏩ [Глава 04. Производителност и Програмируемост](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md)
 
 ---
 
@@ -164,6 +164,6 @@ SELECT DISTINCT ProductId FROM OrderItems;
 * **Как да избегнеш:** Запомни, че в SQL позициите в низове (`SUBSTRING`, `CHARINDEX`, `POSITION`) винаги започват от **1**.
 
 ---
-⬅️ [03-03. Групиране, Агрегации и Window Functions](03-03-SQL-Grouping-Aggregations-Window-Functions.md) | 📂 [Глава 03](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md) | ⏩ [Глава 04. Производителност и Програмируемост](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md)
+⬅️ [03-03. Групиране, Агрегации и Window Functions](03-03-SQL-Grouping-Aggregations-Window-Functions.md) | 📂 [03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и Функции](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md)  | ⏩ [Глава 04. Производителност и Програмируемост](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md)
 
 © 2026 Dev-Library / Бази данни: Вградени функции и Сет оператори

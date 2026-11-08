@@ -1,4 +1,4 @@
-[⬅️ 01-00. Въведение в БД](01-00-SQL-INTRO-AND-CRUD.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | [🏠 Начало (README)](README.md) | [➡️ 01-02. Типове данни](01-02-SQL-Data-Types-Memory-And-CSharp.md)
+[⬅️ 01-00. Въведение в БД](01-00-SQL-INTRO-AND-CRUD.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | [🏠 Начало (README)](README.md) | [➡️ 01-02. Типове данни](01-02-SQL-Data-Types-Memory-And-CSharp.md) 
 
 ---
 # 🪜 01-01. Логика на мислене и Ред на написване на `SELECT`

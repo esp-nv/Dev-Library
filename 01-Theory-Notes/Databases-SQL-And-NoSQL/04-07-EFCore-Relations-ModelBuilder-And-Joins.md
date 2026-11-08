@@ -1,4 +1,4 @@
-⬅️ [04-06. OLTP срещу OLAP и Data Warehouses](04-06-OLTP-vs-OLAP-And-Data-Warehouses.md) | 📂 [Глава 04](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ⏩ [00-03. Архитектура, Бекъпи и Инструменти](00-03-DBMS-Architecture-Backups-And-Tools.md)
+⬅️ [04-06. OLTP срещу OLAP и Data Warehouses](04-06-OLTP-vs-OLAP-And-Data-Warehouses.md) | 📂 [04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) 
 
 ---
 
@@ -240,7 +240,7 @@ var leftResult = await (
   ```
 
 ---
-⬅️ [04-06. OLTP срещу OLAP и Data Warehouses](04-06-OLTP-vs-OLAP-And-Data-Warehouses.md) | 📂 [Глава 04](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ⏩ [00-03. Архитектура, Бекъпи и Инструменти](00-03-DBMS-Architecture-Backups-And-Tools.md)
+⬅️ [04-06. OLTP срещу OLAP и Data Warehouses](04-06-OLTP-vs-OLAP-And-Data-Warehouses.md) | 📂 [04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) 
 
 © 2026 Dev-Library / Бази данни: EF Core Релации, ModelBuilder и Joins
 

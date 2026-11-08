@@ -1,4 +1,4 @@
-⬅️ [04-01. Индекси и Execution Plans](04-01-Indices-And-Execution-Plans.md) | 📂 [Глава 04](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-03. Транзакции, ACID и Isolation Levels](04-03-Transactions-ACID-And-Isolation-Levels.md)
+⬅️ [04-01. Индекси и Execution Plans](04-01-Indices-And-Execution-Plans.md) | 📂 [04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-03. Транзакции, ACID и Isolation Levels](04-03-Transactions-ACID-And-Isolation-Levels.md)
 
 ---
 
@@ -143,6 +143,6 @@ var orders = await _db.Orders
   ```
 
 ---
-⬅️ [04-01. Индекси и Execution Plans](04-01-Indices-And-Execution-Plans.md) | 📂 [Глава 04](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-03. Транзакции, ACID и Isolation Levels](04-03-Transactions-ACID-And-Isolation-Levels.md)
+⬅️ [04-01. Индекси и Execution Plans](04-01-Indices-And-Execution-Plans.md) | 📂 [04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-03. Транзакции, ACID и Isolation Levels](04-03-Transactions-ACID-And-Isolation-Levels.md)
 
 © 2026 Dev-Library / Бази данни: Оптимизация на заявки и архитектура

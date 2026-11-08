@@ -1,4 +1,4 @@
-[⏪ 00-01. DBMS Architecture, Backups and Tools](00-01-DBMS-Architecture-Backups-And-Tools.md) | 📂 Глава 01 | [🏠 Начало (Библиотека БД)](README.md) | [⏩ 01-01. Логика и Ред на SELECT](01-01-SQL-Logic-And-Select-Order.md)
+[⏪ 00-01. DBMS Architecture, Backups and Tools](00-01-DBMS-Architecture-Backups-And-Tools.md) | 📂 Глава 01 | [🏠 Начало (Библиотека БД)](README.md) | [⏩ 01-01. Логика и Ред на SELECT](01-01-SQL-Logic-And-Select-Order.md) [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md)
 
 
 
@@ -114,6 +114,6 @@
 * 🧠 **[01-08. Специализирани Бази данни: Vector (AI), Search Engines и Graph / Time-Series](01-08-Specialized-Databases-Vector-Search-Graph.md)** — Търсене по смисъл (`pgvector`), Elasticsearch и Neo4j.
 
 ---
-[⏪ 00-01. DBMS Architecture, Backups and Tools](00-01-DBMS-Architecture-Backups-And-Tools.md) | 📂 Глава 01 | [🏠 Начало (Библиотека БД)](README.md) | [⏩ 01-01. Логика и Ред на SELECT](01-01-SQL-Logic-And-Select-Order.md)
+[⏪ 00-01. DBMS Architecture, Backups and Tools](00-01-DBMS-Architecture-Backups-And-Tools.md) | 📂 Глава 01 | [🏠 Начало (Библиотека БД)](README.md) | [⏩ 01-01. Логика и Ред на SELECT](01-01-SQL-Logic-And-Select-Order.md) [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md)
 ---
 © 2026 Dev-Library / Кратък справочник: Въведение в SQL и CRUD

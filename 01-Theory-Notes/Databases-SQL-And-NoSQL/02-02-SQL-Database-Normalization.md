@@ -1,4 +1,4 @@
-⬅️ [02-01. Връзки между таблици и Ограничения](02-01-SQL-Table-Relations-And-Constraints.md) | 🏠 [02-00. Начало на Модул 02](02-00-DATA-MODELING-OVERVIEW.md) | ➡️ [02-03. Моделиране в Document БД (MongoDB)](02-03-Document-DB-Modeling-MongoDB.md)
+⬅️ [02-01. Връзки между таблици и Ограничения](02-01-SQL-Table-Relations-And-Constraints.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | [🏠 Начало (README)](README.md) | ➡️ [02-03. Моделиране в Document БД (MongoDB)](02-03-Document-DB-Modeling-MongoDB.md)
 
 ---
 
@@ -143,6 +143,6 @@ CREATE TABLE Users (
 * **Как да избегнеш:** В практиката **3NF** (плюс целенасочена денормализация за исторически цени и кеширани броячи) е напълно достатъчна за 99% от системите.
 
 ---
-⬅️ [02-01. Връзки между таблици и Ограничения](02-01-SQL-Table-Relations-And-Constraints.md) | 🏠 [02-00. Начало на Модул 02](02-00-DATA-MODELING-OVERVIEW.md) | ➡️ [02-03. Моделиране в Document БД (MongoDB)](02-03-Document-DB-Modeling-MongoDB.md)
+⬅️ [02-01. Връзки между таблици и Ограничения](02-01-SQL-Table-Relations-And-Constraints.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | [🏠 Начало (README)](README.md) | ➡️ [02-03. Моделиране в Document БД (MongoDB)](02-03-Document-DB-Modeling-MongoDB.md)
 
 © 2026 Dev-Library / Бази данни: Нормализация и Денормализация

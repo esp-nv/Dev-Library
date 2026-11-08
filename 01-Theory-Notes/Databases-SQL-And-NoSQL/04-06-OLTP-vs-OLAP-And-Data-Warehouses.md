@@ -1,4 +1,4 @@
-⬅️ [04-05. C# Data Access (ADO.NET и Dapper)](04-05-CSharp-Data-Access-ADONET-Dapper-Intro.md) | 📂 [Глава 04](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ⏩ [00-03. Архитектура, Бекъпи и Инструменти](00-03-DBMS-Architecture-Backups-And-Tools.md)
+⬅️ [04-05. C# Data Access (ADO.NET и Dapper)](04-05-CSharp-Data-Access-ADONET-Dapper-Intro.md) | 📂 [04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ⏩ [00-03. Архитектура, Бекъпи и Инструменти](00-03-DBMS-Architecture-Backups-And-Tools.md)
 
 ---
 
@@ -113,6 +113,6 @@ ORDER BY WeekendRevenue DESC;
 * **Как да избегнеш:** Ползвай OLTP база (PostgreSQL / MS SQL) за приложението, а OLAP (Snowflake / BigQuery) — само за анализи и отчети.
 
 ---
-⬅️ [04-05. C# Data Access (ADO.NET и Dapper)](04-05-CSharp-Data-Access-ADONET-Dapper-Intro.md) | 📂 [Глава 04](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ⏩ [00-03. Архитектура, Бекъпи и Инструменти](00-03-DBMS-Architecture-Backups-And-Tools.md)
+⬅️ [04-05. C# Data Access (ADO.NET и Dapper)](04-05-CSharp-Data-Access-ADONET-Dapper-Intro.md) | 📂 [04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ⏩ [00-03. Архитектура, Бекъпи и Инструменти](00-03-DBMS-Architecture-Backups-And-Tools.md)
 
 © 2026 Dev-Library / Бази данни: OLTP срещу OLAP и Data Warehouses

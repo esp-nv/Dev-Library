@@ -1,4 +1,4 @@
-⬅️ [04-03. Транзакции и ACID](04-03-Transactions-ACID-And-Isolation-Levels.md) | 📂 [Глава 04](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-05. C# Data Access (ADO.NET и Dapper)](04-05-CSharp-Data-Access-ADONET-Dapper-Intro.md)
+⬅️ [04-03. Транзакции и ACID](04-03-Transactions-ACID-And-Isolation-Levels.md) | 📂 [04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-05. C# Data Access (ADO.NET и Dapper)](04-05-CSharp-Data-Access-ADONET-Dapper-Intro.md)
 
 ---
 
@@ -184,7 +184,7 @@ END;
 * **Как да избегнеш:** Използвай тригери **единствено за одит логове (`AuditLogs`)** или критична защита на данни; дръж бизнес логиката в C# сървисите или в ясни `Stored Procedures`.
 
 ---
-⬅️ [04-03. Транзакции и ACID](04-03-Transactions-ACID-And-Isolation-Levels.md) | 📂 [Глава 04](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-05. C# Data Access (ADO.NET и Dapper)](04-05-CSharp-Data-Access-ADONET-Dapper-Intro.md)
+⬅️ [04-03. Транзакции и ACID](04-03-Transactions-ACID-And-Isolation-Levels.md) | 📂 [04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-05. C# Data Access (ADO.NET и Dapper)](04-05-CSharp-Data-Access-ADONET-Dapper-Intro.md)
 
 ---
 © 2026 Dev-Library / Бази данни: Views, Functions, Procedures и Triggers

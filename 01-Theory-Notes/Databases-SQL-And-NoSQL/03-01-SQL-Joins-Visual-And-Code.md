@@ -1,4 +1,4 @@
-📂 [Глава 03](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [03-02. Subqueries и CTE](03-02-SQL-Subqueries-And-CTEs.md)
+📂 [03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и Функции](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [03-02. Subqueries и CTE](03-02-SQL-Subqueries-And-CTEs.md)
 
 ---
 
@@ -138,6 +138,6 @@ ORDER BY s.FullName ASC;
 * **Как да избегнеш:** Никога не сумирай директно при два паралелни `1:Many` клона — групирай предварително в `CTE` или `Subquery` преди да направиш `JOIN`.
 
 ---
-📂 [Глава 03](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [03-02. Subqueries и CTE](03-02-SQL-Subqueries-And-CTEs.md)
+📂 [03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и Функции](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [03-02. Subqueries и CTE](03-02-SQL-Subqueries-And-CTEs.md)
 
 © 2026 Dev-Library / Бази данни: SQL Joins

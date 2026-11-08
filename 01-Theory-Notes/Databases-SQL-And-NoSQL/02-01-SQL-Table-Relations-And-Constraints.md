@@ -1,4 +1,5 @@
-⬅️ [02-00. Начало на Модул 02](02-00-DATA-MODELING-OVERVIEW.md) | 🏠 [01-00. Основи и CRUD](01-00-SQL-INTRO-AND-CRUD.md) | ➡️ [02-02. Нормализация на БД](02-02-SQL-Database-Normalization.md)
+[⬅️ 02-00. Моделиране Overview](02-00-DATA-MODELING-OVERVIEW.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | [🏠 Начало (README)](README.md) | [➡️ 02-02. Нормализация](02-02-SQL-Database-Normalization.md)
+
 
 ---
 
@@ -158,6 +159,6 @@ CREATE TABLE Comments (
 * **Как да избегнеш:** Сложи `ON DELETE CASCADE` само на единия път, а на другия остави `ON DELETE NO ACTION` (или ползвай Soft Delete `IsDeleted = 1`).
 
 ---
-⬅️ [02-00. Начало на Модул 02](02-00-DATA-MODELING-OVERVIEW.md) | 🏠 [01-00. Основи и CRUD](01-00-SQL-INTRO-AND-CRUD.md) | ➡️ [02-02. Нормализация на БД](02-02-SQL-Database-Normalization.md)
+[⬅️ 02-00. Моделиране Overview](02-00-DATA-MODELING-OVERVIEW.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | [🏠 Начало (README)](README.md) | [➡️ 02-02. Нормализация](02-02-SQL-Database-Normalization.md)
 
 © 2026 Dev-Library / Бази данни: Връзки между таблици и Ограничения

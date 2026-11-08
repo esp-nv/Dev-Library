@@ -1,4 +1,5 @@
-⏪ [Глава 02. Моделиране на данни](02-00-DATA-MODELING-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [03-01. SQL Joins](03-01-SQL-Joins-Visual-And-Code.md) | ⏩ [Глава 04. Производителност и Програмируемост](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md)
+[⏪ Предишна глава (Модул 02)](02-05-Graph-TimeSeries-Vector-Modeling.md) | 📂 Глава 03 | [🏠 Начало (README)](README.md) | [➡️ 03-01. Joins](03-01-SQL-Joins.md) 📂 [Глава 04](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md)
+
 
 ---
 
@@ -48,6 +49,6 @@
 * **[03-04. Вградени функции и Сет оператори](03-04-SQL-BuiltIn-Functions-And-Set-Operators.md)** — Функции за текст и дати, `CASE WHEN`, `COALESCE`, `NULLIF` и сет оператори (`UNION`, `UNION ALL`, `INTERSECT`, `EXCEPT`).
 
 ---
-⏪ [Глава 02. Моделиране на данни](02-00-DATA-MODELING-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [03-01. SQL Joins](03-01-SQL-Joins-Visual-And-Code.md) | ⏩ [Глава 04. Производителност и Програмируемост](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md)
+[⏪ Предишна глава (Модул 02)](02-05-Graph-TimeSeries-Vector-Modeling.md) | 📂 Глава 03 | [🏠 Начало (README)](README.md) | [➡️ 03-01. Joins](03-01-SQL-Joins.md) 📂 [Глава 04](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md)
 
 © 2026 Dev-Library / Бази данни: Дълбок SQL

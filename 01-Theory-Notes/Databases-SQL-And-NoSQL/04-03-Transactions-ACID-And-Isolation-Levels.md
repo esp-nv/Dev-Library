@@ -1,4 +1,4 @@
-⬅️ [04-02. Оптимизация на заявки и архитектура](04-02-SQL-Query-And-Architecture-Optimization.md) | 📂 [Глава 04](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-04. Views, Functions, Procedures и Triggers](04-04-Views-Functions-Procedures-Triggers.md)
+⬅️ [04-02. Оптимизация на заявки и архитектура](04-02-SQL-Query-And-Architecture-Optimization.md) | 📂 [04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-04. Views, Functions, Procedures и Triggers](04-04-Views-Functions-Procedures-Triggers.md)
 
 ---
 
@@ -166,10 +166,11 @@ catch
           sqlOptions.EnableRetryOnFailure(maxRetryCount: 3)));
   ```
 
----
-⬅️ [04-02. Оптимизация на заявки и архитектура](04-02-SQL-Query-And-Architecture-Optimization.md) | 📂 [Глава 04](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-04. Views, Functions, Procedures и Triggers](04-04-Views-Functions-Procedures-Triggers.md)
-
-© 2026 Dev-Library / Бази данни: Транзакции, ACID и Нива на изолация
 
 ### Грешка 3: Липса на Retry логика в C# при Deadlock
 * **Какво се случва:** Дори в най-добре написаните системи понякога се случва рядък Deadlock (Error 1205). Ако C# кодът не го прихване, потребителят вижда екран с грешка `500 Internal Server Error`.
+
+---
+⬅️ [04-02. Оптимизация на заявки и архитектура](04-02-SQL-Query-And-Architecture-Optimization.md) | 📂 [04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-04. Views, Functions, Procedures и Triggers](04-04-Views-Functions-Procedures-Triggers.md)
+
+© 2026 Dev-Library / Бази данни: Транзакции, ACID и Нива на изолация

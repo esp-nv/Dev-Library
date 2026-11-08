@@ -1,4 +1,4 @@
-⬅️ [03-02. Subqueries и CTE](03-02-SQL-Subqueries-And-CTEs.md) | 📂 [Глава 03](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [03-04. Вградени функции и Сет оператори](03-04-SQL-BuiltIn-Functions-And-Set-Operators.md)
+⬅️ [03-02. Subqueries и CTE](03-02-SQL-Subqueries-And-CTEs.md) | 📂 [03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и Функции](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md)  | ➡️ [03-04. Вградени функции и Сет оператори](03-04-SQL-BuiltIn-Functions-And-Set-Operators.md)
 
 ---
 
@@ -156,6 +156,6 @@ WHERE PriceRank <= 2; -- Филтрираме прозоречната функ�
 * **Как да избегнеш:** Винаги указвай ясен `ORDER BY` критерий вътре в скобите на `OVER (...)` (и добавяй `Id` накрая като tie-breaker, напр. `ORDER BY Price DESC, Id ASC`, за детерминиран резултат).
 
 ---
-⬅️ [03-02. Subqueries и CTE](03-02-SQL-Subqueries-And-CTEs.md) | 📂 [Глава 03](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [03-04. Вградени функции и Сет оператори](03-04-SQL-BuiltIn-Functions-And-Set-Operators.md)
+⬅️ [03-02. Subqueries и CTE](03-02-SQL-Subqueries-And-CTEs.md) | 📂 [03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и Функции](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md)  | ➡️ [03-04. Вградени функции и Сет оператори](03-04-SQL-BuiltIn-Functions-And-Set-Operators.md)
 
 © 2026 Dev-Library / Бази данни: Групиране, Агрегации и Window Functions

@@ -1,4 +1,4 @@
-⬅️ [02-03. Моделиране в Document БД (MongoDB)](02-03-Document-DB-Modeling-MongoDB.md) | 🏠 [02-00. Начало на Модул 02](02-00-DATA-MODELING-OVERVIEW.md) | ➡️ [02-05. Моделиране в Graph, Time-Series и Vector БД](02-05-Graph-TimeSeries-Vector-Modeling.md)
+⬅️ [02-03. Моделиране в Document БД (MongoDB)](02-03-Document-DB-Modeling-MongoDB.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | [🏠 Начало (README)](README.md) | ➡️ [02-05. Моделиране в Graph, Time-Series и Vector БД](02-05-Graph-TimeSeries-Vector-Modeling.md)
 
 ---
 
@@ -148,6 +148,6 @@ LIMIT 50;
 * **Как да избегнеш:** Никога не ползвай `ALLOW FILTERING` в продукция — направи нова денормализирана таблица `orders_by_status`, чийто Partition Key е `status` (или `(status, order_date)`).
 
 ---
-⬅️ [02-03. Моделиране в Document БД (MongoDB)](02-03-Document-DB-Modeling-MongoDB.md) | 🏠 [02-00. Начало на Модул 02](02-00-DATA-MODELING-OVERVIEW.md) | ➡️ [02-05. Моделиране в Graph, Time-Series и Vector БД](02-05-Graph-TimeSeries-Vector-Modeling.md)
+⬅️ [02-03. Моделиране в Document БД (MongoDB)](02-03-Document-DB-Modeling-MongoDB.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | [🏠 Начало (README)](README.md) | ➡️ [02-05. Моделиране в Graph, Time-Series и Vector БД](02-05-Graph-TimeSeries-Vector-Modeling.md)
 
 © 2026 Dev-Library / Бази данни: Моделиране в Redis и Cassandra

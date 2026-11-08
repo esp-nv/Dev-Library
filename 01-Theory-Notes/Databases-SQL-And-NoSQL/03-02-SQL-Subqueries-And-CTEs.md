@@ -1,4 +1,4 @@
-⬅️ [03-01. SQL Joins](03-01-SQL-Joins-Visual-And-Code.md) | 📂 [Глава 03](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [03-03. Групиране, Агрегации и Window Functions](03-03-SQL-Grouping-Aggregations-Window-Functions.md)
+⬅️ [03-01. SQL Joins](03-01-SQL-Joins-Visual-And-Code.md) | 📂 [03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и Функции](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md)  | ➡️ [03-03. Групиране, Агрегации и Window Functions](03-03-SQL-Grouping-Aggregations-Window-Functions.md)
 
 ---
 
@@ -165,6 +165,6 @@ ORDER BY FullPath;
 * **Как да избегнеш:** Валидирай данните при запис, за да няма цикли, и при нужда контролирай дълбочината с `OPTION (MAXRECURSION 50)` в MS SQL.
 
 ---
-⬅️ [03-01. SQL Joins](03-01-SQL-Joins-Visual-And-Code.md) | 📂 [Глава 03](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [03-03. Групиране, Агрегации и Window Functions](03-03-SQL-Grouping-Aggregations-Window-Functions.md)
+⬅️ [03-01. SQL Joins](03-01-SQL-Joins-Visual-And-Code.md) | 📂 [03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и Функции](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md)  | ➡️ [03-03. Групиране, Агрегации и Window Functions](03-03-SQL-Grouping-Aggregations-Window-Functions.md)
 
 © 2026 Dev-Library / Бази данни: Subqueries и CTE
