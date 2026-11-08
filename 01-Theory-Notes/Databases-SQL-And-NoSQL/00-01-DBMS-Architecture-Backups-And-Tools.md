@@ -10,7 +10,7 @@
 * [1. Системните бази данни в MS SQL Server и PostgreSQL](#1-системните-бази-данни-в-ms-sql-server-и-postgresql)
 * [2. Ежедневни инструменти и стартиране в Docker](#2-ежедневни-инструменти-и-стартиране-в-docker)
 * [3. Бекъпи и Възстановяване (Backup & Restore)](#3-бекъпи-и-възстановяване-backup--restore)
-* [4. Миграции и Пренос на схеми и данни (Generate Scripts vs EF Migrations)](#4-миграции-и-пренос-на-схеми-и-данни-generate-scripts-vs-ef-migrations)
+* [4. Миграции и Пренос на схеми и данни (Generate Scripts vs EF Migrations)](#4-миграции-и-пренос-на-схеми-и-данни)
 * [5. Чести грешки, Капани и Как да ги избегнем](#5-чести-грешки-капани-и-как-да-ги-избегнем)
 
 ---
@@ -95,6 +95,33 @@ pg_restore -U postgres -d ShopDb_New -c shopdb_backup.dump
    * Десен клик върху базата ➔ *Tasks ➔ Generate Scripts* ➔ можеш да избереш *Schema Only* (само `CREATE TABLE`) или *Schema and Data* (таблиците + `INSERT` заявките за данните). Използва се за прехвърляне на малки бази или учебни проекти.
 3. **Database-First / DACPAC (SQL Server Data Tools):**
    * Сравнява две бази (*Schema Compare*) и автоматично генерира `ALTER TABLE` скрипт за синхронизация.
+
+ **МИГРАЦИИ И ПРЕНОС НА СХЕМИ И ДАННИ (PMC, .NET CLI И SQL СКРИПТОВЕ)**
+
+В реалната практика с C# и бази данни има **4 основни начина** за създаване, промяна и пренос на схемата между компютъра на разработчика и сървъра:
+
+### А. Сравнение на командите в Visual Studio (Package Manager Console) срещу .NET CLI (Терминал)
+
+| Действие | Visual Studio (NuGet / Package Manager Console) | Терминал / VS Code / Mac / Linux (.NET CLI) | Какво прави? |
+| :--- | :--- | :--- | :--- |
+| **Създаване на миграция** | `Add-Migration InitialCreate` | `dotnet ef migrations add InitialCreate` | Сравнява C# класовете със стария модел и генерира файл с промените. |
+| **Прилагане към базата** | `Update-Database` | `dotnet ef database update` | Изпълнява чакащите миграции върху реалната SQL база. |
+| **Връщане към стара версия** | `Update-Database PreviousMigrationName` | `dotnet ef database update PreviousMigrationName` | Изпълнява метода `Down()` и връща базата в предишното състояние. |
+| **Изтриване на последната** | `Remove-Migration` | `dotnet ef migrations remove` | Изтрива последната миграция (само ако **още не е** приложена в БД!). |
+| **SQL скрипт за продукция** | `Script-Migration -Idempotent` | `dotnet ef migrations script --idempotent` | Генерира чист `.sql` файл с `IF NOT EXISTS` проверки за DBA администратора. |
+| **Database-First (Reverse Engineer)** | `Scaffold-DbContext "Server=..." Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models` | `dotnet ef dbcontext scaffold "Server=..." Microsoft.EntityFrameworkCore.SqlServer -o Models` | Генерира C# Entity класове и `DbContext` от **вече съществуваща** SQL база! |
+
+> **Важно за Package Manager Console (PMC) във Visual Studio:**
+> * Изисква инсталиран NuGet пакет **`Microsoft.EntityFrameworkCore.Tools`**.
+> * Ако в Solution-а имаш няколко проекта (напр. `WebApi`, `Data`, `Services`), в падащото меню **Default project** горе в конзолата **задължително избери проекта, в който се намира `DbContext`** (иначе ще получиш грешка *No DbContext was found*).
+
+### Б. Алтернативни начини без EF Core (Database-First и DevOps инструменти)
+1. **Generate Scripts (в SSMS):**
+   * Десен клик върху базата ➔ *Tasks ➔ Generate Scripts* ➔ можеш да избереш *Schema Only* (само `CREATE TABLE`) или *Schema and Data* (таблиците + `INSERT` заявките за данните). Използва се за прехвърляне на малки бази или учебни проекти.
+2. **DACPAC / Schema Compare (Visual Studio SQL Server Data Tools):**
+   * Сравнява две бази данни визуално и автоматично генерира `ALTER TABLE` скрипт за синхронизация.
+3. **Migration-Based SQL инструменти (`FluentMigrator`, `DbUp`, `Flyway`, `Liquibase`):**
+   * Използват се в големи екипи (или с **Dapper**), където разработчиците пишат чисти `.sql` файлове (`001_CreateUsers.sql`, `002_AddOrders.sql`), а библиотеката пази таблица с историята на изпълнените скриптове.
 
 ---
 
