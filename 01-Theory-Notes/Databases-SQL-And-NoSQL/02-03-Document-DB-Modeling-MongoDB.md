@@ -1,4 +1,4 @@
-⬅️ [02-02. Нормализация на БД](02-02-SQL-Database-Normalization.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | [🏠 Начало (README)](README.md) | ➡️ [02-04. Моделиране в Key-Value и Wide-Column (Redis & Cassandra)](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md)
+⬅️ [02-02. Нормализация на БД](02-02-SQL-Database-Normalization.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [02-04. Моделиране в Key-Value и Wide-Column (Redis & Cassandra)](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md)
 
 ---
 
@@ -133,6 +133,6 @@ public record OrderItemSubDoc(string ProductName, int Quantity, decimal UnitPric
 * **Как да избегнеш:** Винаги слагай индекс върху полетата, по които правиш `Find()` или `Sort()`.
 
 ---
-⬅️ [02-02. Нормализация на БД](02-02-SQL-Database-Normalization.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | [🏠 Начало (README)](README.md) | ➡️ [02-04. Моделиране в Key-Value и Wide-Column (Redis & Cassandra)](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md)
+⬅️ [02-02. Нормализация на БД](02-02-SQL-Database-Normalization.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [02-04. Моделиране в Key-Value и Wide-Column (Redis & Cassandra)](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md)
 
 © 2026 Dev-Library / Бази данни: Моделиране в MongoDB

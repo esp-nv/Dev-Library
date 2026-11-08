@@ -1,4 +1,4 @@
-⬅️ [01-06. Формати: JSON и XML](01-06-Data-Formats-JSON-And-XML.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | [🏠 Начало (README)](README.md) | ➡️ [01-08. Специализирани БД (Vector, Search, Graph)](01-08-Specialized-Databases-Vector-Search-Graph.md)
+⬅️ [01-06. Формати: JSON и XML](01-06-Data-Formats-JSON-And-XML.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) |🏠 [Библиотека БД](README.md)  | ➡️ [01-08. Специализирани БД (Vector, Search, Graph)](01-08-Specialized-Databases-Vector-Search-Graph.md)
 
 ---
 
@@ -86,6 +86,6 @@ query {
    * Централният бизнес софтуер на фирмата. Когато клиент купи стока от уеб сайта (написан на C# + SQL), бекендът изпраща JSON/XML съобщение към **SAP**, за да се извади стоката от склада и да се издаде счетоводна фактура.
 
 ---
-⬅️ [01-06. Формати: JSON и XML](01-06-Data-Formats-JSON-And-XML.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | [🏠 Начало (README)](README.md) | ➡️ [01-08. Специализирани БД (Vector, Search, Graph)](01-08-Specialized-Databases-Vector-Search-Graph.md)
+⬅️ [01-06. Формати: JSON и XML](01-06-Data-Formats-JSON-And-XML.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [01-08. Специализирани БД (Vector, Search, Graph)](01-08-Specialized-Databases-Vector-Search-Graph.md)
 
 © 2026 Dev-Library / Бази данни: Съседи в архитектурата

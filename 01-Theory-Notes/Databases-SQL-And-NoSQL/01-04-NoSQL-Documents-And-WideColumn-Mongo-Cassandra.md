@@ -1,4 +1,4 @@
-⬅️ [01-03. Релационни диалекти](01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | [🏠 Начало (README)](README.md) | ➡️ [01-05. NoSQL: Redis Cache](01-05-NoSQL-InMemory-Cache-Redis.md)
+⬅️ [01-03. Релационни диалекти](01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [01-05. NoSQL: Redis Cache](01-05-NoSQL-InMemory-Cache-Redis.md)
 
 ---
 
@@ -150,6 +150,6 @@ LIMIT 20;
 | **Главен капан** | В `updateOne` ако забравиш **`$set`**, MongoDB **презаписва целия документ** и изтрива останалите му полета! | Не можеш да правиш `WHERE` по произволна колона, ако тя не е част от `PRIMARY KEY`. |
 
 ---
-⬅️ [01-03. Релационни диалекти](01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md) |[📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | [🏠 Начало (README)](README.md) | ➡️ [01-05. NoSQL: Redis Cache](01-05-NoSQL-InMemory-Cache-Redis.md)
+⬅️ [01-03. Релационни диалекти](01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md) |[📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [01-05. NoSQL: Redis Cache](01-05-NoSQL-InMemory-Cache-Redis.md)
 
 © 2026 Dev-Library / Бази данни: MongoDB и Cassandra

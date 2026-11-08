@@ -1,4 +1,4 @@
-⬅️ [01-07. Съседи на БД (RabbitMQ, Kafka, GraphQL, AD, SAP)](01-07-Architecture-Neighbors-RabbitMQ-Kafka-GraphQL-Enterprise.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | [🏠 Начало (README)](README.md) | ➡️ [02-01. Връзки между таблици](02-01-Table-Relations-And-Constraints.md)
+⬅️ [01-07. Съседи на БД (RabbitMQ, Kafka, GraphQL, AD, SAP)](01-07-Architecture-Neighbors-RabbitMQ-Kafka-GraphQL-Enterprise.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [02-01. Връзки между таблици](02-01-Table-Relations-And-Constraints.md)
 
 ---
 
@@ -99,6 +99,6 @@ RETURN fof.name;
 * **Time-Series** базите автоматично разделят данните на времеви парчета (**Chunks** — напр. по 1 ден), компресират старите данни с до 90% и изчисляват средни стойности по минути/часове за милисекунди.
 
 ---
-⬅️ [01-07. Съседи на БД (RabbitMQ, Kafka, GraphQL, AD, SAP)](01-07-Architecture-Neighbors-RabbitMQ-Kafka-GraphQL-Enterprise.md) | 🏠 [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | [🏠 Начало (README)](README.md) | ➡️ [02-01. Връзки между таблици](02-01-Table-Relations-And-Constraints.md)
+⬅️ [01-07. Съседи на БД (RabbitMQ, Kafka, GraphQL, AD, SAP)](01-07-Architecture-Neighbors-RabbitMQ-Kafka-GraphQL-Enterprise.md) | 🏠 [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [02-01. Връзки между таблици](02-01-Table-Relations-And-Constraints.md)
 
 © 2026 Dev-Library / Бази данни: Специализирани бази (Vector, Search, Graph)

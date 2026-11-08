@@ -1,4 +1,4 @@
-⬅️ [02-04. Моделиране в Key-Value и Wide-Column (Redis & Cassandra)](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | [🏠 Начало (README)](README.md) | ➡️ [03-00. Начало на Модул 03 (SQL Заявки)](03-00-SQL-QUERIES-OVERVIEW.md)
+⬅️ [02-04. Моделиране в Key-Value и Wide-Column (Redis & Cassandra)](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [03-00. Начало на Модул 03 (SQL Заявки)](03-00-SQL-QUERIES-OVERVIEW.md)
 
 ---
 
@@ -117,6 +117,6 @@ LIMIT 3;
 * **Как да избегнеш:** Винаги моделирай векторните записи с **Metadata колони** (`allowed_roles`, `tenant_id`, `user_id`) и задължително прилагай `WHERE` филтър преди векторното сравнение.
 
 ---
-⬅️ [02-04. Моделиране в Key-Value и Wide-Column (Redis & Cassandra)](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | [🏠 Начало (README)](README.md) | ➡️ [03-00. Начало на Модул 03 (SQL Заявки)](03-00-SQL-QUERIES-OVERVIEW.md)
+⬅️ [02-04. Моделиране в Key-Value и Wide-Column (Redis & Cassandra)](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [03-00. Начало на Модул 03 (SQL Заявки)](03-00-SQL-QUERIES-OVERVIEW.md)
 
 © 2026 Dev-Library / Бази данни: Graph, Time-Series и Vector моделиране
