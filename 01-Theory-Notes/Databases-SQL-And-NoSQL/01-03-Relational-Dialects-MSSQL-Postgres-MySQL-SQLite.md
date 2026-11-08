@@ -1,4 +1,4 @@
-⬅️ [01-02. Типове данни и Памет](01-02-SQL-Data-Types-Memory-And-CSharp.md) | 🏠 [01-00. Начало (Основи и CRUD)](01-00-SQL-INTRO-AND-CRUD.md) | ➡️ [01-04. NoSQL: MongoDB](01-04-NoSQL-Documents-MongoDB.md)
+⬅️ [01-02. Типове данни и Памет](01-02-SQL-Data-Types-Memory-And-CSharp.md) | [📂 Глава 01-00-SQL-INTRO-AND-CRUD](01-00-SQL-INTRO-AND-CRUD.md) |  [🏠 Начало (README)](README.md) | ➡️ [01-04. NoSQL: MongoDB](01-04-NoSQL-Documents-MongoDB.md)
 
 ---
 
@@ -123,6 +123,6 @@ LIMIT 5 OFFSET 0;
 4. **SQLite няма строги типове (Dynamic Typing) и `DECIMAL`:** SQLite съхранява числата с десетична запетая като 64-битов `REAL` (`FLOAT`), което не е подходящо за тежки финансови сметки, а `ALTER TABLE` има силно ограничени възможности (не можеш лесно да променяш тип на съществуваща колона).
 
 ---
-⬅️ [01-02. Типове данни и Памет](01-02-SQL-Data-Types-Memory-And-CSharp.md) | 🏠 [01-00. Начало (Основи и CRUD)](01-00-SQL-INTRO-AND-CRUD.md) | ➡️ [01-04. NoSQL: MongoDB](01-04-NoSQL-Documents-MongoDB.md)
+⬅️ [01-02. Типове данни и Памет](01-02-SQL-Data-Types-Memory-And-CSharp.md) | [📂 Глава 01-00-SQL-INTRO-AND-CRUD](01-00-SQL-INTRO-AND-CRUD.md) | [🏠 Начало (README)](README.md)  | ➡️ [01-04. NoSQL: MongoDB](01-04-NoSQL-Documents-MongoDB.md)
 
 © 2026 Dev-Library / Бази данни: Релационни диалекти
