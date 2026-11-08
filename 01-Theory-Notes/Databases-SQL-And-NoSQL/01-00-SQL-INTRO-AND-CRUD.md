@@ -1,4 +1,6 @@
-🏠 [Към главната папка](README.md) | ➡️ [01-01. Логика и Ред на SELECT](01-01-SQL-Logic-And-Select-Order.md)
+[⏪ 00-01. DBMS Architecture, Backups and Tools](00-01-DBMS-Architecture-Backups-And-Tools.md) | 📂 Глава 01 | [🏠 Начало (Библиотека БД)](README.md) | [⏩ 01-01. Логика и Ред на SELECT](01-01-SQL-Logic-And-Select-Order.md)
+
+
 
 ---
 
@@ -111,5 +113,7 @@
 * 🧩 **[01-07. Съседи на Базата данни: RabbitMQ, Kafka, GraphQL, Mobile, AD и SAP](01-07-Architecture-Neighbors-RabbitMQ-Kafka-GraphQL-Enterprise.md)** — Опашки за съобщения, API протоколи, мобилни локални бази и корпоративни системи.
 * 🧠 **[01-08. Специализирани Бази данни: Vector (AI), Search Engines и Graph / Time-Series](01-08-Specialized-Databases-Vector-Search-Graph.md)** — Търсене по смисъл (`pgvector`), Elasticsearch и Neo4j.
 
+---
+[⏪ 00-01. DBMS Architecture, Backups and Tools](00-01-DBMS-Architecture-Backups-And-Tools.md) | 📂 Глава 01 | [🏠 Начало (Библиотека БД)](README.md) | [⏩ 01-01. Логика и Ред на SELECT](01-01-SQL-Logic-And-Select-Order.md)
 ---
 © 2026 Dev-Library / Кратък справочник: Въведение в SQL и CRUD
