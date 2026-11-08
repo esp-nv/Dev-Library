@@ -1,4 +1,4 @@
-🏠 [Начало (Библиотека БД)](../Databases-SQL-And-NoSQL/README.md) | ➡️ [01-02. Стек и Купчина](01-02-Stack-Vs-Heap-Memory-Deep-Dive.md)
+| 📂 [Глава 01-00. Архитектура на езиците и Управление на паметта (Кратък справочник)](01-00-ARCHITECTURE-AND-MEMORY-INTRO.md) | ➡️ [01-02. Стек и Купчина](01-02-Stack-Vs-Heap-Memory-Deep-Dive.md)
 
 ---
 
@@ -140,7 +140,8 @@ export interface OrderResponse {
 * *(Съвет: В EF Core с PostgreSQL инсталирай пакета `EFCore.NamingConventions` и добави `.UseSnakeCaseNamingConvention()`, за да не пишеш ръчно `[Column("first_name")]` навсякъде!)*
 
 ---
-🏠 [Начало (Библиотека БД)](../Databases-SQL-And-NoSQL/README.md) | ➡️ [01-02. Стек и Купчина](01-02-Stack-Vs-Heap-Memory-Deep-Dive.md)
+| 📂 [Глава 01-00. Архитектура на езиците и Управление на паметта (Кратък справочник)](01-00-ARCHITECTURE-AND-MEMORY-INTRO.md) |  ➡️ [01-02. Стек и Купчина](01-02-Stack-Vs-Heap-Memory-Deep-Dive.md)
+
 
 ---
 © 2026 Dev-Library / Full-Stack & Multi-Language Архитектурна карта
