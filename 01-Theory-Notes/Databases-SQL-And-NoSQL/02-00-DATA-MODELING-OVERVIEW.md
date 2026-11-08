@@ -1,4 +1,4 @@
-[⏪ Предишна глава (Модул 01)](01-08-Specialized-Databases-Vector-Search-Graph.md) | 📂 Глава 02 | [🏠 Начало (README)](README.md) | [➡️ 02-01. Връзки и Ограничения](02-01-SQL-Table-Relations-And-Constraints.md) 📂 [Глава 03](03-00-SQL-QUERIES-OVERVIEW.md)
+[⏪ Предишна глава (Модул 01)](01-08-Specialized-Databases-Vector-Search-Graph.md) | 📂 Глава 02 | [🏠 Начало (README)](README.md) | [➡️ 02-01. Връзки и Ограничения](02-01-SQL-Table-Relations-And-Constraints.md) 📂 [Глава 03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и Функции](03-00-SQL-QUERIES-OVERVIEW.md)
 
 
 ---
@@ -47,7 +47,7 @@
 * **[02-05. Моделиране в Graph, Time-Series и Vector (AI) Бази данни](02-05-Graph-TimeSeries-Vector-Modeling.md)** — Възли и връзки в Neo4j, Hypertables в TimescaleDB и Chunking + Metadata за AI векторно търсене.
 
 ---
-[⏪ Предишна глава (Модул 01)](01-08-Specialized-Databases-Vector-Search-Graph.md) | 📂 Глава 02 | [🏠 Начало (README)](README.md) | [➡️ 02-01. Връзки и Ограничения](02-01-SQL-Table-Relations-And-Constraints.md) 📂 [Глава 03](03-00-SQL-QUERIES-OVERVIEW.md)
+[⏪ Предишна глава (Модул 01)](01-08-Specialized-Databases-Vector-Search-Graph.md) | 📂 Глава 02 | [🏠 Начало (README)](README.md) | [➡️ 02-01. Връзки и Ограничения](02-01-SQL-Table-Relations-And-Constraints.md) 📂 [Глава 03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и Функции]](03-00-SQL-QUERIES-OVERVIEW.md)
 
 
 © 2026 Dev-Library / Бази данни: Проектиране и Моделиране
