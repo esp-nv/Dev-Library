@@ -19,6 +19,8 @@
     *   *Обхваща:* Сглобяване на заявки в Postman, JSON Payload, справяне с грешка `415 Unsupported Media Type`, заобикаляне на SSL и работа с DevTools десните прозорци (Styles, Computed Box Model, Layout).
 *   **[00-04. State Management и Асинхронна обработка (Asynchronous Processing)](00-04-State-Management-And-Asynchronous-Processing.md)**
     *   *Обхваща:* Изграждане на изкуствена памет през HTTP Cookies и Session в C#, мениджмънт на Thread Pool под Kestrel и избягване на фатални Deadlocks.
+*   **[00-06. Глобален уеб справочник за HTTP статус кодове в ASP.NET Core](00-06-HTTP-Status-Codes-Full-Reference.md)**
+    *   *Обхваща:* Справочник за петте цифрови стотици (1xx-5xx), С# константи, обработка на форми, избягване на грешка 415 и правилно извикване през `StatusCodes`.
 
 ### 🔹 Глава 01: ASP.NET Core Fundamentals (Основи & MVC Архитектура)
 *   **[01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)**
