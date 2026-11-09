@@ -53,6 +53,15 @@
 *   **[02-04. ASP.NET Core Advanced (Глобален Напреднал Пищов)](02-04-ASP-NET-Core-Advanced-CheatSheet.md)** — Пълен синтактичен пищов за Senior интервюта и бързи архитектурни конфигурации.
 *   **[02-05. Архитектурен контраст: Razor Pages срещу ASP.NET Core MVC](02-05-Razor-Pages-Vs-MVC-Architectural-Contrast.md)** —  Дълбоко софтуерно съпоставяне на двата основни модела за разработка на потребителски интерфейс на сървърно ниво — класическата трислойна MVC структура срещу модерната страница-ориентирана MVVM архитектура (Razor Pages), критерии за избор, реални кодове и управление на грешки.
 *   **[02-06. Глобална Софтуерна Сигурност](02-06-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md)** —  Изучаване на шаблона Repository за декуплиране на достъпа до данни от бизнес логиката, изграждане на мащабируем Generic Repository (`EfRepository<T>`) над Entity Framework Core и оптимизиране на паметта през изключване на проследяването
+* **[02-07. Глобална уеб сигурност: Защита от XSS, SQL Injection и CSRF](02-07-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md)**
+    *   *Обхваща:* Овладяване на трите най-критични софтуерни атаки срещу уеб приложенията (OWASP Top 10), разбиране на методите за автоматично неутрализиране на уязвимости и налагане на глобална филтрация през `AutoValidateAntiforgeryToken`.
+* **[02-08. Мрежов суверен достъп през CORS и Same-Origin Policy](02-08-Cross-Origin-Resource-Sharing-CORS-Infrastructure.md)**
+    *   *Обхваща:* Изучаване на браузърната сигурност, наложена от Same-Origin Policy (SOP), разясняване на механизма за крос-домейн достъп (CORS) и правилно конфигуриране на споделени корпоративни политики в ASP.NET Core Web APIs.
+* **[02-09. Автоматизирано тестване: Selenium WebDriver и MyTested.AspNetCore.Mvc](02-09-UI-Automation-Testing-Selenium-And-Fluent-Assertions.md)**
+    *   *Обхваща:* Изучаване на методите за автоматизиран качествен контрол (QA Automation), симулиране на реално потребителско поведение през виртуални браузърни двигатели със Selenium и писане на флуентни уеб асерции.
+* **[02-10. Оптимизация на SignalR чрез бинарна компресия с MessagePack](02-10-MessagePack-Binary-Serialization-In-SignalR.md)**
+    *   *Обхваща:* Изучаване на методите за компресиране на мрежовия товар (Payload) в системи за комуникация в реално време, замяна на стандартния текстов JSON протокол в SignalR с напредналия високопроизводителен бинарен формат MessagePack.
+
 
 ---
 [⏪ Глава 01-08. Глобален Пищов (Cheat-Sheet)](../ASP-NET-Core-Fundamentals/01-08-ASP-NET-Core-Fundamentals-CheatSheet.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-01. Custom Middleware и Филтри](02-01-Application-Flow-And-Custom-Middleware.md)
