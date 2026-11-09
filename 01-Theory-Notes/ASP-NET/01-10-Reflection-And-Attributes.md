@@ -1,4 +1,4 @@
-[⬅️ 01-09. Справочник по конфигурация](01-09-AutoMapper-Identity-Configuration-Guide.md) | 📂 Глава 01. ASP.NET Core Fundamentals | [🏠 Начало (ASP.NET)](README.md)
+[⬅️ 01-09. Справочник по конфигурация](01-09-AutoMapper-Identity-Configuration-Guide.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
 
 ---
 
@@ -219,6 +219,6 @@ public class CodingTracker
 *   **Как да го поправиш:** Винаги, когато търсиш скрита памет, комбинираш филтрите чрез побитов ИЛИ (`|`) оператор: `BindingFlags.Instance | BindingFlags.NonPublic`, за да укажеш точния достъп.
 
 ---
-[⬅️ 01-09. Справочник по конфигурация](01-09-AutoMapper-Identity-Configuration-Guide.md) | 📂 Глава 01. ASP.NET Core Fundamentals | [🏠 Начало (ASP.NET)](README.md)
+[⬅️ 01-09. Справочник по конфигурация](01-09-AutoMapper-Identity-Configuration-Guide.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
 ---
 © 2026 Dev-Library / Справочник: Reflection & Attributes Пищов
