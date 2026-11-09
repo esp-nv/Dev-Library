@@ -1,4 +1,4 @@
-[⬅️ 02-01. Custom Middleware и Филтри](02-01-Application-Flow-And-Custom-Middleware.md) | 📂 Глава 02. ASP.NET Core Advanced | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-03. Кеширане, Логване и Сигнали](02-03-Caching-Logging-And-Advanced-Topics.md)
+[⬅️ 02-01. Custom Middleware и Филтри](02-01-Application-Flow-And-Custom-Middleware.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-03. Кеширане, Логване и Сигнали](02-03-Caching-Logging-And-Advanced-Topics.md)
 
 ---
 
@@ -117,6 +117,6 @@ public class AssetApiController : ControllerBase
     ```
 
 ---
-[⬅️ 02-01. Custom Middleware и Филтри](02-01-Application-Flow-And-Custom-Middleware.md) | 📂 Глава 02. ASP.NET Core Advanced | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-03. Кеширане, Логване и Сигнали](02-03-Caching-Logging-And-Advanced-Topics.md)
+[⬅️ 02-01. Custom Middleware и Филтри](02-01-Application-Flow-And-Custom-Middleware.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-03. Кеширане, Логване и Сигнали](02-03-Caching-Logging-And-Advanced-Topics.md)
 
 © 2026 Dev-Library / ASP.NET Core Advanced: Web API и Нишки
