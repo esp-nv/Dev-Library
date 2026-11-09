@@ -31,13 +31,19 @@
 
 ## Детайлни подмодули към Глава 00
 
-*   **[00-01. Мрежови протоколи и HTTP Анатомия](00-01-Internet-Protocols-And-HTTP-Fundamentals.md)** — Разпределяне на пакети, IPv4/IPv6, DNS сървъри и транспортните среди TCP срещу UDP [00-01].
-*   **[00-02. Git и проектна документация: Най-добри практики](00-02-Git-And-Project-Documentation-Best-Practices.md)** — Атомарни коммити, правила за `.gitignore` изключения и 5-те задължителни стълба на README документацията [00-02].
-*   **[00-03. Тестване на уеб заявки и диагностика: Postman и Chrome DevTools](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md)** — Пълно практическо улавяне на JSON пакети, уеб портове и преглед на десните Styles/Computed/Layout прозорци [00-03].
-      *  📄 [Пълен диагностичен наръчник за Postman](00-Postman-API-Testing-Fundamentals.md)
-      *  📄 [Chrome Пълна DevTools Диагностика](00-Chrome-DevTools-Full-Diagnostic-Guide.md)    
-*   **[00-04. State Management и Асинхронна обработка (Asynchronous Processing)](00-04-State-Management-And-Asynchronous-Processing.md)** — Управление на състояния през Cookies и Sessions в C#, неблокиращи Kestrel нишки и избягване на Deadlocks [00-04].
-*   **[00-06. Глобален уеб справочник за HTTP статус кодове в ASP.NET Core](00-06-HTTP-Status-Codes-Full-Reference.md)**
+* **[00-00. Въведение в уеб технологиите и Git инженерна хигиена (Кратък справочник)](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md)**
+  *   *Обхваща:* Нуждата от разбиране на уеб инфраструктурата, безсъстоятелния (Stateless) проблем на HTTP и общия контрол на версиите.
+* **[00-01. Мрежови протоколи и HTTP Анатомия](00-01-Internet-Protocols-And-HTTP-Fundamentals.md)**
+    *   *Обхваща:* Пакетна комуникация, IPv4/IPv6, DNS сървъри, transport layers TCP срещу UDP, анатомия на URL и съпоставка на HTTP методите с CRUD.
+* **[00-02. Git и проектна документация: Най-добри практики](00-02-Git-And-Project-Documentation-Best-Practices.md)**
+    *   *Обхваща:* Разлики между Git и GitHub, атомарни коммити (Atomic Commits), правилна конфигурация на индустриален `.gitignore` за .NET и 5-те стълба на README.
+* **[00-03. Тестване на уеб заявки и диагностика: Postman и Chrome DevTools](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md)**
+    *   *Обхваща:* Сглобяване на заявки в Postman, JSON Payload, справяне с грешка `415 Unsupported Media Type`, заобикаляне на SSL и работа с DevTools десните прозорци (Styles, Computed Box Model, Layout).
+* **[00-04. State Management и Асинхронна обработка (Asynchronous Processing)](00-04-State-Management-And-Asynchronous-Processing.md)**
+    *   *Обхваща:* Изграждане на изкуствена памет през HTTP Cookies и Session в C#, мениджмънт на Thread Pool под Kestrel и избягване на фатални Deadlocks.
+* **[00-05. Архитектурни карти и софтуерни потоци на данни (Blueprints)](00-05-System-Architecture-And-Data-Flow-Blueprints.md)**
+    * *Обхваща:* Глобална визуална спецификация на уеб приложенията — енд-то-енд жизнени цикли, DI карти на RAM паметта, огледални Middleware конвейери и чертежи на софтуерните екосистеми.
+* **[00-06. Глобален уеб справочник за HTTP статус кодове в ASP.NET Core](00-06-HTTP-Status-Codes-Full-Reference.md)**
     *   *Обхваща:* Справочник за петте цифрови стотици (1xx-5xx), С# константи, обработка на форми, избягване на грешка 415 и правилно извикване през `StatusCodes`.
 
 ---
