@@ -86,7 +86,7 @@ Content-Type: application/json
                                              <── [Задължителен празен ред!]
 { "status": "success" }                      <── [Body: Върнати данни от C#]
 ```
-
+Това е линк за [00-06. Глобален уеб справочник за HTTP статус кодове в ASP.NET Core](00-06-HTTP-Status-Codes-Full-Reference.md)
 ---
 
 ## 4. ЕВОЛЮЦИЯ НА ПРОТОКОЛА: HTTP/1.1 СРЕЩУ HTTP/2 И HTTP/3
@@ -116,6 +116,9 @@ Content-Type: application/json
     IOException: Failed to bind to address https://127.0.0.1:5001: address already in use.
     ```
 *   **Как да го избегнеш:** Отвори файла `Properties/launchSettings.json` и промени цифрата на порта на напълно произволна свободна стойност (напр. `7214`).
+
+---
+Това е линк за [00-06. Глобален уеб справочник за HTTP статус кодове в ASP.NET Core](00-06-HTTP-Status-Codes-Full-Reference.md)
 
 ---
 [📂 Глава 00-00. Въведение в уеб технологиите и Git](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 00-02. Git и Документация](00-02-Git-And-Project-Documentation-Best-Practices.md)
