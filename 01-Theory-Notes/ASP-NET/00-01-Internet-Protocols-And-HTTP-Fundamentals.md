@@ -1,4 +1,4 @@
-📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) | [➡️ 00-02. Git и Документация](00-02-Git-And-Project-Documentation-Best-Practices.md)
+[📂 Глава 00-00. Въведение в уеб технологиите и Git](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 00-02. Git и Документация](00-02-Git-And-Project-Documentation-Best-Practices.md)
 
 ---
 
@@ -118,6 +118,7 @@ Content-Type: application/json
 *   **Как да го избегнеш:** Отвори файла `Properties/launchSettings.json` и промени цифрата на порта на напълно произволна свободна стойност (напр. `7214`).
 
 ---
-📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) | [➡️ 00-02. Git и Документация](00-02-Git-And-Project-Documentation-Best-Practices.md)
+[📂 Глава 00-00. Въведение в уеб технологиите и Git](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 00-02. Git и Документация](00-02-Git-And-Project-Documentation-Best-Practices.md)
+
 
 © 2026 Dev-Library / Мрежи и HTTP: Фундаменти
