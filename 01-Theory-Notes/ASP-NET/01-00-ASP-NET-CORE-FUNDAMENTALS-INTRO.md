@@ -1,4 +1,4 @@
-[⏪ Глава 00-00. Уводни технологии](00-01-Internet-Protocols-And-HTTP-Fundamentals.md) | 📂 Глава 01. ASP.NET Core Fundamentals | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-01. Еволюция Преди и Сега](01-01-ASP-NET-Framework-Vs-Core-Evolution-Deep-Dive.md)
+[⏪ Глава 00-00. Уводни технологии](00-01-Internet-Protocols-And-HTTP-Fundamentals.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-01. Еволюция Преди и Сега](01-01-ASP-NET-Framework-Vs-Core-Evolution-Deep-Dive.md) | [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
 
 ---
 
@@ -107,6 +107,6 @@ public class ProductsController : Controller
 *   **Как да го поправиш:** Промени уеб низа на единия от двата метода, за да бъде напълно уникален (напр. `/api/products/new`).
 
 ---
-[⏪ Глава 00-00. Уводни технологии](00-01-Internet-Protocols-And-HTTP-Fundamentals.md) | 📂 Глава 01. ASP.NET Core Fundamentals | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-01. Еволюция Преди и Сега](01-01-ASP-NET-Framework-Vs-Core-Evolution-Deep-Dive.md)
+[⏪ 📂 Глава 00-00. Уводни технологии](00-01-Internet-Protocols-And-HTTP-Fundamentals.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-01. Еволюция Преди и Сега](01-01-ASP-NET-Framework-Vs-Core-Evolution-Deep-Dive.md) | [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
 
 © 2026 Dev-Library / ASP.NET Core: Fundamentals Overview
