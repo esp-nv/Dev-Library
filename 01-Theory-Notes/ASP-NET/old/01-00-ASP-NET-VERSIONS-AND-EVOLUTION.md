@@ -1,4 +1,4 @@
-📂 Глава 01. Еволюция и Архитектура на ASP.NET | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-01. Жизнен цикъл и Middleware](01-01-ASP-NET-Core-Lifecycle-And-Middleware.md)
+📂 Глава 01. Еволюция и Архитектура на ASP.NET | [🏠 Начало (ASP.NET)](README.md) 
 
 ---
 
@@ -56,6 +56,6 @@
 *   **[01-01. Жизнен цикъл и Middleware компоненти](01-01-ASP-NET-Core-Lifecycle-And-Middleware.md)** — Как пътува HTTP заявката през тръбопровода (Pipeline) и как се изгражда софтуерният поток.
 
 ---
-📂 Глава 01. Еволюция и Архитектура на ASP.NET | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-01. Жизнен цикъл и Middleware](01-01-ASP-NET-Core-Lifecycle-And-Middleware.md)
+📂 Глава 01. Еволюция и Архитектура на ASP.NET | [🏠 Начало (ASP.NET)](README.md) 
 
 © 2026 Dev-Library / ASP.NET Версии: Кратък справочник
