@@ -1,4 +1,4 @@
-[⬅️ 01-08. Глобален Пищов](01-08-ASP-NET-Core-Fundamentals-CheatSheet.md) | 📂 Глава 01. ASP.NET Core Fundamentals | [🏠 Начало (ASP.NET)](README.md)
+[⬅️ 01-08. Глобален Пищов](01-08-ASP-NET-Core-Fundamentals-CheatSheet.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [01-10. Reflection и Attributes (Дълбок Архитектурен Справочник)](01-10-Reflection-And-Attributes.md)
 
 ---
 
@@ -177,6 +177,6 @@ Status: 200 OK
 *   **Как да поправиш:** Подсигури, че в `Program.cs` методът `app.UseAuthentication();` стои твърдо над `app.UseAuthorization();`.
 
 ---
-[⬅️ 01-08. Глобален Пищов](01-08-ASP-NET-Core-Fundamentals-CheatSheet.md) | 📂 Глава 01. ASP.NET Core Fundamentals | [🏠 Начало (ASP.NET)](README.md)
+[⬅️ 01-08. Глобален Пищов](01-08-ASP-NET-Core-Fundamentals-CheatSheet.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [01-10. Reflection и Attributes (Дълбок Архитектурен Справочник)](01-10-Reflection-And-Attributes.md)
 ---
 © 2026 Dev-Library / Справочник: AutoMapper и Identity Пищов
