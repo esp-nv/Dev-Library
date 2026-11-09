@@ -1,4 +1,4 @@
-[⬅️ 01-07. Етапи за изграждане](01-07-ASP-NET-Core-Application-Architecture-Steps.md) | 📂 Глава 01. ASP.NET Core Fundamentals | [🏠 Начало (ASP.NET)](README.md) | [⏩ Глава 02-00. Напреднало Интро](../Advanced-DbContext-Protections/02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
+[⬅️ 01-07. Етапи за изграждане](01-07-ASP-NET-Core-Application-Architecture-Steps.md) | [📂01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [⏩ Глава 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
 
 ---
 
@@ -138,6 +138,6 @@ public class StudentService
 | `InvalidOperationException: Unable to resolve service for type 'IMapper'.` | Инжектирала си интерфейс в конструктора на сервиза, но си забравила да го регистрираш като услуга в `Program.cs`. | Добави нужния Add метод (напр. `builder.Services.AddAutoMapper(...)`) в `Program.cs` преди метода `builder.Build()`. |
 
 ---
-[⬅️ 01-07. Етапи за изграждане](01-07-ASP-NET-Core-Application-Architecture-Steps.md) | 📂 Глава 01. ASP.NET Core Fundamentals | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-00. Напреднало Интро](../Advanced-DbContext-Protections/02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
+[⬅️ 01-07. Етапи за изграждане](01-07-ASP-NET-Core-Application-Architecture-Steps.md) | [📂01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [⏩ Глава 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
 
 © 2026 Dev-Library / Справочник: Глобален Fundamentals Пищов
