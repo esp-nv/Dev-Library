@@ -1,4 +1,4 @@
- [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) |
+ [⬅️ 02-04. Напреднал Глобален Пищов](02-04-ASP-NET-Core-Advanced-CheatSheet.md) | [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-06. Глобална Софтуерна Сигурност](02-06-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md)
 
 ---
 
@@ -132,6 +132,6 @@ public class NewsletterController : Controller
 *   **Как да го поправиш:** Винаги спазвай закования Razor синтаксис: `public IActionResult OnPost()` или асинхронния му еквивалент `public async Task<IActionResult> OnPostAsync()`.
 
 ---
- [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)| | [🏠 Начало (ASP.NET)](README.md) |
+ [⬅️ 02-04. Напреднал Глобален Пищов](02-04-ASP-NET-Core-Advanced-CheatSheet.md) | [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-06. Глобална Софтуерна Сигурност](02-06-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md)
 
 © 2026 Dev-Library / Архитектура: Razor Pages срещу MVC
