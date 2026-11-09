@@ -1,143 +1,42 @@
-[⬅️ 01-07. Етапи за изграждане](01-07-ASP-NET-Core-Application-Architecture-Steps.md) | 📂 Глава 01. ASP.NET Core Fundamentals | [🏠 Начало (ASP.NET)](README.md) | [⏩ Глава 02-00. Напреднало Интро](../Advanced-DbContext-Protections/02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
+📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) | [➡️ 00-01. Мрежови протоколи и HTTP](00-01-Internet-Protocols-And-HTTP-Fundamentals.md)
 
 ---
 
-# 01-08. ASP.NET Core Fundamentals (Глобален Инженерен Пищов)
+# 00-00. Въведение в уеб технологиите и Git инженерна хигиена (Кратък справочник)
 
-**Цел:** Бърза, синтактична и визуална справка за изпити и интервюта, групирана по категории: съпоставка на уеб конвейера, Dependency Injection регистрации, форми, Model Binding и AutoMapper шаблони.
+**Цел:** Първоначално навлизане в глобалната архитектура на мрежите, протоколите за трансфер на данни и софтуерните инструменти за локално проследяване на кода и уеб диагностика, преди стартиране на уеб програмирането с ASP.NET Core [00-03, 01-00].
 
----
-
-## 🏗️ 1. СИНТАКСИС НА MIDDLEWARE КОНВЕЙЕРА (РЕДЪТ В PROGRAM.CS)
-
-Редът на подредба в софтуерния тръбопровод (Pipeline) е закован софтуерно. В входящата посока заявката се филтрира отгоре-надолу, а в изходящата отговорът се връща отдолу-нагоре.
-
-```csharp
-var builder = WebApplication.CreateBuilder(args);
-// ➔ Място за DI Регистрации (Services)
-var app = builder.Build();
-
-// 1. ИЗКЛЮЧЕНИЯ: Трябва да е най-отгоре, за да хване абсолютно всички грешки надолу
-if (app.Environment.IsDevelopment()) { app.UseDeveloperExceptionPage(); }
-
-// 2. СИГУРНОСТ НА МРЕЖАТА: Пренасочва http към https порт
-app.UseHttpsRedirection();
-
-// 3. СТАТИЧНИ ФАЙЛОВЕ: Връща директно CSS/JS/Снимки от /wwwroot (Бърз изход)
-app.UseStaticFiles();
-
-// 4. МАРШРУТИЗАЦИЯ: Разглобява URL адреса
-app.UseRouting();
-
-// 5. АУТЕНТИФИКАЦИЯ: Проверява "Кой си ти?" (Разчита бисквитки/токени)
-app.UseAuthentication();
-
-// 6. АВТОРИЗАЦИЯ: Проверява "Имаш ли права?" (Изисква роли/политики)
-app.UseAuthorization();
-
-// 7. ЕНДПОИНТИ: Изпълнява реалния C# код на Контролера
-app.MapControllers();
-
-app.Run();
-```
-
-### ⚡ Бърз Use / Run / Map синтаксис за къстъм филтри:
-```csharp
-// Ръчно прихващане и логване (Изисква извикване на next)
-app.Use(async (context, next) => {
-    Console.WriteLine(\$"[ВХОД] Заявка към: {context.Request.Path}");
-    await next(); // Извиква следващия софтуерен блок
-});
-
-// Терминална тапа (Прекъсва конвейера, няма next)
-app.Run(async context => {
-    await context.Response.WriteAsync("Край на тръбопровода.");
-});
-```
+## Съдържание на темата
+* [1. Защо започваме от архитектурата на мрежите и Git?](#1-защо-започваме-от-архитектурата-на-мрежите-и-git)
+* [2. Трите стълба на диагностичния и софтуерен контрол](#2-трите-стълба-на-диагностичния-и-софтуерен-контрол)
+* [Детайлни подмодули към Глава 00](#детайлни-подмодули-към-глава-00)
 
 ---
 
-## 🧠 2. DEPENDENCY INJECTION МАТРИЦА НА ЖИЗНЕНИТЕ ЦИКЛИ
+## 1. ЗАЩО ЗАПОЧВАМЕ ОТ АРХИТЕКТУРАТА НА МРЕЖИТЕ И GIT?
 
-Контейнерът управлява паметта на обектите в Heap структурата на базата на три Add метода в `Program.cs`:
+Преди софтуерният инженер да напише първия си ред C# код в ASP.NET Core, той трябва да разбере **средата, в която неговото приложение ще живее и ще улавя пакети** [00-03, 01-00]. ASP.NET Core не работи в изолиран вакуум — то е мрежова конзолна програма, която слуша на специфични портове и приема сурови текстови HTTP съобщения от външния свят [00-01, 01-01]. 
 
-| DI Метод в C# | Честота на пресъздаване в паметта | Основно бизнес предназначение |
-| :--- | :--- | :--- |
-| **`builder.Services.AddTransient<I, S>();`** | **Всеки път.** Напълно нов обект при всяко единично поискване в кода. | Леки услуги без състояние (`Stateless`), бързи калкулатори и парсери. |
-| **`builder.Services.AddScoped<I, S>();`** | **Веднъж на HTTP заявка.** Обектът се споделя, докато браузърът не получи отговор. | **Златен стандарт за бизнес среди.** Всички Сервизи и `DbContext` контексти. |
-| **`builder.Services.AddSingleton<I, S>();`**| **Веднъж за целия живот на сървъра.** Всички потребители четат един общ обект. | Тежки RAM кешове, фонови работници (`Background Tasks`) и конфигурации. |
+Едновременно с това, софтуерният жизнен цикъл изисква строга хигиена на записване на промените [00-02]. Разбирането на историята на проекта, атомарността на промените и защитата на производствените тайни през филтри пази кодовата база от деструктивен хаос [00-02].
 
 ---
 
-## 🧱 3. MODEL BINDING И ИЗТОЧНИЦИ НА ПАРАМЕТРИ
+## 2. ТРИТЕ СТЪЛБА НА ДИАГНОСТИЧНИЯ И СОФТУЕРЕН КОНТРОЛ
 
-Контролерите използват специфични атрибути, за да извлекат точно парчетата от HTTP пакета:
-
-```csharp
-[ApiController]
-public class ProductsController : ControllerBase
-{
-    [HttpPost("/api/products/update/{id}")]
-    public IActionResult UpdateProduct(
-        [FromRoute] int id,                      // Извлича от самия URL път (/update/5)
-        [FromQuery] string lang,                 // Извлича от Query String (?lang=bg)
-        [FromHeader(Name = "X-Agent")] string ag,// Извлича метаданна от Headers на пакета
-        [FromBody] ProductInputDto dto)         // Извлича и десериализира JSON тялото (Body)
-    {
-        if (!ModelState.IsValid) return BadRequest(ModelState); // Сървърна валидация
-        return Ok(dto);
-    }
-}
-```
+*   **Мрежова среда и Трафик (HTTP/IP):** Разглобяване на мрежовия модел (OSI и TCP/IP) и улавяне на глаголите (GET, POST, PUT, DELETE), описващи CRUD трансакциите в мрежата [00-01, 00-03].
+*   **Локален контрол на версиите (Git хигиена):** Използване на Git като софтуерен чекпоинт за хронологично запечатване на прогреса без дублиране на временни компилационни файлове [00-02].
+*   **Инструменти за диагностика (Postman & DevTools):** Симулиране на HTTP клиенти за бекенд REST тестване и улавяне на бисквитки, сесии и мрежови сривове (Status 415, 503) в реално време [00-03, 00-04].
 
 ---
 
-## 🗺️ 4. AUTOMAPPER ШАБЛОН И ТРИСЛОЕН ПРЕВОД
+## Детайлни подмодули към Глава 00
 
-Използва се за автоматично прехвърляне на паметта от Entity модели (база) към чисти DTO кутии (уеб интерфейс), спестявайки ръчни равенства.
-
-```csharp
-// 1. Профилът в бизнес слоя (Services/Mapping/MappingProfile.cs)
-public class MappingProfile : Profile
-{
-    public MappingProfile()
-    {
-        CreateMap<Student, StudentDto>()
-            .ForMember(dest => dest.FullName, 
-                       opt => opt.MapFrom(src => \$"{src.FirstName} {src.LastName}"));
-    }
-}
-
-// 2. Активирането на сканирането в Program.cs:
-builder.Services.AddAutoMapper(typeof(MappingProfile).Assembly);
-
-// 3. Използване чрез Dependency Injection в Сервиза:
-public class StudentService
-{
-    private readonly IMapper _mapper;
-    public StudentService(IMapper mapper) { _mapper = mapper; }
-
-    public StudentDto GetStudentDashboard(Student studentEntity)
-    {
-        // Превежда паметта автоматично с един чист ред!
-        return _mapper.Map<StudentDto>(studentEntity);
-    }
-}
-```
+*   **[00-01. Мрежови протоколи и HTTP Анатомия](00-01-Internet-Protocols-And-HTTP-Fundamentals.md)** — Разпределяне на пакети, IPv4/IPv6, DNS сървъри и транспортните среди TCP срещу UDP [00-01].
+*   **[00-02. Git и проектна документация: Най-добри практики](00-02-Git-And-Project-Documentation-Best-Practices.md)** — Атомарни коммити, правила за `.gitignore` изключения и 5-те задължителни стълба на README документацията [00-02].
+*   **[00-03. Тестване на уеб заявки и диагностика: Postman и Chrome DevTools](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md)** — Пълно практическо улавяне на JSON пакети, уеб портове и преглед на десните Styles/Computed/Layout прозорци [00-03].
+*   **[00-04. State Management и Асинхронна обработка (Asynchronous Processing)](00-04-State-Management-And-Asynchronous-Processing.md)** — Управление на състояния през Cookies и Sessions в C#, неблокиращи Kestrel нишки и избягване на Deadlocks [00-04].
 
 ---
+📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) | [➡️ 00-01. Мрежови протоколи и HTTP](00-01-Internet-Protocols-And-HTTP-Fundamentals.md)
 
-## ❌ 5. ТАБЛИЦА НА КРИТИЧНИТЕ СРИВОВЕ (EXCEPTIONS) И ТЯХНОТО ЛЕЧЕНИЕ
-
-| Какво изписва .NET конзолата? (Exception) | Защо софтуерът гърми? (Причина) | Точна стъпка за поправка (Решение) |
-| :--- | :--- | :--- |
-| `AmbiguousMatchException: The request matched multiple endpoints.` | Имаш два C# уеб метода, които сочат към напълно еднакъв URL адрес в квадратните скоби. | Промени текста на единия от двата маршрута (напр. от `/list` на `/list/new`), за да бъде напълно уникален. |
-| `InvalidOperationException: Cannot consume scoped service from singleton.` | **Пленена зависимост (Captive Dependency).** Вечен Singleton клас иска през конструктора си Scoped DbContext. | Смени жизнения цикъл на Singleton класа към Scoped или Transient, за да се изравнят времената им в паметта. |
-| `InvalidOperationException: Headers are read-only, response has already started.` | Опитваш се да добавяш или променяш Headers на HTTP отговора **СЛЕД** като вече си извикала `await next();`. | Премести кода за промяна на Headers **ПРЕДИ** извикването на `await next();` — докато пакетът все още е локален. |
-| `JsonException: A possible object cycle was detected.` | Върнала си директно Entity модел с цикличен релационен `1:Many` линк към съседна таблица (Безкраен сериен JSON цикъл). | Създай плоско DTO, съдържащо само обикновени стрингове и числа, и мапвай към него през AutoMapper Profile. |
-| `InvalidOperationException: Unable to resolve service for type 'IMapper'.` | Инжектирала си интерфейс в конструктора на сервиза, но си забравила да го регистрираш като услуга в `Program.cs`. | Добави нужния Add метод (напр. `builder.Services.AddAutoMapper(...)`) в `Program.cs` преди метода `builder.Build()`. |
-
----
-[⬅️ 01-07. Етапи за изграждане](01-07-ASP-NET-Core-Application-Architecture-Steps.md) | 📂 Глава 01. ASP.NET Core Fundamentals | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-00. Напреднало Интро](../Advanced-DbContext-Protections/02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
-
-© 2026 Dev-Library / Справочник: Глобален Fundamentals Пищов
+© 2026 Dev-Library / уеб технологии и Git: Кратък справочник
