@@ -51,6 +51,8 @@
 *   **[02-02. Web API проектиране и Напреднала асинхронна обработка](02-02-Web-API-And-Asynchronous-Processing.md)** — Създаване на RESTful услуги, JWT автентификация и защита от Thread Starvation в Thread Pool среди.
 *   **[02-03. Кеширане, Логване на заявки и Облачен деплой](02-03-Caching-Logging-And-Advanced-Topics.md)** — Интегриране на Distributed Caching (Redis), Сервизно логване, SignalR за реално време и деплоймент.
 *   **[02-04. ASP.NET Core Advanced (Глобален Напреднал Пищов)](02-04-ASP-NET-Core-Advanced-CheatSheet.md)** — Пълен синтактичен пищов за Senior интервюта и бързи архитектурни конфигурации.
+*   **[02-05. Архитектурен контраст: Razor Pages срещу ASP.NET Core MVC](02-05-Razor-Pages-Vs-MVC-Architectural-Contrast.md)** —  Дълбоко софтуерно съпоставяне на двата основни модела за разработка на потребителски интерфейс на сървърно ниво — класическата трислойна MVC структура срещу модерната страница-ориентирана MVVM архитектура (Razor Pages), критерии за избор, реални кодове и управление на грешки.
+*   **[02-06. Глобална Софтуерна Сигурност](02-06-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md)** —  Изучаване на шаблона Repository за декуплиране на достъпа до данни от бизнес логиката, изграждане на мащабируем Generic Repository (`EfRepository<T>`) над Entity Framework Core и оптимизиране на паметта през изключване на проследяването
 
 ---
 [⏪ Глава 01-08. Глобален Пищов (Cheat-Sheet)](../ASP-NET-Core-Fundamentals/01-08-ASP-NET-Core-Fundamentals-CheatSheet.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-01. Custom Middleware и Филтри](02-01-Application-Flow-And-Custom-Middleware.md)
