@@ -129,6 +129,7 @@ public class ProductsController : Controller
 *   **[01-07. Етапи за изграждане на ASP.NET Core приложение и сравнение на структури](01-07-ASP-NET-Core-Application-Architecture-Steps.md)** -  Индустриални стъпки за изграждане от нулата, съпоставяне на еднопроектен монолитен MVC модел с мулти-проектна структура на чиста архитектура (Solution Layouts).
 *   **[01-08. ASP.NET Core Fundamentals (Глобален Инженерен Пищов)](01-08-ASP-NET-Core-Fundamentals-CheatSheet.md)** -  Категоризирани готови шаблони с кодови структури за Middleware, DI матрици, Binding атрибути, AutoMapper и чести системни изключения с точните им решения.
 *   **[01-09. Наръчник по конфигурация: AutoMapper и Identity в папка Fundamentals)](01-09-AutoMapper-Identity-Configuration-Guide.md)** -  Пълна синтактична и практическа справка за свързване, инжектиране и управление на AutoMapper Профили и ASP.NET Core Identity среди в `Program.cs` и Контролерите.
+*   **[01-10. Reflection и Attributes (Дълбок Архитектурен Справочник))](01-10-Reflection-And-Attributes.md)** -  Пълно разглобяване на концепциите за Метапрограмиране, инспекция на метаданни по време на изпълнение (Reflection API), динамично извикване на конструктори и методи и изграждане на Къстъм Атрибути.
 ---
 [⏪ Глава 00-00. Уводни технологии](00-01-Internet-Protocols-And-HTTP-Fundamentals.md) | 📂 Глава 01. ASP.NET Core Fundamentals | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-01. Еволюция Преди и Сега](01-01-ASP-NET-Framework-Vs-Core-Evolution-Deep-Dive.md)
 
