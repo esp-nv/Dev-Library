@@ -1,4 +1,4 @@
-📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) | [➡️ 00-01. Мрежови протоколи и HTTP](00-01-Internet-Protocols-And-HTTP-Fundamentals.md)
+📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) | [➡️ Глава 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md))
 
 ---
 
@@ -9,7 +9,7 @@
 ## Съдържание на темата
 * [1. Защо започваме от архитектурата на мрежите и Git?](#1-защо-започваме-от-архитектурата-на-мрежите-и-git)
 * [2. Трите стълба на диагностичния и софтуерен контрол](#2-трите-стълба-на-диагностичния-и-софтуерен-контрол)
-* [Детайлни подмодули към Глава 00](#детайлни-подмодули-към-глава-00)
+* [Детайлни подмодули към Глава 00-00. Въведение в уеб технологиите и Git инженерна хигиена](#детайлни-подмодули-към-глава-00)
 
 ---
 
@@ -34,9 +34,12 @@
 *   **[00-01. Мрежови протоколи и HTTP Анатомия](00-01-Internet-Protocols-And-HTTP-Fundamentals.md)** — Разпределяне на пакети, IPv4/IPv6, DNS сървъри и транспортните среди TCP срещу UDP [00-01].
 *   **[00-02. Git и проектна документация: Най-добри практики](00-02-Git-And-Project-Documentation-Best-Practices.md)** — Атомарни коммити, правила за `.gitignore` изключения и 5-те задължителни стълба на README документацията [00-02].
 *   **[00-03. Тестване на уеб заявки и диагностика: Postman и Chrome DevTools](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md)** — Пълно практическо улавяне на JSON пакети, уеб портове и преглед на десните Styles/Computed/Layout прозорци [00-03].
+      *  📄 [Пълен диагностичен наръчник за Postman](00-Postman-API-Testing-Fundamentals.md)
+      *  📄 [Chrome Пълна DevTools Диагностика](00-Chrome-DevTools-Full-Diagnostic-Guide.md)   
+ 
 *   **[00-04. State Management и Асинхронна обработка (Asynchronous Processing)](00-04-State-Management-And-Asynchronous-Processing.md)** — Управление на състояния през Cookies и Sessions в C#, неблокиращи Kestrel нишки и избягване на Deadlocks [00-04].
 
 ---
-📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) | [➡️ 00-01. Мрежови протоколи и HTTP](00-01-Internet-Protocols-And-HTTP-Fundamentals.md)
+📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) | [➡️ Глава 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md))
 
 © 2026 Dev-Library / уеб технологии и Git: Кратък справочник
