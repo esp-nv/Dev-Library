@@ -1,4 +1,4 @@
-[⬅️ 02-03. Кеширане, Логване и Сигнали](02-03-Caching-Logging-And-Advanced-Topics.md) | 📂 Глава 02. ASP.NET Core Advanced | [🏠 Начало (ASP.NET)](README.md)
+[⬅️ 02-03. Кеширане, Логване и Сигнали](02-03-Caching-Logging-And-Advanced-Topics.md) | [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)| [🏠 Начало (ASP.NET)](README.md)d)
 
 ---
 
@@ -145,6 +145,6 @@ public async Task<List<ProductDto>> GetCatalogAsync()
 | `System.Text.Json.JsonException: A possible object cycle was detected.` | Изпратила си суров Entity модел с двойна релация към браузъра (Безкраен релационен цикъл при сериализация). | Наложи използването на плоски `DTO` кутии и AutoMapper Профили, изключвайки навигационните обекти от уеб отговора. |
 
 ---
-[⬅️ 02-03. Кеширане, Логване и Сигнали](02-03-Caching-Logging-And-Advanced-Topics.md) | 📂 Глава 02. ASP.NET Core Advanced | [🏠 Начало (ASP.NET)](README.md)
+[⬅️ 02-03. Кеширане, Логване и Сигнали](02-03-Caching-Logging-And-Advanced-Topics.md) | [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)| [🏠 Начало (ASP.NET)](README.md)
 
 © 2026 Dev-Library / Справочник: Глобален Advanced Пищов
