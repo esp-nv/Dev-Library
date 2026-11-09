@@ -1,18 +1,17 @@
-[⬅️ 01-07. Етапи за изграждане](01-07-ASP-NET-Core-Application-Architecture-Steps.md) | [📂01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [⏩ Глава 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
+[⬅️ 01-07. Етапи за изграждане](01-07-ASP-NET-Core-Application-Architecture-Steps.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-00. Напреднало Интро](../ASP-NET-Core-Advanced/02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
 
 ---
 
 # 01-08. ASP.NET Core Fundamentals (Глобален Инженерен Пищов)
 
-**Цел:** Бърза, синтактична и визуална справка за изпити и интервюта, групирана по категории: съпоставка на уеб конвейера, Dependency Injection регистрации, форми, Model Binding и AutoMapper шаблони.
+**Цел:** Бърза, синтактична и визуална справка за изпити и интервюта, групирана по категории: съпоставка на уеб конвейера, Dependency Injection регистрации, форми, Model Binding, AutoMapper и Reflection шаблони.
 
 ## 🧭 Съдържание на пищова
 * [1. Синтаксис на Middleware конвейера (Редът в Program.cs)](#1-синтаксис-на-middleware-конвейера-редът-в-programcs)
 * [2. Dependency Injection матрица на жизнените цикли](#2-dependency-injection-матрица-на-жизнените-цикли)
-* [3. Model Binding и източници на уеб параметри](#3-model-binding-и-източници-на-параметри)
-* [4. Шаблон за автоматичен AutoMapper превод](#4-automapper-шаблон-и-трислоен-превод)
-* [5. Справочна таблица на критичните сривове (Exceptions)](#5-таблица-на-критичните-сривове-exceptions-и-тяхното-лечение)
-
+* [3. Model Binding и източници на уеб параметри](#3-model-binding-и-източници-на-уеб-параметри)
+* [4. Шаблон за автоматичен AutoMapper превод](#4-шаблон-за-автоматичен-automapper-превод)
+* [5. Справочна таблица на критичните сривове (Exceptions) и Решения](#5-справочна-таблица-на-критичните-сривове-exceptions-и-решения)
 
 ---
 
@@ -37,7 +36,7 @@ app.UseStaticFiles();
 // 4. МАРШРУТИЗАЦИЯ: Разглобява URL адреса
 app.UseRouting();
 
-// 5. АУТЕНТИФИКАЦИЯ: Проверява "Кой си ти?" (Разчита бисквитки/токени)
+// 5. АУТЕНТИФИКАЦИЯ: Проверява "Кой си ти?" (Разчита бисквитки/токени през Identity)
 app.UseAuthentication();
 
 // 6. АВТОРИЗАЦИЯ: Проверява "Имаш ли права?" (Изисква роли/политики)
@@ -49,7 +48,7 @@ app.MapControllers();
 app.Run();
 ```
 
-### ⚡ Бърз Use / Run / Map синтаксис за къстъм филтри:
+### ⚡ Бърз Use / Run синтаксис за къстъм филтри:
 ```csharp
 // Ръчно прихващане и логване (Изисква извикване на next)
 app.Use(async (context, next) => {
@@ -77,7 +76,7 @@ app.Run(async context => {
 
 ---
 
-## 3. MODEL BINDING И ИЗТОЧНИЦИ НА ПАРАМЕТРИ
+## 3. MODEL BINDING И ИЗТОЧНИЦИ НА УЕБ ПАРАМЕТРИ
 
 Контролерите използват специфични атрибути, за да извлекат точно парчетата от HTTP пакета:
 
@@ -100,7 +99,7 @@ public class ProductsController : ControllerBase
 
 ---
 
-## 4. AUTOMAPPER ШАБЛОН И ТРИСЛОЕН ПРЕВОД
+## 4. ШАБЛОН ЗА АВТОМАТИЧЕН AUTOMAPPER ПРЕВОД
 
 Използва се за автоматично прехвърляне на паметта от Entity модели (база) към чисти DTO кутии (уеб интерфейс), спестявайки ръчни равенства.
 
@@ -135,17 +134,19 @@ public class StudentService
 
 ---
 
-## 5. ТАБЛИЦА НА КРИТИЧНИТЕ СРИВОВЕ (EXCEPTIONS) И ТЯХНОТО ЛЕЧЕНИЕ
+## 5. СПРАВОЧНА ТАБЛИЦА НА КРИТИЧНИТЕ СРИВОВЕ (EXCEPTIONS) И РЕШЕНИЯ
 
 | Какво изписва .NET конзолата? (Exception) | Защо софтуерът гърми? (Причина) | Точна стъпка за поправка (Решение) |
 | :--- | :--- | :--- |
 | `AmbiguousMatchException: The request matched multiple endpoints.` | Имаш два C# уеб метода, които сочат към напълно еднакъв URL адрес в квадратните скоби. | Промени текста на единия от двата маршрута (напр. от `/list` на `/list/new`), за да бъде напълно уникален. |
-| `InvalidOperationException: Cannot consume scoped service from singleton.` | **Пленена зависимост (Captive Dependency).** Вечен Singleton клас иска през конструктора си Scoped DbContext. | Смени жизнения цикъл на Singleton класа към Scoped или Transient, за да се изравнят времената им в паметта. |
+| `InvalidOperationException: Cannot consume scoped service from singleton.` | **Пленена зависимост (Captive Dependency).** Вечен Singleton клас иска през конструктора си Scoped DbContext. | Смени жизнения чрез съответния Add метод обхвата на Singleton класа към Scoped или Transient. |
 | `InvalidOperationException: Headers are read-only, response has already started.` | Опитваш се да добавяш или променяш Headers на HTTP отговора **СЛЕД** като вече си извикала `await next();`. | Премести кода за промяна на Headers **ПРЕДИ** извикването на `await next();` — докато пакетът все още е локален. |
 | `JsonException: A possible object cycle was detected.` | Върнала си директно Entity модел с цикличен релационен `1:Many` линк към съседна таблица (Безкраен сериен JSON цикъл). | Създай плоско DTO, съдържащо само обикновени стрингове и числа, и мапвай към него през AutoMapper Profile. |
 | `InvalidOperationException: Unable to resolve service for type 'IMapper'.` | Инжектирала си интерфейс в конструктора на сервиза, но си забравила да го регистрираш като услуга в `Program.cs`. | Добави нужния Add метод (напр. `builder.Services.AddAutoMapper(...)`) в `Program.cs` преди метода `builder.Build()`. |
+| `MissingMethodException: No parameterless constructor defined.` | Използвала си чистия `System.Activator` за клас, изискващ услуги от IoC паметта. | Подмени го със системния **`ActivatorUtilities.CreateInstance<T>(provider, args)`**, който е свързан с DI. |
+| `NullReferenceException: Object reference not set to an instance.` | Използвала си `type.GetField("name")` за private поле, без да укажеш задължителните търсещи BindingFlags. | Наложи изричното присъствие на маските: **`BindingFlags.Instance | BindingFlags.NonPublic`** в скобите на метода. |
 
 ---
-[⬅️ 01-07. Етапи за изграждане](01-07-ASP-NET-Core-Application-Architecture-Steps.md) | [📂01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [⏩ Глава 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
+[⬅️ 01-07. Етапи за изграждане](01-07-ASP-NET-Core-Application-Architecture-Steps.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-00. Напреднало Интро](../ASP-NET-Core-Advanced/02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
 
 © 2026 Dev-Library / Справочник: Глобален Fundamentals Пищов
