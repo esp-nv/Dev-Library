@@ -1,4 +1,4 @@
-[⬅️ 01-06. Identity и Автентификация](01-06-ASP-NET-Core-Identity-Authentication.md) | 📂 Глава 01. ASP.NET Core Fundamentals | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-08. Глобален Пищов (Cheat-Sheet)](01-08-ASP-NET-Core-Fundamentals-CheatSheet.md)
+[⬅️ 01-06. Identity и Автентификация](01-06-ASP-NET-Core-Identity-Authentication.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-08. Глобален Пищов (Cheat-Sheet)](01-08-ASP-NET-Core-Fundamentals-CheatSheet.md)
 
 ---
 
@@ -171,6 +171,6 @@ MyCleanSolution/                            <── Root папка на реш�
 *   **Как да го поправиш:** Обходи конструкторите на твоите сервизи един по един и подсигури, че абсолютно всяко едно инжектирано свойство присъства като официална регистрация (`AddScoped` / `AddTransient`) в `Program.cs` преди `builder.Build()`.
 
 ---
-[⬅️ 01-06. Identity и Автентификация](01-06-ASP-NET-Core-Identity-Authentication.md) | 📂 Глава 01. ASP.NET Core Fundamentals | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-08. Глобален Пищов (Cheat-Sheet)](01-08-ASP-NET-Core-Fundamentals-CheatSheet.md)
+[⬅️ 01-06. Identity и Автентификация](01-06-ASP-NET-Core-Identity-Authentication.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-08. Глобален Пищов (Cheat-Sheet)](01-08-ASP-NET-Core-Fundamentals-CheatSheet.md)
 
 © 2026 Dev-Library / Архитектура: Етапи на изграждане на уеб приложения
