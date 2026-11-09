@@ -1,4 +1,4 @@
-[⬅️ 01-02. Жизнен цикъл и Middleware](01-02-ASP-NET-Core-Lifecycle-And-Middleware.md) | 📂 Глава 01. ASP.NET Core Fundamentals | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-04. Dependency Injection](01-04-ASP-NET-Core-Dependency-Injection-Deep-Dive.md)
+[⬅️ 01-02. Жизнен цикъл и Middleware](01-02-ASP-NET-Core-Lifecycle-And-Middleware.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-04. Dependency Injection](01-04-ASP-NET-Core-Dependency-Injection-Deep-Dive.md)
 
 ---
 
@@ -114,6 +114,6 @@ public class AccountController : Controller
 *   **Как да го избегнеш:** **Никога не приемай Entity модели в уеб параметрите!** Задължително създавай леки преносни класове (Input Models / DTOs), които съдържат само и единствено полетата, които потребителят има право да попълни (напр. само `FirstName` и `Phone`).
 
 ---
-[⬅️ 01-02. Жизнен цикъл и Middleware](01-02-ASP-NET-Core-Lifecycle-And-Middleware.md) | 📂 Глава 01. ASP.NET Core Fundamentals | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-04. Dependency Injection](01-04-ASP-NET-Core-Dependency-Injection-Deep-Dive.md)
+[⬅️ 01-02. Жизнен цикъл и Middleware](01-02-ASP-NET-Core-Lifecycle-And-Middleware.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-04. Dependency Injection](01-04-ASP-NET-Core-Dependency-Injection-Deep-Dive.md)
 
 © 2026 Dev-Library / ASP.NET Core: Model Binding и Валидация
