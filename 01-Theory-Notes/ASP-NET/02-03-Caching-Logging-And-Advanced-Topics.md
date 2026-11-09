@@ -1,4 +1,4 @@
-[⬅️ 02-02. Web API и Асинхронност](02-02-Web-API-And-Asynchronous-Processing.md) | 📂 Глава 02. ASP.NET Core Advanced | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-04. Напреднал Глобален Пищов](02-04-ASP-NET-Core-Advanced-CheatSheet.md)
+[⬅️ 02-02. Web API и Асинхронност](02-02-Web-API-And-Asynchronous-Processing.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-04. Напреднал Глобален Пищов](02-04-ASP-NET-Core-Advanced-CheatSheet.md)
 
 ---
 
@@ -153,6 +153,6 @@ app.MapHub<NotificationHub>("/hubs/notifications"); // Начертава соф
 *   **Как да го поправиш:** Подсигури, че Redis сървърът е физически пуснат (напр. през Docker команда: `docker run -d -p 6379:6379 redis`), или по време на локална разработка смени конфигурацията към InMemory симулация: `builder.Services.AddDistributedMemoryCache();`, която ще симулира разпределен кеш изцяло вътре в твоята RAM памет, без да търси външен сървър.
 
 ---
-[⬅️ 02-02. Web API и Асинхронност](02-02-Web-API-And-Asynchronous-Processing.md) | 📂 Глава 02. ASP.NET Core Advanced | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-04. Напреднал Глобален Пищов](02-04-ASP-NET-Core-Advanced-CheatSheet.md)
+[⬅️ 02-02. Web API и Асинхронност](02-02-Web-API-And-Asynchronous-Processing.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-04. Напреднал Глобален Пищов](02-04-ASP-NET-Core-Advanced-CheatSheet.md)
 
 © 2026 Dev-Library / ASP.NET Core Advanced: Оптимизации и Кеш
