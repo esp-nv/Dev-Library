@@ -1,4 +1,4 @@
-[⬅️ 01-03. Model Binding и Валидация](01-03-Model-Binding-And-Data-Validation.md) | 📂 Глава 01. ASP.NET Core Fundamentals | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-05. Слоеве, Сервизи и DTOs](01-05-Layers-Services-And-Data-Transfer-Objects.md)
+[⬅️ 01-03. Model Binding и Валидация](01-03-Model-Binding-And-Data-Validation.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-05. Слоеве, Сервизи и DTOs](01-05-Layers-Services-And-Data-Transfer-Objects.md)
 
 ---
 
@@ -100,6 +100,6 @@ builder.Host.UseDefaultServiceProvider(options =>
 *Ако контейнерът засече опит за пленяване на зависимост, приложението ще спре със защитен crash още при стартиране на сървъра в конзолата, вместо да изтече памет в продукция при реалния клиент.*
 
 ---
-[⬅️ 01-03. Model Binding и Валидация](01-03-Model-Binding-And-Data-Validation.md) | 📂 Глава 01. ASP.NET Core Fundamentals | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-05. Слоеве, Сервизи и DTOs](01-05-Layers-Services-And-Data-Transfer-Objects.md)
+[⬅️ 01-03. Model Binding и Валидация](01-03-Model-Binding-And-Data-Validation.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-05. Слоеве, Сервизи и DTOs](01-05-Layers-Services-And-Data-Transfer-Objects.md)
 
 © 2026 Dev-Library / ASP.NET Core: Инжектиране на зависимости
