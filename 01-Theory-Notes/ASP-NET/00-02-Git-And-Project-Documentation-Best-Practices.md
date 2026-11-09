@@ -1,4 +1,4 @@
-[⬅️ 00-01. Мрежови протоколи и HTTP](00-01-Internet-Protocols-And-HTTP-Fundamentals.md) | 📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) | [➡️ 00-03. Постман и DevTools Диагностика](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md)
+[⬅️ 00-01. Мрежови протоколи и HTTP](00-01-Internet-Protocols-And-HTTP-Fundamentals.md) | [📂 Глава 00-00. Въведение в уеб технологиите и Git](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 00-03. Постман и DevTools Диагностика](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md)
 
 ---
 
@@ -121,6 +121,6 @@ appsettings.Development.json
        ```
 
 ---
-[⬅️ 00-01. Мрежови протоколи и HTTP](00-01-Internet-Protocols-And-HTTP-Fundamentals.md) | 📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) | [➡️ 00-03. Постман и DevTools Диагностика](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md)
+[⬅️ 00-01. Мрежови протоколи и HTTP](00-01-Internet-Protocols-And-HTTP-Fundamentals.md) | [📂 Глава 00-00. Въведение в уеб технологиите и Git](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 00-03. Постман и DevTools Диагностика](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md)
 
 © 2026 Dev-Library / Справочник: Инженерна Git хигиена и Документация
