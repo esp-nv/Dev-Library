@@ -10,6 +10,7 @@
 * [1. Архитектурният триъгълник: Model-View-Controller (MVC)](#1-архитектурният-триъгълник-model-view-controller-mvc)
 * [2. Първият уеб контролер в C# (Реален код и Очакван изход)](#2-първият-уеб-контролер-в-c-реален-код-и-очакван-изход)
 * [3. Системен капан: Грешки при маршрутизация (Routing) и как да ги поправим](#3-системен-капан-грешки-при-маршрутизация-routing-и-как-да-ги-поправим)
+* [Детайлни подмодули към Глава 01](#детайлни-подмодули-към-глава-01)
 
 ---
 
@@ -105,6 +106,33 @@ public class ProductsController : Controller
     ```
 *   **Защо се случва:** Сървърът Kestrel приема успешно заявката, но засича две различни C# софтуерни дестинации за един и същ път и блокира изпълнението на място, за да не изтече грешна информация.
 *   **Как да го поправиш:** Промени уеб низа на единия от двата метода, за да бъде напълно уникален (напр. `/api/products/new`).
+
+---
+
+## Детайлни подмодули към Глава 01
+
+*   **[01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)**
+    *   *Обхваща:* Дълбоко навлизане в архитектурния модел Model-View-Controller (MVC), роля на слоевете и маршрутизация (Routing).
+*   **[01-01. Еволюция на архитектурата: Класически .NET Framework срещу .NET Core+](01-01-ASP-NET-Framework-Vs-Core-Evolution-Deep-Dive.md)**
+    *   *Обхваща:* Монолитни структури срещу модулни двигатели, изхвърлени компоненти (`System.Web`, `web.config`, `Global.asax`) и защо Kestrel постига рекордна скорост.
+*   **[01-02. Жизнен цикъл и Middleware компоненти в ASP.NET Core](01-02-ASP-NET-Core-Lifecycle-And-Middleware.md)**
+    *   *Обхваща:* Двупосочен поток на заявката през Request Pipeline, късо съединение (Short-circuiting), златния хронологичен ред в `Program.cs` и капсулиране на къстъм `app.Use()`.
+*   **[01-03. Model Binding и Валидация на данни in ASP.NET Core](01-03-Model-Binding-And-Data-Validation.md)**
+    *   *Обхваща:* Автоматичен превод от HTTP вход към C# обекти, Binding източници (`[FromBody]`, `[FromRoute]`), валидации през Data Annotations и уязвимост от Over-Posting.
+*   **[01-04. Dependency Injection Дълбоко гмуркане и Жизнени цикли](01-04-ASP-NET-Core-Dependency-Injection-Deep-Dive.md)**
+    *   *Обхваща:* Проблеми със силната обвързаност срещу Inversion of Control, разлики между Transient, Scoped и Singleton и улавяне на Captive Dependencies.
+*   **[01-05. Архитектурни слоеве, Сервизи и пренасяне на данни (DTOs)](01-05-Layers-Services-And-Data-Transfer-Objects.md)**
+    *   *Обхваща:* Разделение на отговорностите (Presentation, Service, Data), защита на Entity моделите от изтичане към браузъра, релационни цикли в паметта и AutoMapper Profiles.
+*   **[01-06. Потребителски сесии, бисквитки и сигурност с Identity](01-06-ASP-NET-Core-Identity-Authentication.md)**
+    *   *Обхваща:* Имплементиране на ASP.NET Core Identity, еднопосочно осоляване (Salting) на пароли, налагане на авторизационни Restrict филтри и разграничаване на грешки `401 Unauthorized` и `403 Forbidden`.
+*   **[01-07. Етапи за изграждане на ASP.NET Core приложение и сравнение на структури](01-07-ASP-NET-Core-Application-Architecture-Steps.md)**
+    *   *Обхваща:* Индустриални стъпки за изграждане от нулата, съпоставяне на еднопроектен монолитен MVC модел с мулти-проектна структура на чиста архитектура (Solution Layouts).
+*   **[01-08. ASP.NET Core Fundamentals (Глобален Инженерен Пищов)](01-08-ASP-NET-Core-Fundamentals-CheatSheet.md)**
+    *   *Обхваща:* Категоризирани готови шаблони с кодови структури за Middleware, DI матрици, Binding атрибути, AutoMapper и чести системни изключения с точните им решения.
+*   **[01-09. Наръчник по конфигурация: AutoMapper и Identity в папка Fundamentals](01-09-AutoMapper-Identity-Configuration-Guide.md)**
+    *   *Обхваща:* Пълна синтактична и практическа справка за свързване, инжектиране и управление на AutoMapper Профили и ASP.NET Core Identity среди в `Program.cs` и Контролерите.
+*   **[01-10. Reflection и Attributes (Дълбок Архитектурен Справочник)](01-10-Reflection-And-Attributes.md)**
+    *   *Обхваща:* Пълно разглобяване на концепциите за Метапрограмиране, инспекция на метаданни по време на изпълнение (Reflection API), динамично извикване на конструктори и методи и изграждане на Къстъм Атрибути.
 
 ---
 [⏪ Глава 00-00. Уводни технологии](00-01-Internet-Protocols-And-HTTP-Fundamentals.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-01. Еволюция Преди и Сега](01-01-ASP-NET-Framework-Vs-Core-Evolution-Deep-Dive.md) | [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
