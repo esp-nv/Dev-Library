@@ -1,4 +1,4 @@
-[⬅️ 01-01. Еволюция Преди и Сега](01-01-ASP-NET-Framework-Vs-Core-Evolution-Deep-Dive.md) | 📂 Глава 01. ASP.NET Core Fundamentals | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-03. Model Binding и Валидация](01-03-Model-Binding-And-Data-Validation.md)
+[⬅️ 01-01. Еволюция Преди и Сега](01-01-ASP-NET-Framework-Vs-Core-Evolution-Deep-Dive.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-03. Model Binding и Валидация](01-03-Model-Binding-And-Data-Validation.md)
 
 ---
 
@@ -141,6 +141,6 @@ Status: 401 Unauthorized
     ```
 
 ---
-[⬅️ 01-01. Еволюция Преди и Сега](01-01-ASP-NET-Framework-Vs-Core-Evolution-Deep-Dive.md) | 📂 Глава 01. ASP.NET Core Fundamentals | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-03. Model Binding и Валидация](01-03-Model-Binding-And-Data-Validation.md)
+[⬅️ 01-01. Еволюция Преди и Сега](01-01-ASP-NET-Framework-Vs-Core-Evolution-Deep-Dive.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-03. Model Binding и Валидация](01-03-Model-Binding-And-Data-Validation.md)
 
 © 2026 Dev-Library / ASP.NET Core: Жизнен цикъл и Конвейер

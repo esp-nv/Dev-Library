@@ -1,4 +1,4 @@
-[⬅️ 01-05. Слоеве, Сервизи и DTOs](01-05-Layers-Services-And-Data-Transfer-Objects.md) | 📂 Глава 01. ASP.NET Core Fundamentals | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-07. Етапи за изграждане](01-07-ASP-NET-Core-Application-Architecture-Steps.md)
+[⬅️ 01-05. Слоеве, Сервизи и DTOs](01-05-Layers-Services-And-Data-Transfer-Objects.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-07. Етапи за изграждане](01-07-ASP-NET-Core-Application-Architecture-Steps.md)
 
 ---
 
@@ -86,6 +86,6 @@ public class ProfileController : Controller
 *   **Как да го избегнеш:** Подсигури софтуерно в кода, че при регистрация или промяна на потребителя, на съответния акаунт е наложена правилната роля през класа `RoleManager`, преди да викаш метода.
 
 ---
-[⬅️ 01-05. Слоеве, Сервизи и DTOs](01-05-Layers-Services-And-Data-Transfer-Objects.md) | 📂 Глава 01. ASP.NET Core Fundamentals | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-07. Етапи за изграждане](01-07-ASP-NET-Core-Application-Architecture-Steps.md)
+[⬅️ 01-05. Слоеве, Сервизи и DTOs](01-05-Layers-Services-And-Data-Transfer-Objects.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-07. Етапи за изграждане](01-07-ASP-NET-Core-Application-Architecture-Steps.md)
 
 © 2026 Dev-Library / ASP.NET Core: Сигурност и Identity
