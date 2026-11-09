@@ -1,4 +1,4 @@
-[⬅️ 00-03. Постман и DevTools Диагностика](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md) | 📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-00. Глава 01 Интро](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)
+[⬅️ 00-03. Постман и DevTools Диагностика](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md) | [📂 Глава 00-00. Въведение в уеб технологиите и Git](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-00. Глава 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)
 
 ---
 
@@ -162,6 +162,6 @@ public async Task<IActionResult> GetGoodData()
 ```
 
 ---
-[⬅️ 00-03. Постман и DevTools Диагностика](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md) | 📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-00. Глава 01 Интро](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)
+[⬅️ 00-03. Постман и DevTools Диагностика](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md) | [📂 Глава 00-00. Въведение в уеб технологиите и Git](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-00. Глава 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)
 
 © 2026 Dev-Library / Справочник: Състояния и Асинхронност
