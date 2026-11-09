@@ -9,21 +9,22 @@
 ## 🧭 Навигация и Съдържание
 
 ### 🔹 Глава 00: Въведение в уеб технологиите и Git инженерна хигиена
-*   **[00-00. Въведение в уеб технологиите и Git инженерна хигиена (Кратък справочник)](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md)**
-    *   *Обхваща:* Нуждата от разбиране на уеб инфраструктурата, безсъстоятелния (Stateless) проблем на HTTP и общия контрол на версиите.
-*   **[00-01. Мрежови протоколи и HTTP Анатомия](00-01-Internet-Protocols-And-HTTP-Fundamentals.md)**
+* **[00-00. Въведение в уеб технологиите и Git инженерна хигиена (Кратък справочник)](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md)**
+  *   *Обхваща:* Нуждата от разбиране на уеб инфраструктурата, безсъстоятелния (Stateless) проблем на HTTP и общия контрол на версиите.
+* **[00-01. Мрежови протоколи и HTTP Анатомия](00-01-Internet-Protocols-And-HTTP-Fundamentals.md)**
     *   *Обхваща:* Пакетна комуникация, IPv4/IPv6, DNS сървъри, transport layers TCP срещу UDP, анатомия на URL и съпоставка на HTTP методите с CRUD.
-*   **[00-02. Git и проектна документация: Най-добри практики](00-02-Git-And-Project-Documentation-Best-Practices.md)**
+* **[00-02. Git и проектна документация: Най-добри практики](00-02-Git-And-Project-Documentation-Best-Practices.md)**
     *   *Обхваща:* Разлики между Git и GitHub, атомарни коммити (Atomic Commits), правилна конфигурация на индустриален `.gitignore` за .NET и 5-те стълба на README.
-*   **[00-03. Тестване на уеб заявки и диагностика: Postman и Chrome DevTools](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md)**
+* **[00-03. Тестване на уеб заявки и диагностика: Postman и Chrome DevTools](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md)**
     *   *Обхваща:* Сглобяване на заявки в Postman, JSON Payload, справяне с грешка `415 Unsupported Media Type`, заобикаляне на SSL и работа с DevTools десните прозорци (Styles, Computed Box Model, Layout).
-*   **[00-04. State Management и Асинхронна обработка (Asynchronous Processing)](00-04-State-Management-And-Asynchronous-Processing.md)**
+* **[00-04. State Management и Асинхронна обработка (Asynchronous Processing)](00-04-State-Management-And-Asynchronous-Processing.md)**
     *   *Обхваща:* Изграждане на изкуствена памет през HTTP Cookies и Session в C#, мениджмънт на Thread Pool под Kestrel и избягване на фатални Deadlocks.
-*   **[00-06. Глобален уеб справочник за HTTP статус кодове в ASP.NET Core](00-06-HTTP-Status-Codes-Full-Reference.md)**
-    *   *Обхваща:* Справочник за петте цифрови стотици (1xx-5xx), С# константи, обработка на форми, избягване на грешка 415 и правилно извикване през `StatusCodes`.
-*   **[00-07. Архитектурни карти и софтуерни потоци на данни (Blueprints)](00-07-System-Architecture-And-Data-Flow-Blueprints.md)**
+* **[00-05. Архитектурни карти и софтуерни потоци на данни (Blueprints)](00-05-System-Architecture-And-Data-Flow-Blueprints.md)**
     * *Обхваща:* Глобална визуална спецификация на уеб приложенията — енд-то-енд жизнени цикли, DI карти на RAM паметта, огледални Middleware конвейери и чертежи на софтуерните екосистеми.
+* **[00-06. Глобален уеб справочник за HTTP статус кодове в ASP.NET Core](00-06-HTTP-Status-Codes-Full-Reference.md)**
+    *   *Обхваща:* Справочник за петте цифрови стотици (1xx-5xx), С# константи, обработка на форми, избягване на грешка 415 и правилно извикване през `StatusCodes`.
 
+---
 ### 🔹 Глава 01: ASP.NET Core Fundamentals (Основи & MVC Архитектура)
 *   **[01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)**
     *   *Обхваща:* Дълбоко навлизане в архитектурния модел Model-View-Controller (MVC), роля на слоевете и маршрутизация (Routing).
@@ -49,6 +50,8 @@
     *   *Обхваща:* Пълно разглобяване на концепциите за Метапрограмиране, инспекция на метаданни по време на изпълнение (Reflection API), динамично извикване на конструктори и методи и изграждане на Къстъм Атрибути.
 
 
+
+---
 ### 🔹 Глава 02: ASP.NET Core Advanced (Напреднала Облачна Архитектура)
 *   **[02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)**
     *   *Обхваща:* Корпоративни принципи за софтуерен инженеринг, къстъм филтриращи двигатели, безсъстоятелни REST APIs и хоризонтално мащабиране под високо натоварване.
@@ -63,11 +66,19 @@
 *   **[02-05. Архитектурен контраст: Razor Pages срещу ASP.NET Core MVC](02-05-Razor-Pages-Vs-MVC-Architectural-Contrast.md)**
     *   *Обхваща:* Дълбоко софтуерно съпоставяне на двата основни модела за разработка на потребителски интерфейс на сървърно ниво — класическата трислойна MVC структура срещу модерната страница-ориентирана MVVM архитектура (Razor Pages), критерии за избор, реални кодове и управление на грешки.
 *   **[02-06. Глобална Софтуерна Сигурност](02-06-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md)**
-    *   *Обхваща:* Изучаване на шаблона Repository за декуплиране на достъпа до данни от бизнес логиката, изграждане на мащабируем Generic Repository (`EfRepository<T>`) над Entity Framework Core и оптимизиране на паметта през изключване на проследяването
-    
+    *   *Обхваща:* Изучаване на шаблона Repository за декуплиране на достъпа до данни от бизнес логиката, изграждане на мащабируем Generic Repository (`EfRepository<T>`) над Entity Framework Core и оптимизиране на паметта през изключване на проследяването.
+* **[02-07. Глобална уеб сигурност: Защита от XSS, SQL Injection и CSRF](02-07-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md)**
+    *   *Обхваща:* Овладяване на трите най-критични софтуерни атаки срещу уеб приложенията (OWASP Top 10), разбиране на методите за автоматично неутрализиране на уязвимости и налагане на глобална филтрация през `AutoValidateAntiforgeryToken`.
+* **[02-08. Мрежов суверен достъп през CORS и Same-Origin Policy](02-08-Cross-Origin-Resource-Sharing-CORS-Infrastructure.md)**
+    *   *Обхваща:* Изучаване на браузърната сигурност, наложена от Same-Origin Policy (SOP), разясняване на механизма за крос-домейн достъп (CORS) и правилно конфигуриране на споделени корпоративни политики в ASP.NET Core Web APIs.
+* **[02-09. Автоматизирано тестване: Selenium WebDriver и MyTested.AspNetCore.Mvc](02-09-UI-Automation-Testing-Selenium-And-Fluent-Assertions.md)**
+    *   *Обхваща:* Изучаване на методите за автоматизиран качествен контрол (QA Automation), симулиране на реално потребителско поведение през виртуални браузърни двигатели със Selenium и писане на флуентни уеб асерции.
+* **[02-10. Оптимизация на SignalR чрез бинарна компресия с MessagePack](02-10-MessagePack-Binary-Serialization-In-SignalR.md)**
+    *   *Обхваща:* Изучаване на методите за компресиране на мрежовия товар (Payload) в системи за комуникация в реално време, замяна на стандартния текстов JSON протокол в SignalR с напредналия високопроизводителен бинарен формат MessagePack.
 
 ---
-
-[🏠 Всички бележки (01-Theory-Notes)](../README.md) | [🗄️ Бази данни (SQL & NoSQL)](../Databases-SQL-And-NoSQL/) | [💾 Entity Framework Core](../Databases-And-EF-Core/) | [▶️ Започни от 00-01](00-01-Internet-Protocols-And-HTTP-Fundamentals.md)
+🏠 [Всички бележки (01-Theory-Notes)](../README.md) | 🗄️ [Бази данни (SQL & NoSQL)](../Databases-SQL-And-NoSQL/) | 💾 [Entity Framework Core](../Databases-And-EF-Core/) | ▶️ [Започни от 00-01](00-01-Internet-Protocols-And-HTTP-Fundamentals.md)
 
 © 2026 Dev-Library / Пълна архитектурна библиотека по Мрежи, Жизнен цикъл и Уеб сигурност
+
+
