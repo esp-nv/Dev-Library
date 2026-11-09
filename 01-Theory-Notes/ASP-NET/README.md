@@ -39,6 +39,9 @@
     *   *Обхваща:* Индустриални стъпки за изграждане от нулата, съпоставяне на еднопроектен монолитен MVC модел с мулти-проектна структура на чиста архитектура (Solution Layouts).
 *   **[01-08. ASP.NET Core Fundamentals (Глобален Инженерен Пищов)](01-08-ASP-NET-Core-Fundamentals-CheatSheet.md)**
     *   *Обхваща:* Категоризирани готови шаблони с кодови структури за Middleware, DI матрици, Binding атрибути, AutoMapper и чести системни изключения с точните им решения.
+*   **[01-09. Наръчник по конфигурация: AutoMapper и Identity в папка Fundamentals)](01-09-AutoMapper-Identity-Configuration-Guide.md)**
+    *   *Обхваща:* Пълна синтактична и практическа справка за свързване, инжектиране и управление на AutoMapper Профили и ASP.NET Core Identity среди в `Program.cs` и Контролерите.
+
 
 ### 🔹 Глава 02: ASP.NET Core Advanced (Напреднала Облачна Архитектура)
 *   **[02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)**
