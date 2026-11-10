@@ -23,8 +23,9 @@
 *   **[03. CSS Layout — Flexbox (Теория и Упражнения)](03-CSS-Layout-Flexbox.md)**
     *   *Обхваща:* Двуизмерно подреждане на елементи през Flex Container и Flex Items, свойства за подравняване и готови CSS структури.
 
-*   **[04. Адаптивен дизайн (Responsive Web Design)](04-Responsive-Web-Design.md)**
-    *   *Обхваща:* Медийни заявки (`@media queries`), флуидни решетки, четирите стандартни контролни точки (Breakpoints), конфигурация на Viewport мета тагове, адаптивни снимки и избягване на хоризонтален скрол на мобилни телефони.
+*   **[04. Адаптивен дизайн (Responsive Web Design): Интервю Cheat Sheet & Reference Guide](04-Responsive-Web-Design.md)**
+    *   *Обхваща:* Медийни заявки (`@media queries`), флуидни решетки, четирите стандартни контролни точки (Breakpoints), конфигурация на Viewport мета тагове, адаптивни снимки и избягване на хоризонтален скрол на мобилни телефони.*  
+
 
 
 *   **[05. Работа с Уеб Форми (Working with Forms)](05-Working-with-Forms.md)**
