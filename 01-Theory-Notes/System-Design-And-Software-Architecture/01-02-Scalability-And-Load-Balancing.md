@@ -1,4 +1,4 @@
-[⬅️ 01-01. Архитектурни стилове](01-01-Architectural-Styles-And-Patterns.md) | 📂 Папка: System-Design-And-Software-Architecture | [🏠 Начало (ASP.NET)](../README.md) | [➡️ 01-03. Архитектурни качества](01-03-Architectural-Attributes-And-TradeOffs.md)
+[⬅️ 01-01. Архитектурни стилове](01-01-Architectural-Styles-And-Patterns.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md) | [🏠 Главен Хъб на проекта](../README.md) | [➡️ 01-03. Архитектурни качества](01-03-Architectural-Attributes-And-TradeOffs.md)
 
 ---
 
@@ -86,6 +86,6 @@ server {
         ```
 
 ---
-[01-01. Архитектурни стилове и софтуерни шаблони (Patterns)](01-01-Architectural-Styles-And-Patterns.md) | 📂 Папка: System-Design-And-Software-Architecture | [🏠 Начало (ASP.NET)](../README.md) | [➡️ 01-03. Архитектурни качества](01-03-Architectural-Attributes-And-TradeOffs.md)
+[01-01. Архитектурни стилове и софтуерни шаблони (Patterns)](01-01-Architectural-Styles-And-Patterns.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Главен Хъб на проекта](../README.md) | [➡️ 01-03. Архитектурни качества](01-03-Architectural-Attributes-And-TradeOffs.md)
 
 © 2026 Dev-Library / Системен Дизайн: Мащабируемост и Трафик
