@@ -1,4 +1,4 @@
-[⬅️ 08-01. Мета мениджмънт](08-01-Meta-Management-And-Semantic-SEO.md) | 📂 Папка: 08-Search-Engine-Optimization | [🏠 Начало](../../README.md) | [➡️ 08-03. Инженерен Справочник](08-03-Advanced-SEO-Traps-And-Snippets.md)
+[⬅️ 08-01. Мета мениджмънт](08-01-Meta-Management-And-Semantic-SEO.md) | [📂 Папка: 08-Search-Engine-Optimization](README.md) | [🏠 Начало](../../README.md) | [➡️ 08-03. Инженерен Справочник](08-03-Advanced-SEO-Traps-And-Snippets.md)
 
 ---
 # 08-02. Карти на сайта и Системни контроли: Файловете sitemap.xml и robots.txt
@@ -60,5 +60,5 @@ Sitemap: https://mysite.com
 * 2. Поддържайте XML енкодинга твърдо на UTF-8, за да не се счупи парсването на символите от търсещите машини.
 
 ---
-[⬅️ 08-01. Мета мениджмънт](08-01-Meta-Management-And-Semantic-SEO.md) | 📂 Папка: 08-Search-Engine-Optimization | [🏠 Начало](../../README.md) | [➡️ 08-03. Инженерен Справочник](08-03-Advanced-SEO-Traps-And-Snippets.md)
+[⬅️ 08-01. Мета мениджмънт](08-01-Meta-Management-And-Semantic-SEO.md) | [📂 Папка: 08-Search-Engine-Optimization](README.md) | [🏠 Начало](../../README.md) | [➡️ 08-03. Инженерен Справочник](08-03-Advanced-SEO-Traps-And-Snippets.md)
 ---
