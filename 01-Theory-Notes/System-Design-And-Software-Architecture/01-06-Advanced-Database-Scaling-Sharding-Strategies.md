@@ -1,4 +1,4 @@
-[⬅️ 01-05. Комуникация в Микроуслуги](01-05-Deep-Dive-Microservices-Communication.md) | 📂 Папка: System-Design-And-Software-Architecture | [🏠 Начало (ASP.NET)](../README.md) | [➡️ 01-07. Глобален Системен Пищов](01-07-System-Design-Global-Cheat-Sheet.md)
+[⬅️ 01-05. Комуникация в Микроуслуги](01-05-Deep-Dive-Microservices-Communication.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Главен Хъб на проекта](../README.md) | [➡️ 01-07. Глобален Системен Пищов](01-07-System-Design-Global-Cheat-Sheet.md)
 
 ---
 
@@ -99,6 +99,6 @@ public class ShardRouter
 *   **Как да го избегнеш:** За мащабируеми облачни среди не използвай просто `Modulo %`. Задължително налагай алгоритъма **Consistent Hashing** (чрез разпределяне на ключовете по виртуален софтуерен пръстен), при който добавянето на нов сървър размества и релокира едва $\frac{1}{N}$ от общите данни в паметта, запазвайки останалите 90% непокътнати.
 
 ---
-📂 Папка: System-Design-And-Software-Architecture | [🏠 Начало (ASP.NET)](../README.md) | [➡️ 01-07. Глобален Системен Пищов](01-07-System-Design-Global-Cheat-Sheet.md)
+[⬅️ 01-05. Комуникация в Микроуслуги](01-05-Deep-Dive-Microservices-Communication.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Главен Хъб на проекта](../README.md) | [➡️ 01-07. Глобален Системен Пищов](01-07-System-Design-Global-Cheat-Sheet.md)
 
 © 2026 Dev-Library / Системен Дизайн: Мащабиране и Шардинг
