@@ -1,4 +1,4 @@
-[⬅️ 01-07. Глобален Системен Пищов](01-07-System-Design-Global-Cheat-Sheet.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Главен Хъб на проекта](../README.md)
+[⬅️ 01-07. Глобален Системен Пищов](01-07-System-Design-Global-Cheat-Sheet.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Главен Хъб на проекта](../README.md) | [➡️ 01-09. Визуални Чертежи: Архитектурни Диаграми и Системни Потоци (Blueprints)](01-09-System-Design-Visual-Blueprints.md)
 
 ---
 
@@ -89,6 +89,6 @@
 ```
 
 ---
-[⬅️ 01-07. Глобален Системен Пищов](01-07-System-Design-Global-Cheat-Sheet.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Главен Хъб на проекта](../README.md)
+[⬅️ 01-07. Глобален Системен Пищов](01-07-System-Design-Global-Cheat-Sheet.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Главен Хъб на проекта](../README.md) | [➡️ 01-09. Визуални Чертежи: Архитектурни Диаграми и Системни Потоци (Blueprints)](01-09-System-Design-Visual-Blueprints.md)
 
 © 2026 Dev-Library / Архитектурни Схеми и Визуални Чертежи
