@@ -11,8 +11,11 @@
 ### 🔹 Глава 00: Въведение в курса и инсталация на среди
 *   *Обхваща:* Запознаване с уеб екосистемата и първоначална подготовка на VS Code средите
     *    **[00-00. Увод в уеб екосистемата и Инженерна подготовка на среди](00-00-Course-Introduction-And-Environment-Setup.md)**
+    * [00-01-b. Алтернативни среди за разработка (Visual Studio, Rider, WebStorm, NetBeans, Sublime)](00-01-Alternative-IDEs-And-Enterprise-Tools.md)
+    * *Обхваща:* Пълен сравнителен анализ на водещите 10 среди в индустрията въз основа на GeeksforGeeks одит, класификация на IDE срещу Текстов Редактор, поддържани езици, предимства, недостатъци, видове лицензи (MIT, Shareware, Търговски абонаменти) и овладяване на OutOfMemoryException сривове.
     *    **[00-01. VS Code: Сеньор конфигурация, Бързи клавиши и Custom Снипети](00-01-VS-Code-Senior-Configuration-And-Shortcuts.md)**
     *   **[00-02. Браузърна диагностика и Мрежова интеграция на средите](00-02-Browser-Diagnostics-And-Environment-Integration.md)**
+    *    **[00-03. VS Code: Сеньор конфигурация, Бързи клавиши и Custom Снипети](00-03-VS-Code-Senior-Configuration-And-Shortcuts.md)**
 
 ### 🔹 Глава 01: Въведение в HTML и CSS
 *   **[01-00. Въведение в HTML и CSS (Теория и Упражнения)](01-00-Introduction-to-HTML-and-CSS.md)**
