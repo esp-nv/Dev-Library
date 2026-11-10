@@ -8,26 +8,17 @@
 
 ## 🧭 Официален Индекс на Подмодулите
 
-### 🔹 Глава 00: Въведение в курса и инсталация на среди
-*   *Обхваща:* Запознаване с уеб екосистемата и първоначална подготовка на VS Code средите
-    *    **[00-00. Увод в уеб екосистемата и Инженерна подготовка на среди](00-00-Course-Introduction-And-Environment-Setup.md)**
-    * [00-01. Алтернативни среди за разработка (Visual Studio, Rider, WebStorm, NetBeans, Sublime)](00-01-Alternative-IDEs-And-Enterprise-Tools.md)
-    * *Обхваща:* Пълен сравнителен анализ на водещите 10 среди в индустрията въз основа на GeeksforGeeks одит, класификация на IDE срещу Текстов Редактор, поддържани езици, предимства, недостатъци, видове лицензи (MIT, Shareware, Търговски абонаменти) и овладяване на OutOfMemoryException сривове.
-    *    **[00-01. VS Code: Сеньор конфигурация, Бързи клавиши и Custom Снипети](00-01-VS-Code-Senior-Configuration-And-Shortcuts.md)**
-    *   **[00-02. Браузърна диагностика и Мрежова интеграция на средите](00-02-Browser-Diagnostics-And-Environment-Integration.md)**
-    *    **[00-03. VS Code: Сеньор конфигурация, Бързи клавиши и Custom Снипети](00-03-VS-Code-Senior-Configuration-And-Shortcuts.md)**
 
-### 🔹 Глава 01: Въведение в HTML и CSS
-*   **[01-00. Въведение в HTML и CSS (Теория и Упражнения)](01-00-Introduction-to-HTML-and-CSS.md)**
+
+*   **[00. Въведение в курса и инсталация на среди](00-Course-Introduction.md)**
+    *   *Обхваща:* Пълен сравнителен одит на 10 среди според GeeksforGeeks, предимства, недостатъци, лицензи (MIT, Shareware), сеньор VS Code shortcuts, автоматични JSON снипети, Side-by-Side организация на екрана и трикове против пропадане на браузърния кеш.
+
+*   **[01. Въведение в HTML и CSS (Теория и Упражнения)](01-Introduction-to-HTML-and-CSS.md)**
     *   *Обхваща:* Анатомия на HTML таговете, базов Boilerplate скелет, семантични елементи, първи стъпки в CSS и изпитни Judge задачи.
-    *   **[01-01. Глобален уеб справочник за HTML тагове и техните атрибути](01-01-HTML-Tags-And-Attributes-Full-Reference.md)**
-    *   **[01-02. Напреднал CSS: Атрибутни селектори, Псевдо-класове и Display свойства](01-02-CSS-Advanced-Selectors-And-Display-Properties.md)**
-    *   **[01-03. Позициониране в CSS (Positioning Mechanics — Relative, Absolute, Fixed, Sticky)](01-03-CSS-Positioning-And-Layout-Isolation.md)**
-    *   **[01-04. Изпитни спецификации: Текстови тагове за данни и CSS Променливи (:root)](01-04-Specific-Data-Tags-And-Variables.md)**
-    *   **[01-05. Интерактивен уеб: Улавяне на Event Събития (HTML Атрибути и DOM Listeners)](01-05-DOM-Events-And-Web-Interactivity.md)**
 
-*   **[02. CSS Box Model и Типография (Теория и Упражнения)](02-CSS-Box-Model-and-Typography.md)**
-    *   *Обхваща:* Кутиен модел (Margin, Border, Padding), размери, шрифтове, свойства на текста и DevTools Box Model дебъгване.
+*  *   **[02. CSS Box Model и Типография (Пълен Справочник)](02-Box-Model-And-Typography/README.md)**
+    *   *Обхваща:* Декуплиран пакет от 4 наръчника (`02-00` до `02-03`) — пикселна анатомия на кутиите, предпазители против визуални сривове през `border-box`, закони на `rem` типографията, Chrome DevTools инспекция и готови продуктови Snippets.
+
 
 *   **[03. CSS Layout — Flexbox (Теория и Упражнения)](03-CSS-Layout-Flexbox.md)**
     *   *Обхваща:* Двуизмерно подреждане на елементи през Flex Container и Flex Items, свойства за подравняване и готови CSS структури.
