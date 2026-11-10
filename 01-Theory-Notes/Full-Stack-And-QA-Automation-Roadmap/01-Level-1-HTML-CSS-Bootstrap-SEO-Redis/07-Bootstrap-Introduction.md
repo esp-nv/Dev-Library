@@ -1,4 +1,4 @@
-[⬅️ Назад към Индекса](README.md) | 📂 Папка: 07-Bootstrap-Framework | [🏠 Начало](../../README.md)| [➡️ 07-00. Bootstrap Основи](07-Bootstrap-Framework/README.md)
+[⬅️ Назад към Индекса](README.md) | [📂 Папка: 07-Bootstrap-Framework](07-Bootstrap-Framework/README.md) | [🏠 Начало](../../README.md)| [➡️ 07-00. Bootstrap Основи](07-Bootstrap-Framework/README.md)
 
 
 # 07-00-a. Въведение в Bootstrap: Еволюция на уеб рамките и Архитектурен подход
@@ -34,4 +34,4 @@ Bootstrap (първоначално създаден от инженери в Tw
 1. Пълно премахване на jQuery: Всички интерактивни уеб компоненти (Dropdowns, Modals) вече се задвижват от чист, бърз и нативен JavaScript (Vanilla JS), което разтоварва паметта на браузъра и улеснява интеграцията с ASP.NET Core среди.
 2. Задвижван от CSS Променливи (Custom Properties): Цялата цветова палитра и стилове са изнесени в :root променливи, което отключва светкавично превключване между Светла и Тъмна тема (Dark Mode) в реално време само чрез промяна на един HTML атрибут.
 ---
-[⬅️ Назад към Индекса](README.md) | 📂 Папка: 07-Bootstrap-Framework | [🏠 Начало](../../README.md)| [➡️ 07-00. Bootstrap Основи](07-Bootstrap-Framework/README.md)
+[⬅️ Назад към Индекса](README.md) | [📂 Папка: 07-Bootstrap-Framework](07-Bootstrap-Framework/README.md)| [🏠 Начало](../../README.md)| [➡️ 07-00. Bootstrap Основи](07-Bootstrap-Framework/README.md)
