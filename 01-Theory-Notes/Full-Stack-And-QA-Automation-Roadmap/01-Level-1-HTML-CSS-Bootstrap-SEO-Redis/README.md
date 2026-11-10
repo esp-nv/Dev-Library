@@ -8,16 +8,20 @@
 
 ## 🧭 Официален Индекс на Подмодулите
 
-*   **[00. Въведение в курса и инсталация на среди](00-Course-Introduction.md)**
-    *   *Обхваща:* Запознаване с уеб екосистемата и първоначална подготовка на VS Code средите.
+### 🔹 Глава 00: Въведение в курса и инсталация на среди
+*   *Обхваща:* Запознаване с уеб екосистемата и първоначална подготовка на VS Code средите
+    *    **[00-00. Увод в уеб екосистемата и Инженерна подготовка на среди](00-00-Course-Introduction-And-Environment-Setup.md)**
+    *    **[00-01. VS Code: Сеньор конфигурация, Бързи клавиши и Custom Снипети](00-01-VS-Code-Senior-Configuration-And-Shortcuts.md)**
+    *   **[00-02. Браузърна диагностика и Мрежова интеграция на средите](00-02-Browser-Diagnostics-And-Environment-Integration.md)**
 
+### 🔹 Глава 01: Въведение в HTML и CSS
 *   **[01-00. Въведение в HTML и CSS (Теория и Упражнения)](01-00-Introduction-to-HTML-and-CSS.md)**
     *   *Обхваща:* Анатомия на HTML таговете, базов Boilerplate скелет, семантични елементи, първи стъпки в CSS и изпитни Judge задачи.
-        *   **[01-01. Глобален уеб справочник за HTML тагове и техните атрибути](01-01-HTML-Tags-And-Attributes-Full-Reference.md)**
-         *   **[01-02. Напреднал CSS: Атрибутни селектори, Псевдо-класове и Display свойства](01-02-CSS-Advanced-Selectors-And-Display-Properties.md)**
-         *   **[01-03. Позициониране в CSS (Positioning Mechanics — Relative, Absolute, Fixed, Sticky)](01-03-CSS-Positioning-And-Layout-Isolation.md)**
-        *   **[01-04. Изпитни спецификации: Текстови тагове за данни и CSS Променливи (:root)](01-04-Specific-Data-Tags-And-Variables.md)**
-        *   **[01-05. Интерактивен уеб: Улавяне на Event Събития (HTML Атрибути и DOM Listeners)](01-05-DOM-Events-And-Web-Interactivity.md)**
+    *   **[01-01. Глобален уеб справочник за HTML тагове и техните атрибути](01-01-HTML-Tags-And-Attributes-Full-Reference.md)**
+    *   **[01-02. Напреднал CSS: Атрибутни селектори, Псевдо-класове и Display свойства](01-02-CSS-Advanced-Selectors-And-Display-Properties.md)**
+    *   **[01-03. Позициониране в CSS (Positioning Mechanics — Relative, Absolute, Fixed, Sticky)](01-03-CSS-Positioning-And-Layout-Isolation.md)**
+    *   **[01-04. Изпитни спецификации: Текстови тагове за данни и CSS Променливи (:root)](01-04-Specific-Data-Tags-And-Variables.md)**
+    *   **[01-05. Интерактивен уеб: Улавяне на Event Събития (HTML Атрибути и DOM Listeners)](01-05-DOM-Events-And-Web-Interactivity.md)**
 
 *   **[02. CSS Box Model и Типография (Теория и Упражнения)](02-CSS-Box-Model-and-Typography.md)**
     *   *Обхваща:* Кутиен модел (Margin, Border, Padding), размери, шрифтове, свойства на текста и DevTools Box Model дебъгване.
