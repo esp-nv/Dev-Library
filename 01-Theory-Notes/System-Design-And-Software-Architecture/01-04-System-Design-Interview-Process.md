@@ -1,4 +1,4 @@
-[⬅️ 01-03. Архитектурни качества](01-03-Architectural-Attributes-And-TradeOffs.md) | 📂 Папка: System-Design-And-Software-Architecture | [🏠 Начало (ASP.NET)](../README.md)
+[⬅️  01-03. Architectural Principles, Attributes and Trade-offs (Архитектурни принципи)](01-03-Architectural-Attributes-And-TradeOffs.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md) | [🏠 Главен Хъб на проекта](../README.md) | [➡️ 01-05. Дълбоко гмуркане: Комуникация между Микроуслуги (gRPC срещу RabbitMQ)](01-05-Deep-Dive-Microservices-Communication.md)
 
 ---
 
@@ -82,6 +82,6 @@
 *   **Как да го избегнеш:** **Никога не оставяй отворен GET списък без лимит!** Още по време на Етап 2 (Дефиниране на API) налагай задължителни твърди параметри за пагинация (`page` и `pageSize`), ограничавайки максималния брой извлечени редове до безопасни размери (напр. до 50 или 100 реда на заявка).
 
 ---
-📂 Папка: System-Design-And-Software-Architecture | [🏠 Начало (ASP.NET)](../README.md)
+[⬅️  01-03. Architectural Principles, Attributes and Trade-offs (Архитектурни принципи)](01-03-Architectural-Attributes-And-TradeOffs.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md) | [🏠 Главен Хъб на проекта](../README.md) | [➡️ 01-05. Дълбоко гмуркане: Комуникация между Микроуслуги (gRPC срещу RabbitMQ)](01-05-Deep-Dive-Microservices-Communication.md)
 
 © 2026 Dev-Library / Системен Дизайн: Процеси и Алгоритми на Проектиране
