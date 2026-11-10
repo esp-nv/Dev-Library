@@ -1,4 +1,4 @@
-[📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Начало (ASP.NET)](../README.md) | [➡️ 01-02. Мащабируемост и Скейлинг](01-02-Scalability-And-Load-Balancing.md)
+[📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Главен Хъб на проекта](../README.md) | [➡️ 01-02. Мащабируемост и Скейлинг](01-02-Scalability-And-Load-Balancing.md)
 
 ---
 
@@ -111,6 +111,6 @@ public class OrderApiController : ControllerBase
 *   **Как да го поправиш (Архитектурно решение):** Обвий мрежовите повиквания в защитни блокове през патeрна **Circuit Breaker** (използвайки библиотека `Polly` в .NET). Ако съседният сървър спре да отговаря 3 пъти подред, софтуерният предпазител „изключва“ автоматично. Вместо да крашва и да товари мрежата, приложението незабавно връща капсулиран кеширан отговор, предпазвайки системата от верижен срив.
 
 ---
-[📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Начало (ASP.NET)](../README.md) | [➡️ 01-02. Мащабируемост и Скейлинг](01-02-Scalability-And-Load-Balancing.md)
+[📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Главен Хъб на проекта](../README.md) | [➡️ 01-02. Мащабируемост и Скейлинг](01-02-Scalability-And-Load-Balancing.md)
 
 © 2026 Dev-Library / Системен Дизайн: Архитектурни Стилистики
