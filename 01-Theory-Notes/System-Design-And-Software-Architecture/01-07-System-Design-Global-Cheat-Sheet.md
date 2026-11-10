@@ -1,4 +1,4 @@
-[⬅️ 01-06. Стратегии за Шардинг](01-06-Advanced-Database-Scaling-Sharding-Strategies.md) | 📂 Папка: System-Design-And-Software-Architecture | [🏠 Начало (ASP.NET)](../README.md) | [➡️ 01-08. Системни чертежи: Диаграми на архитектурата и софтуерни потоци](01-08-System-Architecture-Visual-Blueprints.md)
+[⬅️ 01-06. Стратегии за Шардинг](01-06-Advanced-Database-Scaling-Sharding-Strategies.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Главен Хъб на проекта](../README.md) [➡️ 01-08. Системни чертежи: Диаграми на архитектурата и софтуерни потоци](01-08-System-Architecture-Visual-Blueprints.md)
 
 ---
 
@@ -70,6 +70,6 @@
 | `The required antiforgery cookie is not present.` | Наложила си глобален `AutoValidateAntiforgeryToken`, но външен AJAX/Postman клиент праща `POST` без токен. | Настройте Antiforgery услугата в `Program.cs` да търси криптографския ключ в HTTP Headers на пакета: `options.HeaderName = "X-XSRF-TOKEN"`. |
 
 ---
-📂 Папка: System-Design-And-Software-Architecture | [🏠 Начало (ASP.NET)](../README.md) | [➡️ 01-08. Системни чертежи: Диаграми на архитектурата и софтуерни потоци](01-08-System-Architecture-Visual-Blueprints.md)
+[⬅️ 01-06. Стратегии за Шардинг](01-06-Advanced-Database-Scaling-Sharding-Strategies.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Главен Хъб на проекта](../README.md) [➡️ 01-08. Системни чертежи: Диаграми на архитектурата и софтуерни потоци](01-08-System-Architecture-Visual-Blueprints.md)
 
 © 2026 Dev-Library / Справочник: Глобален Системен Пищов
