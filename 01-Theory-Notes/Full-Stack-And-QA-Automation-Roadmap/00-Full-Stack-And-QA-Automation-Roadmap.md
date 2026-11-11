@@ -59,8 +59,8 @@
 *   **[04. Адаптивен дизайн (Responsive Web Design): Интервю Cheat Sheet & Reference Guide](04-Responsive-Web-Design.md)**
 *   **[05. Работа с Уеб Форми (Working with Forms)](05-Working-with-Forms.md)**
 *   **[06. Модерен Tailwind CSS (Теория и Упражнения)](06-Tailwind-CSS.md)**
-*   **[07-Работа с Bootstrap v5.3](01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/07-Bootstrap-Introduction.md)
-*   **[08. Въведение в SEO: Бизнес роля, еволюция на алгоритмите и увод в On-Page и Off-Page оптимизацията](01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/08-SEO-Intro.md)
+*   **[07-Работа с Bootstrap v5.3](01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/07-Bootstrap-Introduction.md)**
+*   **[08. Въведение в SEO: Бизнес роля, еволюция на алгоритмите и увод в On-Page и Off-Page оптимизацията](01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/08-SEO-Intro.md)**
 *   **[09-00. Въведение в Redis: Бизнес роля, Еволюция на NoSQL и Кеш нивата](01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/09-Redis-Intro.md)**
 *   **[10. Подготовка за Изпит и Изпитни задачи (Exam Preparation)](10-Exam-Preparation.md)**
 
