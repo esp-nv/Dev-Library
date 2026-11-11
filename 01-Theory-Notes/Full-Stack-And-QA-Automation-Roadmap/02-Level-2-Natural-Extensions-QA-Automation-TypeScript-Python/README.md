@@ -9,14 +9,14 @@
 ## 🧭 Директория на Технологичните Модули
 
 ### 📂 1. QA-Automation/
-*   **[Lectures/](1-QA-Automation/Lectures/)** ➔ Чистите лекции по подточки (WebDriver среди, XPath стратегии, селектори).
-*   **[Interview-Handbook/](1-QA-Automation/Interview-Handbook/)** ➔ Единен мащабен Справочник за Flaky тестове и синхронизационни капани.
-*   **[Cheat-Sheet/](1-QA-Automation/Cheat-Sheet/)** ➔ Бързи синтактични таблици за локатори и готови тестови скриптове.
+*   **[Lectures/](01-QA-Automation/Lectures/)** ➔ Чистите лекции по подточки (WebDriver среди, XPath стратегии, селектори).
+*   **[Interview-Handbook/](01-QA-Automation/Interview-Handbook/)** ➔ Единен мащабен Справочник за Flaky тестове и синхронизационни капани.
+*   **[Cheat-Sheet/](01-QA-Automation/Cheat-Sheet/)** ➔ Бързи синтактични таблици за локатори и готови тестови скриптове.
 
 ### 📂 2. TypeScript-Language/
-*   **[Lectures/](2-TypeScript-Language/Lectures/)** ➔ Статичен анализ, Interfaces, Types, компилационни нишки и `tsconfig.json`.
-*   **[Interview-Handbook/](2-TypeScript-Language/Interview-Handbook/)** ➔ Единен Справочник за Type Erasure и Runtime аномалии.
-*   **[Cheat-Sheet/](2-TypeScript-Language/Cheat-Sheet/)** ➔ Пищови за строги модификатори и готови типови декларации.
+*   **[Lectures/](02-TypeScript-Language/Lectures/)** ➔ Статичен анализ, Interfaces, Types, компилационни нишки и `tsconfig.json`.
+*   **[Interview-Handbook/](02-TypeScript-Language/Interview-Handbook/)** ➔ Единен Справочник за Type Erasure и Runtime аномалии.
+*   **[Cheat-Sheet/](02-TypeScript-Language/Cheat-Sheet/)** ➔ Пищови за строги модификатори и готови типови декларации.
 
 ### 📂 3. Python-Scripting/
 *   **[Lectures/](3-Python-Scripting/Lectures/)** ➔ Динамично типизиране, обработка на данни (JSON/CSV) и Pip среди.
