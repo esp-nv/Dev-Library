@@ -8,7 +8,10 @@
 
 ## 🧭 Навигация на TypeScript Слоевете
 
+
 ### 📂 Секция 1: Темите от лекциите (Атомарни подточки в /Lectures)
+*   **[02-00. TypeScript срещу JavaScript: Архитектурно сравнение, Предимства и Недостатъци](02-00-TypeScript-vs-JavaScript.md)**
+    *   *Обхваща:* Фундаментални разлики между JS и TS, сравнителна таблица, плюсове и минуси на двата езика и точни сценарии кога да избереш единия или другия.
 *   **[02-01. Въведение в TypeScript и Конфигурация на среди](02-01-Introduction-to-TypeScript.md)**
     *   *Обхваща:* Компилация, статичен анализ, `tsconfig.json` и базови типове (`string`, `number`, `boolean`).
 *   **[02-02. Разширени видове данни: Обединения, Алиаси и Кортежи](02-02-Advanced-Data-Types.md)**
@@ -27,6 +30,9 @@
 ### 📂 Секция 3: Финален Пищов (Cheat Sheet & Reference Guide в /Cheat-Sheet)
 *   **[02-07. Глобален Изпитен и Интервю Cheat Sheet & Reference Guide](02-07-TypeScript-Cheat-Sheet.md)**
     *   *Обхваща:* Бързи синтактични таблици за утилити типове (`Partial`, `Pick`, `Omit`) и готов за внедряване асинхронен TypeScript софтуерен компонент.
+
+*   **[02-08. TypeScript Deep Dive: Инсталация, Настройка и Напреднали Концепции](02-08-TypeScript-Deep-Dive-Addendum.md)**
+    *   *Обхваща:* Инсталация (`tsc`, `ts-node`), настройка на `tsconfig.json` и `launch.json` за VS Code Debugging, `satisfies`, `as const`, `keyof`, Mapped Types, Method Overloads, Conditional Types и `reflect-metadata`.
 
 ---
 © 2026 Dev-Library / TypeScript Екосистема & Софтуерна Архитектура
