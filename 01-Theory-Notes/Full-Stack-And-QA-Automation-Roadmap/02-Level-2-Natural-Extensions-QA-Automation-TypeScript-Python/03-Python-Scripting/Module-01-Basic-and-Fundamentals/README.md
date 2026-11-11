@@ -36,3 +36,6 @@
 *   **01-09. Regular Expressions**
     *   📄 [Теория, Regex Двигател & Интервю Капани](01-09-00-Regular-Expressions.md)
     *   🛠️ [Syntax-From-Scratch & Cheat Sheet](01-09-01-Syntax-From-Scratch.md)
+
+---
+© 2026 Dev-Library / Module 01: Python Basic and Fundamentals
