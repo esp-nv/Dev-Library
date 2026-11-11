@@ -12,6 +12,7 @@
 * [3. Диагностика в Chrome DevTools: Прозорците Computed и Styles](#3-диагностика-в-chrome-devtools-прозорците-computed-и-styles)
 * [4. Системни капани: Счупени размери (The Width Crash) и Пропадане на полета](#4-системни-капани-счупени-размери-the-width-crash-и-пропадане-на-полета)
 * [5. MODULE CHEAT SHEET & ГОТОВИ UI SNIPPETS (Копируеми кубчета)](#5-module-cheat-sheet-готови-ui-snippets-копируеми-кубчета)
+* [6. Детайлни подмодули към Глава 02](#6-детайлни-подмодули-към-глава-02)
 
 ---
 
@@ -168,6 +169,13 @@ $$\text{Total Width} = 300\text{px} + 20\text{px} + 20\text{px} + 5\text{px} + 5
 </style>
 ```
 ---
+
+## 6. Детайлни подмодули към Глава 02
+
+
+
+---
+
 [⬅️ 01. Въведение в HTML и CSS](01-Introduction-to-HTML-and-CSS.md) | [📂 Папка: HTML-and-CSS](README.md)  | [🏠 Начало](../../README.md) | [➡️ 03. CSS Layout — Flexbox](03-CSS-Layout-Flexbox.md)
 
 ---
