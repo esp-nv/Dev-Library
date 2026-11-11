@@ -1,8 +1,8 @@
-[⬅️ Назад към Индекса](../README.md) | 📂 Папка: 1-QA-Automation/Lectures | [🏠 Начало](../../../README.md) | [➡️ 10-01. DOM Селектори](10-01-DOM-Selectors-And-XPath-Strategies.md)
+[⬅️ Назад към Индекса](../README.md) | [📂 Папка: 01-QA-Automation](README.md) | [🏠 Начало](../../README.md) | [➡️ 01-01. DOM Селектори](10-01-DOM-Selectors-And-XPath-Strategies.md)
 
 ---
 
-# 10-00. QA Automation: Автоматизирано тестване с WebDriver и жизнени цикли
+# 01-00. QA Automation: Автоматизирано тестване с WebDriver и жизнени цикли
 
 **Модул 10:** QA Automation | **Лекционна тема 01:** Теория на автоматизацията, еволюция на тестването, Selenium и Playwright архитектурни модели и WebDriver нишки.
 
@@ -42,4 +42,4 @@
 *   **Разрушаване (Teardown):** Задължителна софтуерна хигиена — сесията се затваря през метода `.Quit()`, процесът се убива от Task Manager-а и RAM паметта се освобождава.
 
 ---
-[⬅️ Назад към Индекса](../README.md) | 📂 Папка: 1-QA-Automation/Lectures | [🏠 Начало](../../../README.md) | [➡️ 10-01. DOM Селектори](01-01-DOM-Selectors-And-XPath-Strategies.md)
+[⬅️ Назад към Индекса](../README.md) | [📂 Папка: 01-QA-Automation](README.md) | [🏠 Начало](../../README.md) | [➡️ 01-01. DOM Селектори](10-01-DOM-Selectors-And-XPath-Strategies.md)
