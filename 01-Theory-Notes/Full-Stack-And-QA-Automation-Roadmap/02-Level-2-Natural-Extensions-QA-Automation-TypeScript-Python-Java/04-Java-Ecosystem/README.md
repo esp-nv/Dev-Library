@@ -4,7 +4,7 @@
 
 # ☕ Java & Spring Boot Ecosystem (Пълен Архитектурен Справочник)
 
-Пълна учебна пътека по **Java 21+**, **Spring Data JPA (Hibernate)**, **Spring Fundamentals** и **Spring Advanced**, съобразена с учебните планове на SoftUni. Всяка тема е написана чрез директно архитектурно сравнение с **C# (.NET / ASP.NET Core)** и **Python (Django)**, придружена от чист синтаксис от нулата, Cheat Sheets, ASCII схеми и интервю капани.
+Пълна учебна пътека по **Java 21+**, **Spring Data JPA (Hibernate)**, **Spring Fundamentals** и **Spring Advanced**. Всяка тема е написана чрез директно архитектурно сравнение с **C# (.NET / ASP.NET Core)** и **Python (Django)**, придружена от чист синтаксис от нулата, Cheat Sheets, ASCII схеми и интервю капани.
 
 ## 🧭 Модулна структура
 
