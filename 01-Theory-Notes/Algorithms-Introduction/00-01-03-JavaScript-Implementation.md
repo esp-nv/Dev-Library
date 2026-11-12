@@ -1,4 +1,4 @@
-[⬅️ 00-01-02. C# Implementation](00-01-02-CSharp-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-02-00. Searching Algorithms](00-02-00-Searching-Algorithms.md)
+[⬅️ 00-01-02. C# Implementation](00-01-02-CSharp-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-01-04-Java-Implementation.md](00-01-04-Java-Implementation.md)
 
 ---
 
@@ -121,4 +121,4 @@ generateVectors(3);
 | **Обработка на препълване** | `try { ... } catch (e)` | Хваща `RangeError: Maximum call stack size exceeded` |
 
 ---
-[⬅️ 00-01-02. C# Implementation](00-01-02-CSharp-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-02-00. Searching Algorithms](00-02-00-Searching-Algorithms.md)
+[⬅️ 00-01-02. C# Implementation](00-01-02-CSharp-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-01-04-Java-Implementation.md](00-01-04-Java-Implementation.md)

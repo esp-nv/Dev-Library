@@ -1,4 +1,4 @@
-[⬅️ 00-06-02. C# Implementation](00-06-02-CSharp-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [🏠 Към Главния Хъб на Библиотеката](../README.md)
+[⬅️ 00-06-02. C# Implementation](00-06-02-CSharp-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [🏠 Към Главния Хъб на Библиотеката](../README.md)| [➡️ 00-06-04-Java-Implementation.md](00-06-04-Java-Implementation.md)
 
 ---
 
@@ -86,4 +86,4 @@ console.log(knapsack01(7, , )); // 9
 | **Кеш за Memoization** | `const memo = new Map();` | По-бърз от обикновен `{}` при чести записи |
 
 ---
-[⬅️ 00-06-02. C# Implementation](00-06-02-CSharp-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [🏠 Към Главния Хъб на Библиотеката](../README.md)
+[⬅️ 00-06-02. C# Implementation](00-06-02-CSharp-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [🏠 Към Главния Хъб на Библиотеката](../README.md) | [➡️ 00-06-04-Java-Implementation.md](00-06-04-Java-Implementation.md)

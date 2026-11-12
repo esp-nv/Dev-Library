@@ -1,4 +1,4 @@
-[⬅️ 00-03-02. C# Implementation](00-03-02-CSharp-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-04-00. Greedy Algorithms](00-04-00-Greedy-Algorithms.md)
+[⬅️ 00-03-02. C# Implementation](00-03-02-CSharp-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-03-04-Java-Implementation.md](00-03-04-Java-Implementation.md)
 
 ---
 
@@ -129,4 +129,4 @@ names.sort((a, b) => a.localeCompare(b, "bg"));
 | **Сортиране на текст (Азбучно)** | `arr.sort((a, b) => a.localeCompare(b))` | Отчита правилно кирилица и главни букви |
 
 ---
-[⬅️ 00-03-02. C# Implementation](00-03-02-CSharp-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-04-00. Greedy Algorithms](00-04-00-Greedy-Algorithms.md)
+[⬅️ 00-03-02. C# Implementation](00-03-02-CSharp-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-03-04-Java-Implementation.md](00-03-04-Java-Implementation.md)

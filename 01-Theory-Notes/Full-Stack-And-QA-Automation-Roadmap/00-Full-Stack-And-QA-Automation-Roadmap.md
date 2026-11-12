@@ -8,7 +8,7 @@
 
 ## 🧭 Нива на трудност и Навигация
 * [1. Ниво 1: Бързите победи (HTML, CSS, Bootstrap, SEO, Redis)](#1-ниво-1-бързите-победи-най-лесни)
-* [2. Ниво 2: Естествени разширения (QA Automation, TypeScript, Python)](#2-ниво-2-естествени-разширения-умерено-лесни)
+* [2. Ниво 2: Естествени разширения (QA Automation, TypeScript, Python/Django,Java/Spring Boot)](#2-ниво-2-естествени-разширения-умерено-лесни)
 * [3. Ниво 3: Промяна на мисленето (JavaScript, Node.js, Docker, React)](#3-ниво-3-промяна-на-мисленето-предизвикателни)
 * [4. Ниво 4: Облачна архитектура (Angular, AWS, Apache Kafka)](#4-ниво-4-облачна-архитектура-най-трудни)
 
@@ -120,6 +120,23 @@
 
 ### 🟡 Python (General-Purpose Scripting)
 *   **Употреба:** Чист, лесен за четене език без скоби `{}` за Data Science, автоматизации и скриптове.
+---
+
+### 🟡 Java & Spring Boot (Корпоративен ООП Език)
+*   **Употреба:** Строго-типизиран, компилиран ООП език за високопроизводителни бекенд системи и микроуслуги. Синтаксисът и Spring Boot архитектурата съвпадат почти 1:1 с C# и ASP.NET Core.
+*   **Синтактичен пример (Java Клас и Spring REST Контролер):**
+    ```java
+    @RestController
+    @RequestMapping("/api/users")
+    public class UserController {
+        @GetMapping("/{id}")
+        public ResponseEntity<String> getUser(@PathVariable int id) {
+            return ResponseEntity.ok("Потребител #" + id);
+        }
+    }
+    ```
+*   **Точно съобщение за грешка (Exception) и Фикс:** `NullPointerException: Cannot invoke "..." because "..." is null`. Винаги проверявайте за `null` или използвайте `Optional<T>` (аналог на nullable типовете `string?` в C#).
+
 
 ---
 
@@ -127,20 +144,28 @@
 
 *Изискват преминаване от компилиран ООП свят към динамични, събитийни среди и управление на състояния.*
 
-### 🟠 JavaScript & Node.js (Нетипизиран асинхронен свят)
-*   **Употреба:** Бекенд изпълнение на JS код извън браузъра чрез асинхронни събитийни цикли (Event Loops).
+### 🟠 JavaScript, SPA & Node.js (Нетипизиран асинхронен свят)
+*   **Употреба:** Изграждане на динамични **Single Page Applications (SPA)** в браузъра (Client-Side Routing, History API, Fetch заявки без рефреш) и бекенд в Node.js чрез Event Loops.
+*   **Синтактичен пример (Vanilla JS SPA Router с History API и Fetch):**
+    ```javascript
+    async function navigateTo(url) {
+        history.pushState(null, null, url);
+        const response = await fetch(`/api${url}`);
+        const data = await response.json();
+        document.getElementById("app").innerHTML = `<h1>${data.title}</h1>`;
+    }
+    ```
 *   **Синтактичен пример (Node.js HTTP Сървър):**
     ```javascript
     const http = require('http');
-
     const server = http.createServer((req, res) => {
         res.writeHead(200, { 'Content-Type': 'application/json' });
         res.end(JSON.stringify({ status: "success", data: "Hello from Node.js" }));
     });
-
     server.listen(3000, () => console.log("Server running on port 3000"));
     ```
-
+*   **Системен капан и Решение:** `TypeError: Cannot read properties of undefined` или `404 Not Found` при рефреш на SPA. Използвайте Optional Chaining (`user?.profile?.name`) и конфигурирайте сървъра да пренасочва SPA пътищата към `index.html`.
+---
 ### 🟠 Docker (Контейнеризация)
 *   **Употреба:** Изолиране на софтуерното приложение заедно с неговата операционна среда в лек, преносим контейнер.
 *   **Синтактичен пример (Dockerfile за .NET приложение):**

@@ -1,4 +1,4 @@
-[⬅️ 00-04-02. C# Implementation](00-04-02-CSharp-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-05-00. Graphs and Traversal](00-05-00-Graphs-And-Traversal.md)
+[⬅️ 00-04-02. C# Implementation](00-04-02-CSharp-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-04-04-Java-Implementation.md](00-04-04-Java-Implementation.md)
 
 ---
 
@@ -110,4 +110,4 @@ console.log(fractionalKnapsack(50, loot)); // 240
 | **Начална граница за минимум** | `let lastEnd = -Infinity;` | Гарантира, че първият интервал винаги влиза |
 
 ---
-[⬅️ 00-04-02. C# Implementation](00-04-02-CSharp-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-05-00. Graphs and Traversal](00-05-00-Graphs-And-Traversal.md)
+[⬅️ 00-04-02. C# Implementation](00-04-02-CSharp-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-04-04-Java-Implementation.md](00-04-04-Java-Implementation.md)

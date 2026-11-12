@@ -1,4 +1,4 @@
-[⬅️ 00-02-02. C# Implementation](00-02-02-CSharp-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-03-00. Sorting Algorithms](00-03-00-Sorting-Algorithms.md)
+[⬅️ 00-02-02. C# Implementation](00-02-02-CSharp-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-02-04-Java-Implementation.md](00-02-04-Java-Implementation.md)
 
 ---
 
@@ -103,4 +103,4 @@ console.log(findFirstOccurrence([1, 4, 4, 4, 9], 4)); // Изход: 1
 | **Вграден Binary Search** | *Няма* | Имплементира се ръчно за $O(\log n)$ |
 
 ---
-[⬅️ 00-02-02. C# Implementation](00-02-02-CSharp-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-03-00. Sorting Algorithms](00-03-00-Sorting-Algorithms.md)
+[⬅️ 00-02-02. C# Implementation](00-02-02-CSharp-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-02-04-Java-Implementation.md](00-02-04-Java-Implementation.md)
