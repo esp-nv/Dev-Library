@@ -1,27 +1,26 @@
-[📂 Назад към Главния Индекс](../../README.md) | [🏠 Начало](../../README.md)
+[🏠 Главен Хъб на проекта](../../README.md) | [📂 Отиди в Системен Дизайн](../../System-Design-And-Software-Architecture/README.md) | [▶️ Започни от QA Automation](01-QA-Automation/README.md)
 
 ---
 
-# Ниво 2: Естествени разширения (QA Automation, TypeScript, Python)
+# Модул: Ниво 2 — Естествени разширения (QA Automation, TypeScript, Python & Java)
 
-Добре дошла в архитектурното ядро на Ниво 2. Този раздел е посветен на софтуерното разширение на твоята инженерна кариера, обхващайки автоматизацията на качеството (QA), строгата типизация (TypeScript) и системния скриптинг (Python). Съдържанието е декуплирано в три независими технологични папки за перфектна мащабируемост.
+Добре дошли в официалния практически и теоретичен атлас на Ниво 2. Този сектор съдържа детайлно структурирани материали, надграждащи .NET и ООП мисловния модел върху четири ключови индустриални технологии. Всеки подмодул съдържа теоретична диагностика на паметта, архитектурни блок-схеми, реални капани, индивидуален Cheat Sheet и готови кодови кубчета (Snippets).
 
-## 🧭 Директория на Технологичните Модули
+## 🧭 Официален Индекс на Подмодулите
 
-### 📂 1. QA-Automation/
-*   **[Lectures/](01-QA-Automation/Lectures/)** ➔ Чистите лекции по подточки (WebDriver среди, XPath стратегии, селектори).
-*   **[Interview-Handbook/](01-QA-Automation/Interview-Handbook/)** ➔ Единен мащабен Справочник за Flaky тестове и синхронизационни капани.
-*   **[Cheat-Sheet/](01-QA-Automation/Cheat-Sheet/)** ➔ Бързи синтактични таблици за локатори и готови тестови скриптове.
+*   **[01. QA Automation (C# + Selenium WebDriver + NUnit + Jira)](01-QA-Automation/README.md)**
+    *   *Обхваща:* Изграждане на автоматизирани End-to-End уеб тестове с C# и Selenium WebDriver, архитектурен шаблон Page Object Model (POM), устойчиви CSS и XPath селектори, Explicit Waits срещу Flaky тестове, диагностика на грешки и професионално докладване на дефекти в Jira.
 
-### 📂 2. TypeScript-Language/
-*   **[Lectures/](02-TypeScript-Language/Lectures/)** ➔ Статичен анализ, Interfaces, Types, компилационни нишки и `tsconfig.json`.
-*   **[Interview-Handbook/](02-TypeScript-Language/Interview-Handbook/)** ➔ Единен Справочник за Type Erasure и Runtime аномалии.
-*   **[Cheat-Sheet/](02-TypeScript-Language/Cheat-Sheet/)** ➔ Пищови за строги модификатори и готови типови декларации.
+*   **[02. TypeScript Language (Строго-типизиран уеб език)](02-TypeScript-Language/README.md)**
+    *   *Обхваща:* Преход от динамичен JavaScript към статична типова система, интерфейси (`interface`), типови псевдоними (`type`), разширени типове (Union, Intersection, Type Guards), ООП в TypeScript, овладяване на `Generics`, декоратори, компилационни настройки (`tsconfig.json`) и защита срещу Type Erasure аномалии.
 
-### 📂 3. Python-Scripting/
-*   **[Lectures/](3-Python-Scripting/Lectures/)** ➔ Динамично типизиране, обработка на данни (JSON/CSV) и Pip среди.
-*   **[Interview-Handbook/](3-Python-Scripting/Interview-Handbook/)** ➔ Единен Справочник за GIL капани и нишки в паметта.
-*   **[Cheat-Sheet/](3-Python-Scripting/Cheat-Sheet/)** ➔ Копируеми CLI скриптове за бърза автоматизация на файловата система.
+*   **[03. Python Scripting & OOP (Основи, Advanced, OOP & Django/FastAPI)](03-Python-Scripting/README.md)**
+    *   *Обхваща:* Пълен пакет от 3 модула (`Module-01-Basics`, `Module-02-Advanced`, `Module-03-OOP`) — четим Python 3.x синтаксис без скоби, List/Dict Comprehensions, генератори, декоратори (`@`), модела на данните (`__dunder__` методи, `self`, `__new__` срещу `__init__`), множествено наследяване (Mixins), SOLID принципи, защита от мутируеми аргументи по подразбиране и паралели с C# и JavaScript.
+    
+*   **[04. Java Ecosystem (Java 21+ & Spring Boot 3 Enterprise Stack)](04-Java-Ecosystem/README.md)**
+    *   *Обхваща:* Пълен архитектурен корпус от 5 модула (`Module-01-Java-Fundamentals`, `Module-02-Java-OOP`, `Module-03-Spring-Data`, `Module-04-Spring-Fundamentals`, `Module-05-Spring-Advanced`) — JVM и Virtual Threads, Java Records & Sealed класове, Stream API, Hibernate ORM & Entity Lifecycle (`LAZY` vs `EAGER`, N+1), Spring IoC & Dependency Injection, Spring MVC + Thymeleaf, Spring Security 6 + JWT, AOP и интеграционно тестване с Testcontainers и Docker.
 
 ---
-© 2026 Dev-Library / Full-Stack & QA Комплект: Ниво 2 Архитектура
+[🏠 Всички бележки (01-Theory-Notes)](../../README.md) | [🗄 Бази данни](../../Databases-SQL-And-NoSQL/README.md) | [💾 Entity Framework Core](../../Databases-And-EF-Core/README.md)
+
+© 2026 Dev-Library / Ниво 2: Официален Архитектурен Индекс
