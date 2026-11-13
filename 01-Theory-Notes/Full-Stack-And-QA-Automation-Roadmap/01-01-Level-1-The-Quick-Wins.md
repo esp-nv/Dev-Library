@@ -1,150 +1,90 @@
-[⬅️ Назад към Индекса](README.md) | 📂 Папка: Full-Stack-And-QA-Automation-Roadmap | [🏠 Начало (ASP.NET)](../README.md)
+[⬅️ Назад към Roadmap Хъба](README.md) | [🗺️ Пълен Атлас (00)](00-Full-Stack-And-QA-Automation-Roadmap.md) | [🏠 Начало (01-Theory-Notes)](../README.md) | [➡️ 02-01. Ниво 2: Естествени разширения](02-01-Level-2-Natural-Extensions.md)
 
 ---
 
-# 01-01. Ниво 1: Бързите победи (HTML, CSS, Bootstrap, SEO, Redis)
+# 01-01. Ниво 1: Бързите победи (HTML5, CSS3, Bootstrap, Tailwind, SEO, Redis)
 
-**Модул 01:** Основи на пълния стек | **Цел:** Светкавично синтактично и практическо навлизане в декларативния уеб дизайн, адаптивните интерфейси, техническата оптимизация и високопроизводителното RAM кеширане.
+**Цел:** Бързо обобщение на фундаменталните уеб технологии от Ниво 1, подредени спрямо .NET / Razor мисловния модел — с практични примери, типични капани и директни връзки към пълните лекции в модула.
 
-## 🧭 Съдържание на наръчника
-* [1. HTML5 и CSS3: Дигиталният скелет на уеб страниците](#1-html5-и-css3-дигиталният-скелет-на-уеб-страниците)
-* [2. Bootstrap 5: Адаптивни уеб форми и оформление](#2-bootstrap-5-адаптивни-уеб-форми-и-оформление)
-* [3. Technical SEO: Метаданни и уеб индексиране](#3-technical-seo-метаданни-и-уеб-индексиране)
-* [4. Суров Redis: Мениджмънт на Ключ-Стойност в паметта](#4-суров-redis-мениджмънт-на-ключ-стойност-в-паметта)
-* [5. Системни капани: Сривове при Redis сесии и Корекция](#5-системни-капани-сривове-при-redis-сесии-и-корекция)
-
----
-
-## 1. HTML5 И CSS3: ДИГИТАЛНИЯТ СКЕЛЕТ НА УЕБ СТРАНИЦИТЕ
-
-*   **HTML5 (HyperText Markup Language):** Маркиращ език, дефиниращ структурата и съдържанието на сайта през елементи (Tags).
-*   **CSS3 (Cascading Style Sheets):** Стилизиращ език, отговорен за визуалното оформление (цветове, размери, отстъпи).
-
-### 📄 Синтактичен пример (Чист HTML и локален CSS):
-```html
-<!DOCTYPE html>
-<html lang="bg">
-<head>
-    <style>
-        .custom-card {
-            background-color: #f8f9fa;
-            border: 1px solid #dee2e6;
-            padding: 15px;
-            border-radius: 4px;
-        }
-    </style>
-</head>
-<body>
-    <div class="custom-card">
-        <h3>Заглавие на продукта</h3>
-        <p>Кратко описание на бекенд архитектурата.</p>
-    </div>
-</body>
-</html>
-```
+## 🧭 Съдържание на темата
+* [1. HTML5 & CSS3 (Уеб скелет, Box Model & Flexbox)](#1-html5--css3-уеб-скелет-box-model--flexbox)
+* [2. Bootstrap v5.3 & Tailwind CSS (Адаптивен дизайн и UI компоненти)](#2-bootstrap-v53--tailwind-css-адаптивен-дизайн-и-ui-компоненти)
+* [3. Technical SEO (Оптимизация за търсачки и метаданни)](#3-technical-seo-оптимизация-за-търсачки-и-метаданни)
+* [4. Redis Caching (Разпределено RAM кеширане)](#4-redis-caching-разпределено-ram-кеширане)
+* [5. Всички файлове и подмодули в Ниво 1](#5-всички-файлове-и-подмодули-в-ниво-1)
 
 ---
 
-## 2. BOOTSTRAP 5: АДАПТИВНИ УЕБ ФОРМИ И ОФОРМЛЕНИЕ
+## 1. HTML5 & CSS3 (УЕБ СКЕЛЕТ, BOX MODEL & FLEXBOX)
 
-*   **Философия:** Най-популярната в света CSS уеб библиотека, съдържаща готови, предварително дефинирани класове за бърз дизайн, който автоматично се мащабира спрямо екраните на мобилни телефони и десктоп компютри.
-
-### 📄 Синтактичен пример (Bootstrap 5 Регистрационна форма):
-```html
-<div class="container mt-4">
-    <div class="row justify-content-center">
-        <div class="col-md-6 card p-4 shadow-sm">
-            <h4 class="text-center mb-3">Вход в системата</h4>
-            <form>
-                <div class="mb-3">
-                    <label class="form-label">Имейл адрес</label>
-                    <input type="email" class="form-control" placeholder="user@softuni.bg" required>
-                </div>
-                <div class="mb-3">
-                    <label class="form-label">Парола</label>
-                    <input type="password" class="form-control" required>
-                </div>
-                <button type="submit" class="btn btn-success w-100">Влез</button>
-            </form>
-        </div>
-    </div>
-</div>
-```
-
----
-
-## 3. TECHNICAL SEO: МЕТАДАННИ И УЕБ ИНДЕКСИРАНЕ
-
-За един бекенд програмист оптимизацията за търсачки не е писане на статии, а **Технически одит на Kestrel изхода**:
-1.  *Сървърно рендериране:* Роботите на Google четат трудно JavaScript SPA среди. Използването на MVC Razor Views гарантира, че чистият HTML е готов веднага.
-2.  *Мета тагове:* Инжектиране на уникални SEO описания в `<head>` секцията на всеки уеб модел.
-
-### 📄 Синтактичен пример (SEO Meta Headers):
-```html
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Практически уеб справочник и архитектурни пищови за .NET среди.">
-    <meta name="keywords" content="C#, ASP.NET Core, Redis, SQL, Software Architecture">
-    <meta name="author" content="Dev-Library Team">
-</head>
-```
-
----
-
-## 4. СУРОВ REDIS: МЕНИДЖМЪНТ НА КЛЮЧ-СЛОЙНОСТ В ПАМЕТТАТА
-
-*   **Философия:** Изключително бърза NoSQL нерелационна база данни, работеща изцяло в RAM паметта. Тъй като вече владееш `IDistributedCache` в ASP.NET Core, под капака тя пренася чисти низове или байтове.
-
-### 📄 Суров C# Код за директна сесийна Redis проверка:
-```csharp
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Caching.Distributed;
-using System.Text.Json;
-using System.Threading.Tasks;
-
-public class CacheItem { public string Data { get; set; } = null!; }
-
-[ApiController]
-[Route("api/v1/cache")]
-public class CachingController : ControllerBase
-{
-    private readonly IDistributedCache _redisCache;
-
-    public CachingController(IDistributedCache redisCache) => _redisCache = redisCache;
-
-    [HttpGet("fetch/{key}")]
-    public async Task<IActionResult> GetValue(string key)
-    {
-        // Директно асинхронно извличане от Redis RAM паметта
-        string? cacheData = await _redisCache.GetStringAsync(key);
-
-        if (string.IsNullOrEmpty(cacheData))
-        {
-            return NotFound(new { Error = "Кеш мис: Ключът е изтекъл или не съществува в Redis!" });
-        }
-
-        var item = JsonSerializer.Deserialize<CacheItem>(cacheData);
-        return Ok(item);
+*   **Архитектурна роля:** Семантичният HTML5 (`<header>`, `<main>`, `<article>`, `<nav>`) дефинира структурата на DOM дървото, а модерният CSS3 (`box-sizing: border-box`, **Flexbox** и **CSS Grid**) управлява подредбата и отзивчивостта без нужда от тежък JavaScript.
+*   **Синтактичен пример (Модерен Flexbox центриращ контейнер):**
+    ```css
+    *, *::before, *::after {
+        box-sizing: border-box;
     }
-}
-```
 
----
-
-## 5. СИСТЕМНИ КАПАНИ: СРИВОВЕ ПРИ REDIS СЕСИИ И КОРЕКЦИЯ
-
-### 🚨 Капан №1: Срив 500 при опит за директно четене на сложен обект в Redis среди
-*   **Какво правиш:** Опитваш се да извлечеш сложен обект `List<User>` от Redis, забравяйки че разпределеният кеш не е локална памет и не поддържа директни C# инстанции.
-*   **Точен софтуерен краш (Exception Message) в конзолата на Kestrel:**
-    ```text
-    JsonException: The input does not contain any valid JSON tokens. Expected the input to start with a valid JSON token.
+    .card-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1.5rem;
+        justify-content: space-between;
+    }
     ```
-*   **Защо се случва:** Redis пази данните като суров байтов масив или чист плосък текст. Ако се опиташ да прочетеш несериализиран обект, .NET десериализаторът засича счупени байтове и крашва софтуера веднага.
-*   **Как да го поправиш:** Винаги обвивайте операциите по следния златен стандарт:
-    1. *Запис:* `JsonSerializer.Serialize(обект)` ➔ `await _cache.SetStringAsync(key, text);`
-    2. *Четене:* `string text = await _cache.GetStringAsync(key);` ➔ `JsonSerializer.Deserialize<T>(text);`
+*   **Системен капан и решение:** Използване на `content-box` по подразбиране, при което добавянето на `padding` раздува ширината на елемента и чупи решетката. Винаги задавайте глобално `box-sizing: border-box`.
+
+👉 **За повече информация и пълни лекции:** Вижте главния навигационен индекс на модула в [01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/README.md](./01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/README.md).
 
 ---
-[⬅️ Назад към Индекса](README.md) | 📂 Папка: Full-Stack-And-QA-Automation-Roadmap | [🏠 Начало (ASP.NET)](../README.md)
 
-© 2026 Dev-Library / Основи на пълния стек: Ниво 1
+## 2. BOOTSTRAP V5.3 & TAILWIND CSS (АДАПТИВЕН ДИЗАЙН И UI КОМПОНЕНТИ)
+
+*   **Архитектурна роля:** **Bootstrap v5.3** предлага готови компоненти (модали, навигации, форми) и 12-колонна мрежа, докато **Tailwind CSS** прилага *Utility-First* подход с атомарни класове директно в HTML шаблоните (Razor, Thymeleaf, Vue, React).
+*   **Синтактичен пример (Bootstrap 5.3 форма с валидационни класове):**
+    ```html
+    <div class="container mt-4">
+        <form class="p-4 border rounded-3 bg-light shadow-sm">
+            <div class="mb-3">
+                <label for="userEmail" class="form-label fw-bold">Имейл адрес</label>
+                <input type="email" id="userEmail" class="form-control" placeholder="name@example.com" required>
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Абонирай се</button>
+        </form>
+    </div>
+    ```
+*   **Системен капан и решение:** Зареждане на тежкия Bootstrap JS bundle, когато се ползват само CSS стиловете, или дублиране на десетки Tailwind класове без изнасяне в споделен компонент.
+
+👉 **За повече информация и пълни лекции:** Вижте пълните наръчници за Flexbox, Tailwind и Bootstrap в [01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/README.md](./01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/README.md).
+
+---
+---
+
+## 3. TECHNICAL SEO (ОПТИМИЗАЦИЯ ЗА ТЪРСАЧКИ И МЕТАДАННИ)
+
+*   **Архитектурна роля:** Използване на семантичен HTML, Open Graph тагове, `JSON-LD`, `robots.txt`, `sitemap.xml` и оптимизиран Core Web Vitals / TTFB за по-добро индексиране.
+*   **Синтактичен пример:** Прилагане на стандартни мета тагове и каноничен адрес в `<head>` секцията.
+*   **Системен капан и решение:** Избягвайте дублирано съдържание при URL параметри и клиентски рендиран критичен път без SSR; винаги задавайте `<link rel="canonical">` и Server-Side Rendering.
+
+👉 **За повече информация и пълни лекции:** Вижте секцията за SEO в [01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/README.md](./01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/README.md).
+
+---
+
+## 4. REDIS CACHING (РАЗПРЕДЕЛЕНО RAM КЕШИРАНЕ)
+
+*   **Архитектурна роля:** In-Memory Key-Value кеширане с TTL и стратегии като *Cache-Aside* за облекчаване на основната база данни.
+*   **Синтактичен пример:** Основни команди в CLI за запис (`SET ... EX`), четене (`GET`), проверка на време (`TTL`) и изтриване (`DEL`).
+*   **Системен капан и решение:** Винаги задавайте TTL/изтичане на ключовете с лек офсет (Jitter) срещу препълване на паметта и Cache Stampede.
+
+👉 **За повече информация и пълни лекции:** Вижте пълния наръчник за Redis в [01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/README.md](./01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/README.md).
+
+---
+
+## 5. ВСИЧКИ ФАЙЛОВЕ И ПОДМОДУЛИ В НИВО 1
+
+Директна навигация към материалите в папка **`01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/`**:
+
+* 📂 **[Главен индекс на Ниво 1 (README.md)](./01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/README.md)**
+* 📄 Включва модули за инсталация, HTML/CSS, Box Model, Flexbox, Responsive Design, уеб форми, Tailwind CSS, Bootstrap v5.3, въведение в SEO и Redis, както и изпитни задачи. *Пълният списък с подмодули е наличен в документацията на проекта.*
+
+---
+[⬅️ Назад към Roadmap Хъба](README.md) | [🗺️ Пълен Атлас (00)](00-Full-Stack-And-QA-Automation-Roadmap.md) | [🏠 Начало (01-Theory-Notes)](../README.md) | [➡️ 02-01. Ниво 2: Естествени разширения](02-01-Level-2-Natural-Extensions.md)
