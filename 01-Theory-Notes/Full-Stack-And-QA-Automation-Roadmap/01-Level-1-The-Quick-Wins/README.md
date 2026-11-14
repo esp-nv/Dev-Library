@@ -39,7 +39,7 @@
 
 ### 📦 04. Exam Preparation & Judge Simulations
 * 📂 [Индекс на Раздел 04: Exam Preparation & Judge Simulations](04-Exam-Preparation/README.md)
-* **[04-00. Пълен Изпитен Наръчник, Стратегия за Judge & Готови Шаблони](04-Exam-Preparation/04-00-Exam-Preparation-And-Templates.md)**
+* **[04-00. Пълен Изпитен Наръчник, Стратегия за Judge & Готови Шаблони](04-00-Exam-Preparation-And-Templates.md)**
 
 ---
 
