@@ -67,5 +67,11 @@
 *   **05-05. Integration & API Testing (`MockMvc` & Testcontainers)** (`-00` [Теория & Капани](Module-05-Spring-Advanced/05-05-00-Testing-In-Spring.md) | `-01` [Syntax & Cheat Sheet](Module-05-Spring-Advanced/05-05-01-Syntax-From-Scratch.md))
 *   **05-06. Cloud Deployment, Docker & Apache Kafka** (`-00` [Теория & Капани](Module-05-Spring-Advanced/05-06-00-Cloud-Docker-Kafka.md) | `-01` [Syntax & Cheat Sheet](Module-05-Spring-Advanced/05-06-01-Syntax-From-Scratch.md))
 
+### 🛠️ Инженерни справочници за целия Java & Spring стек (Оптимизации, Библиотеки, Грешки & Debugging)
+*   **[04-96. Performance & Optimizations (с Блок-схеми)](04-96-Performance-And-Optimizations.md)** — *Обхваща:* Ускоряване на JVM и Hibernate (`StringBuilder` срещу `+`, решаване на $N+1$ с `JOIN FETCH`, `IntStream` без Autoboxing и Java 21 Virtual Threads).
+*   **[04-97. Category Cheat Sheet & Библиотеки](04-97-Category-Cheat-Sheet.md)** — *Обхваща:* Подредена справка по 5 категории — Java 21 `record`/`sealed`, Stream API, JPA и Spring Security 6 анотации, плюс таблица с ключовите библиотеки (`Jackson`, `MapStruct`, `JJWT`, `SpringDoc`, `Testcontainers`).
+*   **[04-98. Common Errors, Edge Cases & Fixes (Каталог на грешките)](04-98-Common-Errors-And-Fixes.md)** — *Обхваща:* Диагностика на `NullPointerException`, `LazyInitializationException`, `ConcurrentModificationException`, гранични случаи (`Integer` overflow, `BigDecimal`) и таблица по фази на възникване (`Compile-time`, `Startup-time`, `Runtime`).
+*   **[04-99. Interview Q&A, Скрити Капани & Debugging Techniques](04-99-Interview-QA-Traps-And-Debugging.md)** — *Обхваща:* Топ интервю въпроси (JVM GC, Persistence Context, `401` vs `403`), капани с `Integer` Cache и `@Transactional` self-invocation, и профилиране с IntelliJ, `jstack` и Heap Dump.
+
 ---
 © 2026 Dev-Library / Java & Spring Boot Екосистема & Софтуерна Архитектура

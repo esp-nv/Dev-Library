@@ -76,5 +76,12 @@
 *   **06-06. Testing in Django Projects (`TestCase` & `APIClient`)** (`-00` [Теория & Капани](Module-06-Django-Advanced/06-06-00-Testing-In-Django.md) | `-01` [Syntax & Cheat Sheet](Module-06-Django-Advanced/06-06-01-Syntax-From-Scratch.md))
 *   **06-07. Deployment Setup (Gunicorn, Nginx, WhiteNoise & Docker)** (`-00` [Теория & Капани](Module-06-Django-Advanced/06-07-00-Deployment-Setup.md) | `-01` [Syntax & Cheat Sheet](Module-06-Django-Advanced/06-07-01-Syntax-From-Scratch.md))
 
+### 🛠️ Инженерни справочници за целия Python стек (Оптимизации, Библиотеки, Грешки & Debugging)
+*   **[03-96. Performance & Optimizations (с Блок-схеми)](03-96-Performance-And-Optimizations.md)** — *Обхваща:* Ускоряване на Python код и пестене на RAM (`"".join()` срещу `+=`, генератори срещу списъци, `set` търсене и `__slots__`).
+*   **[03-97. Category Cheat Sheet & Библиотеки](03-97-Category-Cheat-Sheet.md)** — *Обхваща:* Подредена справка по 6 категории — типове, Comprehensions, декоратори, `@dataclass`, ORM/Web шаблони и таблица с най-важните стандартни и външни библиотеки (`pathlib`, `pydantic`, `httpx`, `sqlalchemy`, `pytest`).
+*   **[03-98. Common Errors, Edge Cases & Fixes (Каталог на грешките)](03-98-Common-Errors-And-Fixes.md)** — *Обхваща:* Диагностика на чести грешки (`KeyError`, `AttributeError`, `UnboundLocalError`), гранични случаи (мутируеми аргументи, `Decimal` срещу `float`) и таблица по фази на възникване (`Parse-time`, `Import-time`, `Runtime`).
+*   **[03-99. Interview Q&A, Скрити Капани & Debugging Techniques](03-99-Interview-QA-Traps-And-Debugging.md)** — *Обхваща:* Топ интервю въпроси (GIL, `asyncio` vs `multiprocessing`, MRO, GC), капани с `is` и `deepcopy`, и профилиране с `pdb`, `cProfile` и `tracemalloc`.
+
+
 ---
 © 2026 Dev-Library / Python Екосистема & Софтуерна Архитектура

@@ -1,38 +1,38 @@
-[⬅️ Назад към Корена на Ниво 2](../README.md) | [🏠 Главен Хъб на проекта](../../../README.md) | [▶️ Започни от Лекция 02-01](02-01-Introduction-to-TypeScript.md)
+[⬅️ Назад към Ниво 2 Индекс](../README.md) | [🏠 Начало](../../../README.md) | [▶️ Започни от 02-00](02-00-TypeScript-vs-JavaScript.md)
 
 ---
 
-# Модул 2: TypeScript Language (Пълен Архитектурен Справочник)
+# 02. TypeScript Language (Строго-типизиран уеб език)
 
-Тази директория съдържа декуплиран на подпапки практически и теоретичен атлас за езика TypeScript v5.x. Структурата следва плътно твоята йерархия, обособявайки лекциите, единния инженерен справочник за капани и финалния пищов в самостоятелни производствени модули.
+Пълен архитектурен и практически справочник по **TypeScript 5.x+** — от основите на типовата система и ООП до Generics, декоратори, оптимизации, диагностика на грешки и техники за дебъгване.
 
-## 🧭 Навигация на TypeScript Слоевете
+## 🧭 Съдържание на Модула
 
+*   **[02-00. TypeScript vs JavaScript](02-00-TypeScript-vs-JavaScript.md)** — *Обхваща:* Защо съществува TypeScript, разлика между статична и динамична типизация, как работи компилаторът `tsc` и кога да изберем TS пред JS.
 
-### 📂 Секция 1: Темите от лекциите (Атомарни подточки в /Lectures)
-*   **[02-00. TypeScript срещу JavaScript: Архитектурно сравнение, Предимства и Недостатъци](02-00-TypeScript-vs-JavaScript.md)**
-    *   *Обхваща:* Фундаментални разлики между JS и TS, сравнителна таблица, плюсове и минуси на двата езика и точни сценарии кога да избереш единия или другия.
-*   **[02-01. Въведение в TypeScript и Конфигурация на среди](02-01-Introduction-to-TypeScript.md)**
-    *   *Обхваща:* Компилация, статичен анализ, `tsconfig.json` и базови типове (`string`, `number`, `boolean`).
-*   **[02-02. Разширени видове данни: Обединения, Алиаси и Кортежи](02-02-Advanced-Data-Types.md)**
-    *   *Обхваща:* `Union Types`, `Type Aliases`, `Tuples`, `Enums` и контрол над опционалните полета.
-*   **[02-03. Обектно-ориентирано програмиране (OOP) в TypeScript среди](02-03-OOP-in-TypeScript.md)**
-    *   *Обхваща:* Класове, модификатори за достъп (`private`, `readonly`), Interfaces, Абстрактни класове и имплементация.
-*   **[02-04. Овладяване на Дженерици: Гъвкави и преизползваеми структури](02-04-Mastering-Generics.md)**
-    *   *Обхваща:* `Generic Classes`, `Generic Functions` и налагане на софтуерни ограничения през `extends`.
-*   **[02-05. TypeScript Декоратори: Метапрограмиране и Аспекти](02-05-TypeScript-Decorators.md)**
-    *   *Обхваща:* Експериментални декоратори над класове, методи и свойства, рефлексия и аспектно-ориентирано програмиране.
+*   **[02-01. Introduction to TypeScript](02-01-Introduction-to-TypeScript.md)** — *Обхваща:* Инсталация, базови типове (`string`, `number`, `boolean`, масиви, Tuples, `any`, `unknown`, `void`, `never`), типова анотация и Type Inference.
 
-### 📂 Секция 2: Инженерният Интервю Справочник (Единен мащабен файл в /Interview-Handbook)
-*   **[02-06. Инженерен Интервю Справочник: Сложни капани, технически въпроси и отговори](02-06-TypeScript-Traps-And-Snippets.md)**
-    *   *Обхваща:* Глобално обединение на въпросите от 02-01 до 02-05 — капанът `Type Erasure` по време на Runtime, сривове при `Any` компромиси и нетипизирани външни библиотеки.
+*   **[02-02. Advanced Data Types](02-02-Advanced-Data-Types.md)** — *Обхваща:* Обединени и пресечени типове (`Union |` и `Intersection &`), литерални типове, `type` срещу `interface`, опционални свойства (`?`) и `readonly`.
 
-### 📂 Секция 3: Финален Пищов (Cheat Sheet & Reference Guide в /Cheat-Sheet)
-*   **[02-07. Глобален Изпитен и Интервю Cheat Sheet & Reference Guide](02-07-TypeScript-Cheat-Sheet.md)**
-    *   *Обхваща:* Бързи синтактични таблици за утилити типове (`Partial`, `Pick`, `Omit`) и готов за внедряване асинхронен TypeScript софтуерен компонент.
+*   **[02-03. OOP in TypeScript](02-03-OOP-in-TypeScript.md)** — *Обхваща:* Класове, модификатори за достъп (`public`, `private`, `protected`), Parameter Properties, абстрактни класове, интерфейси и наследяване.
 
-*   **[02-08. TypeScript Deep Dive: Инсталация, Настройка и Напреднали Концепции](02-08-TypeScript-Deep-Dive-Addendum.md)**
-    *   *Обхваща:* Инсталация (`tsc`, `ts-node`), настройка на `tsconfig.json` и `launch.json` за VS Code Debugging, `satisfies`, `as const`, `keyof`, Mapped Types, Method Overloads, Conditional Types и `reflect-metadata`.
+*   **[02-04. Mastering Generics](02-04-Mastering-Generics.md)** — *Обхваща:* Шаблонни функции, интерфейси и класове (`<T>`), ограничаване на типове (`extends`), `keyof` оператор и вградени Utility Types (`Partial`, `Pick`, `Omit`, `Record`).
+
+*   **[02-05. TypeScript Decorators](02-05-TypeScript-Decorators.md)** — *Обхваща:* Метапрограмиране с декоратори върху класове, методи и свойства (основата на Angular и NestJS) и конфигурация в `tsconfig.json`.
+
+*   **[02-06. TypeScript Traps And Snippets](02-06-TypeScript-Traps-And-Snippets.md)** — *Обхваща:* Чести логически капани в типовата система, `Type Guards` (`typeof`, `instanceof`, `is`) и готови кодови шаблони за ежедневна работа.
+
+*   **[02-07. TypeScript Cheat Sheet](02-07-TypeScript-Cheat-Sheet.md)** — *Обхваща:* Бърза синтактична справка за основните конструкции, оператори (`?.`, `??`, `as const`, `satisfies`) и команди на компилатора.
+
+*   **[02-08. TypeScript Deep Dive Addendum](02-08-TypeScript-Deep-Dive-Addendum.md)** — *Обхваща:* Разширени техники като Conditional Types, Mapped Types (`[K in keyof T]`), Template Literal Types и Type Erasure под капака.
+
+*   **[02-09. Performance & Optimizations (с Блок-схеми)](02-09-Performance-And-Optimizations.md)** — *Обхваща:* Ускоряване на код и компилация (`Set`/`Map` срещу `Array.includes`, паралелен `Promise.all`, `interface extends` срещу `&` и избягване на тежък Spread в `.reduce()`).
+
+*   **[02-10. Category Cheat Sheet (Обобщение по категории)](02-10-Category-Cheat-Sheet.md)** — *Обхваща:* Подредена енциклопедична таблица по 6 категории: типове, обектни договори, Utility Types, Type Narrowing, ВАЖНИ БИБЛИОТЕКИ и задължителни настройки в `tsconfig.json`.
+
+*   **[02-11. Common Errors, Edge Cases & Fixes (Каталог на грешките)](02-11-Common-Errors-And-Fixes.md)** — *Обхваща:* Диагностика на `TS2xxx` компилационни грешки, гранични случаи (празни масиви, индекси, `NaN`, JSON валидация) и йерархия на Runtime изключенията.
+
+*   **[02-12. Interview Q&A, Скрити Капани & Debugging Techniques](02-12-Interview-QA-Traps-And-Debugging.md)** — *Обхваща:* Топ интервю въпроси със Senior отговори, капани с `enum` и `this`, и техники за дебъгване с Source Maps, Conditional Breakpoints и Logpoints.
 
 ---
-© 2026 Dev-Library / TypeScript Екосистема & Софтуерна Архитектура
+[⬅️ Назад към Ниво 2 Индекс](../README.md) | [🏠 Начало](../../../README.md) | [▶️ Започни от 02-00](02-00-TypeScript-vs-JavaScript.md)
