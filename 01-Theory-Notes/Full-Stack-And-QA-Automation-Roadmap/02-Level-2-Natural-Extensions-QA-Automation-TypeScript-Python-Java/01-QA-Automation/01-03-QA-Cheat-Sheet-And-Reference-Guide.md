@@ -1,4 +1,4 @@
-[⬅️ 01-02. Инженерен Справочник](01-02-Advanced-QA-Traps-And-Snippets.md) | 📂 Папка: 1-QA-Automation/Cheat-Sheet | [🏠 Начало](../../../README.md)
+[⬅️ 01-02. Инженерен Справочник](01-02-Advanced-QA-Traps-And-Snippets.md) | 📂 Папка: 1-QA-Automation/Cheat-Sheet | [🏠 Начало](../../../README.md) | [Manual QA Fundamentals & Test Design Techniques](01-04-Manual-QA-And-Test-Design-Techniques.md)
 
 ---
 
