@@ -29,6 +29,11 @@
   * 🛠️ [01-02-01. Syntax-From-Scratch & UI Card Snippets](01-HTML-And-CSS-Foundations/01-02-01-Syntax-From-Scratch.md)
   * 📄 [01-03-00. CSS Layout — Flexbox Архитектура](01-HTML-And-CSS-Foundations/01-03-00-CSS-Layout-Flexbox.md)
   * 🛠️ [01-03-01. Syntax-From-Scratch & Responsive Navbar Snippets](01-HTML-And-CSS-Foundations/01-03-01-Syntax-From-Scratch.md)
+  * 📄 [01-04-00. Sass и SCSS Архитектура (Препроцесори, Модули и Капани)](01-HTML-And-CSS-Foundations/01-04-00-Sass-And-SCSS-Architecture.md)
+  * 🛠️ [01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet](01-HTML-And-CSS-Foundations/01-04-01-Syntax-From-Scratch.md)
+  * 📊 [01-05. Архитектурно и Хардуерно Сравнение на Стиловете (CSS3, SCSS, Tailwind, Bootstrap 5, CSS-in-JS)](01-HTML-And-CSS-Foundations/01-05-CSS-Methodologies-And-Frameworks-Comparison.md)
+
+
 
 * **[02. Responsive Design, Forms & CSS Frameworks](02-Responsive-Forms-And-Frameworks/README.md)** — Адаптивен дизайн с Media Queries, валидация на уеб форми и бързо стилизиране с Tailwind CSS и Bootstrap 5.
   * 📄 [02-00. Intro to Responsive & UI Frameworks](02-Responsive-Forms-And-Frameworks/02-00-Intro.md)
@@ -49,10 +54,6 @@
   * 🛠️ [03-02-01. Syntax-From-Scratch & Redis CLI Cheat Sheet](03-SEO-And-Redis-Caching/03-02-01-Syntax-From-Scratch.md)
 
 * **[04. Exam Preparation & Judge Simulations](04-00-Exam-Preparation-And-Templates)** — Изпитни задачи, одит на типични грешки при автоматизирана проверка и готови скелети за бърз старт.
-
-  * 📄 [01-04-00. Sass и SCSS Архитектура (Препроцесори, Модули и Капани)](01-HTML-And-CSS-Foundations/01-04-00-Sass-And-SCSS-Architecture.md)
-  * 🛠️ [01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet](01-HTML-And-CSS-Foundations/01-04-01-Syntax-From-Scratch.md)
-  * 📊 [01-05. Архитектурно и Хардуерно Сравнение на Стиловете (CSS3, SCSS, Tailwind, Bootstrap 5, CSS-in-JS)](01-HTML-And-CSS-Foundations/01-05-CSS-Methodologies-And-Frameworks-Comparison.md)
 
 
 ---
