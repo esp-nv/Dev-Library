@@ -14,12 +14,12 @@
 
 ### 🟢 Ниво 1 — Бързите победи (Уеб основи & Кеширане)
 * 📄 **Обзорно обобщение:** [01-01. Ниво 1: Бързите победи (HTML, CSS, Bootstrap, Tailwind, SEO, Redis)](01-01-Level-1-The-Quick-Wins.md)
-* 📂 **Папка с пълните лекции:** [01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/](01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/)
+* 📂 **Папка с пълните лекции:** [01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/](01-Level-1-The-Quick-Wins/README.md)
 * *Обхваща:* Семантичен HTML5, CSS Box Model & Flexbox/Grid, Bootstrap v5.3, Tailwind CSS, техническо SEO и разпределено RAM кеширане с Redis.
 
 ### 🟡 Ниво 2 — Естествени разширения (QA & Типизирани/Скриптови езици)
 * 📄 **Обзорно обобщение:** [02-01. Ниво 2: Естествени разширения (QA Automation, TypeScript, Python, Java & Spring Boot)](02-01-Level-2-Natural-Extensions.md)
-* 📂 **Папка с пълните лекции:** [02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/](02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/)
+* 📂 **Папка с пълните лекции:** [02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/](02-Level-2-Natural-Extensions-QA-Automation/README.md)
 * *Обхваща:*
   * **QA Automation** (C# + Selenium WebDriver + NUnit + Jira)
   * **TypeScript** (Типизация, интерфейси, Generics)
@@ -28,7 +28,7 @@
 
 ### 🟠 Ниво 3 — Промяна на мисленето (SPA, Модерни Скриптови Стекове & DevOps)
 * 📄 **Обзорно обобщение:** [03-01. Ниво 3: Промяна на мисленето (JS, Node/Express, Vue.js, React, PHP, WordPress Engineering, Docker)](03-01-Level-3-Mindset-Shift.md)
-* 📂 **Папка с пълните лекции:** [03-Level-3-Mindset-Shift-JS-Node-Express-Vue-PHP-WP-Docker-React/](03-Level-3-Mindset-Shift-JS-Node-Express-Vue-PHP-WP-Docker-React/)
+* 📂 **Папка с пълните лекции:** [03-Level-3-Mindset-Shift/](03-Level-3-Mindset-Shift/README.md)
 * *Обхваща:*
   * **JavaScript (ES6+), Node.js & Express.js** (Event Loop, Middleware Pipeline, REST API, Prisma/Drizzle, Zod)
   * **Vue.js 3 & React** (Composition API, `<script setup>`, Pinia, React Hooks & State Management)
