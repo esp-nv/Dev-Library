@@ -1,5 +1,4 @@
-[⬅️ Назад към Module 00. Course Intro & Setup](README.md) | [📂 Текуща папка: Module 00. Course Intro & Setup](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: Module 01. HTML5 & CSS3 Foundations](../Module-01-HTML-And-CSS-Foundations/README.md) | [➡️ 00-01-00. Уеб Екосистема & IDE Среди](00-01-00-Web-Ecosystem-And-IDEs.md)
-
+[⬅️ Назад към Module 00. Course Intro & Setup](README.md) | [📂 Текущ домейн: 01. Core Tools](../README.md) | [🏠 Начало](../../../README.md) | [📂 Следващ модул: Git & GitHub](../Git-And-GitHub/README.md) | [➡️ 00-01-00. Уеб Екосистема & IDE Среди](00-01-00-Web-Ecosystem-And-IDEs.md)
 ---
 
 # 00-00. Intro to Web Ecosystem & Development Environments
@@ -75,6 +74,6 @@
 * **[00-02-01. DevTools Audit From Scratch (Console, Elements & Cache Reset)](00-02-01-DevTools-Audit-From-Scratch.md)** — Практически чеклист за диагностика в Chrome DevTools и насилствено изчистване на кеша.
 
 ---
-[⬅️ Назад към Module 00. Course Intro & Setup](README.md) | [📂 Текуща папка: Module 00. Course Intro & Setup](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: Module 01. HTML5 & CSS3 Foundations](../Module-01-HTML-And-CSS-Foundations/README.md) | [➡️ 00-01-00. Уеб Екосистема & IDE Среди](00-01-00-Web-Ecosystem-And-IDEs.md)
+[⬅️ Назад към Module 00. Course Intro & Setup](README.md) | [📂 Текущ домейн: 01. Core Tools](../README.md) | [🏠 Начало](../../../README.md) | [📂 Следващ модул: Git & GitHub](../Git-And-GitHub/README.md) | [➡️ 00-01-00. Уеб Екосистема & IDE Среди](00-01-00-Web-Ecosystem-And-IDEs.md)
 ---
 © 2026 Dev-Library / 00-00. Intro to Web Ecosystem & Development Environments
