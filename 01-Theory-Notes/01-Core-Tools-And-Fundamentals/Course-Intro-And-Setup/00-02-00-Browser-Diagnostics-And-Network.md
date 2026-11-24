@@ -1,4 +1,4 @@
-[⬅️ 00-01-01. Syntax & Config From Scratch](00-01-01-Syntax-And-Config-From-Scratch.md) | [📂 Текуща папка: Module 00. Course Intro & Setup](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: Module 01. HTML5 & CSS3 Foundations](../01-HTML-And-CSS-Foundations/README.md) | [➡️ 00-02-01. DevTools Audit From Scratch](00-02-01-DevTools-Audit-From-Scratch.md)
+[⬅️ 00-01-01. Syntax & Config Cheat Sheet](00-01-01-Syntax-And-Config-CheatSheet.md) | [📂 Текуща папка: Course Intro](README.md) | [🏠 Начало](../../../README.md) | [➡️ 00-02-01. DevTools Audit & Network Cheat Sheet](00-02-01-DevTools-Audit-From-Scratch.md)
 
 ---
 
@@ -68,6 +68,7 @@
 
 
 ---
-[⬅️ 00-01-01. Syntax & Config From Scratch](00-01-01-Syntax-And-Config-From-Scratch.md) | [📂 Текуща папка: Module 00. Course Intro & Setup](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: Module 01. HTML5 & CSS3 Foundations](../Module-01-HTML-And-CSS-Foundations/README.md) | [➡️ 00-02-01. DevTools Audit From Scratch](00-02-01-DevTools-Audit-From-Scratch.md)
+[⬅️ 00-01-01. Syntax & Config Cheat Sheet](00-01-01-Syntax-And-Config-CheatSheet.md) | [📂 Текуща папка: Course Intro](README.md) | [🏠 Начало](../../../README.md) | [➡️ 00-02-01. DevTools Audit & Network Cheat Sheet](00-02-01-DevTools-Audit-From-Scratch.md)
+
 ---
 © 2026 Dev-Library / 00-02-00. Браузърна диагностика и Мрежова интеграция на средите
