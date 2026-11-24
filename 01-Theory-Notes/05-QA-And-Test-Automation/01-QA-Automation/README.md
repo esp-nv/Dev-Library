@@ -1,4 +1,5 @@
-[⬅️ Назад към 02. Natural Extensions & QA Automation](../README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [▶️ Започни от 01-00 Intro](01-00-Intro-To-QA-Engineering.md)
+[⬅️ Назад към 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека (01-Theory-Notes)](../../README.md) | [🏠 Начало](../../../README.md) | [📂 Следващ домейн: 06. Cloud, DevOps & Architecture](../../06-Cloud-DevOps-And-Architecture/README.md) | [▶️ Започни от 01-00 Intro](01-00-Intro-To-QA-Engineering.md)
+
 
 ---
 
@@ -36,6 +37,7 @@
 
 ---
 
-[⬅️ Назад към 02. Natural Extensions & QA Automation](../README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [▶️ Започни от 01-00 Intro](01-00-Intro-To-QA-Engineering.md)
+[⬅️ Назад към 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека (01-Theory-Notes)](../../README.md) | [🏠 Начало](../../../README.md) | [📂 Следващ домейн: 06. Cloud, DevOps & Architecture](../../06-Cloud-DevOps-And-Architecture/README.md) | [▶️ Започни от 01-00 Intro](01-00-Intro-To-QA-Engineering.md)
+
 
 © 2026 Dev-Library / QA Automation & SDET Engineering
