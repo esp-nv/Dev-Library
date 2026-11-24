@@ -16,7 +16,7 @@
 * **[00. Примерни Пътеки за Учене и Дневници (Learning Roadmaps)](00-Learning-Roadmaps/README.md)**
   * *Обхваща:* Подредени кариерни пътеки по нива на трудност спрямо C#/.NET, глобални индекси, бенчмаркове между езиците и лични чеклистове за проследяване на напредъка.
   1. **[Full-Stack & QA Automation Roadmap (Нива 1–4)](00-Learning-Roadmaps/Full-Stack-And-QA-Automation-Roadmap/README.md):** Структурирана учебна програма от уеб основите до Cloud и Kafka.
-  2. **[Дневници и Чеклистове на Обучението](00-Learning-Roadmaps/Study-Checklists-And-Logs/README.md):** Цели, етапи и контролни списъци по дати.
+  2. **[Дневници и Чеклистове на Обучението](00-Learning-Roadmaps/01-Personal-Checklists/README.md):** Цели, етапи и контролни списъци по дати.
 
 * **[01. Инструменти, Контрол на Версиите и Алгоритми (Core Tools)](01-Core-Tools-And-Fundamentals/README.md)**
   * *Обхваща:* Фундаментални инженерни умения, необходими във всеки проект независимо от езика — работа в екип с Git/GitHub, анализ на алгоритмична сложност и Linux терминал.
@@ -34,8 +34,8 @@
 * **[03. Бекенд Екосистеми (Backend Ecosystems)](03-Backend-Ecosystems/README.md)**
   * *Обхваща:* Проектиране на сървърна бизнес логика, RESTful и GraphQL API-та, автентикация и сигурност (JWT/OAuth2), Dependency Injection и корпоративни уеб рамки.
   1. **[C# & ASP.NET Core](03-Backend-Ecosystems/C-Sharp-And-ASP-NET/README.md):** .NET основи, колекции, LINQ, ASP.NET Core MVC, Web API и Middleware конвейери.
-  2. **[Java 21+ & Spring Boot 3](03-Backend-Ecosystems/Java-And-Spring-Boot/README.md):** Java Core/OOP, Spring Data JPA, Spring MVC и Spring Security с JWT и Docker.
-  3. **[Python 3.x, Django & FastAPI](03-Backend-Ecosystems/Python-Django-And-FastAPI/README.md):** Python основи/OOP, Django ORM, Django REST Framework и високоскоростни API-та.
+  2. **[Java 21+ & Spring Boot 3](03-Backend-Ecosystems/Java-Scripting/README.md):** Java Core/OOP, Spring Data JPA, Spring MVC и Spring Security с JWT и Docker.
+  3. **[Python 3.x, Django & FastAPI](03-Backend-Ecosystems/Python-Scripting/README.md):** Python основи/OOP, Django ORM, Django REST Framework и високоскоростни API-та.
   4. **[Node.js, Express & NestJS](03-Backend-Ecosystems/Node-Express-And-NestJS/README.md):** Неблокиращ Event-driven сървър, Express маршрутизация и корпоративен NestJS.
   5. **[Modern PHP 8.3+, Laravel & WordPress](03-Backend-Ecosystems/PHP-Laravel-And-WordPress/README.md):** Строго типизиран PHP, Laravel MVC/Eloquent и програмна WordPress архитектура.
   6. **[REST API, RESTful & GraphQL (API Архитектура)](03-Backend-Ecosystems/REST-API-And-GraphQL/README.md):** Проектиране на RESTful ресурси, HTTP методи/статуси, OpenAPI/Swagger, GraphQL схеми, Mutations и DataLoader.
