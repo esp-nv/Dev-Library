@@ -1,4 +1,5 @@
-[⬅️ 00-03-00. Git & GitHub Архитектура](00-03-00-Git-And-GitHub-Architecture.md) | [📂 Текуща папка: 00. Course Intro & Setup](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 01. HTML5 & CSS3 Foundations](../01-HTML-And-CSS-Foundations/README.md) | [➡️ 01-00. Intro to HTML5 & CSS3 Architecture](../01-HTML-And-CSS-Foundations/01-00-Intro.md)
+[⬅️ 01-00. Git & GitHub Архитектура](01-00-Git-And-GitHub-Architecture.md) | [📂 Текущ домейн: 01. Core Tools](../README.md) | [🏠 Начало](../../../README.md) | [➡️ Следващ модул: Алгоритми](../Algorithms-And-Data-Structures/README.md)
+
 
 ---
 
@@ -125,7 +126,6 @@ git config --list
 | **Отмяна на промени във файл** | `git checkout -- file.md` | **Desktop:** Десен бутон върху файла -> `Discard Changes`<br>**Tortoise:** `TortoiseGit -> Revert...` |
 
 ---
-
-[⬅️ 00-03-00. Git & GitHub Архитектура](00-03-00-Git-And-GitHub-Architecture.md) | [📂 Текуща папка: 00. Course Intro & Setup](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 01. HTML5 & CSS3 Foundations](../01-HTML-And-CSS-Foundations/README.md) | [➡️ 01-00. Intro to HTML5 & CSS3 Architecture](../01-HTML-And-CSS-Foundations/01-00-Intro.md)
-
+[⬅️ 01-00. Git & GitHub Архитектура](01-00-Git-And-GitHub-Architecture.md) | [📂 Текущ домейн: 01. Core Tools](../README.md) | [🏠 Начало](../../../README.md) | [➡️ Следващ модул: Алгоритми](../Algorithms-And-Data-Structures/README.md)
+---
 © 2026 Dev-Library / 00-03-01. Git, GitHub Desktop & TortoiseGit: Практика от Нулата & Cheat Sheet
