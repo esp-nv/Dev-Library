@@ -1,4 +1,4 @@
-[⬅️ Към Главния Хъб на Библиотеката](../README.md) | [▶️ Започни от 00-00 Intro & Big O](00-00-Intro-And-Big-O.md)
+[⬅️ Предишен модул: Git & GitHub](../Git-And-GitHub/README.md) | [📂 Текущ домейн: 01. Core Tools](../README.md) | [🏠 Начало](../../../README.md) | [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [▶️ Започни от 00-00 Intro & Big O](00-00-Intro-And-Big-O.md)
 
 ---
 
