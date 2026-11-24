@@ -34,8 +34,8 @@
 * **[03. Бекенд Екосистеми (Backend Ecosystems)](03-Backend-Ecosystems/README.md)**
   * *Обхваща:* Проектиране на сървърна бизнес логика, RESTful и GraphQL API-та, автентикация и сигурност (JWT/OAuth2), Dependency Injection и корпоративни уеб рамки.
   1. **[C# & ASP.NET Core](03-Backend-Ecosystems/C-Sharp-And-ASP-NET/README.md):** .NET основи, колекции, LINQ, ASP.NET Core MVC, Web API и Middleware конвейери.
-  2. **[Java 21+ & Spring Boot 3](03-Backend-Ecosystems/Java-And-Spring-Boot/README.md):** Java Core/OOP, Spring Data JPA, Spring MVC и Spring Security с JWT и Docker.
-  3. **[Python 3.x, Django & FastAPI](03-Backend-Ecosystems/Python-Django-And-FastAPI/README.md):** Python основи/OOP, Django ORM, Django REST Framework и високоскоростни API-та.
+  2. **[Java 21+ & Spring Boot 3](03-Backend-Ecosystems/Java-Ecosystem/README.md):** Java Core/OOP, Spring Data JPA, Spring MVC и Spring Security с JWT и Docker.
+  3. **[Python 3.x, Django & FastAPI](03-Backend-Ecosystems/Python-Scripting/README.md):** Python основи/OOP, Django ORM, Django REST Framework и високоскоростни API-та.
   4. **[Node.js, Express & NestJS](03-Backend-Ecosystems/Node-Express-And-NestJS/README.md):** Неблокиращ Event-driven сървър, Express маршрутизация и корпоративен NestJS.
   5. **[Modern PHP 8.3+, Laravel & WordPress](03-Backend-Ecosystems/PHP-Laravel-And-WordPress/README.md):** Строго типизиран PHP, Laravel MVC/Eloquent и програмна WordPress архитектура.
   6. **[REST API, RESTful & GraphQL (API Архитектура)](03-Backend-Ecosystems/REST-API-And-GraphQL/README.md):** Проектиране на RESTful ресурси, HTTP методи/статуси, OpenAPI/Swagger, GraphQL схеми, Mutations и DataLoader.
