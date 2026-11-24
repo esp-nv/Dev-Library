@@ -1,6 +1,4 @@
-
-
-[⬅️ Назад към 01. The Quick Wins](../README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: Module 01. HTML5 & CSS3 Foundations](../Module-01-HTML-And-CSS-Foundations/README.md) | [▶️ Започни от 00-00 Intro](00-00-Intro.md)
+[⬅️ Назад към 01. Core Tools](../README.md) | [📚 Инженерна Библиотека](../../README.md) | [🏠 Начало](../../../README.md) | [📂 Следващ модул: Git & GitHub](../Git-And-GitHub/README.md) | [▶️ Започни от 00-00 Intro](00-00-Intro.md)
 
 ---
 
@@ -21,7 +19,7 @@
   * 🛠️ [Syntax-From-Scratch & DevTools Audit Cheat Sheet](00-02-01-DevTools-Audit-From-Scratch.md)
 
 ---
-[⬅️ Назад към 01. The Quick Wins](../README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: Module 01. HTML5 & CSS3 Foundations](../Module-01-HTML-And-CSS-Foundations/README.md) | [▶️ Започни от 00-00 Intro](00-00-Intro.md)
+[⬅️ Назад към 01. Core Tools](../README.md) | [📚 Инженерна Библиотека](../../README.md) | [🏠 Начало](../../../README.md) | [📂 Следващ модул: Git & GitHub](../Git-And-GitHub/README.md) | [▶️ Започни от 00-00 Intro](00-00-Intro.md)
 ---
 © 2026 Dev-Library / Module 00: Course Intro & Development Environment Setup
 
