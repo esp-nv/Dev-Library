@@ -2,7 +2,7 @@
 
 ---
 
-# 🧠 Algorithms Introduction (Python, C#, JavaScript & Java Multi-Language Atlas)
+# 🧠 Module 02: Algorithms Introduction (Python, C#, JavaScript & Java Multi-Language Atlas)
 
 Самостоятелен фундаментален модул по алгоритми и анализ на сложността. Всяка тема съдържа обща теоретична и визуална основа (`-00`), последвана от чисти имплементации от нулата и Cheat Sheets на **Python**, **C#**, **JavaScript** и **Java**.
 
