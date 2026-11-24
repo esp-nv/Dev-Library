@@ -2,7 +2,7 @@
 
 ---
 
-# 🔀 Git & GitHub (Version Control, GitHub Desktop & TortoiseGit)
+# 🔀Module 01: Git & GitHub (Version Control, GitHub Desktop & TortoiseGit)
 
 Универсален инженерен справочник за разпределен контрол на версиите (**Git**) и облачна колаборация (**GitHub**) — приложим във всеки език и домейн (Frontend, Backend, QA, Cloud и Game Development). Включва работа през терминал (**Git CLI**), визуалните клиенти **GitHub Desktop** и **TortoiseGit („Костенурката“)**, стратегии за разклоняване и разрешаване на конфликти.
 
