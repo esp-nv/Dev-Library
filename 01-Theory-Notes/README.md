@@ -14,61 +14,73 @@
 ## 🧭 Карта на Библиотеката по Домейни
 
 * **[00. Примерни Пътеки за Учене и Дневници (Learning Roadmaps)](00-Learning-Roadmaps/README.md)**
-  * *Обхваща:* Подредени кариерни пътеки по нива на трудност спрямо C#/.NET, глобални индекси, бенчмаркове между езиците и лични чеклистове за проследяване на напредъка.
-  1. **[Full-Stack & QA Automation Roadmap (Нива 1–4)](00-Learning-Roadmaps/Full-Stack-And-QA-Automation-Roadmap/README.md):** Структурирана учебна програма от уеб основите до Cloud и Kafka.
-  2. **[Дневници и Чеклистове на Обучението](00-Learning-Roadmaps/01-Personal-Checklists/README.md):** Цели, етапи и контролни списъци по дати.
+  * *Обхваща:* Подредени кариерни пътеки по нива на трудност спрямо C#/.NET, сравнения между технологиите и лични чеклистове за проследяване на напредъка.
+  1. **[Full-Stack & QA Automation Roadmap (Нива 1–4)](00-Learning-Roadmaps/00-Full-Stack-And-QA-Automation-Roadmap.md):** Структурирана учебна програма от уеб основите до Cloud и Kafka.
+  2. **[Дневници и Чеклистове на Обучението](00-Learning-Roadmaps/01-Personal-Checklists/map-goal-for-learn.md):** Цели, етапи и контролни списъци по дати.
+  3. **[Бързо Сравнение на Модерния Tech Stack](00-Learning-Roadmaps/TECH-STACK-COMPARISONS.md):** Сравнителни таблици по категории за реалните разлики в индустрията днес.
+  4. **[Инженерен Наръчник за Избор на Технологии](00-Learning-Roadmaps/FRAMEWORK-AND-TECH-SELECTION-GUIDE.md):** Матрица от 12 критерия (производителност, мащабируемост, скалиране, AI готовност, LTS).
 
 * **[01. Инструменти, Контрол на Версиите и Алгоритми (Core Tools)](01-Core-Tools-And-Fundamentals/README.md)**
-  * *Обхваща:* Фундаментални инженерни умения, необходими във всеки проект независимо от езика — работа в екип с Git/GitHub, анализ на алгоритмична сложност и Linux терминал.
-  1. **[Git & GitHub (CLI, GitHub Desktop & TortoiseGit)](01-Core-Tools-And-Fundamentals/Git-And-GitHub/README.md):** Разпределен контрол на версиите, клонове, Pull Requests и разрешаване на Merge Conflicts.
-  2. **[Алгоритми и Структури от Данни (Algorithms)](01-Core-Tools-And-Fundamentals/Algorithms-Introduction/README.md):** Сложност по време и памет (Big O), сортиране, търсене, дървета и графи.
-  3. **[Linux, Terminal & Bash Scripting](01-Core-Tools-And-Fundamentals/Linux-And-Bash-Scripting/README.md):** Файлова система, права за достъп, процеси и автоматизационни скриптове.
+  * *Обхваща:* Фундаментални инженерни умения, необходими във всеки проект независимо от езика — среда за разработка, Git/GitHub и анализ на алгоритмична сложност.
+  1. **[Среда за разработка и Браузърна диагностика (`Course-Intro-And-Setup/`)](01-Core-Tools-And-Fundamentals/Course-Intro-And-Setup/README.md):** Клиент-сървър архитектура, сравнение на 10 IDE среди и Chrome DevTools одит.
+  2. **[Git & GitHub (CLI, GitHub Desktop & TortoiseGit)](01-Core-Tools-And-Fundamentals/Git-And-GitHub/README.md):** Разпределен контрол на версиите, клонове, Pull Requests и разрешаване на Merge Conflicts.
+  3. **[Алгоритми и Структури от Данни (`Algorithms-And-Data-Structures/`)](01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/README.md):** Сложност по време и памет (Big O), сортиране, търсене, дървета и графи (Python, C#, JS, Java).
+  4. **Linux, Terminal & Bash Scripting** *(Планирано разширение)*: Файлова система, права за достъп, процеси и автоматизационни скриптове.
 
 * **[02. Фронтенд и UI/UX Дизайн (Frontend & UI/UX)](02-Frontend-And-UI-UX/README.md)**
-  * *Обхваща:* Изграждане на модерни, достъпни и бързи потребителски интерфейси — от дизайн прототипи във Figma и HTML5/CSS3/SCSS до строго-типизирани SPA приложения.
-  1. **[UI/UX Design & Figma](02-Frontend-And-UI-UX/UI-UX-Design-And-Figma/README.md):** Типография, цветови системи, Wireframing и стандарти за достъпност (WCAG).
-  2. **[HTML5, CSS3, Sass/SCSS & Responsive](02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md):** Семантичен HTML, Box Model, Flexbox/Grid, Tailwind CSS и Bootstrap 5.
-  3. **[JavaScript (ES6+) & TypeScript](02-Frontend-And-UI-UX/JavaScript-And-TypeScript/README.md):** Event Loop, DOM, асинхронност (`Promises`), статична типизация, ООП и Generics.
-  4. **[Модерни SPA Рамки (React, Vue 3, Angular)](02-Frontend-And-UI-UX/Modern-SPA-Frameworks/README.md):** Компонентна архитектура, State Management (Pinia/Redux), Signals и SSR (Next.js).
+  * *Обхваща:* Изграждане на модерни, достъпни и бързи потребителски интерфейси — от HTML5/CSS3/SCSS, Responsive дизайн, Tailwind и Bootstrap 5 до строго-типизиран TypeScript и SPA рамки.
+  1. **[HTML5, CSS3, Sass/SCSS & Методологии (`HTML5-CSS3-And-SASS/`)](02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md):** Семантичен HTML, Box Model, Flexbox, Sass/SCSS, BEM и изпитни шаблони.
+  2. **[Адаптивен Дизайн, Форми & CSS Рамки (`Responsive-Forms-And-Frameworks/`)](02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/README.md):** Media Queries, HTML5 форми, Tailwind CSS (Utility-First) и Bootstrap 5.
+  3. **[TypeScript Language (`TypeScript-Language/`)](02-Frontend-And-UI-UX/TypeScript-Language/README.md):** Компилатор `tsc`, статична типизация, Guards, ООП, Generics и декоратори.
+  4. **UI/UX Design & Figma / Модерни SPA Рамки (React, Vue 3, Angular)** *(Планирани разширения)*.
 
 * **[03. Бекенд Екосистеми (Backend Ecosystems)](03-Backend-Ecosystems/README.md)**
-  * *Обхваща:* Проектиране на сървърна бизнес логика, RESTful и GraphQL API-та, автентикация и сигурност (JWT/OAuth2), Dependency Injection и корпоративни уеб рамки.
-  1. **[C# & ASP.NET Core](03-Backend-Ecosystems/C-Sharp-And-ASP-NET/README.md):** .NET основи, колекции, LINQ, ASP.NET Core MVC, Web API и Middleware конвейери.
-  2. **[Java 21+ & Spring Boot 3](03-Backend-Ecosystems/Java-Scripting/README.md):** Java Core/OOP, Spring Data JPA, Spring MVC и Spring Security с JWT и Docker.
-  3. **[Python 3.x, Django & FastAPI](03-Backend-Ecosystems/Python-Scripting/README.md):** Python основи/OOP, Django ORM, Django REST Framework и високоскоростни API-та.
-  4. **[Node.js, Express & NestJS](03-Backend-Ecosystems/Node-Express-And-NestJS/README.md):** Неблокиращ Event-driven сървър, Express маршрутизация и корпоративен NestJS.
-  5. **[Modern PHP 8.3+, Laravel & WordPress](03-Backend-Ecosystems/PHP-Laravel-And-WordPress/README.md):** Строго типизиран PHP, Laravel MVC/Eloquent и програмна WordPress архитектура.
-  6. **[REST API, RESTful & GraphQL (API Архитектура)](03-Backend-Ecosystems/REST-API-And-GraphQL/README.md):** Проектиране на RESTful ресурси, HTTP методи/статуси, OpenAPI/Swagger, GraphQL схеми, Mutations и DataLoader.
-
+  * *Обхваща:* Проектиране на сървърна бизнес логика, уеб рамки, ORM достъп, автентикация и сигурност (JWT/OAuth2) и Dependency Injection.
+  1. **[C# & ASP.NET Core (`C-Sharp-And-ASP-NET/`)](03-Backend-Ecosystems/C-Sharp-And-ASP-NET/README.md):** .NET основи, колекции, LINQ, ASP.NET Core MVC, Web API и Middleware конвейери.
+  2. **[Java 21+ & Spring Boot 3 (`Java-Ecosystem/`)](03-Backend-Ecosystems/Java-Ecosystem/README.md):** Java Core/OOP, Spring Data JPA, Spring MVC и Spring Security с JWT и Docker.
+  3. **[Python 3.x & Django (`Python-Scripting/`)](03-Backend-Ecosystems/Python-Scripting/README.md):** Python основи/OOP, Django MTV архитектура, Django ORM, Forms и Django Admin.
+  4. **Node.js (Express & NestJS) / Modern PHP 8.3+ (Laravel & WordPress) / REST API & GraphQL** *(Планирани разширения)*.
 
 * **[04. Бази Данни, Кеширане и Потоци (Databases & Data)](04-Databases-And-Caching/README.md)**
-  * *Обхваща:* Моделиране на релационни и документни данни, писане на бързи SQL заявки и индекси, ORM системи, разпределено кеширане в RAM и асинхронни брокери на събития.
-  1. **[Релационни Бази Данни (SQL Server & PostgreSQL)](04-Databases-And-Caching/SQL-And-Relational-DBs/README.md):** Нормализация, сложни JOIN заявки, B-Tree индекси, ACID трансакции и оптимизация.
-  2. **[ORM Системи (EF Core & Hibernate/JPA)](04-Databases-And-Caching/ORM-Systems/README.md):** Code-First миграции, релации, Change Tracking и решаване на N+1 проблема.
-  3. **[NoSQL и Кеширане в Паметта (Redis & MongoDB)](04-Databases-And-Caching/NoSQL-And-Redis-Caching/README.md):** Документни колекции, Redis структури, Cache-Aside стратегия и TTL управление.
-  4. **[Event Streaming и Опашки (Apache Kafka & RabbitMQ)](04-Databases-And-Caching/Data-Engineering-And-Streaming/README.md):** Асинхронна комуникация между микросървиси, Topics, Partitions и Outbox Pattern.
+  * *Обхваща:* Моделиране на релационни и документни данни, писане на бързи SQL заявки и индекси, ORM системи и разпределено кеширане в RAM.
+  1. **[Релационни и NoSQL Бази Данни (`Databases-SQL-And-NoSQL/`)](04-Databases-And-Caching/Databases-SQL-And-NoSQL/README.md):** Нормализация, JOIN заявки, Window функции, B-Tree индекси, ACID трансакции и MongoDB.
+  2. **[Entity Framework Core & .NET ORM (`Databases-And-EF-Core/`)](04-Databases-And-Caching/Databases-And-EF-Core/README.md):** Code-First миграции, Fluent API, Global Query Filters (Soft Delete), Interceptors и Project Workflow.
+  3. **[Кеширане в Паметта с Redis (`Redis-Caching/`)](04-Databases-And-Caching/Redis-Caching/README.md):** In-Memory структури, Cache-Aside стратегия, TTL управление и .NET интеграция.
 
 * **[05. QA и Автоматизирано Тестване (QA Automation & SDET)](05-QA-And-Test-Automation/README.md)**
   * *Обхваща:* Цялостно осигуряване на качеството на софтуера — от ръчно тестване и управление на дефекти до многоезични Unit тестове, UI/Mobile роботи и нагрузочни тестове.
-  1. **[Manual QA, Test Design & Jira](05-QA-And-Test-Automation/Manual-QA-And-Jira/README.md):** SDLC/STLC, EP/BVA техники за тестов дизайн, JQL заявки и MS Project графици.
-  2. **[Unit Testing & Mocking (C#, Java, TS, Python)](05-QA-And-Test-Automation/Multi-Language-Unit-Testing/README.md):** AAA шаблон, NUnit/Moq, JUnit 5/Mockito, Vitest и pytest.
-  3. **[Web UI & Mobile Автоматизация](05-QA-And-Test-Automation/UI-And-Mobile-Automation/README.md):** Selenium WebDriver (POM), Playwright (Auto-Waiting, Trace Viewer) и Appium 2.0.
-  4. **[API, Contract & Performance Тестване](05-QA-And-Test-Automation/API-And-Performance-Testing/README.md):** Postman, RestSharp, REST Assured, Pact договори и Load/Stress тестове с Grafana K6.
+  1. **[Пълен Курс по QA Automation & SDET (`01-QA-Automation/`)](05-QA-And-Test-Automation/01-QA-Automation/README.md):** SDLC/STLC, EP/BVA техники, Jira, Unit Testing (C#/Java/TS/Python), Selenium, Playwright, Appium, API и K6 Load Testing.
 
 * **[06. Облачна Инфраструктура, DevOps и Архитектура](06-Cloud-DevOps-And-Architecture/README.md)**
-  * *Обхваща:* Проектиране на мащабируеми разпределени системи, контейнеризация, оркестрация в облака, автоматизирани CI/CD процеси, мониторинг и техническо SEO.
-  1. **[System Design & Software Architecture](06-Cloud-DevOps-And-Architecture/System-Design-And-Architecture/README.md):** Микросървиси, Load Balancing, CAP теорема, CQRS, SOLID и Design Patterns.
-  2. **[Docker & Kubernetes (Контейнеризация)](06-Cloud-DevOps-And-Architecture/Docker-And-Kubernetes/README.md):** Dockerfile Multi-stage builds, Docker Compose, Pods, Services и K8s клъстери.
-  3. **[Cloud Платформи (AWS & Microsoft Azure)](06-Cloud-DevOps-And-Architecture/Cloud-Platforms-AWS-And-Azure/README.md):** EC2/App Service, S3/Blob Storage, управлявани бази данни, Serverless и IAM сигурност.
-  4. **[CI/CD, Observability & Technical SEO](06-Cloud-DevOps-And-Architecture/CI-CD-And-SEO/README.md):** GitHub Actions конвейери, Prometheus/Grafana метрики и Core Web Vitals.
+  * *Обхваща:* Проектиране на мащабируеми разпределени системи, скалиране и техническа оптимизация за търсачки.
+  1. **[System Design & Software Architecture (`System-Design-And-Software-Architecture/`)](06-Cloud-DevOps-And-Architecture/System-Design-And-Software-Architecture/README.md):** Микросървиси, Load Balancing, CAP теорема, Sharding и визуални архитектурни чертежи.
+  2. **[Technical SEO, GEO & Core Web Vitals (`Technical-SEO-And-Web-Vitals/`)](06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/README.md):** Crawling & Indexing, JSON-LD Schema.org, GEO за AI търсачки и LCP/INP/CLS метрики.
+  3. **Docker, Kubernetes & Cloud (AWS / Azure)** *(Планирани разширения)*.
 
-* **[07. Разработка на Игри (Game Development)](07-Game-Development/README.md)**
-  * *Обхваща:* Архитектура на игри в реално време, физични симулации, управление на ресурси и игрови шаблони чрез C# и модерни игрови двигатели.
-  1. **[Unity Engine & C# Game Scripting](07-Game-Development/Unity-And-C-Sharp-Scripting/README.md):** Game Loop, компонентна архитектура, физика, колизии и оптимизация на кадри (FPS).
-  2. **[Game Design Patterns & Архитектура](07-Game-Development/Game-Design-Patterns/README.md):** State Machine, Object Pooling, Observer и управление на игрови сцени.
+* **07. Разработка на Игри (Game Development)** *(Планиран домейн)*
+  * *Обхваща:* Unity Engine, C# Game Scripting, Game Loop, физика и игрови шаблони (State Machine, Object Pooling).
 
 ---
 
-[🏠 Главен Портал (Dev-Library)](../README.md) | [🧭 Пътеводител за Учене (00-Learning-Roadmaps)](00-Learning-Roadmaps/README.md) | [▶️ Започни от Git & GitHub](01-Core-Tools-And-Fundamentals/Git-And-GitHub/README.md)
+## ⚡ Бързи Справочници в Корена (Direct Quick-Access)
 
+* **[Architecture & Cross-Stack Comparisons (`Architecture-And-Cross-Stack/`)](Architecture-And-Cross-Stack/README.md)**
+  * *Обхваща:* Управление на паметта (Stack срещу Heap), директни паралели между .NET, JVM и Node.js, компилатори срещу интерпретатори и кръстосано сравнение SQL срещу NoSQL.
+  1. **[01-00. Architecture & Memory Intro](Architecture-And-Cross-Stack/01-00-ARCHITECTURE-AND-MEMORY-INTRO.md):** Въведение в системната архитектура и организацията на паметта.
+  2. **[01-01. Cross-Stack Types & Ecosystem](Architecture-And-Cross-Stack/01-01-Cross-Stack-Types-And-Ecosystem.md):** Сравнение на типовите системи между различните езици и среди.
+  3. **[01-02. Stack vs. Heap Memory Deep Dive](Architecture-And-Cross-Stack/01-02-Stack-Vs-Heap-Memory-Deep-Dive.md):** Как се разпределят референтните и стойностните типове и как работи Garbage Collector-ът.
+  4. **[01-03. Ecosystems Comparison: .NET vs. JVM vs. Node.js](Architecture-And-Cross-Stack/01-03-Ecosystems-Comparison-DotNet-JVM-Node.md):** Вътрешна механика на CLR, JVM и V8 Event Loop.
+  5. **[01-04. Compilers, Interpreters & Runtime](Architecture-And-Cross-Stack/01-04-Compilers-Interpreters-And-Runtime.md):** AOT, JIT компилация, байткод и изпълнение в реално време.
+  6. **[02-00 – 02-03. Software Architecture & SQL vs. NoSQL](Architecture-And-Cross-Stack/02-00-SOFTWARE-ARCHITECTURE-OVERVIEW.md):** Монолит срещу микросървиси, Serverless и кръстосан одит на релационни срещу NoSQL бази.
+
+* **[Web Development & ASP.NET Core MVC (`Web-Development/`)](Web-Development/2026-11-03_ASP-NET-Core-MVC-Architecture.md)**
+  * *Обхваща:* Визуални карти, архитектурни схеми и практически кодови шаблони за бърза справка при изграждане на ASP.NET Core MVC приложения.
+  1. **[ASP.NET Core MVC Architecture](Web-Development/2026-11-03_ASP-NET-Core-MVC-Architecture.md):** Визуален поток от HTTP заявката през Middleware, Controller, Service и EF Core до Razor екрана.
+  2. **[ASP.NET Core MVC Complete Map](Web-Development/2026-11-03_ASP-NET-Core-MVC-Complete-Map.md):** Стъпка по стъпка карта за Routing, Model Binding, валидация, Dependency Injection и ViewModels.
+  3. **[ASP.NET Core MVC Practical Blueprint](Web-Development/asp-net-core-mvc.md):** Готов вертикален разрез с код (`IEntityTypeConfiguration`, `ApplicationDbContext`, `Program.cs`, `ProductsController` и `AutoMapper`).
+  4. **[ASP.NET Core Comprehensive Notes](Web-Development/asp-net.md):** Разширен сборен конспект по ASP.NET Core (конфигурация, Razor Views, Identity, Web API и добри практики).
+
+---
+[🏠 Главен Портал (Dev-Library)](../README.md) | [🧭 Пътеводител за Учене (00-Learning-Roadmaps)](00-Learning-Roadmaps/README.md) | [▶️ Започни от Git & GitHub](01-Core-Tools-And-Fundamentals/Git-And-GitHub/README.md)
+---
 © 2026 Dev-Library / Инженерна Библиотека и Технологичен Архив
