@@ -1,4 +1,4 @@
-[⬅️ Назад към 01. HTML5 & CSS3 Foundations](README.md) | [📂 Предишна папка: 00. Course Intro & Setup](../00-Course-Intro-And-Setup/README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-01-00. Въведение в HTML5 и CSS3](01-01-00-HTML5-And-CSS3-Basics.md)
+[⬅️ Назад към 01. HTML5 & CSS3 Foundations](README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-01-00. Въведение в HTML5 и CSS3](01-01-00-HTML5-And-CSS3-Basics.md)
 
 ---
 
