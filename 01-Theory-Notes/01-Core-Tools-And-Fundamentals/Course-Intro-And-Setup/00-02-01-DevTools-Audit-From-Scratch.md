@@ -1,4 +1,5 @@
-[⬅️ 00-02-00. Браузърна диагностика и Мрежова интеграция](00-02-00-Browser-Diagnostics-And-Network.md) | [📂 Текуща папка: Module 00. Course Intro & Setup](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: Module 01. HTML5 & CSS3 Foundations](../01-HTML-And-CSS-Foundations/README.md) | [➡️ 01-00. Intro to HTML5 & CSS3](../01-HTML-And-CSS-Foundations/01-00-Intro.md)
+[⬅️ 00-02-00. Браузърна диагностика & Мрежа](00-02-00-Browser-Diagnostics-And-Network.md) | [📂 Текуща папка: Course Intro](README.md) | [🏠 Начало](../../../README.md) | [➡️ Следващ модул: Git & GitHub](../Git-And-GitHub/README.md)
+
 
 ---
 
@@ -107,6 +108,7 @@
 * **[01-00. Intro to HTML5 & CSS3](../Module-01-HTML-And-CSS-Foundations/01-00-Intro.md)** — Преход към следващия модул: архитектура на HTML5 документа, DOM дърво и основи на CSS3 селекторите.
 
 ---
-[⬅️ 00-02-00. Браузърна диагностика и Мрежова интеграция](00-02-00-Browser-Diagnostics-And-Network.md) | [📂 Текуща папка: Module 00. Course Intro & Setup](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: Module 01. HTML5 & CSS3 Foundations](../01-HTML-And-CSS-Foundations/README.md) | [➡️ 01-00. Intro to HTML5 & CSS3](../01-HTML-And-CSS-Foundations/01-00-Intro.md)
+[⬅️ 00-02-00. Браузърна диагностика & Мрежа](00-02-00-Browser-Diagnostics-And-Network.md) | [📂 Текуща папка: Course Intro](README.md) | [🏠 Начало](../../../README.md) | [➡️ Следващ модул: Git & GitHub](../Git-And-GitHub/README.md)
+
 ---
 © 2026 Dev-Library / 00-02-01. DevTools Audit From Scratch (Console, Elements & Cache Reset)
