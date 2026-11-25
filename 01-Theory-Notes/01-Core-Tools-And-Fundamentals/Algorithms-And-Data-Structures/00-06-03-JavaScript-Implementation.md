@@ -87,3 +87,6 @@ console.log(knapsack01(7, , )); // 9
 
 ---
 [⬅️ 00-06-02. C# Implementation](00-06-02-CSharp-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [🏠 Към Главния Хъб на Библиотеката](../README.md) | [➡️ 00-06-04-Java-Implementation.md](00-06-04-Java-Implementation.md)
+
+
+© 2026 Dev-Library / 00-06-03. Dynamic Programming: JavaScript (ES6+) Имплементация & Cheat Sheet

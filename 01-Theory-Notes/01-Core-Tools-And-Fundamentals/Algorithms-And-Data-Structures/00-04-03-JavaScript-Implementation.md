@@ -111,3 +111,6 @@ console.log(fractionalKnapsack(50, loot)); // 240
 
 ---
 [⬅️ 00-04-02. C# Implementation](00-04-02-CSharp-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-04-04-Java-Implementation.md](00-04-04-Java-Implementation.md)
+
+
+© 2026 Dev-Library / 00-04-03. Greedy Algorithms: JavaScript (ES6+) Имплементация & Cheat Sheet

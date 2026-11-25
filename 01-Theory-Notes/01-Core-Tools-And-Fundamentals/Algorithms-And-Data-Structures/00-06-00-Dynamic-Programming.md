@@ -104,3 +104,6 @@ def fib_optimal(n: int) -> int:
 
 ---
 [⬅️ 00-05. Graphs and Traversal](00-05-00-Graphs-And-Traversal.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-06-01. Python Implementation](00-06-01-Python-Implementation.md)
+
+
+© 2026 Dev-Library / 00-06-00. Dynamic Programming (Теория, Memoization vs Tabulation & Капани)

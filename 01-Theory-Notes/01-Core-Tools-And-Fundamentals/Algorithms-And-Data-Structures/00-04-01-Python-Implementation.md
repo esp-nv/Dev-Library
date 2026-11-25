@@ -107,3 +107,5 @@ print(f"Максимална стойност: {fractional_knapsack(50, loot):.2
 
 ---
 [⬅️ 00-04-00. Теория & Капани](00-04-00-Greedy-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-04-02. C# Implementation](00-04-02-CSharp-Implementation.md)
+
+© 2026 Dev-Library / 00-04-01. Greedy Algorithms: Python Имплементация & Cheat Sheet
