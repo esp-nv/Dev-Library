@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 [⬅️ 00-00. Intro & Big O](00-00-Intro-And-Big-O.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-01-01. Python Implementation](00-01-01-Python-Implementation.md)
+=======
+[⬅️ 00-00. Intro & Big O](00-00-Intro-And-Big-O.md) | [Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-01-01. Python Implementation](00-01-01-Python-Implementation.md)
+>>>>>>> a8d1e9dbbf84abd6c9f7820f935ba13459f9ad92
 
 ---
 
@@ -13,6 +17,7 @@
 * [4. Плюсове и минуси на Рекурсията срещу Итерацията](#4-плюсове-и-минуси-на-рекурсията-срещу-итерацията)
 * [5. Кодов одит: Правилен срещу Грешен код](#5-кодов-одит-правилен-срещу-грешен-код)
 * [6. Интервю капани, въпроси и уловки](#6-интервю-капани-въпроси-и-уловки)
+* [7. Карта на Подмодулите](#7-карта-на-подмодулите)
 
 ---
 
@@ -117,4 +122,19 @@ def generate_subsets(nums: list[int]) -> list[list[int]]:
 *   **Точен Senior отговор:** Променливата `current` е **референтен тип** в паметта (един и същ списък в Heap-а). Ако добавиш директно `current` в `result`, ти не запазваш моментна снимка на числата, а само **указател към същия списък**. В края на алгоритъма, когато Backtracking-ът изпразни `current` с `.pop()`, всички записи вътре в `result` сочат към вече празния списък! Затова **винаги** правим плитко копие (`.copy()` / `[...current]`) при достигане на дъното.
 
 ---
+<<<<<<< HEAD
 [⬅️ 00-00. Intro & Big O](00-00-Intro-And-Big-O.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-01-01. Python Implementation](00-01-01-Python-Implementation.md)
+=======
+
+## 7. Карта на Подмодулите
+
+* [00-01-01-Python-Implementation](00-01-01-Python-Implementation.md)
+* [00-01-02-CSharp-Implementation](00-01-02-CSharp-Implementation.md)
+* [00-01-03-JavaScript-Implementation](00-01-03-JavaScript-Implementation.md)
+* [00-01-04-Java-Implementation](00-01-04-Java-Implementation.md)
+ 
+---
+[⬅️ 00-00. Intro & Big O](00-00-Intro-And-Big-O.md) | [Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-01-01. Python Implementation](00-01-01-Python-Implementation.md)
+
+© 2026 Dev-Library / 00-01-00. Recursion and Backtracking (Теория, Call Stack, Дърво & Капани)
+>>>>>>> a8d1e9dbbf84abd6c9f7820f935ba13459f9ad92
