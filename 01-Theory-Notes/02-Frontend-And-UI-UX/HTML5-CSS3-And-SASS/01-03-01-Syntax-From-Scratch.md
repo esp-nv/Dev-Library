@@ -1,4 +1,5 @@
-[⬅️ 01-03-00. CSS Layout — Flexbox Архитектура](01-03-00-CSS-Layout-Flexbox.md) | [📂 Предишна папка: 00. Course Intro & Setup](../00-Course-Intro-And-Setup/README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-04-00. Sass и SCSS Архитектура](01-04-00-Sass-And-SCSS-Architecture.md)
+[⬅️ 01-03-00. CSS Layout — Flexbox Архитектура](01-03-00-CSS-Layout-Flexbox.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало 01-Theory-Notes](../../README.md)| [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-04-00. Sass и SCSS Архитектура](01-04-00-Sass-And-SCSS-Architecture.md)
+
 ---
 
 # 01-03-01. Syntax-From-Scratch & Flexbox Cheat Sheet (Адаптивни подредби и Navbar Snippets)
@@ -152,6 +153,7 @@
 
 
 ---
-[⬅️ 01-03-00. CSS Layout — Flexbox Архитектура](01-03-00-CSS-Layout-Flexbox.md) | [📂 Предишна папка: 00. Course Intro & Setup](../00-Course-Intro-And-Setup/README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-04-00. Sass и SCSS Архитектура](01-04-00-Sass-And-SCSS-Architecture.md)
----
+[⬅️ 01-03-00. CSS Layout — Flexbox Архитектура](01-03-00-CSS-Layout-Flexbox.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало 01-Theory-Notes](../../README.md)| [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-04-00. Sass и SCSS Архитектура](01-04-00-Sass-And-SCSS-Architecture.md)
+
+
 © 2026 Dev-Library / 01-03-01. Syntax-From-Scratch & Flexbox Cheat Sheet (Адаптивни подредби и Navbar Snippets)

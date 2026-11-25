@@ -1,4 +1,4 @@
-[⬅️ 01-02-01. Syntax-From-Scratch & UI Card Snippets](01-02-01-Syntax-From-Scratch.md) | [📂 Предишна папка: 00. Course Intro & Setup](../00-Course-Intro-And-Setup/README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-03-01. Syntax-From-Scratch & Flexbox Cheat Sheet](01-03-01-Syntax-From-Scratch.md)
+[⬅️ 01-02-01. Syntax-From-Scratch & UI Card Snippets](01-02-01-Syntax-From-Scratch.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало 01-Theory-Notes](../../README.md)| [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-03-01. Syntax-From-Scratch & Flexbox Cheat Sheet](01-03-01-Syntax-From-Scratch.md)
 
 ---
 
@@ -86,6 +86,7 @@
 * **[02-00. Intro to Responsive & UI Frameworks](../02-Responsive-Forms-And-Frameworks/02-00-Intro.md)** — Преход към следващия раздел: адаптивен дизайн с Media Queries, форми, Tailwind CSS и Bootstrap 5.
 
 ---
-[⬅️ 01-02-01. Syntax-From-Scratch & UI Card Snippets](01-02-01-Syntax-From-Scratch.md) | [📂 Предишна папка: 00. Course Intro & Setup](../00-Course-Intro-And-Setup/README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-03-01. Syntax-From-Scratch & Flexbox Cheat Sheet](01-03-01-Syntax-From-Scratch.md)
----
+[⬅️ 01-02-01. Syntax-From-Scratch & UI Card Snippets](01-02-01-Syntax-From-Scratch.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало 01-Theory-Notes](../../README.md)| [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-03-01. Syntax-From-Scratch & Flexbox Cheat Sheet](01-03-01-Syntax-From-Scratch.md)
+
+
 © 2026 Dev-Library / 01-03-00. CSS Layout — Flexbox Архитектура (Теория, Оси и Капани)

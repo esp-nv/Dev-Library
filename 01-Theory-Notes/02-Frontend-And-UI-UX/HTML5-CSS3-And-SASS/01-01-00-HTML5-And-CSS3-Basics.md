@@ -1,4 +1,4 @@
-[⬅️ 01-00. Intro to HTML5 & CSS3 Architecture](01-00-Intro.md) | [📂 Предишна папка: 00. Course Intro & Setup](../00-Course-Intro-And-Setup/README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-01-01. Syntax-From-Scratch & Semantic Cheat Sheet](01-01-01-Syntax-From-Scratch.md)
+[⬅️ 01-00. Intro to HTML5 & CSS3 Architecture](01-00-Intro.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало 01-Theory-Notes](../../README.md)| [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-01-01. Syntax-From-Scratch & Semantic Cheat Sheet](01-01-01-Syntax-From-Scratch.md)
 
 ---
 
@@ -72,6 +72,7 @@
 * **Как да го поправиш:** Винаги, преди да почнеш да пишеш дизайн, подсигурявай присъствието на `<meta charset="UTF-8">` веднага след отварящия таг `<head>`.
 
 ---
-[⬅️ 01-00. Intro to HTML5 & CSS3 Architecture](01-00-Intro.md) | [📂 Предишна папка: 00. Course Intro & Setup](../00-Course-Intro-And-Setup/README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-01-01. Syntax-From-Scratch & Semantic Cheat Sheet](01-01-01-Syntax-From-Scratch.md)
----
+[⬅️ 01-00. Intro to HTML5 & CSS3 Architecture](01-00-Intro.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало 01-Theory-Notes](../../README.md)| [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-01-01. Syntax-From-Scratch & Semantic Cheat Sheet](01-01-01-Syntax-From-Scratch.md)
+
+
 © 2026 Dev-Library / 01-01-00. Въведение в HTML5 и CSS3 (Теория, Упражнения и Изпитни Тактики)

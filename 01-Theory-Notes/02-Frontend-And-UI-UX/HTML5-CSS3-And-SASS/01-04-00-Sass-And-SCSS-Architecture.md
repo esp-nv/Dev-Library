@@ -1,4 +1,4 @@
-[⬅️ 01-03-01. Syntax-From-Scratch & Flexbox Cheat Sheet](01-03-01-Syntax-From-Scratch.md) | [📂 Предишна папка: 00. Course Intro & Setup](../00-Course-Intro-And-Setup/README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet](01-04-01-Syntax-From-Scratch.md)
+[⬅️ 01-03-01. Syntax-From-Scratch & Flexbox Cheat Sheet](01-03-01-Syntax-From-Scratch.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало 01-Theory-Notes](../../README.md)| [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet](01-04-01-Syntax-From-Scratch.md)
 
 ---
 
@@ -68,6 +68,7 @@
 * **[01-05. Пълно сравнение на CSS стиловете, методологиите и рамките](01-05-CSS-Methodologies-And-Frameworks-Comparison.md)** — Сравнителна таблица по категории: Pure CSS, SCSS, Tailwind CSS, Bootstrap 5 и CSS-in-JS (бързина, RAM, CPU, предимства и недостатъци).
 
 ---
-[⬅️ 01-03-01. Syntax-From-Scratch & Flexbox Cheat Sheet](01-03-01-Syntax-From-Scratch.md) | [📂 Предишна папка: 00. Course Intro & Setup](../00-Course-Intro-And-Setup/README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet](01-04-01-Syntax-From-Scratch.md)
----
+[⬅️ 01-03-01. Syntax-From-Scratch & Flexbox Cheat Sheet](01-03-01-Syntax-From-Scratch.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало 01-Theory-Notes](../../README.md)| [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet](01-04-01-Syntax-From-Scratch.md)
+
+
 © 2026 Dev-Library / 01-04-00. Sass и SCSS Архитектура (Препроцесори, Модули и Капани)

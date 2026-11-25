@@ -1,4 +1,4 @@
-[⬅️ 01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet](01-04-01-Syntax-From-Scratch.md) | [📂 Предишна папка: 00. Course Intro & Setup](../00-Course-Intro-And-Setup/README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-00. Intro to Responsive Design & UI Frameworks](../02-Responsive-Forms-And-Frameworks/02-00-Intro.md)
+[⬅️ 01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet](01-04-01-Syntax-From-Scratch.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало 01-Theory-Notes](../../README.md)| [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-00. Intro to Responsive Design & UI Frameworks](../02-Responsive-Forms-And-Frameworks/02-00-Intro.md)
 
 ---
 
@@ -111,6 +111,7 @@
 * **[02-00. Intro to Responsive Design & UI Frameworks](../02-Responsive-Forms-And-Frameworks/02-00-Intro.md)** — Преход към Раздел 02: адаптивен дизайн с Media Queries, HTML форми, Tailwind CSS и Bootstrap 5.
 
 ---
-[⬅️ 01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet](01-04-01-Syntax-From-Scratch.md) | [📂 Предишна папка: 00. Course Intro & Setup](../00-Course-Intro-And-Setup/README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-00. Intro to Responsive Design & UI Frameworks](../02-Responsive-Forms-And-Frameworks/02-00-Intro.md)
----
+[⬅️ 01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet](01-04-01-Syntax-From-Scratch.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало 01-Theory-Notes](../../README.md)| [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-00. Intro to Responsive Design & UI Frameworks](../02-Responsive-Forms-And-Frameworks/02-00-Intro.md)
+
+
 © 2026 Dev-Library / 01-05. Архитектурно и Хардуерно Сравнение на Стиловете (CSS3, SCSS, Tailwind, Bootstrap 5, CSS-in-JS)

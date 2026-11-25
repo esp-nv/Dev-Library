@@ -1,4 +1,4 @@
-[⬅️ Назад към 04. Exam Preparation & Judge Simulations](README.md) | [📂 Предишна папка: 03. Technical SEO & Redis Caching](../03-SEO-And-Redis-Caching/README.md) | [📂 Текуща папка: 04. Exam Preparation & Judge Simulations](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 02. Natural Extensions & QA Automation](../../02-Level-2-Natural-Extensions-QA-Automation/README.md) | [➡️ 01-96. Performance & Optimizations](../01-96-Performance-And-Optimizations.md)
+[⬅️ Назад към 04. Exam Preparation & Judge Simulations](README.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало 01-Theory-Notes](../../README.md)| [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-96. Performance & Optimizations](../01-96-Performance-And-Optimizations.md)
 
 ---
 
@@ -216,7 +216,8 @@ a {
 * **[01-99. Interview Q&A, Traps & Debugging](../01-99-Interview-QA-Traps-And-Debugging.md)** — Senior интервю въпроси с отговори, скрити капани и техники за дебъгване.
 
 ---
-[⬅️ Назад към 04. Exam Preparation & Judge Simulations](README.md) | [📂 Предишна папка: 03. Technical SEO & Redis Caching](../03-SEO-And-Redis-Caching/README.md) | [📂 Текуща папка: 04. Exam Preparation & Judge Simulations](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 02. Natural Extensions & QA Automation](../../02-Level-2-Natural-Extensions-QA-Automation/README.md) | [➡️ 01-96. Performance & Optimizations](../01-96-Performance-And-Optimizations.md)
----
+[⬅️ Назад към 04. Exam Preparation & Judge Simulations](README.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало 01-Theory-Notes](../../README.md)| [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-96. Performance & Optimizations](../01-96-Performance-And-Optimizations.md)
+
+
 © 2026 Dev-Library / 04-00. Пълен Изпитен Наръчник, Стратегия за Judge & Готови Шаблони
 

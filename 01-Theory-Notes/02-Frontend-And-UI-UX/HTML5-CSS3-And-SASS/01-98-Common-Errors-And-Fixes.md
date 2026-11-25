@@ -1,4 +1,4 @@
-[⬅️ 01-97. Category Cheat Sheet](01-97-Category-Cheat-Sheet.md) | [📂 Текуща папка: 01. The Quick Wins](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. Natural Extensions & QA Automation](../02-Level-2-Natural-Extensions-QA-Automation/README.md) | [➡️ 01-99. Interview Q&A, Traps & Debugging](01-99-Interview-QA-Traps-And-Debugging.md)
+[⬅️ 01-97. Category Cheat Sheet](01-97-Category-Cheat-Sheet.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало 01-Theory-Notes](../../README.md)| [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-99. Interview Q&A, Traps & Debugging](01-99-Interview-QA-Traps-And-Debugging.md)
 
 ---
 
@@ -76,6 +76,7 @@
 * **[01-99. Interview Q&A, Traps & Debugging](01-99-Interview-QA-Traps-And-Debugging.md)** — Финалният инженерен файл за Ниво 1: Senior интервю въпроси с отговори, скрити капани и техники за дебъгване с Chrome DevTools, Lighthouse и Redis CLI.
 
 ---
-[⬅️ 01-97. Category Cheat Sheet](01-97-Category-Cheat-Sheet.md) | [📂 Текуща папка: 01. The Quick Wins](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. Natural Extensions & QA Automation](../02-Level-2-Natural-Extensions-QA-Automation/README.md) | [➡️ 01-99. Interview Q&A, Traps & Debugging](01-99-Interview-QA-Traps-And-Debugging.md)
----
+[⬅️ 01-97. Category Cheat Sheet](01-97-Category-Cheat-Sheet.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало 01-Theory-Notes](../../README.md)| [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-99. Interview Q&A, Traps & Debugging](01-99-Interview-QA-Traps-And-Debugging.md)
+
+
 © 2026 Dev-Library / 01-98. Common Errors & Fixes (Каталог на Грешките, Edge Cases и Решения)
