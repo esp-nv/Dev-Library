@@ -1,4 +1,4 @@
-[⬅️ 00-00. Intro & Big O](00-00-Intro-And-Big-O.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-01-01. Python Implementation](00-01-01-Python-Implementation.md)
+[⬅️ 00-00. Intro & Big O](00-00-Intro-And-Big-O.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-01-01. Python Implementation](00-01-01-Python-Implementation.md)
 
 ---
 
@@ -117,4 +117,6 @@ def generate_subsets(nums: list[int]) -> list[list[int]]:
 *   **Точен Senior отговор:** Променливата `current` е **референтен тип** в паметта (един и същ списък в Heap-а). Ако добавиш директно `current` в `result`, ти не запазваш моментна снимка на числата, а само **указател към същия списък**. В края на алгоритъма, когато Backtracking-ът изпразни `current` с `.pop()`, всички записи вътре в `result` сочат към вече празния списък! Затова **винаги** правим плитко копие (`.copy()` / `[...current]`) при достигане на дъното.
 
 ---
-[⬅️ 00-00. Intro & Big O](00-00-Intro-And-Big-O.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-01-01. Python Implementation](00-01-01-Python-Implementation.md)
+[⬅️ 00-00. Intro & Big O](00-00-Intro-And-Big-O.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-01-01. Python Implementation](00-01-01-Python-Implementation.md)
+
+© 2026 Dev-Library / 00-01-00. Recursion and Backtracking (Теория, Call Stack, Дърво & Капани)
