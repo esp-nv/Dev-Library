@@ -119,3 +119,5 @@ def binary_search(arr: list[int], target: int) -> int:
 
 ---
 [⬅️ 00-01. Recursion & Backtracking](00-01-00-Recursion-And-Backtracking.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-02-01. Python Implementation](00-02-01-Python-Implementation.md)
+
+© 2026 Dev-Library /  00-02-00. Searching Algorithms (Теория, Binary Search, Big O & Капани)
