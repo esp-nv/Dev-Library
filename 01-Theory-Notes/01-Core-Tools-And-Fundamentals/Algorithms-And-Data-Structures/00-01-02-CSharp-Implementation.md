@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 [⬅️ 00-01-01. Python Implementation](00-01-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-01-03. JavaScript Implementation](00-01-03-JavaScript-Implementation.md)
-=======
-[⬅️ 00-01-01. Python Implementation](00-01-01-Python-Implementation.md) | [Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-01-03. JavaScript Implementation](00-01-03-JavaScript-Implementation.md)
->>>>>>> a8d1e9dbbf84abd6c9f7820f935ba13459f9ad92
 
 ---
 
