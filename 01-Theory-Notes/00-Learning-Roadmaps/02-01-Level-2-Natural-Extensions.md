@@ -133,3 +133,6 @@
 
 ---
 [⬅️ 01-01. Ниво 1: Бързите победи](01-01-Level-1-The-Quick-Wins.md) | [🗺️ Пълен Атлас (00)](00-Full-Stack-And-QA-Automation-Roadmap.md) | [🏠 Начало (01-Theory-Notes)](../README.md) | [➡️ 03-01. Ниво 3: Промяна на мисленето](03-01-Level-3-Mindset-Shift.md)
+
+
+© 2026 Dev-Library / 02-01. Ниво 2: Естествени разширения (QA Automation, TypeScript, Python, Java & Spring Boot)
