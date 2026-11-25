@@ -1,4 +1,4 @@
-[⬅️ 00-02-01. DevTools Audit Cheat Sheet](../Course-Intro-And-Setup/00-02-01-DevTools-Audit-From-Scratch.md) | [📂 Текуща папка: Git & GitHub](README.md) | [🏠 Начало](../../../README.md) | [➡️ 01-01. Git, GitHub Desktop & TortoiseGit Cheat Sheet](01-01-Syntax-From-Scratch.md)
+[⬅️ 00-02-01. DevTools Audit Cheat Sheet](../Course-Intro-And-Setup/00-02-01-DevTools-Audit-From-Scratch.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Текуща папка: Git & GitHub](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 01-01. Git, GitHub Desktop & TortoiseGit Cheat Sheet](01-01-Syntax-From-Scratch.md)
 ---
 
 # 00-03-00. Git & GitHub Архитектура (CLI, GitHub Desktop, TortoiseGit & Капани)
@@ -107,7 +107,7 @@ obj/
   * **Отговор:** И двете интегрират промените от един клон в друг. **`git merge`** запазва пълната хронологична история такава, каквато е била, и създава нов общ **Merge Commit** (разклонено дърво). **`git rebase`** пренаписва историята, като взима твоите комити и ги „премества“ най-отгоре на целевия клон, създавайки **чиста, права линейна история** без излишни Merge комити. *(Златно правило: Никога не прави `rebase` върху публичен споделен клон като `main`!)*
 
 ---
-[⬅️ 00-02-01. DevTools Audit Cheat Sheet](../Course-Intro-And-Setup/00-02-01-DevTools-Audit-From-Scratch.md) | [📂 Текуща папка: Git & GitHub](README.md) | [🏠 Начало](../../../README.md) | [➡️ 01-01. Git, GitHub Desktop & TortoiseGit Cheat Sheet](01-01-Syntax-From-Scratch.md)
+[⬅️ 00-02-01. DevTools Audit Cheat Sheet](../Course-Intro-And-Setup/00-02-01-DevTools-Audit-From-Scratch.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Текуща папка: Git & GitHub](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md)| [➡️ 01-01. Git, GitHub Desktop & TortoiseGit Cheat Sheet](01-01-Syntax-From-Scratch.md)
 
 ---
 © 2026 Dev-Library / 00-03-00. Git & GitHub Архитектура (CLI, GitHub Desktop, TortoiseGit & Капани)

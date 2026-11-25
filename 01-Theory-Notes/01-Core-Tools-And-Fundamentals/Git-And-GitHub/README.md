@@ -1,4 +1,5 @@
-[⬅️ Предишен модул: Course Intro](../Course-Intro-And-Setup/README.md) | [📂 Текущ домейн: 01. Core Tools](../README.md) | [🏠 Начало](../../../README.md) | [📂 Следващ модул: Алгоритми](../Algorithms-And-Data-Structures/README.md) | [▶️ Започни от 01-00 Git Архитектура](01-00-Git-And-GitHub-Architecture.md)
+[⬅️ Предишен модул: Course Intro](../Course-Intro-And-Setup/README.md) | 
+[⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Текуща папка: Git & GitHub](README.md)| [📂 Следващ модул: Алгоритми](../Algorithms-And-Data-Structures/README.md) | [▶️ Започни от 01-00 Git Архитектура](01-00-Git-And-GitHub-Architecture.md)
 
 
 ---
@@ -14,7 +15,8 @@
   * 🛠️ [01-01. Практика от Нулата: Команди, GitHub Desktop, TortoiseGit („Костенурката“) & Merge Conflicts Cheat Sheet](01-01-Syntax-From-Scratch.md)
 
 ---
-[⬅️ Предишен модул: Course Intro](../Course-Intro-And-Setup/README.md) | [📂 Текущ домейн: 01. Core Tools](../README.md) | [🏠 Начало](../../../README.md) | [📂 Следващ модул: Алгоритми](../Algorithms-And-Data-Structures/README.md) | [▶️ Започни от 01-00 Git Архитектура](01-00-Git-And-GitHub-Architecture.md)
+[⬅️ Предишен модул: Course Intro](../Course-Intro-And-Setup/README.md) | 
+[⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Текуща папка: Git & GitHub](README.md)| [📂 Следващ модул: Алгоритми](../Algorithms-And-Data-Structures/README.md) | [▶️ Започни от 01-00 Git Архитектура](01-00-Git-And-GitHub-Architecture.md)
 
 
 © 2026 Dev-Library / Git & GitHub Version Control
