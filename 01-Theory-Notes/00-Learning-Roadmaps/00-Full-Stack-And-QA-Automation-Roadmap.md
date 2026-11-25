@@ -124,7 +124,7 @@
 *   **Употреба:** Чист, лесен за четене език без скоби `{}` за Data Science, автоматизации и скриптове.
 
 👉 **За повече информация и пълни лекции:** Вижте главния навигационен индекс в [Python](../03-Backend-Ecosystems/Python-Scripting/README.md).
----
+
 
 ### 🟡 Java & Spring Boot (Корпоративен ООП Език)
 *   **Употреба:** Строго-типизиран, компилиран ООП език за високопроизводителни бекенд системи и микроуслуги. Синтаксисът и Spring Boot архитектурата съвпадат почти 1:1 с C# и ASP.NET Core.
@@ -143,7 +143,7 @@
 
 👉 **За повече информация и пълни лекции:** Вижте главния навигационен индекс в [Java & Spring Boot](../03-Backend-Ecosystems/Java-Ecosystem/README.md).
   
-### 🟢 Навигация на Level-2-Natural-Extensions
+### 🟡 Навигация на Level-2-Natural-Extensions
 
 *   **[Индеx на нивото](02-01-Level-2-Natural-Extensions.md)**
 *   **[01. QA Automation](../05-QA-And-Test-Automation/README.md)**
