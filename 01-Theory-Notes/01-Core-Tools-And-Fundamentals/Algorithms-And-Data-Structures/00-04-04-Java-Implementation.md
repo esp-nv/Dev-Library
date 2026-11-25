@@ -1,4 +1,4 @@
-[⬅️ 00-04-03. JavaScript Implementation](00-04-03-JavaScript-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-05-00. Graphs and Traversal](00-05-00-Graphs-And-Traversal.md)
+[⬅️ 00-04-03. JavaScript Implementation](00-04-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-05-00. Graphs and Traversal](00-05-00-Graphs-And-Traversal.md)
 
 ---
 
@@ -126,4 +126,4 @@ public class KnapsackSolver {
 | **Max-Heap в Java** | `new PriorityQueue<>(Collections.reverseOrder());` | Връща най-големия елемент за O(log n) |
 
 ---
-[⬅️ 00-04-03. JavaScript Implementation](00-04-03-JavaScript-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-05-00. Graphs and Traversal](00-05-00-Graphs-And-Traversal.md)
+[⬅️ 00-04-03. JavaScript Implementation](00-04-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-05-00. Graphs and Traversal](00-05-00-Graphs-And-Traversal.md)

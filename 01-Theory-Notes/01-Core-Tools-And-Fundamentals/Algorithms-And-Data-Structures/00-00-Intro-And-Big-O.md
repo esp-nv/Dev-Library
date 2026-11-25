@@ -1,4 +1,4 @@
-[⬅️ Назад към Индекса](README.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-01. Recursion & Backtracking](00-01-00-Recursion-And-Backtracking.md)
+[⬅️ Назад към Индекса](README.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-01. Recursion & Backtracking](00-01-00-Recursion-And-Backtracking.md)
 
 ---
 
@@ -107,4 +107,4 @@ def has_duplicates_fast(nums: list[int]) -> bool:
     *   **Правилен фикс ($O(n)$):** В Python събираме парчетата в списък и накрая викаме `"".join(parts)`; в C# ползваме **`StringBuilder`**; в JavaScript ползваме `array.push(part)` и `array.join("")`.
 
 ---
-[⬅️ Назад към Индекса](README.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-01. Recursion & Backtracking](00-01-00-Recursion-And-Backtracking.md)
+[⬅️ Назад към Индекса](README.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-01. Recursion & Backtracking](00-01-00-Recursion-And-Backtracking.md)

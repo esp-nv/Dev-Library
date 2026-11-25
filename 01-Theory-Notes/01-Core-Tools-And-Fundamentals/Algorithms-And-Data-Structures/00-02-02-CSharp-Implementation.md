@@ -1,4 +1,4 @@
-[⬅️ 00-02-01. Python Implementation](00-02-01-Python-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-02-03. JavaScript Implementation](00-02-03-JavaScript-Implementation.md)
+[⬅️ 00-02-01. Python Implementation](00-02-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-02-03. JavaScript Implementation](00-02-03-JavaScript-Implementation.md)
 
 ---
 
@@ -126,4 +126,4 @@ else
 | **Binary Search върху `Span<T>`** | `arr.AsSpan().BinarySearch(x)` | Нулеви алокации в модерния .NET |
 
 ---
-[⬅️ 00-02-01. Python Implementation](00-02-01-Python-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-02-03. JavaScript Implementation](00-02-03-JavaScript-Implementation.md)
+[⬅️ 00-02-01. Python Implementation](00-02-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-02-03. JavaScript Implementation](00-02-03-JavaScript-Implementation.md)

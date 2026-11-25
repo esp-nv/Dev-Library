@@ -1,4 +1,4 @@
-[⬅️ 00-05-00. Теория & Капани](00-05-00-Graphs-And-Traversal.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-05-02. C# Implementation](00-05-02-CSharp-Implementation.md)
+[⬅️ 00-05-00. Теория & Капани](00-05-00-Graphs-And-Traversal.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-05-02. C# Implementation](00-05-02-CSharp-Implementation.md)
 
 ---
 
@@ -135,4 +135,4 @@ print(topological_sort(4, [(0, 1), (0, 2), (1, 3), (2, 3)]))  # Изход: [0, 
 | **Проверка за посетен връх** | `if node not in visited: visited.add(node)` | $O(1)$ |
 
 ---
-[⬅️ 00-05-00. Теория & Капани](00-05-00-Graphs-And-Traversal.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-05-02. C# Implementation](00-05-02-CSharp-Implementation.md)
+[⬅️ 00-05-00. Теория & Капани](00-05-00-Graphs-And-Traversal.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-05-02. C# Implementation](00-05-02-CSharp-Implementation.md)

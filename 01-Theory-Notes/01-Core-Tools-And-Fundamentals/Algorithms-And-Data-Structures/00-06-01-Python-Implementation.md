@@ -1,4 +1,4 @@
-[⬅️ 00-06-00. Теория & Капани](00-06-00-Dynamic-Programming.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-06-02. C# Implementation](00-06-02-CSharp-Implementation.md)
+[⬅️ 00-06-00. Теория & Капани](00-06-00-Dynamic-Programming.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-06-02. C# Implementation](00-06-02-CSharp-Implementation.md)
 
 ---
 
@@ -85,4 +85,4 @@ print(knapsack_01(7, , ))  # Изход: 9
 | **Чист 2D масив (Без капана `*`)** | `dp = [[0] * cols for _ in range(rows)]` | Никога `[[0] * cols] * rows` (споделя референции!) |
 
 ---
-[⬅️ 00-06-00. Теория & Капани](00-06-00-Dynamic-Programming.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-06-02. C# Implementation](00-06-02-CSharp-Implementation.md)
+[⬅️ 00-06-00. Теория & Капани](00-06-00-Dynamic-Programming.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-06-02. C# Implementation](00-06-02-CSharp-Implementation.md)

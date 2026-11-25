@@ -1,4 +1,4 @@
-[⬅️ 00-05. Graphs and Traversal](00-05-00-Graphs-And-Traversal.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-06-01. Python Implementation](00-06-01-Python-Implementation.md)
+[⬅️ 00-05. Graphs and Traversal](00-05-00-Graphs-And-Traversal.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-06-01. Python Implementation](00-06-01-Python-Implementation.md)
 
 ---
 
@@ -103,4 +103,4 @@ def fib_optimal(n: int) -> int:
     2.  **При Unbounded Knapsack / Coin Change (неограничени монети):** Вътрешният цикъл върви **НАПРЕД (от `coin` нагоре към `amount`)**. Така умишлено позволяваме `dp[w]` да стъпи върху вече обновена стойност от текущия ред, което означава *„Вземи още една монета от същия номинал“*!
 
 ---
-[⬅️ 00-05. Graphs and Traversal](00-05-00-Graphs-And-Traversal.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-06-01. Python Implementation](00-06-01-Python-Implementation.md)
+[⬅️ 00-05. Graphs and Traversal](00-05-00-Graphs-And-Traversal.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-06-01. Python Implementation](00-06-01-Python-Implementation.md)

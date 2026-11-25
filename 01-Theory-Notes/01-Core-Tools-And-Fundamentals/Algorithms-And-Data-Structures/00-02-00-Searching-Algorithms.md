@@ -1,4 +1,4 @@
-[⬅️ 00-01. Recursion & Backtracking](00-01-00-Recursion-And-Backtracking.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-02-01. Python Implementation](00-02-01-Python-Implementation.md)
+[⬅️ 00-01. Recursion & Backtracking](00-01-00-Recursion-And-Backtracking.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-02-01. Python Implementation](00-02-01-Python-Implementation.md)
 
 ---
 
@@ -118,4 +118,4 @@ def binary_search(arr: list[int], target: int) -> int:
 *   **Точен Senior отговор:** За да намерим **първото (най-лявото) срещане (Lower Bound)**, когато видим `arr[mid] == target`, **не спираме веднага**, а записваме `result = mid` и продължаваме да търсим наляво чрез **`right = mid - 1`**! Съответно за **последното (най-дясното) срещане (Upper Bound)** записваме `result = mid` и свиваме търсенето надясно чрез **`left = mid + 1`**. Така и двете граници се намират за гарантирано $O(\log n)$ време!
 
 ---
-[⬅️ 00-01. Recursion & Backtracking](00-01-00-Recursion-And-Backtracking.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-02-01. Python Implementation](00-02-01-Python-Implementation.md)
+[⬅️ 00-01. Recursion & Backtracking](00-01-00-Recursion-And-Backtracking.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-02-01. Python Implementation](00-02-01-Python-Implementation.md)

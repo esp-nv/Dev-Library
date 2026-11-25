@@ -1,4 +1,4 @@
-[⬅️ 00-03-03. JavaScript Implementation](00-03-03-JavaScript-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-04-00. Greedy Algorithms](00-04-00-Greedy-Algorithms.md)
+[⬅️ 00-03-03. JavaScript Implementation](00-03-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-04-00. Greedy Algorithms](00-04-00-Greedy-Algorithms.md)
 
 ---
 
@@ -122,4 +122,4 @@ public class JavaSorting {
 | **Многокритериално сортиране** | `Comparator.comparing(X::a).thenComparing(X::b)` | Еквивалент на C# `OrderBy().ThenBy()` |
 
 ---
-[⬅️ 00-03-03. JavaScript Implementation](00-03-03-JavaScript-Implementation.md) | 📂 Папка: Algorithms-Introduction | [🏠 Начало](../README.md) | [➡️ 00-04-00. Greedy Algorithms](00-04-00-Greedy-Algorithms.md)
+[⬅️ 00-03-03. JavaScript Implementation](00-03-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-04-00. Greedy Algorithms](00-04-00-Greedy-Algorithms.md)
