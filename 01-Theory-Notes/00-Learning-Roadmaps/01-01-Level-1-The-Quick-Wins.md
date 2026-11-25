@@ -19,7 +19,7 @@
 
 - **Архитектурна роля:** Семантичният HTML5 (`<header>`, `<main>`, `<article>`, `<nav>`, `<footer>`) дефинира логическата структура на документа и DOM дървото. Модерният CSS3 (`box-sizing: border-box`, Flexbox и CSS Grid) управлява визуалното оформление, позиционирането и адаптивността (Responsive Design), без да е необходим JavaScript за стандартните задачи по оформление.
 
-- **Синтактичен пример (Модерен Flexbox контейнер с адаптивно подреждане):**
+- - **Синтактичен пример (Адаптивна CSS Grid мрежа):**
 
 ```css
 *,
@@ -27,17 +27,13 @@
 *::after {
     box-sizing: border-box;
 }
-
 .card-grid {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(
+        auto-fit,
+        minmax(min(100%, 250px), 1fr)
+    );
     gap: 1.5rem;
-    justify-content: space-between;
-}
-
-.card {
-    flex: 1 1 250px;
-    min-width: 0;
 }
 ```
 
@@ -58,7 +54,7 @@
     <form class="needs-validation p-4 border rounded-3 bg-light shadow-sm" novalidate>
         <div class="mb-3">
             <label for="userEmail" class="form-label fw-bold">Имейл адрес</label>
-            <input type="email" id="userEmail" class="form-control" required>
+            <input type="email" id="userEmail" name="email" class="form-control"  autocomplete="email" required>
             <div class="invalid-feedback">
                 Моля, въведете валиден имейл адрес.
             </div>
@@ -91,6 +87,7 @@
     });
 })();
 ```
+**Важно за .NET разработчиците:** Клиентската валидация подобрява потребителското изживяване, но не замества сървърната валидация чрез Model Validation в ASP.NET Core. Входните данни винаги трябва да бъдат валидирани и на сървъра.
 
 - **Системен капан и решение:** Не зареждайте целия Bootstrap JavaScript Bundle, когато използвате единствено CSS компонентите. При Tailwind избягвайте неконтролираното дублиране на дълги комбинации от utility класове — използвайте споделени Razor компоненти или подходящи абстракции.
 
@@ -110,7 +107,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Примерна страница | Dev Library</title>
     <meta name="description" content="Описание на съдържанието на страницата.">
-    <meta name="robots" content="index, follow">
+    <meta name="robots" content="noindex, follow">
     <link rel="canonical" href="https://example.com/page">
 
     <meta property="og:title" content="Примерна страница">
@@ -176,11 +173,12 @@ EXISTS user:1001
 
 - **Системен капан и решение:** Не съхранявайте безконтролно данни без TTL, когато те трябва да имат ограничен жизнен цикъл. При масово кеширане използвайте TTL Jitter, за да избегнете едновременно изтичане на множество ключове и Cache Stampede.
 
-  Разграничаваме три важни механизма:
+ Разграничаваме четири важни механизма:
 
-  - **TTL Jitter:** Добавя случайно отклонение към TTL, така че много ключове да не изтичат едновременно.
-  - **Cache Stampede Protection:** Използвайте механизми като Locking или Single-Flight, за да предотвратите едновременното генериране на едни и същи липсващи кеширани данни от множество заявки.
-  - **Memory Management:** Конфигурирайте `maxmemory` и подходяща `maxmemory-policy`, за да управлявате поведението на Redis при достигане на лимита на паметта.
+- **TTL Jitter:** Добавя случайно отклонение към TTL,   така че много ключове да не изтичат едновременно.   Това намалява риска от масово изтичане на кеширани данни.
+- **Cache Stampede Protection:** Използвайте механизми като Locking или Single-Flight, за да предотвратите едновременното генериране на едни и същи липсващи кеширани данни от множество заявки.
+- **Memory Management:** Конфигурирайте `maxmemory` и подходяща `maxmemory-policy`, за да управлявате поведението на Redis при достигане на лимита на паметта.
+- **TTL Expiration:** TTL определя периода, през който ключът е валиден. Redis използва пасивно и активно изчистване на изтекли ключове. Физическото освобождаване на паметта не е задължително да настъпи точно в момента на изтичане на TTL.
 
 👉 **За повече информация и пълни лекции:** Вижте пълния наръчник за Redis в [04-Databases-And-Caching/Redis Caching](../04-Databases-And-Caching/Redis-Caching/README.md).
 
