@@ -1,4 +1,4 @@
-📂 Папка: Roadmaps-And-Career-Paths | [🏠 Начало (ASP.NET)](../README.md)
+[🏠 Главен Портал (Dev-Library)](../../README.md) | [📚 Инженерна Библиотека (01-Theory-Notes)](../README.md) | [🏠 Начало (00-Learning-Roadmaps)](README.md)
 
 ---
 
@@ -32,6 +32,7 @@
         </form>
     </div>
     ```
+👉 **За повече информация и пълни лекции:** Вижте главния навигационен индекс за [HTML и CSS](../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) и  [02. Responsive Design, Forms & CSS Frameworks](../02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/README.md).
 
 ### 🟢 Technical SEO (Оптимизация за търсачки)
 *   **Употреба:** Налагане на метаданни, семантични тагове и бърза Kestrel скорост, за да може Google ботът да индексира уеб сайта на предни позиции.
@@ -44,25 +45,23 @@
         <title>Начало | Dev-Library</title>
     </head>
     ```
+👉 **За повече информация и пълни лекции:** Вижте главния навигационен индекс в [QA-Automation](../06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/README.md).
 
 ### 🟢 Redis Caching (RAM речник)
 *   **Употреба:** Свръхбързо съхранение на двойки ключ-стойност в оперативната памет за разтоварване на SQL Server.
 *   **Системен капан и Решение:** Опит за директно четене на сложен обект без текст формат. Винаги сериализирайте до JSON низове.
 
-### 🟢 Навигация на 01-Level-1-HTML-CSS-Bootstrap-SEO-Redis
+👉 **За повече информация и пълни лекции:** Вижте главния навигационен индекс в [Redis Caching](../04-Databases-And-Caching/Redis-Caching/README.md).
 
-*   **[Индеx на нивото](01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/README.md)**
-*   **[00. Въведение в курса и инсталация на среди](00-Course-Introduction.md)**
-*   **[01. Въведение в HTML и CSS (Теория и Упражнения)](01-Introduction-to-HTML-and-CSS.md)**
-*   **[02. CSS Box Model и Типография (Пълен Справочник)](02-CSS-Box-Model-and-Typography.md)**
-*   **[03. CSS Layout — Flexbox (Теория и Упражнения)](03-CSS-Layout-Flexbox.md)**
-*   **[04. Адаптивен дизайн (Responsive Web Design): Интервю Cheat Sheet & Reference Guide](04-Responsive-Web-Design.md)**
-*   **[05. Работа с Уеб Форми (Working with Forms)](05-Working-with-Forms.md)**
-*   **[06. Модерен Tailwind CSS (Теория и Упражнения)](06-Tailwind-CSS.md)**
-*   **[07-Работа с Bootstrap v5.3](01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/07-Bootstrap-Introduction.md)**
-*   **[08. Въведение в SEO: Бизнес роля, еволюция на алгоритмите и увод в On-Page и Off-Page оптимизацията](01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/08-SEO-Intro.md)**
-*   **[09-00. Въведение в Redis: Бизнес роля, Еволюция на NoSQL и Кеш нивата](01-Level-1-HTML-CSS-Bootstrap-SEO-Redis/09-Redis-Intro.md)**
-*   **[10. Подготовка за Изпит и Изпитни задачи (Exam Preparation)](10-Exam-Preparation.md)**
+### 🟢 Навигация на Level-1-The-Quick-Wins
+
+*   **[Индеx на нивото](01-01-Level-1-The-Quick-Wins.md)**
+*   **[00. Въведение в курса и инсталация на среди](../01-Core-Tools-And-Fundamentals/Course-Intro-And-Setup/00-00-Intro.md)**
+*   **[01. Въведение в HTML и CSS - Теория и Упражнения](../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md)**
+*   **[02. Responsive Design, Forms & CSS Frameworks](../02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/README.md)**
+*   **[03. Въведение в SEO: Бизнес роля, еволюция на алгоритмите и увод в On-Page и Off-Page оптимизацията](../06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/README.md)**
+*   **[04. Въведение в Redis: Бизнес роля, Еволюция на NoSQL и Кеш нивата](../04-Databases-And-Caching/Redis-Caching/README.md)**
+
 
 
 ---
@@ -101,6 +100,8 @@
     ```
 *   **Точно съобщение за грешка (Exception) и Фикс:** `WebDriverException: ChromeDriver supports version X`. Изравнете версията на локалния браузър с инсталирания NuGet пакет.
 
+👉 **За повече информация и пълни лекции:** Вижте главния навигационен индекс в [QA Automation](../05-QA-And-Test-Automation/README.md).
+
 ### 🟡 TypeScript (Строго-типизиран уеб език)
 *   **Употреба:** Внася класове, интерфейси и compile-time защита над JavaScript. Изглежда точно като C#.
 *   **Синтактичен пример (TS Клас):**
@@ -117,10 +118,13 @@
         }
     }
     ```
+👉 **За повече информация и пълни лекции:** Вижте главния навигационен индекс в [TypeScript](../02-Frontend-And-UI-UX/TypeScript-Language/README.md).
 
 ### 🟡 Python (General-Purpose Scripting)
 *   **Употреба:** Чист, лесен за четене език без скоби `{}` за Data Science, автоматизации и скриптове.
----
+
+👉 **За повече информация и пълни лекции:** Вижте главния навигационен индекс в [Python](../03-Backend-Ecosystems/Python-Scripting/README.md).
+
 
 ### 🟡 Java & Spring Boot (Корпоративен ООП Език)
 *   **Употреба:** Строго-типизиран, компилиран ООП език за високопроизводителни бекенд системи и микроуслуги. Синтаксисът и Spring Boot архитектурата съвпадат почти 1:1 с C# и ASP.NET Core.
@@ -137,6 +141,15 @@
     ```
 *   **Точно съобщение за грешка (Exception) и Фикс:** `NullPointerException: Cannot invoke "..." because "..." is null`. Винаги проверявайте за `null` или използвайте `Optional<T>` (аналог на nullable типовете `string?` в C#).
 
+👉 **За повече информация и пълни лекции:** Вижте главния навигационен индекс в [Java & Spring Boot](../03-Backend-Ecosystems/Java-Ecosystem/README.md).
+  
+### 🟡 Навигация на Level-2-Natural-Extensions
+
+*   **[Индеx на нивото](02-01-Level-2-Natural-Extensions.md)**
+*   **[01. QA Automation](../05-QA-And-Test-Automation/README.md)**
+*   **[02. TypeScript](../02-Frontend-And-UI-UX/TypeScript-Language/README.md)**
+*   **[04. Python](../03-Backend-Ecosystems/Python-Scripting/README.md)**
+*   **[05. Java & Spring Boot](../03-Backend-Ecosystems/Java-Ecosystem/README.md)**
 
 ---
 
@@ -210,6 +223,8 @@
 *   **Употреба:** Свръхбърз разпределен брокер за събития. Позволява пренос на милиони пакети съобщения в секунда в Event-Driven среди, гарантирайки хоризонталнаCloud устойчивост.
 
 ---
-📂 Папка: Roadmaps-And-Career-Paths | [🏠 Начало (ASP.NET)](../README.md)
+[🏠 Главен Портал (Dev-Library)](../../README.md) | [📚 Инженерна Библиотека (01-Theory-Notes)](../README.md) | [🏠 Начало (00-Learning-Roadmaps)](README.md)
+
+---
 
 © 2026 Dev-Library / Кариерен Справочник и Технологичен Атлас
