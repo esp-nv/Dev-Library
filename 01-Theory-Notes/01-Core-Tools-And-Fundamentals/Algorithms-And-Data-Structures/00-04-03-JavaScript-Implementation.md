@@ -1,5 +1,4 @@
-[⬅️ 00-04-02. C# Implementation](00-04-02-CSharp-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
-[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-04-04-Java-Implementation.md](00-04-04-Java-Implementation.md)
+[⬅️ 00-04-02. C# Implementation](00-04-02-CSharp-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-04-04-Java-Implementation.md](00-04-04-Java-Implementation.md)
 
 ---
 
@@ -111,8 +110,7 @@ console.log(fractionalKnapsack(50, loot)); // 240
 | **Начална граница за минимум** | `let lastEnd = -Infinity;` | Гарантира, че първият интервал винаги влиза |
 
 ---
-[⬅️ 00-04-02. C# Implementation](00-04-02-CSharp-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
-[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-04-04-Java-Implementation.md](00-04-04-Java-Implementation.md)
+[⬅️ 00-04-02. C# Implementation](00-04-02-CSharp-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-04-04-Java-Implementation.md](00-04-04-Java-Implementation.md)
 
 
 © 2026 Dev-Library / 00-04-03. Greedy Algorithms: JavaScript (ES6+) Имплементация & Cheat Sheet

@@ -1,5 +1,4 @@
-[⬅️ 00-04-01. Python Implementation](00-04-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
-[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-04-03. JavaScript Implementation](00-04-03-JavaScript-Implementation.md)
+[⬅️ 00-04-01. Python Implementation](00-04-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-04-03. JavaScript Implementation](00-04-03-JavaScript-Implementation.md)
 
 ---
 
@@ -134,8 +133,7 @@ public class KnapsackSolver
 | **Динамична алчна опашка** | `var pq = new PriorityQueue<T, int>();` | Вграден Min-Heap в .NET 6+ (за Dijkstra / Huffman) |
 
 ---
-[⬅️ 00-04-01. Python Implementation](00-04-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
-[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-04-03. JavaScript Implementation](00-04-03-JavaScript-Implementation.md)
+[⬅️ 00-04-01. Python Implementation](00-04-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-04-03. JavaScript Implementation](00-04-03-JavaScript-Implementation.md)
 
 
 © 2026 Dev-Library / 00-04-02. Greedy Algorithms: C# (.NET) Имплементация & Cheat Sheet

@@ -1,5 +1,4 @@
-[⬅️ 00-05-02. C# Implementation](00-05-02-CSharp-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
-[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-05-04-Java-Implementation.md](00-05-04-Java-Implementation.md)
+[⬅️ 00-05-02. C# Implementation](00-05-02-CSharp-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-05-04-Java-Implementation.md](00-05-04-Java-Implementation.md)
 
 ---
 
@@ -125,8 +124,7 @@ console.log(topologicalSort(4, [[0, 1], [0, 2], [1, 3], [2, 3]])); // [0, 1, 2, 
 | **DFS Стек** | `stack.push(x)` / `stack.pop()` | Бързи $O(1)$ операции в края на масива |
 
 ---
-[⬅️ 00-05-02. C# Implementation](00-05-02-CSharp-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
-[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-05-04-Java-Implementation.md](00-05-04-Java-Implementation.md)
+[⬅️ 00-05-02. C# Implementation](00-05-02-CSharp-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-05-04-Java-Implementation.md](00-05-04-Java-Implementation.md)
 
 
 © 2026 Dev-Library / 00-05-03. Graphs and Traversal: JavaScript (ES6+) Имплементация & Cheat Sheet

@@ -1,4 +1,4 @@
-[⬅️ 01-00. Git & GitHub Архитектура](01-00-Git-And-GitHub-Architecture.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Текуща папка: Git & GitHub](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ Следващ модул: Алгоритми](../Algorithms-And-Data-Structures/README.md)
+[⬅️ 01-00. Git & GitHub Архитектура](01-00-Git-And-GitHub-Architecture.md) |[📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course-Intro-And-Setup](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: Algorithms-Introduction](../Algorithms-And-Data-Structures//README.md) | [➡️ Следващ модул: Алгоритми](../Algorithms-And-Data-Structures/README.md)
 
 
 ---
@@ -126,7 +126,7 @@ git config --list
 | **Отмяна на промени във файл** | `git checkout -- file.md` | **Desktop:** Десен бутон върху файла -> `Discard Changes`<br>**Tortoise:** `TortoiseGit -> Revert...` |
 
 ---
-[⬅️ 01-00. Git & GitHub Архитектура](01-00-Git-And-GitHub-Architecture.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Текуща папка: Git & GitHub](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ Следващ модул: Алгоритми](../Algorithms-And-Data-Structures/README.md)
+[⬅️ 01-00. Git & GitHub Архитектура](01-00-Git-And-GitHub-Architecture.md) |[📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course-Intro-And-Setup](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: Algorithms-Introduction](../Algorithms-And-Data-Structures//README.md) | [➡️ Следващ модул: Алгоритми](../Algorithms-And-Data-Structures/README.md)
 
 ---
 © 2026 Dev-Library / 00-03-01. Git, GitHub Desktop & TortoiseGit: Практика от Нулата & Cheat Sheet

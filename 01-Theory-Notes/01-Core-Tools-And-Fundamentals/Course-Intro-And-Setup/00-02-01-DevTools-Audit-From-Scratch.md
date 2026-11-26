@@ -1,4 +1,4 @@
-[⬅️ 00-02-00. Браузърна диагностика & Мрежа](00-02-00-Browser-Diagnostics-And-Network.md) | [📂 Текуща папка: Course Intro](README.md) | [🏠 Начало](../../../README.md) | [➡️ Следващ модул: Git & GitHub](../Git-And-GitHub/README.md)
+[⬅️ 00-02-00. Браузърна диагностика & Мрежа](00-02-00-Browser-Diagnostics-And-Network.md) |[📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course-Intro-And-Setup](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: Git-And-GitHub](../Git-And-GitHub/README.md) | [➡️ Следващ модул: Git & GitHub](../Git-And-GitHub/README.md)
 
 
 ---
@@ -108,7 +108,7 @@
 * **[01-00. Intro to HTML5 & CSS3](../Module-01-HTML-And-CSS-Foundations/01-00-Intro.md)** — Преход към следващия модул: архитектура на HTML5 документа, DOM дърво и основи на CSS3 селекторите.
 
 ---
-[⬅️ 00-02-00. Браузърна диагностика & Мрежа](00-02-00-Browser-Diagnostics-And-Network.md) | [📂 Текуща папка: Course Intro](README.md) | [🏠 Начало](../../../README.md) | [➡️ Следващ модул: Git & GitHub](../Git-And-GitHub/README.md)
+[⬅️ 00-02-00. Браузърна диагностика & Мрежа](00-02-00-Browser-Diagnostics-And-Network.md) |[📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course-Intro-And-Setup](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: Git-And-GitHub](../Git-And-GitHub/README.md) | [➡️ Следващ модул: Git & GitHub](../Git-And-GitHub/README.md)
 
 ---
 © 2026 Dev-Library / 00-02-01. DevTools Audit From Scratch (Console, Elements & Cache Reset)

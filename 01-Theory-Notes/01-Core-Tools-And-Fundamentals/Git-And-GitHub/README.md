@@ -1,5 +1,5 @@
 [⬅️ Предишен модул: Course Intro](../Course-Intro-And-Setup/README.md) | 
-[⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Текуща папка: Git & GitHub](README.md)| [📂 Следващ модул: Алгоритми](../Algorithms-And-Data-Structures/README.md) | [▶️ Започни от 01-00 Git Архитектура](01-00-Git-And-GitHub-Architecture.md)
+[📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course-Intro-And-Setup](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: Algorithms-Introduction](../Algorithms-And-Data-Structures//README.md) | [▶️ Започни от 01-00 Git Архитектура](01-00-Git-And-GitHub-Architecture.md)
 
 
 ---
@@ -16,7 +16,7 @@
 
 ---
 [⬅️ Предишен модул: Course Intro](../Course-Intro-And-Setup/README.md) | 
-[⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Текуща папка: Git & GitHub](README.md)| [📂 Следващ модул: Алгоритми](../Algorithms-And-Data-Structures/README.md) | [▶️ Започни от 01-00 Git Архитектура](01-00-Git-And-GitHub-Architecture.md)
+[📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course-Intro-And-Setup](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: Algorithms-Introduction](../Algorithms-And-Data-Structures//README.md) | [▶️ Започни от 01-00 Git Архитектура](01-00-Git-And-GitHub-Architecture.md)
 
 
 © 2026 Dev-Library / Git & GitHub Version Control

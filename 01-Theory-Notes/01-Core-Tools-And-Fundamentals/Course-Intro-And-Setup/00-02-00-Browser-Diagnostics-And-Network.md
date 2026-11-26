@@ -1,4 +1,4 @@
-[⬅️ 00-01-01. Syntax & Config Cheat Sheet](00-01-01-Syntax-And-Config-CheatSheet.md) | [📂 Текуща папка: Course Intro](README.md) | [🏠 Начало](../../../README.md) | [➡️ 00-02-01. DevTools Audit & Network Cheat Sheet](00-02-01-DevTools-Audit-From-Scratch.md)
+[⬅️ 00-01-01. Syntax & Config Cheat Sheet](00-01-01-Syntax-And-Config-CheatSheet.md) |[📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course-Intro-And-Setup](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: Git-And-GitHub](../Git-And-GitHub/README.md) | [➡️ 00-02-01. DevTools Audit & Network Cheat Sheet](00-02-01-DevTools-Audit-From-Scratch.md)
 
 ---
 
@@ -68,7 +68,7 @@
 
 
 ---
-[⬅️ 00-01-01. Syntax & Config Cheat Sheet](00-01-01-Syntax-And-Config-CheatSheet.md) | [📂 Текуща папка: Course Intro](README.md) | [🏠 Начало](../../../README.md) | [➡️ 00-02-01. DevTools Audit & Network Cheat Sheet](00-02-01-DevTools-Audit-From-Scratch.md)
+[⬅️ 00-01-01. Syntax & Config Cheat Sheet](00-01-01-Syntax-And-Config-CheatSheet.md) |[📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course-Intro-And-Setup](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: Git-And-GitHub](../Git-And-GitHub/README.md) | [➡️ 00-02-01. DevTools Audit & Network Cheat Sheet](00-02-01-DevTools-Audit-From-Scratch.md)
 
 ---
 © 2026 Dev-Library / 00-02-00. Браузърна диагностика и Мрежова интеграция на средите
