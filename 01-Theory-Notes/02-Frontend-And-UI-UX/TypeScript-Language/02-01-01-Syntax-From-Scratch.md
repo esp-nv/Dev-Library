@@ -1,4 +1,4 @@
-[⬅️ 02-01-00. Basic Types, Interfaces & Type Aliases](02-01-00-Basic-Types-And-Interfaces.md) | [📂 Текуща папка: 02. TypeScript Language](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 03. Python Scripting](../03-Python-Scripting/README.md) | [➡️ 02-02-00. Advanced Types, Guards & Utility Types](02-02-00-Advanced-Types-And-Guards.md)
+[⬅️ 02-01-00. Basic Types, Interfaces & Type Aliases](02-01-00-Basic-Types-And-Interfaces.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-02-00. Advanced Types, Guards & Utility Types](02-02-00-Advanced-Types-And-Guards.md)
 
 ---
 
@@ -135,6 +135,6 @@ const headers: StringDictionary = {
 
 ---
 
-[⬅️ 02-01-00. Basic Types, Interfaces & Type Aliases](02-01-00-Basic-Types-And-Interfaces.md) | [📂 Текуща папка: 02. TypeScript Language](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 03. Python Scripting](../03-Python-Scripting/README.md) | [➡️ 02-02-00. Advanced Types, Guards & Utility Types](02-02-00-Advanced-Types-And-Guards.md)
+[⬅️ 02-01-00. Basic Types, Interfaces & Type Aliases](02-01-00-Basic-Types-And-Interfaces.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-02-00. Advanced Types, Guards & Utility Types](02-02-00-Advanced-Types-And-Guards.md)
 
 © 2026 Dev-Library / 02-01-01. Basic Types & Interfaces: Синтаксис от Нулата & Cheat Sheet

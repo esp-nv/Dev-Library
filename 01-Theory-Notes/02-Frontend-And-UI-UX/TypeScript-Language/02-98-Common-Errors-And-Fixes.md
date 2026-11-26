@@ -1,4 +1,4 @@
-[⬅️ 02-10. TypeScript Category Cheat Sheet](02-10-Category-Cheat-Sheet.md) | 📂 Папка: 02-TypeScript-Language | [🏠 Начало](../README.md) | [➡️ 02-12. Interview QA, Traps & Debugging](02-12-Interview-QA-Traps-And-Debugging.md)
+[⬅️ 02-10. TypeScript Category Cheat Sheet](02-10-Category-Cheat-Sheet.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-12. Interview QA, Traps & Debugging](02-12-Interview-QA-Traps-And-Debugging.md)
 
 ---
 
@@ -180,4 +180,4 @@ async function fetchOrderSafe(id: number) {
 *   **Производителност:** Хвърлянето и хващането на изключения създава тежък обект със Stack Trace и забавя V8 двигателя. **Никога** не използвай `throw` за нормален контрол на потока (Flow Control) — при очаквани липси връщай `undefined`, `null` или Result обект `{ ok: false, error: "..." }`.
 
 
-[⬅️ 02-10. TypeScript Category Cheat Sheet](02-10-Category-Cheat-Sheet.md) | 📂 Папка: 02-TypeScript-Language | [🏠 Начало](../README.md) | [➡️ 02-12. Interview QA, Traps & Debugging](02-12-Interview-QA-Traps-And-Debugging.md)
+[⬅️ 02-10. TypeScript Category Cheat Sheet](02-10-Category-Cheat-Sheet.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-12. Interview QA, Traps & Debugging](02-12-Interview-QA-Traps-And-Debugging.md)
