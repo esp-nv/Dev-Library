@@ -1,4 +1,4 @@
-[⬅️ Назад към 01. Core Tools](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Git & GitHub](../Git-And-GitHub/README.md) | [▶️ Започни от 00-00 Intro](00-00-Intro.md)
+[⬅️ Назад към 01. Core Tools](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md)| [📂 Следващ модул: Git & GitHub](../Git-And-GitHub/README.md) | [▶️ Започни от 00-00 Intro](00-00-Intro.md)
 
 ---
 
@@ -19,7 +19,7 @@
   * 🛠️ [Syntax-From-Scratch & DevTools Audit Cheat Sheet](00-02-01-DevTools-Audit-From-Scratch.md)
 
 ---
-[⬅️ Назад към 01. Core Tools](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Git & GitHub](../Git-And-GitHub/README.md) | [▶️ Започни от 00-00 Intro](00-00-Intro.md)
+[⬅️ Назад към 01. Core Tools](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md)| [📂 Следващ модул: Git & GitHub](../Git-And-GitHub/README.md) | [▶️ Започни от 00-00 Intro](00-00-Intro.md)
 
 ---
 © 2026 Dev-Library / Module 00: Course Intro & Development Environment Setup
