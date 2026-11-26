@@ -1,4 +1,5 @@
-[⬅️ 00-03-01. Python Implementation](00-03-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-03-03. JavaScript Implementation](00-03-03-JavaScript-Implementation.md)
+[⬅️ 00-03-01. Python Implementation](00-03-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
+[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-03-03. JavaScript Implementation](00-03-03-JavaScript-Implementation.md)
 
 ---
 
@@ -150,6 +151,7 @@ var sortedStudents = students
 | **Стабилно многокритериално** | `list.OrderBy(x => x.A).ThenByDescending(x => x.B)` | LINQ ползва стабилен Merge Sort |
 
 ---
-[⬅️ 00-03-01. Python Implementation](00-03-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-03-03. JavaScript Implementation](00-03-03-JavaScript-Implementation.md)
+[⬅️ 00-03-01. Python Implementation](00-03-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
+[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-03-03. JavaScript Implementation](00-03-03-JavaScript-Implementation.md)
 
 © 2026 Dev-Library /  00-03-02. Sorting Algorithms: C# (.NET) Имплементация & Cheat Sheet

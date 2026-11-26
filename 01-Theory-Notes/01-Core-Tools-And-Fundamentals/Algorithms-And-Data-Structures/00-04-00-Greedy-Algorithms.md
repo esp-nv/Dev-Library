@@ -1,4 +1,5 @@
-[⬅️ 00-03. Sorting Algorithms](00-03-00-Sorting-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-04-01. Python Implementation](00-04-01-Python-Implementation.md)
+[⬅️ 00-03. Sorting Algorithms](00-03-00-Sorting-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
+[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-04-01. Python Implementation](00-04-01-Python-Implementation.md)
 
 ---
 
@@ -120,7 +121,8 @@ def select_max_activities(activities: list[tuple[int, int]]) -> list[tuple[int, 
     *   *Извод:* При произволни номинали на монетите или при **0/1 Knapsack** (където предметите не могат да се режат на части), Greedy се проваля и **задължително** се използва **Dynamic Programming (Динамично оптимиране)**.
 
 ---
-[⬅️ 00-03. Sorting Algorithms](00-03-00-Sorting-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-04-01. Python Implementation](00-04-01-Python-Implementation.md)
+[⬅️ 00-03. Sorting Algorithms](00-03-00-Sorting-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
+[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-04-01. Python Implementation](00-04-01-Python-Implementation.md)
 
 
 

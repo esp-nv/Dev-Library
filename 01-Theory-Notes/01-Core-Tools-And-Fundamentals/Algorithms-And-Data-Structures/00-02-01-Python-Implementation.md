@@ -1,4 +1,5 @@
-[⬅️ 00-02-00. Теория & Капани](00-02-00-Searching-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-02-02. C# Implementation](00-02-02-CSharp-Implementation.md)
+[⬅️ 00-02-00. Теория & Капани](00-02-00-Searching-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
+[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-02-02. C# Implementation](00-02-02-CSharp-Implementation.md)
 
 ---
 
@@ -124,7 +125,8 @@ print(f"Съществува: {exists} | Брой срещания: {count_of_20
 | **Вмъкване със запазване на реда** | `bisect.insort(arr, new_val)` | $O(n)$ (заради изместването) |
 
 ---
-[⬅️ 00-02-00. Теория & Капани](00-02-00-Searching-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-02-02. C# Implementation](00-02-02-CSharp-Implementation.md)
+[⬅️ 00-02-00. Теория & Капани](00-02-00-Searching-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
+[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-02-02. C# Implementation](00-02-02-CSharp-Implementation.md)
 
 
 © 2026 Dev-Library /  00-02-01. Searching Algorithms: Python Имплементация & Cheat Sheet

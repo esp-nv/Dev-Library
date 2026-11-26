@@ -1,4 +1,5 @@
-[⬅️ 00-04. Greedy Algorithms](00-04-00-Greedy-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-05-01. Python Implementation](00-05-01-Python-Implementation.md)
+[⬅️ 00-04. Greedy Algorithms](00-04-00-Greedy-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
+[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-05-01. Python Implementation](00-05-01-Python-Implementation.md)
 
 ---
 
@@ -135,7 +136,8 @@ def bfs_shortest_path(graph: dict[int, list[int]], start: int, target: int) -> i
         *   Има цикъл **само ако попаднем на връх със състояние `1` (Gray)**!
 
 ---
-[⬅️ 00-04. Greedy Algorithms](00-04-00-Greedy-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-05-01. Python Implementation](00-05-01-Python-Implementation.md)
+[⬅️ 00-04. Greedy Algorithms](00-04-00-Greedy-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
+[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-05-01. Python Implementation](00-05-01-Python-Implementation.md)
 
 
 © 2026 Dev-Library / 00-05-00. Graphs and Traversal (Теория, BFS, DFS, Топологично сортиране & Капани)

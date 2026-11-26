@@ -1,5 +1,6 @@
 
-[⬅️ 00-00. Intro & Big O](00-00-Intro-And-Big-O.md) | [Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-01-01. Python Implementation](00-01-01-Python-Implementation.md)
+[⬅️ 00-00. Intro & Big O](00-00-Intro-And-Big-O.md) | [Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
+[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-01-01. Python Implementation](00-01-01-Python-Implementation.md)
 
 
 ---
@@ -130,7 +131,8 @@ def generate_subsets(nums: list[int]) -> list[list[int]]:
 * [00-01-04-Java-Implementation](00-01-04-Java-Implementation.md)
  
 ---
-[⬅️ 00-00. Intro & Big O](00-00-Intro-And-Big-O.md) | [Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-01-01. Python Implementation](00-01-01-Python-Implementation.md)
+[⬅️ 00-00. Intro & Big O](00-00-Intro-And-Big-O.md) | [Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
+[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-01-01. Python Implementation](00-01-01-Python-Implementation.md)
 
 © 2026 Dev-Library / 00-01-00. Recursion and Backtracking (Теория, Call Stack, Дърво & Капани)
 

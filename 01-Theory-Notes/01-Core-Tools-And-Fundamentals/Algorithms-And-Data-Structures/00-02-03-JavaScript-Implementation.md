@@ -1,4 +1,5 @@
-[⬅️ 00-02-02. C# Implementation](00-02-02-CSharp-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-02-04-Java-Implementation.md](00-02-04-Java-Implementation.md)
+[⬅️ 00-02-02. C# Implementation](00-02-02-CSharp-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
+[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-02-04-Java-Implementation.md](00-02-04-Java-Implementation.md)
 
 ---
 
@@ -103,6 +104,7 @@ console.log(findFirstOccurrence([1, 4, 4, 4, 9], 4)); // Изход: 1
 | **Вграден Binary Search** | *Няма* | Имплементира се ръчно за $O(\log n)$ |
 
 ---
-[⬅️ 00-02-02. C# Implementation](00-02-02-CSharp-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-02-04-Java-Implementation.md](00-02-04-Java-Implementation.md)
+[⬅️ 00-02-02. C# Implementation](00-02-02-CSharp-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
+[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-02-04-Java-Implementation.md](00-02-04-Java-Implementation.md)
 
 © 2026 Dev-Library /  00-02-03. Searching Algorithms: JavaScript (ES6+) Имплементация & Cheat Sheet

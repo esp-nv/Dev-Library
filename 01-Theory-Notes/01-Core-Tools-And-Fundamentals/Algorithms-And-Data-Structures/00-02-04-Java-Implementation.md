@@ -1,4 +1,5 @@
-[⬅️ 00-02-03. JavaScript Implementation](00-02-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-03-00. Sorting Algorithms](00-03-00-Sorting-Algorithms.md)
+[⬅️ 00-02-03. JavaScript Implementation](00-02-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
+[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-03-00. Sorting Algorithms](00-03-00-Sorting-Algorithms.md)
 
 ---
 
@@ -91,6 +92,7 @@ public class BuiltInSearch {
 | **Позиция за вмъкване при `idx < 0`** | `int pos = ~idx;` или `-(idx + 1)` | Идентично с C# `Array.BinarySearch` |
 
 ---
-[⬅️ 00-02-03. JavaScript Implementation](00-02-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-02-04-Java-Implementation.md](00-0-04-Java-Implementation.md)
+[⬅️ 00-02-03. JavaScript Implementation](00-02-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
+[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-02-04-Java-Implementation.md](00-0-04-Java-Implementation.md)
 
 © 2026 Dev-Library /  00-02-04. Searching Algorithms: Java Имплементация & Cheat Sheet

@@ -1,4 +1,5 @@
-[⬅️ 00-01-03. JavaScript Implementation](00-01-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-02-00-Searching-Algorithms](00-02-00-Searching-Algorithms.md)
+[⬅️ 00-01-03. JavaScript Implementation](00-01-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
+[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-02-00-Searching-Algorithms](00-02-00-Searching-Algorithms.md)
 
 ---
 
@@ -115,6 +116,7 @@ public class BitVectors {
 | **Грешка при дълбок стек** | `java.lang.StackOverflowError` | Наследява `Error` (не `Exception`) |
 
 ---
-[⬅️ 00-01-03. JavaScript Implementation](00-01-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)| [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-02-00-Searching-Algorithms](00-02-00-Searching-Algorithms.md)
+[⬅️ 00-01-03. JavaScript Implementation](00-01-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Папка: Algorithms-Introduction](README.md)|
+[📂 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📂 Следващ папка: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [➡️ 00-02-00-Searching-Algorithms](00-02-00-Searching-Algorithms.md)
 
 © 2026 Dev-Library /  00-01-04. Recursion & Backtracking: Java Имплементация & Cheat Sheet

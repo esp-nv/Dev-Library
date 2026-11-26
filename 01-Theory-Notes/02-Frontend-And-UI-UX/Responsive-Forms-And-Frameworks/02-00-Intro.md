@@ -1,6 +1,9 @@
-[⬅️ Назад към 02. Responsive, Forms & Frameworks](README.md) | [📂 Предишна папка: 01. HTML5 & CSS3 Foundations](../01-HTML-And-CSS-Foundations/README.md) | [📂 Текуща папка: 02. Responsive, Forms & Frameworks](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 03. Technical SEO & Redis Caching](../03-SEO-And-Redis-Caching/README.md) | [➡️ 02-01-00. Адаптивен уеб дизайн и Media Queries](02-01-00-Responsive-Design-And-Media-Queries.md)
+[⬅️ Назад към 02. Responsive, Forms & Frameworks](README.md) | [📂 Предишна папка: 01. HTML5 & CSS3 Foundations](../01-HTML-And-CSS-Foundations/README.md) | [📂 Текуща папка: 02. Responsive, Forms & Frameworks](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-01-00. Адаптивен уеб дизайн и Media Queries](02-01-00-Responsive-Design-And-Media-Queries.md)
 
+
+[🏠 Начало 01-Theory-Notes](../../README.md) | [📂 Текуща папка: 02. Responsive, Forms & Frameworks](README.md)| [📂 Следващ домейн: TypeScript-Language](../TypeScript-Language/README.md) | 
 ---
+
 
 # 02-00. Intro to Responsive Design & UI Frameworks
 
@@ -71,5 +74,5 @@
 
 ---
 [⬅️ Назад към 02. Responsive, Forms & Frameworks](README.md) | [📂 Предишна папка: 01. HTML5 & CSS3 Foundations](../01-HTML-And-CSS-Foundations/README.md) | [📂 Текуща папка: 02. Responsive, Forms & Frameworks](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 03. Technical SEO & Redis Caching](../03-SEO-And-Redis-Caching/README.md) | [➡️ 02-01-00. Адаптивен уеб дизайн и Media Queries](02-01-00-Responsive-Design-And-Media-Queries.md)
----
+
 © 2026 Dev-Library / 02-00. Intro to Responsive Design & UI Frameworks
