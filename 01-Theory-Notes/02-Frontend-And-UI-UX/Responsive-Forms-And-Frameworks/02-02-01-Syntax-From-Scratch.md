@@ -1,4 +1,4 @@
-[⬅️ 02-02-00. Работа с HTML форми и клиентска валидация](02-02-00-Working-With-Forms-And-Validation.md) | [📂 Предишна папка: 01. HTML5 & CSS3 Foundations](../01-HTML-And-CSS-Foundations/README.md) | [📂 Текуща папка: 02. Responsive, Forms & Frameworks](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 03. Technical SEO & Redis Caching](../03-SEO-And-Redis-Caching/README.md) | [➡️ 02-03-00. Tailwind CSS (Utility-First Архитектура)](02-03-00-Tailwind-CSS-Utility-First.md)
+[⬅️ 02-02-00. Работа с HTML форми и клиентска валидация](02-02-00-Working-With-Forms-And-Validation.md) | [⬅️ Назад към 01. HTML5 & CSS3 Foundations](../HTML5-CSS3-And-SASS/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Responsive-Forms-And-Frameworks](README.md) | [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Responsive-Forms-And-Frameworks](../TypeScript-Language/README.md) | [➡️ 02-03-00. Tailwind CSS (Utility-First Архитектура)](02-03-00-Tailwind-CSS-Utility-First.md)
 
 ---
 
@@ -226,6 +226,6 @@
 * **Защо се случва:** По спецификация на HTML, ако потребителят **не отметне** `<input type="checkbox" name="subscribe">`, браузърът изобщо не изпраща ключа `subscribe` към сървъра (за разлика от текстовите полета, които се пращат като празен низ `subscribe=`).
 
 ---
-[⬅️ 02-02-00. Работа с HTML форми и клиентска валидация](02-02-00-Working-With-Forms-And-Validation.md) | [📂 Предишна папка: 01. HTML5 & CSS3 Foundations](../01-HTML-And-CSS-Foundations/README.md) | [📂 Текуща папка: 02. Responsive, Forms & Frameworks](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 03. Technical SEO & Redis Caching](../03-SEO-And-Redis-Caching/README.md) | [➡️ 02-03-00. Tailwind CSS (Utility-First Архитектура)](02-03-00-Tailwind-CSS-Utility-First.md)
+[⬅️ 02-02-00. Работа с HTML форми и клиентска валидация](02-02-00-Working-With-Forms-And-Validation.md) | [⬅️ Назад към 01. HTML5 & CSS3 Foundations](../HTML5-CSS3-And-SASS/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Responsive-Forms-And-Frameworks](README.md) | [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Responsive-Forms-And-Frameworks](../TypeScript-Language/README.md) | [➡️ 02-03-00. Tailwind CSS (Utility-First Архитектура)](02-03-00-Tailwind-CSS-Utility-First.md)
 ---
 © 2026 Dev-Library / 02-02-01. Syntax-From-Scratch & Validated Form Snippets + Cheat Sheet

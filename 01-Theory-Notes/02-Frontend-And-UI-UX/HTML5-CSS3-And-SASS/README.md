@@ -1,10 +1,10 @@
-[⬅️ Назад към 01. The Quick Wins](../README.md) | [📂 Предишна папка: 00. Course Intro & Setup](../00-Course-Intro-And-Setup/README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [▶️ Започни от 01-00 Intro](01-00-Intro.md)
+[⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало 01-Theory-Notes](../../README.md)| [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [▶️ Започни от 01-00 Intro](01-00-Intro.md)
 
 ---
 
 # 01. HTML5 & CSS3 Foundations
 
-Фундаменталният раздел за изграждане и стилизиране на съвременни уеб страници от **Ниво 1 (The Quick Wins)**. Тук овладяваме семантичната архитектура на **HTML5**, каскадността и селекторите в **CSS3** (включително детайлните подмодули `01-01` до `01-05`), математиката на **Кутийния модел (Box Model)**, професионалната типография и едноизмерното подреждане на елементи с **Flexbox**.
+Фундаменталният раздел за изграждане и стилизиране на съвременни уеб страници от **Ниво 1 (The Quick Wins)**/за които идват от C# средата/. Тук овладяваме семантичната архитектура на **HTML5**, каскадността и селекторите в **CSS3** (включително детайлните подмодули `01-01` до `01-05`), математиката на **Кутийния модел (Box Model)**, професионалната типография и едноизмерното подреждане на елементи с **Flexbox**.
 
 Всяка тема е разделена на два файла: **основна лекция (`-00`)** с дълбока теория, визуални диаграми и системни капани, и **практически наръчник (`-01`)** със синтаксис от нулата, готови UI компоненти и изпитни тактики за Judge.
 
@@ -33,6 +33,6 @@
 
 
 ---
-[⬅️ Назад към 01. The Quick Wins](../README.md) | [📂 Предишна папка: 00. Course Intro & Setup](../00-Course-Intro-And-Setup/README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [▶️ Започни от 01-00 Intro](01-00-Intro.md)
+ [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало 01-Theory-Notes](../../README.md)| [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [▶️ Започни от 01-00 Intro](01-00-Intro.md)
 ---
 © 2026 Dev-Library / 01. HTML5 & CSS3 Foundations

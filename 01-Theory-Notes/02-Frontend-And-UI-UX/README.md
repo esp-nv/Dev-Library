@@ -1,4 +1,4 @@
-[⬅️ Назад към Инженерната Библиотека (01-Theory-Notes)](../README.md) | [📂 Предишен домейн: 01. Core Tools](../01-Core-Tools-And-Fundamentals/README.md) | [🏠 Начало](../../README.md) | [📂 Следващ домейн: 03. Backend Ecosystems](../03-Backend-Ecosystems/README.md) | [▶️ Започни от HTML5 & CSS3](HTML5-CSS3-And-SASS/README.md)
+[⬅️ Назад към Инженерната Библиотека (01-Theory-Notes)](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текущa папка: 02-Frontend-And-UI-UX](README.md) [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [▶️ Започни от HTML5 & CSS3](HTML5-CSS3-And-SASS/README.md)
 
 ---
 
@@ -43,6 +43,6 @@
 
 ---
 
-[⬅️ Назад към Инженерната Библиотека (01-Theory-Notes)](../README.md) | [📂 Предишен домейн: 01. Core Tools](../01-Core-Tools-And-Fundamentals/README.md) | [🏠 Начало](../../README.md) | [📂 Следващ домейн: 03. Backend Ecosystems](../03-Backend-Ecosystems/README.md) | [▶️ Започни от HTML5 & CSS3](HTML5-CSS3-And-SASS/README.md)
+[⬅️ Назад към Инженерната Библиотека (01-Theory-Notes)](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текущa папка: 02-Frontend-And-UI-UX](README.md) [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [▶️ Започни от HTML5 & CSS3](HTML5-CSS3-And-SASS/README.md)
 
 © 2026 Dev-Library / 02. Фронтенд и UI/UX Дизайн

@@ -1,4 +1,4 @@
-[⬅️ 01-01-00. Въведение в HTML5 и CSS3](01-01-00-HTML5-And-CSS3-Basics.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало 01-Theory-Notes](../../README.md)| [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-02-00. CSS Box Model и Типография](01-02-00-CSS-Box-Model-And-Typography.md)
+[⬅️ 01-01-00. Въведение в HTML5 и CSS3](01-01-00-HTML5-And-CSS3-Basics.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-02-00. CSS Box Model и Типография](01-02-00-CSS-Box-Model-And-Typography.md)
 
 ---
 
@@ -170,7 +170,7 @@
 
 
 ---
-[⬅️ 01-01-00. Въведение в HTML5 и CSS3](01-01-00-HTML5-And-CSS3-Basics.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🏠 Начало 01-Theory-Notes](../../README.md)| [📂 Следваща папка: 02. Responsive, Forms & Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-02-00. CSS Box Model и Типография](01-02-00-CSS-Box-Model-And-Typography.md)
+[⬅️ 01-01-00. Въведение в HTML5 и CSS3](01-01-00-HTML5-And-CSS3-Basics.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-02-00. CSS Box Model и Типография](01-02-00-CSS-Box-Model-And-Typography.md)
 
 
 © 2026 Dev-Library / 01-01-01. Syntax-From-Scratch & Semantic Cheat Sheet (HTML5 & CSS3 Основи)

@@ -1,4 +1,4 @@
-[⬅️ 02-01-00. Адаптивен уеб дизайн и Media Queries](02-01-00-Responsive-Design-And-Media-Queries.md) | [📂 Предишна папка: 01. HTML5 & CSS3 Foundations](../01-HTML-And-CSS-Foundations/README.md) | [📂 Текуща папка: 02. Responsive, Forms & Frameworks](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 03. Technical SEO & Redis Caching](../03-SEO-And-Redis-Caching/README.md) | [➡️ 02-02-00. Работа с HTML форми и клиентска валидация](02-02-00-Working-With-Forms-And-Validation.md)
+[⬅️ 02-01-00. Адаптивен уеб дизайн и Media Queries](02-01-00-Responsive-Design-And-Media-Queries.md) | [⬅️ Назад към 01. HTML5 & CSS3 Foundations](../HTML5-CSS3-And-SASS/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Responsive-Forms-And-Frameworks](README.md) | [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Responsive-Forms-And-Frameworks](../TypeScript-Language/README.md) | [➡️ 02-02-00. Работа с HTML форми и клиентска валидация](02-02-00-Working-With-Forms-And-Validation.md)
 
 ---
 
@@ -170,6 +170,6 @@
 * **Как да го поправиш:** Използвай модерната CSS единица **`min-height: 100dvh;`** (Dynamic Viewport Height), която автоматично се преизчислява при скриване и показване на лентите на телефона.
 
 ---
-[⬅️ 02-01-00. Адаптивен уеб дизайн и Media Queries](02-01-00-Responsive-Design-And-Media-Queries.md) | [📂 Предишна папка: 01. HTML5 & CSS3 Foundations](../01-HTML-And-CSS-Foundations/README.md) | [📂 Текуща папка: 02. Responsive, Forms & Frameworks](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 03. Technical SEO & Redis Caching](../03-SEO-And-Redis-Caching/README.md) | [➡️ 02-02-00. Работа с HTML форми и клиентска валидация](02-02-00-Working-With-Forms-And-Validation.md)
+[⬅️ 02-01-00. Адаптивен уеб дизайн и Media Queries](02-01-00-Responsive-Design-And-Media-Queries.md) | [⬅️ Назад към 01. HTML5 & CSS3 Foundations](../HTML5-CSS3-And-SASS/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Responsive-Forms-And-Frameworks](README.md) | [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Responsive-Forms-And-Frameworks](../TypeScript-Language/README.md) | [➡️ 02-02-00. Работа с HTML форми и клиентска валидация](02-02-00-Working-With-Forms-And-Validation.md)
 ---
 © 2026 Dev-Library / 02-01-01. Syntax-From-Scratch & Responsive Breakpoints Cheat Sheet

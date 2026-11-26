@@ -37,3 +37,4 @@ README.md [⬅️ Назад към 02. Natural Extensions & QA Automation](../R
 [⬅️ Назад към 02. Natural Extensions & QA Automation](../README.md) | [📂 Предишна папка: 01. QA Automation](../01-QA-Automation/README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 03. Python Scripting](../03-Python-Scripting/README.md) | [▶️ Започни от 02-00 Intro](02-00-Intro-To-TypeScript-And-Compiler.md)
 
 © 2026 Dev-Library / TypeScript Language & Architecture
+

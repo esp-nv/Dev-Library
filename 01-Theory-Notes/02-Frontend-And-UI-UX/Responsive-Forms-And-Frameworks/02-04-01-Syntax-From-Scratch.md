@@ -1,4 +1,4 @@
-[⬅️ 02-04-00. Bootstrap 5 (12-Колонна Grid система и Компоненти)](02-04-00-Bootstrap-5-Grid-And-Components.md) | [📂 Предишна папка: 01. HTML5 & CSS3 Foundations](../01-HTML-And-CSS-Foundations/README.md) | [📂 Текуща папка: 02. Responsive, Forms & Frameworks](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 03. Technical SEO & Redis Caching](../03-SEO-And-Redis-Caching/README.md) | [➡️ 03-00. Intro to Web Visibility & Caching](../03-SEO-And-Redis-Caching/03-00-Intro.md)
+[⬅️ 02-04-00. Bootstrap 5 (12-Колонна Grid система и Компоненти)](02-04-00-Bootstrap-5-Grid-And-Components.md) | [⬅️ Назад към 01. HTML5 & CSS3 Foundations](../HTML5-CSS3-And-SASS/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Responsive-Forms-And-Frameworks](README.md) | [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Responsive-Forms-And-Frameworks](../TypeScript-Language/README.md) | [➡️ 03-00. Intro to Web Visibility & Caching](../03-SEO-And-Redis-Caching/03-00-Intro.md)
 
 ---
 
@@ -154,6 +154,6 @@
 * **Как да го поправиш:** Добави класа **`h-100`** (`height: 100%`) върху `<div class="card h-100">`, а вътре в `.card-body` сложи `d-flex flex-column` и `mt-auto` на бутона, за да се подравнят всички бутони в една линия най-долу!
 
 ---
-[⬅️ 02-04-00. Bootstrap 5 (12-Колонна Grid система и Компоненти)](02-04-00-Bootstrap-5-Grid-And-Components.md) | [📂 Предишна папка: 01. HTML5 & CSS3 Foundations](../01-HTML-And-CSS-Foundations/README.md) | [📂 Текуща папка: 02. Responsive, Forms & Frameworks](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 03. Technical SEO & Redis Caching](../03-SEO-And-Redis-Caching/README.md) | [➡️ 03-00. Intro to Web Visibility & Caching](../03-SEO-And-Redis-Caching/03-00-Intro.md)
+[⬅️ 02-04-00. Bootstrap 5 (12-Колонна Grid система и Компоненти)](02-04-00-Bootstrap-5-Grid-And-Components.md) | [⬅️ Назад към 01. HTML5 & CSS3 Foundations](../HTML5-CSS3-And-SASS/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Responsive-Forms-And-Frameworks](README.md) | [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Responsive-Forms-And-Frameworks](../TypeScript-Language/README.md) | [➡️ 03-00. Intro to Web Visibility & Caching](../03-SEO-And-Redis-Caching/03-00-Intro.md)
 ---
 © 2026 Dev-Library / 02-04-01. Syntax-From-Scratch & Bootstrap 5 Grid Templates + Cheat Sheet
