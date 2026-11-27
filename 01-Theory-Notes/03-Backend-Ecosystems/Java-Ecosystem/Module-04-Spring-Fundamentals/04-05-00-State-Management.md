@@ -1,4 +1,4 @@
-[⬅️ 04-04. Spring MVC with Thymeleaf & Validation](04-04-00-Spring-MVC-Thymeleaf.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-05-01. Syntax From Scratch](04-05-01-Syntax-From-Scratch.md)
+[⬅️ 04-04. Spring MVC with Thymeleaf & Validation](04-04-00-Spring-MVC-Thymeleaf.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-05-01. Syntax From Scratch](04-05-01-State-Management-Syntax.md)
 
 ---
 
@@ -139,4 +139,4 @@ public class SafeStateController {
 | **Защита на бисквитка срещу подправяне** | Ръчно криптиране или JWT | Вграден **ASP.NET Core Data Protection API** (автоматично криптиране) |
 
 ---
-[⬅️ 04-04. Spring MVC with Thymeleaf & Validation](04-04-00-Spring-MVC-Thymeleaf.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-05-01. Syntax From Scratch](04-05-01-Syntax-From-Scratch.md)
+[⬅️ 04-04. Spring MVC with Thymeleaf & Validation](04-04-00-Spring-MVC-Thymeleaf.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-05-01. Syntax From Scratch](04-05-01-State-Management-Syntax.md)

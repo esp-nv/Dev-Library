@@ -1,4 +1,4 @@
-[⬅️ 01-00. Intro & JVM](01-00-Intro-And-JVM.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-01-01. Syntax From Scratch](01-01-01-Syntax-From-Scratch.md)
+[⬅️ 01-00. Intro & JVM](01-00-Intro-And-JVM.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-01-01. Syntax From Scratch](01-01-01-Basic-Syntax-And-Loops-Syntax.md)
 
 ---
 
@@ -115,4 +115,4 @@ public class CleanSyntaxDemo {
     2.  **Модерен Switch Expression (`->`):** При синтаксиса със стрелка **`case 1 -> ...`** няма Fall-through — изпълнява се **само съответният клон** без нужда от `break`, може да се изброяват множество стойности на един ред (`case "Sat", "Sun" -> ...`) и целият `switch` връща директно резултат в променлива.
 
 ---
-[⬅️ 01-00. Intro & JVM](01-00-Intro-And-JVM.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-01-01. Syntax From Scratch](01-01-01-Syntax-From-Scratch.md)
+[⬅️ 01-00. Intro & JVM](01-00-Intro-And-JVM.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-01-01. Syntax From Scratch](01-01-01-Basic-Syntax-And-Loops-Syntax.md)

@@ -1,4 +1,7 @@
-[⬅️ Предишен модул: Course Intro](../Course-Intro-And-Setup/README.md) | 
+[📦 Предишен модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [🌐 Домейн: 01. Core Tools & Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Git And GitHub](README.md) | [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md)
+
+---
+
 [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course-Intro-And-Setup](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: Algorithms-Introduction](../Algorithms-And-Data-Structures//README.md) | [▶️ Започни от 01-00 Git Архитектура](01-00-Git-And-GitHub-Architecture.md)
 
 
@@ -12,11 +15,14 @@
 
 * **01. Git & GitHub Архитектура, Клиенти & Капани**
   * 📄 [01-00. Теория: 4-те зони на Git, CLI vs GitHub Desktop vs TortoiseGit, `.gitignore` & Интервю капани](01-00-Git-And-GitHub-Architecture.md)
-  * 🛠️ [01-01. Практика от Нулата: Команди, GitHub Desktop, TortoiseGit („Костенурката“) & Merge Conflicts Cheat Sheet](01-01-Syntax-From-Scratch.md)
+  * 🛠️ [01-01. Практика от Нулата: Команди, GitHub Desktop, TortoiseGit („Костенурката“) & Merge Conflicts Cheat Sheet](01-01-Syntax.md)
 
 ---
 [⬅️ Предишен модул: Course Intro](../Course-Intro-And-Setup/README.md) | 
 [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course-Intro-And-Setup](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: Algorithms-Introduction](../Algorithms-And-Data-Structures//README.md) | [▶️ Започни от 01-00 Git Архитектура](01-00-Git-And-GitHub-Architecture.md)
 
+---
 
-© 2026 Dev-Library / Git & GitHub Version Control
+[📦 Предишен модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [🌐 Домейн: 01. Core Tools & Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Git And GitHub](README.md) | [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md)
+
+© 2026 Dev-Library / Git And GitHub & Architecture

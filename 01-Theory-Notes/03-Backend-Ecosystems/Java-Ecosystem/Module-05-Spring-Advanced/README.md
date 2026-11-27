@@ -1,4 +1,4 @@
-[⬅️ Назад към Java Хъба](../README.md) | [🏠 Начало](../../README.md) | [▶️ Започни от 05-00 Intro](05-00-Intro.md)
+[📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Spring Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от Теория, REST Принципи, RFC 9457 ProblemDetail & Капани](05-01-00-REST-And-Error-Handling.md)
 
 ---
 
@@ -11,19 +11,22 @@
 *   **[05-00. Intro to Spring Advanced & Enterprise Architecture](05-00-Intro.md)**
 *   **05-01. Web API, REST Controllers & Global Error Handling (`@RestControllerAdvice` & `ProblemDetail`)**
     *   📄 [Теория, REST Принципи, RFC 9457 ProblemDetail & Капани](05-01-00-REST-And-Error-Handling.md)
-    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](05-01-01-Syntax-From-Scratch.md)
+    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](05-01-01-REST-And-Error-Handling-Syntax.md)
 *   **05-02. Spring Security 6+ & Authentication (`SecurityFilterChain` & `BCrypt`)**
     *   📄 [Теория, Filter Chain Архитектура, RBAC, CSRF & Капани](05-02-00-Spring-Security.md)
-    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](05-02-01-Syntax-From-Scratch.md)
+    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](05-02-01-Spring-Security-Syntax.md)
 *   **05-03. Stateless Security with JWT (JSON Web Tokens) & Refresh Tokens**
     *   📄 [Теория, Структура на JWT, OncePerRequestFilter & Капани](05-03-00-JWT-Authentication.md)
-    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](05-03-01-Syntax-From-Scratch.md)
+    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](05-03-01-JWT-Authentication-Syntax.md)
 *   **05-04. Spring AOP (Aspect-Oriented Programming) & Interceptors**
     *   📄 [Теория, Cross-Cutting Concerns, Pointcuts, Advices & Капани](05-04-00-Spring-AOP.md)
-    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](05-04-01-Syntax-From-Scratch.md)
+    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](05-04-01-Spring-AOP-Syntax.md)
 *   **05-05. API Documentation (OpenAPI 3 / Swagger), Integration Testing (Testcontainers) & Docker**
     *   📄 [Теория, Swagger UI, Реална БД в тестовете, Multi-stage Dockerfile & Капани](05-05-00-Docs-Testing-And-Docker.md)
-    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](05-05-01-Syntax-From-Scratch.md)
+    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](05-05-01-Docs-Testing-And-Docker-Syntax.md)
 
 ---
-© 2026 Dev-Library / Module 05: Spring Advanced
+
+[📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Spring Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от Теория, REST Принципи, RFC 9457 ProblemDetail & Капани](05-01-00-REST-And-Error-Handling.md)
+
+© 2026 Dev-Library / Module 05 Spring Advanced & Architecture

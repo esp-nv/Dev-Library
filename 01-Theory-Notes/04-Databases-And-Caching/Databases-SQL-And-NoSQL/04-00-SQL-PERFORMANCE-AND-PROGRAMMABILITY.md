@@ -1,3 +1,7 @@
+[⬅️ Subqueries & WITH](03-02-SQL-Subqueries-And-CTEs.md) | [📂 Назад към Databases SQL And NoSQL Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: 04. Databases & Caching](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases SQL And NoSQL](README.md) | [🌐 Следващ домейн: 05. QA & Test Automation](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md)
+
+---
+
 ⏪ [Глава 03. Дълбок SQL и Заявки](03-00-SQL-QUERIES-OVERVIEW.md) | 📂 Глава 04 | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-01. Индекси и Execution Plans](04-01-Indices-And-Execution-Plans.md) 
 
 ---
@@ -48,6 +52,10 @@
 * **[04-07. Релации и Joins в ASP.NET Core (DbContext, ModelBuilder и LINQ)](04-07-EFCore-Relations-ModelBuilder-And-Joins.md)** — Конфигуриране на `1:1`, `1:Many`, `Many:Many` и `DeleteBehavior` в `OnModelCreating`, както и превод на `.Include()`, `.Select()` и `DefaultIfEmpty()` към SQL `INNER` и `LEFT JOIN`.
 
 ---
-⏪ [Глава 03. Дълбок SQL и Заявки](03-00-SQL-QUERIES-OVERVIEW.md) | 📂 Глава 04 | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-01. Индекси и Execution Plans](04-01-Indices-And-Execution-Plans.md) 
+⏪ [Глава 03. Дълбок SQL и Заявки](03-00-SQL-QUERIES-OVERVIEW.md) | 📂 Глава 04 | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-01. Индекси и Execution Plans](04-01-Indices-And-Execution-Plans.md)
 
-© 2026 Dev-Library / Бази данни: Производителност и Програмируемост
+---
+
+[⬅️ Subqueries & WITH](03-02-SQL-Subqueries-And-CTEs.md) | [📂 Назад към Databases SQL And NoSQL Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: 04. Databases & Caching](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases SQL And NoSQL](README.md) | [🌐 Следващ домейн: 05. QA & Test Automation](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md)
+
+© 2026 Dev-Library / Databases SQL And NoSQL & Architecture

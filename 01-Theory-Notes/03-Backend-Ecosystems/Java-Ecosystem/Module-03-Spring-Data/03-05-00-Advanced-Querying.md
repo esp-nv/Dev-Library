@@ -1,4 +1,4 @@
-[⬅️ 03-04. Spring Data Intro & Repositories](03-04-00-Spring-Data-Repositories.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-05-01. Syntax From Scratch](03-05-01-Syntax-From-Scratch.md)
+[📂 Назад към Module 03 Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03 Spring Data](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ Теория, Сериализация, Безкрайна рекурсия при релации & Капани](03-07-00-JSON-And-XML-Processing.md)
 
 ---
 
@@ -134,4 +134,6 @@ public interface OrderRepository extends JpaRepository<Order, Long> {
 
 ---
 
-[⬅️ 03-04. Spring Data Intro & Repositories](03-04-00-Spring-Data-Repositories.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-05-01. Syntax From Scratch](03-05-01-Syntax-From-Scratch.md)
+[📂 Назад към Module 03 Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03 Spring Data](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ Теория, Сериализация, Безкрайна рекурсия при релации & Капани](03-07-00-JSON-And-XML-Processing.md)
+
+© 2026 Dev-Library / Module 03 Spring Data & Architecture

@@ -1,3 +1,7 @@
+[🌐 Домейн: 04. Databases & Caching](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases And EF Core](README.md) | [🌐 Следващ домейн: 05. QA & Test Automation](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [▶️ Започни от Започни от 01-00](01-00-SQL-SERVER-AND-RELATIONS-INTRO.md)
+
+---
+
 🏠 [Всички бележки (01-Theory-Notes)](../README.md) | 🌐 [Архитектура и Cross-Stack](../Architecture-And-Cross-Stack/) | 🗄️ [Бази данни (SQL & NoSQL)](../Databases-SQL-And-NoSQL/) | ▶️ [Започни от 01-00](01-00-SQL-SERVER-AND-RELATIONS-INTRO.md)
 
 ---
@@ -71,4 +75,8 @@
 ---
 🏠 [Всички бележки (01-Theory-Notes)](../README.md) | 🌐 [Архитектура и Cross-Stack](../Architecture-And-Cross-Stack/) | 🗄️ [Бази данни (SQL & NoSQL)](../Databases-SQL-And-NoSQL/) | ▶️ [Започни от 01-00](01-00-SQL-SERVER-AND-RELATIONS-INTRO.md)
 
-© 2026 Dev-Library / Пълна библиотека по Релации, Мапинг и ORM Архитектура
+---
+
+[🌐 Домейн: 04. Databases & Caching](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases And EF Core](README.md) | [🌐 Следващ домейн: 05. QA & Test Automation](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [▶️ Започни от Започни от 01-00](01-00-SQL-SERVER-AND-RELATIONS-INTRO.md)
+
+© 2026 Dev-Library / Databases And EF Core & Architecture

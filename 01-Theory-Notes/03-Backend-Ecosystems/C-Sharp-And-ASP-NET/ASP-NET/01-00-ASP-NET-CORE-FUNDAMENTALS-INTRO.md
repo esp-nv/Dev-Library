@@ -1,3 +1,7 @@
+[⬅️ 00-00. Въведение в уеб технологиите и Git инженерна хигиена (Кратък справочник)](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md) | [📂 Назад към ASP NET Хъба](README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP NET](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 01-02. Жизнен цикъл и Middleware компоненти в ASP.NET Core](01-02-ASP-NET-Core-Lifecycle-And-Middleware.md)
+
+---
+
 [⏪ Глава 00-00. Уводни технологии](00-01-Internet-Protocols-And-HTTP-Fundamentals.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-01. Еволюция Преди и Сега](01-01-ASP-NET-Framework-Vs-Core-Evolution-Deep-Dive.md) | [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
 
 ---
@@ -137,4 +141,8 @@ public class ProductsController : Controller
 ---
 [⏪ Глава 00-00. Уводни технологии](00-01-Internet-Protocols-And-HTTP-Fundamentals.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-01. Еволюция Преди и Сега](01-01-ASP-NET-Framework-Vs-Core-Evolution-Deep-Dive.md) | [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
 
-© 2026 Dev-Library / ASP.NET Core: Fundamentals Overview
+---
+
+[⬅️ 00-00. Въведение в уеб технологиите и Git инженерна хигиена (Кратък справочник)](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md) | [📂 Назад към ASP NET Хъба](README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP NET](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 01-02. Жизнен цикъл и Middleware компоненти в ASP.NET Core](01-02-ASP-NET-Core-Lifecycle-And-Middleware.md)
+
+© 2026 Dev-Library / ASP NET & Architecture

@@ -1,4 +1,4 @@
-[⬅️ 05-04. Spring AOP & Interceptors](05-04-00-Spring-AOP.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-05-01. Syntax From Scratch](05-05-01-Syntax-From-Scratch.md)
+[⬅️ 05-04. Spring AOP & Interceptors](05-04-00-Spring-AOP.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-05-01. Syntax From Scratch](05-05-01-Docs-Testing-And-Docker-Syntax.md)
 
 ---
 
@@ -135,4 +135,4 @@ ENTRYPOINT ["java", "-XX:+UseContainerSupport", "-XX:MaxRAMPercentage=75.0", "-j
 | **Вграден Build на Docker Image без Dockerfile** | `mvn spring-boot:build-image` (използва **Cloud Native Buildpacks**) | `dotnet publish --os linux --arch x64 /t:PublishContainer` |
 
 ---
-[⬅️ 05-04. Spring AOP & Interceptors](05-04-00-Spring-AOP.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-05-01. Syntax From Scratch](05-05-01-Syntax-From-Scratch.md)
+[⬅️ 05-04. Spring AOP & Interceptors](05-04-00-Spring-AOP.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-05-01. Syntax From Scratch](05-05-01-Docs-Testing-And-Docker-Syntax.md)

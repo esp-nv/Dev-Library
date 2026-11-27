@@ -1,4 +1,4 @@
-[⬅️ 01-03-01. NUnit, JUnit 5, Vitest & pytest](01-03-01-Syntax-From-Scratch.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-04-01. Selenium & Locators Cheat Sheet](01-04-01-Syntax-From-Scratch.md)
+[📂 Назад към 01 QA Automation Хъба](README.md) | [🌐 Домейн: 05. QA & Test Automation](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01 QA Automation](README.md) | [🌐 Следващ домейн: 06. Cloud, DevOps & Architecture](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-98. Common Errors, Edge Cases & Fixes (Каталог на грешките)](01-98-Common-Errors-And-Fixes.md)
 
 ---
 
@@ -154,6 +154,6 @@ public void Login_ValidCredentials_RedirectsToDashboard()
 
 ---
 
-[⬅️ 01-03-01. NUnit, JUnit 5, Vitest & pytest](01-03-01-Syntax-From-Scratch.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-04-01. Selenium & Locators Cheat Sheet](01-04-01-Syntax-From-Scratch.md)
+[📂 Назад към 01 QA Automation Хъба](README.md) | [🌐 Домейн: 05. QA & Test Automation](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01 QA Automation](README.md) | [🌐 Следващ домейн: 06. Cloud, DevOps & Architecture](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-98. Common Errors, Edge Cases & Fixes (Каталог на грешките)](01-98-Common-Errors-And-Fixes.md)
 
-© 2026 Dev-Library / 01-04-00. Selenium WebDriver, DOM Locators, Explicit Waits & POM
+© 2026 Dev-Library / 01 QA Automation & Architecture

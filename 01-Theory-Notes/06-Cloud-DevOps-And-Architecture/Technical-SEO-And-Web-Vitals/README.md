@@ -1,4 +1,4 @@
-[⬅️ Назад към 06. Облачна Инфраструктура и Архитектура](../README.md) | [📚 Инженерна Библиотека (01-Theory-Notes)](../../README.md) | [🏠 Начало](../../../README.md) | [▶️ Започни от 03-01-00 Technical SEO & Meta Tags](03-01-00-Technical-SEO-And-Meta-Tags.md)
+[📦 Предишен модул: System-Design-And-Software-Architecture](../System-Design-And-Software-Architecture/README.md) | [🌐 Домейн: 06. Cloud, DevOps & Architecture](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Technical SEO And Web Vitals](README.md) | [🌐 Следващ домейн: 07. Game Development](../../07-Game-Development/README.md)
 
 ---
 
@@ -10,10 +10,10 @@
 
 * **01. Technical SEO, GEO & Core Web Vitals**
   * 📄 [03-01-00. Теория: Crawling & Indexing, Canonical URLs, JSON-LD, GEO & Core Web Vitals (LCP, INP, CLS)](03-01-00-Technical-SEO-And-Meta-Tags.md)
-  * 🛠️ [03-01-01. Практика от Нулата: Meta Tags, OpenGraph, Schema.org, `robots.txt` & `sitemap.xml` Cheat Sheet](03-01-01-SEO-Syntax-From-Scratch.md)
+  * 🛠️ [03-01-01. Практика от Нулата: Meta Tags, OpenGraph, Schema.org, `robots.txt` & `sitemap.xml` Cheat Sheet](03-01-01-SEO-Syntax.md)
 
 ---
 
-[⬅️ Назад към 06. Облачна Инфраструктура и Архитектура](../README.md) | [📚 Инженерна Библиотека (01-Theory-Notes)](../../README.md) | [🏠 Начало](../../../README.md) | [▶️ Започни от 03-01-00 Technical SEO & Meta Tags](03-01-00-Technical-SEO-And-Meta-Tags.md)
+[📦 Предишен модул: System-Design-And-Software-Architecture](../System-Design-And-Software-Architecture/README.md) | [🌐 Домейн: 06. Cloud, DevOps & Architecture](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Technical SEO And Web Vitals](README.md) | [🌐 Следващ домейн: 07. Game Development](../../07-Game-Development/README.md)
 
-© 2026 Dev-Library / Technical SEO, GEO & Core Web Vitals
+© 2026 Dev-Library / Technical SEO And Web Vitals & Architecture

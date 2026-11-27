@@ -1,5 +1,4 @@
-[⬅️ Назад към 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека (01-Theory-Notes)](../../README.md) | [🏠 Начало](../../../README.md) | [📂 Следващ домейн: 06. Cloud, DevOps & Architecture](../../06-Cloud-DevOps-And-Architecture/README.md) | [▶️ Започни от 01-00 Intro](01-00-Intro-To-QA-Engineering.md)
-
+[🌐 Домейн: 05. QA & Test Automation](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01 QA Automation](README.md) | [🌐 Следващ домейн: 06. Cloud, DevOps & Architecture](../../06-Cloud-DevOps-And-Architecture/README.md) | [▶️ Започни от `-00` Теория & Капани](01-04-00-Selenium-WebDriver-And-POM.md)
 
 ---
 
@@ -13,18 +12,18 @@
 
 ### 📦 01. QA Fundamentals, Test Design & Project Management
 * **[01-00. Intro to QA Engineering, Testing Pyramid & Roadmap](01-00-Intro-To-QA-Engineering.md)**
-* **01-01. SDLC, STLC, Нива и Видове Тестване** ([`-00` Теория & Капани](01-01-00-SDLC-STLC-And-Testing-Types.md) | [`-01` Шаблони & Cheat Sheet](01-01-01-Syntax-From-Scratch.md))
-* **01-02. Test Design Техники, Jira, JQL, CI/CD & MS Project** ([`-00` Теория & Капани](01-02-00-Test-Design-Jira-And-MS-Project.md) | [`-01` JQL, Automation & Cheat Sheet](01-02-01-Syntax-From-Scratch.md))
+* **01-01. SDLC, STLC, Нива и Видове Тестване** ([`-00` Теория & Капани](01-01-00-SDLC-STLC-And-Testing-Types.md) | [`-01` Шаблони & Cheat Sheet](01-01-01-SDLC-STLC-And-Testing-Types-Syntax.md))
+* **01-02. Test Design Техники, Jira, JQL, CI/CD & MS Project** ([`-00` Теория & Капани](01-02-00-Test-Design-Jira-And-MS-Project.md) | [`-01` JQL, Automation & Cheat Sheet](01-02-01-Test-Design-Jira-And-MS-Project-Syntax.md))
 
 ### 📦 02. Multi-Language Unit Testing & Mocking
-* **01-03. Unit Testing (AAA, Assertions, Mocking & Code Coverage)** ([`-00` Теория & Капани](01-03-00-Multi-Language-Unit-Testing.md) | [`-01` NUnit, JUnit 5, Vitest & pytest](01-03-01-Syntax-From-Scratch.md))
+* **01-03. Unit Testing (AAA, Assertions, Mocking & Code Coverage)** ([`-00` Теория & Капани](01-03-00-Multi-Language-Unit-Testing.md) | [`-01` NUnit, JUnit 5, Vitest & pytest](01-03-01-Multi-Language-Unit-Testing-Syntax.md))
 
 ### 📦 03. Web UI & Mobile Automation
-* **01-04. Selenium WebDriver, DOM Locators, Explicit Waits & POM** ([`-00` Теория & Капани](01-04-00-Selenium-WebDriver-And-POM.md) | [`-01` Syntax & Selectors Cheat Sheet](01-04-01-Syntax-From-Scratch.md))
-* **01-05. Playwright (Auto-Waiting), AJAX/jQuery & Mobile Appium** ([`-00` Теория & Капани](01-05-00-Playwright-AJAX-And-Appium.md) | [`-01` Playwright & Appium Cheat Sheet](01-05-01-Syntax-From-Scratch.md))
+* **01-04. Selenium WebDriver, DOM Locators, Explicit Waits & POM** ([`-00` Теория & Капани](01-04-00-Selenium-WebDriver-And-POM.md) | [`-01` Syntax & Selectors Cheat Sheet](01-04-01-Selenium-WebDriver-And-POM-Syntax.md))
+* **01-05. Playwright (Auto-Waiting), AJAX/jQuery & Mobile Appium** ([`-00` Теория & Капани](01-05-00-Playwright-AJAX-And-Appium.md) | [`-01` Playwright & Appium Cheat Sheet](01-05-01-Playwright-AJAX-And-Appium-Syntax.md))
 
 ### 📦 04. API, Contract & Performance Testing
-* **01-06. REST API, GraphQL, Contract & Load Testing (K6 & JMeter)** ([`-00` Теория & Капани](01-06-00-API-And-Performance-Testing.md) | [`-01` Postman, RestSharp, REST Assured & K6](01-06-01-Syntax-From-Scratch.md))
+* **01-06. REST API, GraphQL, Contract & Load Testing (K6 & JMeter)** ([`-00` Теория & Капани](01-06-00-API-And-Performance-Testing.md) | [`-01` Postman, RestSharp, REST Assured & K6](01-06-01-API-And-Performance-Testing-Syntax.md))
 
 ---
 
@@ -37,7 +36,6 @@
 
 ---
 
-[⬅️ Назад към 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека (01-Theory-Notes)](../../README.md) | [🏠 Начало](../../../README.md) | [📂 Следващ домейн: 06. Cloud, DevOps & Architecture](../../06-Cloud-DevOps-And-Architecture/README.md) | [▶️ Започни от 01-00 Intro](01-00-Intro-To-QA-Engineering.md)
+[🌐 Домейн: 05. QA & Test Automation](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01 QA Automation](README.md) | [🌐 Следващ домейн: 06. Cloud, DevOps & Architecture](../../06-Cloud-DevOps-And-Architecture/README.md) | [▶️ Започни от `-00` Теория & Капани](01-04-00-Selenium-WebDriver-And-POM.md)
 
-
-© 2026 Dev-Library / QA Automation & SDET Engineering
+© 2026 Dev-Library / 01 QA Automation & Architecture

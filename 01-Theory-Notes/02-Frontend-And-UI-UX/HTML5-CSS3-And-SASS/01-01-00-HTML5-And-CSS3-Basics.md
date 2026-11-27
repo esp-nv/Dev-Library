@@ -1,4 +1,4 @@
-[⬅️ 01-00. Intro to HTML5 & CSS3 Architecture](01-00-Intro.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-01-01. Syntax-From-Scratch & Semantic Cheat Sheet](01-01-01-Syntax-From-Scratch.md)
+[📂 Назад към HTML5 CSS3 And SASS Хъба](README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: HTML5 CSS3 And SASS](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md)
 
 ---
 
@@ -72,7 +72,7 @@
 * **Как да го поправиш:** Винаги, преди да почнеш да пишеш дизайн, подсигурявай присъствието на `<meta charset="UTF-8">` веднага след отварящия таг `<head>`.
 
 ---
-[⬅️ 01-00. Intro to HTML5 & CSS3 Architecture](01-00-Intro.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-01-01. Syntax-From-Scratch & Semantic Cheat Sheet](01-01-01-Syntax-From-Scratch.md)
 
+[📂 Назад към HTML5 CSS3 And SASS Хъба](README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: HTML5 CSS3 And SASS](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md)
 
-© 2026 Dev-Library / 01-01-00. Въведение в HTML5 и CSS3 (Теория, Упражнения и Изпитни Тактики)
+© 2026 Dev-Library / HTML5 CSS3 And SASS & Architecture

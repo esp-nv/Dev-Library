@@ -1,4 +1,4 @@
-[⬅️ 02-04. Functions Advanced](02-04-00-Functions-Advanced.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-05-01. Syntax From Scratch](02-05-01-Syntax-From-Scratch.md)
+[📂 Назад към Module 02 Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02 Advance](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md) | [➡️ Теория, I/O Потоци, Контекст мениджъри & Капани](02-06-00-File-Handling.md)
 
 ---
 
@@ -138,4 +138,7 @@ finally:
     *   Затова **винаги** трябва да наследяваш и хващаш най-много `except Exception:`, никога голо `except:`.
 
 ---
-[⬅️ 02-04. Functions Advanced](02-04-00-Functions-Advanced.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-05-01. Syntax From Scratch](02-05-01-Syntax-From-Scratch.md)
+
+[📂 Назад към Module 02 Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02 Advance](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md) | [➡️ Теория, I/O Потоци, Контекст мениджъри & Капани](02-06-00-File-Handling.md)
+
+© 2026 Dev-Library / Module 02 Advance & Architecture

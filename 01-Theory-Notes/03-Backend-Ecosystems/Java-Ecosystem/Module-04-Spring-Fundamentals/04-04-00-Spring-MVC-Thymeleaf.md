@@ -1,4 +1,4 @@
-[⬅️ 04-03. Spring Core (IoC & Beans)](04-03-00-Spring-Core-IoC.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-04-01. Syntax From Scratch](04-04-01-Syntax-From-Scratch.md)
+[⬅️ 04-03. Spring Core (IoC & Beans)](04-03-00-Spring-Core-IoC.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-04-01. Syntax From Scratch](04-04-01-Spring-MVC-Thymeleaf-Syntax.md)
 
 ---
 
@@ -72,4 +72,4 @@
 Двете платформи предлагат сходни концепции за сървърно рендиране (Thymeleaf срещу Razor Views), обвързване на параметри и управление на временни съобщения при пренасочване (`RedirectAttributes` срещу `TempData`).
 
 ---
-[⬅️ 04-03. Spring Core (IoC & Beans)](04-03-00-Spring-Core-IoC.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-04-01. Syntax From Scratch](04-04-01-Syntax-From-Scratch.md)
+[⬅️ 04-03. Spring Core (IoC & Beans)](04-03-00-Spring-Core-IoC.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-04-01. Syntax From Scratch](04-04-01-Spring-MVC-Thymeleaf-Syntax.md)

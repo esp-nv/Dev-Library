@@ -1,4 +1,4 @@
-[⬅️ 01-04-01. Selenium & Locators Cheat Sheet](01-04-01-Syntax-From-Scratch.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-05-01. Playwright & Appium Cheat Sheet](01-05-01-Syntax-From-Scratch.md)
+[⬅️ 01-04-01. Selenium & Locators Cheat Sheet](01-04-01-Selenium-WebDriver-And-POM-Syntax.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-05-01. Playwright & Appium Cheat Sheet](01-05-01-Playwright-AJAX-And-Appium-Syntax.md)
 
 ---
 
@@ -125,6 +125,6 @@ test('Add product to cart updates badge immediately', async ({ page }) => {
 
 ---
 
-[⬅️ 01-04-01. Selenium & Locators Cheat Sheet](01-04-01-Syntax-From-Scratch.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-05-01. Playwright & Appium Cheat Sheet](01-05-01-Syntax-From-Scratch.md)
+[⬅️ 01-04-01. Selenium & Locators Cheat Sheet](01-04-01-Selenium-WebDriver-And-POM-Syntax.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-05-01. Playwright & Appium Cheat Sheet](01-05-01-Playwright-AJAX-And-Appium-Syntax.md)
 
 © 2026 Dev-Library / 01-05-00. Playwright (Auto-Waiting), AJAX/jQuery & Mobile Appium

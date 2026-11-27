@@ -1,4 +1,4 @@
-[⬅️ 03-01. DB Apps Introduction (JDBC)](03-01-00-JDBC-Introduction.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-02-01. Syntax From Scratch](03-02-01-Syntax-From-Scratch.md)
+[⬅️ 03-01. DB Apps Introduction (JDBC)](03-01-00-JDBC-Introduction.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-02-01. Syntax From Scratch](03-02-01-Hibernate-Intro-Syntax.md)
 
 ---
 
@@ -172,4 +172,4 @@ public class Product {
 | **Автоматични дати (`CreatedAt` / `UpdatedAt`)** | `@CreationTimestamp` / `@UpdateTimestamp` или Spring Data `@CreatedDate` | Пренаписване на `SaveChangesAsync()` или Interceptors |
 
 ---
-[⬅️ 03-01. DB Apps Introduction (JDBC)](03-01-00-JDBC-Introduction.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-02-01. Syntax From Scratch](03-02-01-Syntax-From-Scratch.md)
+[⬅️ 03-01. DB Apps Introduction (JDBC)](03-01-00-JDBC-Introduction.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-02-01. Syntax From Scratch](03-02-01-Hibernate-Intro-Syntax.md)

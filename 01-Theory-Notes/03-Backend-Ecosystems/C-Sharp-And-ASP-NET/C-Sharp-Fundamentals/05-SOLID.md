@@ -1,3 +1,7 @@
+[⬅️ Кратък справочник](13-STREAMS-FILES-DIRECTORIES.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](06-REFLECTION-ATTRIBUTES.md)
+
+---
+
 # 📘 Глава 5: SOLID Принципи и Чиста Архитектура
 
 **Статус:** Актуализиран архитектурен справочник | **Цел:** Дълбоко разбиране на правилата за гъвкав софтуер
@@ -65,4 +69,7 @@ SOLID е абревиатура от 5 фундаментални правила
 * **Решение:** Остави IoC контейнерът в `Program.cs` да управлява жизнения цикъл на обектите ти и ги инжектирай чисто през конструктора.
 
 ---
-© 2026 Dev-Library / Архитектурно ядро
+
+[⬅️ Кратък справочник](13-STREAMS-FILES-DIRECTORIES.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](06-REFLECTION-ATTRIBUTES.md)
+
+© 2026 Dev-Library / C Sharp Fundamentals & Architecture

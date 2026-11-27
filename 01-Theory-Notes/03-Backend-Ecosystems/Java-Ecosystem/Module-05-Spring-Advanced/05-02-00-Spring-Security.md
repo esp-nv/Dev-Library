@@ -1,4 +1,4 @@
-[⬅️ 05-01. Web API & Global Error Handling](05-01-00-REST-And-Error-Handling.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-02-01. Syntax From Scratch](05-02-01-Syntax-From-Scratch.md)
+[⬅️ 05-01. Web API & Global Error Handling](05-01-00-REST-And-Error-Handling.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-02-01. Syntax From Scratch](05-02-01-Spring-Security-Syntax.md)
 
 ---
 
@@ -174,4 +174,4 @@ public class SecurityConfig {
 | **Алгоритъм за пароли по подразбиране** | `BCryptPasswordEncoder` (или `DelegatingPasswordEncoder`) | `PBKDF2` с HMAC-SHA512 (310 000 итерации в .NET 8) |
 
 ---
-[⬅️ 05-01. Web API & Global Error Handling](05-01-00-REST-And-Error-Handling.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-02-01. Syntax From Scratch](05-02-01-Syntax-From-Scratch.md)
+[⬅️ 05-01. Web API & Global Error Handling](05-01-00-REST-And-Error-Handling.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-02-01. Syntax From Scratch](05-02-01-Spring-Security-Syntax.md)

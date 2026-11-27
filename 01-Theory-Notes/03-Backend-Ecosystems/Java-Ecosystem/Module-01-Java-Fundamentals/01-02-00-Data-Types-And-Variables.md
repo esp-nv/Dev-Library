@@ -1,4 +1,4 @@
-[⬅️ 01-01. Basic Syntax & Loops](01-01-00-Basic-Syntax-And-Loops.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-02-01. Syntax From Scratch](01-02-01-Syntax-From-Scratch.md)
+[⬅️ 01-01. Basic Syntax & Loops](01-01-00-Basic-Syntax-And-Loops.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-02-01. Syntax From Scratch](01-02-01-Data-Types-And-Variables-Syntax.md)
 
 ---
 
@@ -118,4 +118,4 @@ public class PrecisionDemo {
 *   **Точен Senior отговор:** Кодът **няма да се компилира** (`Incompatible types: possible lossy conversion from int to byte`). Причината е правилото **Numeric Promotion (Повишаване на типовете)** в спецификацията на Java: при всяка аритметична операция (`+`, `-`, `*`, `/`) върху типове, по-малки от `int` (`byte`, `short`, `char`), JVM автоматично ги превръща в **`int`** преди сметката! Затова резултатът от `a + b` е от тип `int` и изисква изричен каст: `byte c = (byte) (a + b);` (същото правило важи и в C#!).
 
 ---
-[⬅️ 01-01. Basic Syntax & Loops](01-01-00-Basic-Syntax-And-Loops.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-02-01. Syntax From Scratch](01-02-01-Syntax-From-Scratch.md)
+[⬅️ 01-01. Basic Syntax & Loops](01-01-00-Basic-Syntax-And-Loops.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-02-01. Syntax From Scratch](01-02-01-Data-Types-And-Variables-Syntax.md)

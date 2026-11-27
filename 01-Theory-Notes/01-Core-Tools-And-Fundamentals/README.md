@@ -17,7 +17,7 @@
 * **[02. Контрол на версиите с Git & GitHub (`Git-And-GitHub/`)](Git-And-GitHub/README.md)**
   * *Обхваща:* Разпределен контрол на версиите, четирите зони на Git, работа с клонове, разрешаване на Merge Conflicts и сравнение между **Git CLI**, **GitHub Desktop** и **TortoiseGit („Костенурката“)**.
   1. **[01-00. Git & GitHub Архитектура, Клиенти & Капани](Git-And-GitHub/01-00-Git-And-GitHub-Architecture.md):** Вътрешен модел на Git, `.gitignore` хигиена и интервю въпроси (`fetch` vs `pull`, `merge` vs `rebase`).
-  2. **[01-01. Практика от Нулата: CLI, GitHub Desktop & TortoiseGit](Git-And-GitHub/01-01-Syntax-From-Scratch.md):** Команди в терминала, графични стъпки и разрешаване на конфликти за 30 секунди.
+  2. **[01-01. Практика от Нулата: CLI, GitHub Desktop & TortoiseGit](Git-And-GitHub/01-01-Syntax.md):** Команди в терминала, графични стъпки и разрешаване на конфликти за 30 секунди.
 
 * **[03. Алгоритми и Структури от Данни (`Algorithms-And-Data-Structures/`)](Algorithms-And-Data-Structures/README.md)**
   * *Обхваща:* Анализ на алгоритмична сложност (**Big O**), рекурсия, търсене, сортиране, алчни алгоритми, графи и динамично програмиране с паралелни имплементации на **Python, C#, JavaScript и Java**.

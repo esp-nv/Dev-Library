@@ -1,4 +1,4 @@
-[⬅️ 01-01-01. Шаблони & Cheat Sheet](01-01-01-Syntax-From-Scratch.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-02-01. JQL, Automation, CI/CD & Cheat Sheet](01-02-01-Syntax-From-Scratch.md)
+[⬅️ 01-01-01. Шаблони & Cheat Sheet](01-01-01-SDLC-STLC-And-Testing-Types-Syntax.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-02-01. JQL, Automation, CI/CD & Cheat Sheet](01-02-01-Test-Design-Jira-And-MS-Project-Syntax.md)
 
 ---
 
@@ -122,7 +122,7 @@
 
 ---
 
-[⬅️ 01-01-01. Шаблони & Cheat Sheet](01-01-01-Syntax-From-Scratch.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-02-01. JQL, Automation, CI/CD & Cheat Sheet](01-02-01-Syntax-From-Scratch.md)
+[⬅️ 01-01-01. Шаблони & Cheat Sheet](01-01-01-SDLC-STLC-And-Testing-Types-Syntax.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-02-01. JQL, Automation, CI/CD & Cheat Sheet](01-02-01-Test-Design-Jira-And-MS-Project-Syntax.md)
 
 © 2026 Dev-Library / 01-02-00. Test Design Техники, Jira, CI/CD и Microsoft Project (Теория & Капани)
 

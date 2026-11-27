@@ -1,3 +1,7 @@
+[📂 Назад към ASP NET Хъба](README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP NET](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)
+
+---
+
 📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) | [📂 Глава 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)) [➡️ 00-01. Мрежови протоколи и HTTP Анатомия](00-01-Internet-Protocols-And-HTTP-Fundamentals.md)
 
 ---
@@ -49,4 +53,8 @@
 ---
 📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) | [📂 Глава 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)) [➡️ 00-01. Мрежови протоколи и HTTP Анатомия](00-01-Internet-Protocols-And-HTTP-Fundamentals.md)
 
-© 2026 Dev-Library / уеб технологии и Git: Кратък справочник
+---
+
+[📂 Назад към ASP NET Хъба](README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP NET](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)
+
+© 2026 Dev-Library / ASP NET & Architecture

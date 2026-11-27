@@ -1,4 +1,4 @@
-[⬅️ 04-00. Intro & Roadmap](04-00-Intro.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-01-01. Django ORM Syntax](04-01-01-Django-ORM-Syntax.md)
+[📂 Назад към Module 04 Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04 Python ORM](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ Теория, `QuerySet` срещу `Session` & Капани](04-03-00-CRUD-And-Queries.md)
 
 ---
 
@@ -156,4 +156,7 @@ class Product(models.Model):
     *   *Скритата уловка:* Тъй като `auto_now=True` се задейства вътре в Python метода `.save()`, ако обновиш записите директно на ниво база данни чрез масов **`Product.objects.filter(...).update(price=50)`**, методът `.save()` **не се извиква** и колоната `updated_at` **няма да се обнови**!
 
 ---
-[⬅️ 04-00. Intro & Roadmap](04-00-Intro.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-01-01. Django ORM Syntax](04-01-01-Django-ORM-Syntax.md)
+
+[📂 Назад към Module 04 Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04 Python ORM](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ Теория, `QuerySet` срещу `Session` & Капани](04-03-00-CRUD-And-Queries.md)
+
+© 2026 Dev-Library / Module 04 Python ORM & Architecture

@@ -25,7 +25,7 @@
 * **[03. Кеширане в Паметта с Redis (`Redis-Caching/`)](Redis-Caching/README.md)** *(Премести `03-02-00` и `03-02-01` тук)*
   * *Обхваща:* In-Memory Key-Value архитектура, структури от данни в Redis (Strings, Hashes, Lists, Sets, Sorted Sets), стратегии за кеширане (**Cache-Aside**, Write-Through), TTL управление и предотвратяване на `KEYS *` блокиране в продукция.
   1. **[01-00. Redis Caching Архитектура & Стратегии](Redis-Caching/03-02-00-Redis-Caching-Architecture.md):** RAM срещу Disk, Cache-Aside модел, Eviction политики и капани.
-  2. **[01-01. Redis Синтаксис от Нулата & .NET / CLI Cheat Sheet](Redis-Caching/03-02-01-Redis-Syntax-From-Scratch.md):** Команди в `redis-cli`, работа с `IDistributedCache` / `StackExchange.Redis` и справочна таблица.
+  2. **[01-01. Redis Синтаксис от Нулата & .NET / CLI Cheat Sheet](Redis-Caching/03-02-01-Redis-Syntax.md):** Команди в `redis-cli`, работа с `IDistributedCache` / `StackExchange.Redis` и справочна таблица.
 
 ---
 

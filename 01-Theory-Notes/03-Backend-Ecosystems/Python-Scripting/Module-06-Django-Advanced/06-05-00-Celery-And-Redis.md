@@ -1,4 +1,4 @@
-[⬅️ 06-04. Django REST Framework](06-04-00-Django-REST-Framework.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-05-01. Syntax From Scratch](06-05-01-Syntax-From-Scratch.md)
+[⬅️ Теория, Serializers, ViewSets, JWT, Permissions & Капани](06-04-00-Django-REST-Framework.md) | [📂 Назад към Module 06 Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06 Django Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md)
 
 ---
 
@@ -127,4 +127,7 @@ def checkout_view_clean(request):
     *   *Решение:* Всяка задача проверява статуса на трансакцията преди действие (напр. `if Payment.objects.filter(transaction_id=tx_id, status="COMPLETED").exists(): return`), гарантирайки, че парите или имейлът се обработват строго веднъж.
 
 ---
-[⬅️ 06-04. Django REST Framework](06-04-00-Django-REST-Framework.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-05-01. Syntax From Scratch](06-05-01-Syntax-From-Scratch.md)
+
+[⬅️ Теория, Serializers, ViewSets, JWT, Permissions & Капани](06-04-00-Django-REST-Framework.md) | [📂 Назад към Module 06 Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06 Django Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md)
+
+© 2026 Dev-Library / Module 06 Django Advanced & Architecture

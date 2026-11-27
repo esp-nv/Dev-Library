@@ -1,3 +1,7 @@
+[🌐 Домейн: 06. Cloud, DevOps & Architecture](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: System Design And Software Architecture](README.md) | [🌐 Следващ домейн: 07. Game Development](../../07-Game-Development/README.md) | [📦 Следващ модул: Technical-SEO-And-Web-Vitals](../Technical-SEO-And-Web-Vitals/README.md)
+
+---
+
 [🏠 Главен Хъб на проекта](../../README.md) | [📂 Отиди в папка ASP-NET](../ASP-NET/) | [▶️ Започни от 01-01](01-01-Architectural-Styles-And-Patterns.md)
 
 ---
@@ -27,4 +31,7 @@
     *   *Обхваща:* Пълна графична спецификация на високонатоварени софтуерни системи — хоризонтални Nginx клъстери, Redis Cache Hit/Miss потоци, gRPC бинарна синхронизация, RabbitMQ асинхронни опашки и Master-Slave шардирани топологии.
 
 ---
-© 2026 Dev-Library / Пълен Системен Дизайн Индекс
+
+[🌐 Домейн: 06. Cloud, DevOps & Architecture](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: System Design And Software Architecture](README.md) | [🌐 Следващ домейн: 07. Game Development](../../07-Game-Development/README.md) | [📦 Следващ модул: Technical-SEO-And-Web-Vitals](../Technical-SEO-And-Web-Vitals/README.md)
+
+© 2026 Dev-Library / System Design And Software Architecture & Architecture

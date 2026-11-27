@@ -70,9 +70,9 @@
 ## 5. ДЕТАЙЛНИ ПОДМОДУЛИ КЪМ ГЛАВА 00
 
 * **[00-01-00. Увод в уеб екосистемата и Сравнение на 10-те IDE среди](00-01-00-Web-Ecosystem-And-IDEs.md)** — Архитектура Клиент–Сървър, триъгълник на фронтенд средите и пълен сравнителен одит на IDE средите (лицензи, скорост, RAM консумация).
-* **[00-01-01. Syntax & Config From Scratch (VS Code, Snippets & Капани)](00-01-01-Syntax-And-Config-From-Scratch.md)** — Топ 5 разширения, матрица на бързите клавиши, създаване на персонализирани снипети в `html.json` и решение за `Permission Denied` / `OutOfMemoryException`.
+* **[00-01-01. Syntax & Config From Scratch (VS Code, Snippets & Капани)](00-01-01-Syntax-And-Config.md)** — Топ 5 разширения, матрица на бързите клавиши, създаване на персонализирани снипети в `html.json` и решение за `Permission Denied` / `OutOfMemoryException`.
 * **[00-02-00. Браузърна диагностика и Мрежова интеграция](00-02-00-Browser-Diagnostics-And-Network.md)** — Механика на Live Server (`WebSocket`), организация на екрана (Side-by-Side Layout) и анатомия на браузърния кеш.
-* **[00-02-01. DevTools Audit From Scratch (Console, Elements & Cache Reset)](00-02-01-DevTools-Audit-From-Scratch.md)** — Практически чеклист за диагностика в Chrome DevTools и насилствено изчистване на кеша.
+* **[00-02-01. DevTools Audit From Scratch (Console, Elements & Cache Reset)](00-02-01-DevTools-Audit.md)** — Практически чеклист за диагностика в Chrome DevTools и насилствено изчистване на кеша.
 
 ---
 [⬅️ Назад към Module 00. Course Intro & Setup](README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course-Intro-And-Setup](README.md) | [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: Git-And-GitHub](../Git-And-GitHub/README.md)  | [➡️ 00-01-00. Уеб Екосистема & IDE Среди](00-01-00-Web-Ecosystem-And-IDEs.md)

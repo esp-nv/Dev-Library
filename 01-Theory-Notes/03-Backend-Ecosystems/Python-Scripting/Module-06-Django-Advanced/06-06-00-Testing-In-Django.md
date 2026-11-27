@@ -1,4 +1,4 @@
-[⬅️ 06-05. Celery and Redis](06-05-00-Celery-And-Redis.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-06-01. Syntax From Scratch](06-06-01-Syntax-From-Scratch.md)
+[⬅️ 06-05. Celery and Redis](06-05-00-Celery-And-Redis.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-06-01. Syntax From Scratch](06-06-01-Testing-In-Django-Syntax.md)
 
 ---
 
@@ -149,4 +149,4 @@ class BookViewsTests(TestCase):
     *   *Скритата уловка:* Тъй като обектът `cls.book` е създаден веднъж в паметта и се споделя между всички тестове, ако в `test_1` промениш атрибута му в Python (`self.book.title = "Changed"`), без да го презаредиш с `.refresh_from_db()`, `test_2` ще види променената стойност в RAM! Затова данните в `setUpTestData` трябва да се третират като Read-Only.
 
 ---
-[⬅️ 06-05. Celery and Redis](06-05-00-Celery-And-Redis.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-06-01. Syntax From Scratch](06-06-01-Syntax-From-Scratch.md)
+[⬅️ 06-05. Celery and Redis](06-05-00-Celery-And-Redis.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-06-01. Syntax From Scratch](06-06-01-Testing-In-Django-Syntax.md)

@@ -1,4 +1,4 @@
-[⬅️ 03-09. Testing](03-09-00-Testing.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-10-01. Syntax From Scratch](03-10-01-Syntax-From-Scratch.md)
+[⬅️ 03-09. Testing](03-09-00-Testing.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-10-01. Syntax From Scratch](03-10-01-Design-Patterns-Syntax.md)
 
 ---
 
@@ -152,4 +152,4 @@ print(f"Цена за експресна доставка: {cost:.2f} лв.")
     2.  **Проблем при многонишковост (Race Condition):** Ако две нишки влязат едновременно в `if cls._instance is None:`, и двете ще създадат отделна инстанция, освен ако не използваш нишков катинар (`threading.Lock()`).
 
 ---
-[⬅️ 03-09. Testing](03-09-00-Testing.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-10-01. Syntax From Scratch](03-10-01-Syntax-From-Scratch.md)
+[⬅️ 03-09. Testing](03-09-00-Testing.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-10-01. Syntax From Scratch](03-10-01-Design-Patterns-Syntax.md)

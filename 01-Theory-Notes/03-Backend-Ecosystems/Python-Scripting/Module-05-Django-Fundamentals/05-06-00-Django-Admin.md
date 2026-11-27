@@ -1,4 +1,4 @@
-[⬅️ 05-05. Class-Based Views](05-05-00-Class-Based-Views.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-06-01. Syntax From Scratch](05-06-01-Syntax-From-Scratch.md)
+[⬅️ Теория, MRO при CBV, Generic Views & Mixins](05-05-00-Class-Based-Views.md) | [📂 Назад към Module 05 Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Django Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md)
 
 ---
 
@@ -122,4 +122,7 @@ class OrderAdmin(admin.ModelAdmin):
     3.  **Мрежова изолация (Nginx / VPN):** Ограничаване на достъпа до админ адреса по IP адрес (само от офисния VPN) директно на ниво уеб сървър (Nginx).
 
 ---
-[⬅️ 05-05. Class-Based Views](05-05-00-Class-Based-Views.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-06-01. Syntax From Scratch](05-06-01-Syntax-From-Scratch.md)
+
+[⬅️ Теория, MRO при CBV, Generic Views & Mixins](05-05-00-Class-Based-Views.md) | [📂 Назад към Module 05 Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Django Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md)
+
+© 2026 Dev-Library / Module 05 Django Fundamentals & Architecture

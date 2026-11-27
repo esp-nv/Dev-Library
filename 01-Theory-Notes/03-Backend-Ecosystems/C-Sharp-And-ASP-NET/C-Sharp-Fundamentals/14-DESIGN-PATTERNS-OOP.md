@@ -1,3 +1,7 @@
+[⬅️ Кратък справочник](06-REFLECTION-ATTRIBUTES.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](07-DEBUGGING-TECHNIQUES.md)
+
+---
+
 # 📘 Глава 14: Шаблони за проектиране (Design Patterns) в C# OOP
 
 **Статус:** Архитектурен справочник | **Цел:** Изпитани решения за създаване, структуриране и комуникация между обекти
@@ -88,5 +92,7 @@
 * **[design-patterns-csharp](https://github.com)** *(от RefactoringGuru)*: Най-доброто за **модерен .NET 8 код и структура** — всеки шаблон е разделен в самостоятелен проект с подробни концептуални коментари и примери от реалния свят.
 
 ---
-© 2026 Dev-Library / Архитектурно ядро
 
+[⬅️ Кратък справочник](06-REFLECTION-ATTRIBUTES.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](07-DEBUGGING-TECHNIQUES.md)
+
+© 2026 Dev-Library / C Sharp Fundamentals & Architecture

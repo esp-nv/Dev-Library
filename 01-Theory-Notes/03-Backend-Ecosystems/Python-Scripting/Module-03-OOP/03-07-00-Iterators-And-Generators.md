@@ -1,4 +1,4 @@
-[⬅️ 03-06. SOLID Principles](03-06-00-SOLID.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-07-01. Syntax From Scratch](03-07-01-Syntax-From-Scratch.md)
+[⬅️ 03-06. SOLID Principles](03-06-00-SOLID.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-07-01. Syntax From Scratch](03-07-01-Iterators-And-Generators-Syntax.md)
 
 ---
 
@@ -131,4 +131,4 @@ print(f"Сума от генераторен израз: {total_sum}")
     2.  **Iterator (напр. обект от `iter(list)` или генератор):** Работникът, който реално обикаля данните и **помни текущата си позиция** в паметта. Той имплементира **и двата метода** — **`__iter__()`** (връща `self`) и **`__next__()`** (връща следващия елемент или хвърля `StopIteration`). Затова `next([1, 2, 3])` гърми с `TypeError: 'list' object is not an iterator`!
 
 ---
-[⬅️ 03-06. SOLID Principles](03-06-00-SOLID.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-07-01. Syntax From Scratch](03-07-01-Syntax-From-Scratch.md)
+[⬅️ 03-06. SOLID Principles](03-06-00-SOLID.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-07-01. Syntax From Scratch](03-07-01-Iterators-And-Generators-Syntax.md)

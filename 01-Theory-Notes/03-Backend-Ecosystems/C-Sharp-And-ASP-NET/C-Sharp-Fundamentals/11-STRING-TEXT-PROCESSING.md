@@ -1,3 +1,7 @@
+[⬅️ Кратък справочник](10-METHODS-DELEGATES-LAMBDA.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](12-REGULAR-EXPRESSIONS.md)
+
+---
+
 # 📘 Глава 11: Текстообработка, String Immutability и StringBuilder
 
 **Статус:** Архитектурен справочник | **Цел:** Оптимизация на Heap паметта и бързо манипулиране на текст
@@ -72,4 +76,7 @@
 * **Решение:** Винаги подавай `StringSplitOptions.RemoveEmptyEntries` при парсване на потребителски вход.
 
 ---
-© 2026 Dev-Library / Архитектурно ядро
+
+[⬅️ Кратък справочник](10-METHODS-DELEGATES-LAMBDA.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](12-REGULAR-EXPRESSIONS.md)
+
+© 2026 Dev-Library / C Sharp Fundamentals & Architecture

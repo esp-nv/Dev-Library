@@ -1,4 +1,4 @@
-[⬅️ 02-06. SOLID Principles](02-06-00-SOLID-Principles.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-07-01. Syntax From Scratch](02-07-01-Syntax-From-Scratch.md)
+[⬅️ 02-06. SOLID Principles](02-06-00-SOLID-Principles.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-07-01. Syntax From Scratch](02-07-01-Reflection-And-Annotations-Syntax.md)
 
 ---
 
@@ -113,4 +113,4 @@ public @interface AuditLog {
 | **Модерна алтернатива на Reflection** | **MethodHandles** (`java.lang.invoke.MethodHandles.Lookup`) / AOT (GraalVM) | **Source Generators** (генерират C# код по време на компилация без Reflection) |
 
 ---
-[⬅️ 02-06. SOLID Principles](02-06-00-SOLID-Principles.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-07-01. Syntax From Scratch](02-07-01-Syntax-From-Scratch.md)
+[⬅️ 02-06. SOLID Principles](02-06-00-SOLID-Principles.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-07-01. Syntax From Scratch](02-07-01-Reflection-And-Annotations-Syntax.md)

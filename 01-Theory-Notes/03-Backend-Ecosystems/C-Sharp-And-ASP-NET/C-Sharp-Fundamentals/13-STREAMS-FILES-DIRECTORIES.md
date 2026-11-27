@@ -1,3 +1,7 @@
+[⬅️ Кратък справочник](12-REGULAR-EXPRESSIONS.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](05-SOLID.md)
+
+---
+
 # 📘 Глава 13: Потоци (Streams / I/O), Файлове и Директории в C#
 
 **Статус:** Архитектурен справочник | **Цел:** Управление на буфери в RAM, файловата система и `IDisposable` ресурси
@@ -66,4 +70,7 @@ string firstLine = reader.ReadLine();
 * **Решение:** Изрично подавай UTF-8 кодиране: `new StreamReader(path, Encoding.UTF8)`.
 
 ---
-© 2026 Dev-Library / Архитектурно ядро
+
+[⬅️ Кратък справочник](12-REGULAR-EXPRESSIONS.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](05-SOLID.md)
+
+© 2026 Dev-Library / C Sharp Fundamentals & Architecture

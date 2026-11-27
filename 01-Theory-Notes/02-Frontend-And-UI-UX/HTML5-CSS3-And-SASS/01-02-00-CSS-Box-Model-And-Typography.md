@@ -1,4 +1,4 @@
-[⬅️ 01-01-01. Syntax-From-Scratch & Semantic Cheat Sheet](01-01-01-Syntax-From-Scratch.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-02-01. Syntax-From-Scratch & UI Card Snippets](01-02-01-Syntax-From-Scratch.md)
+[⬅️ 01-01-01. Syntax-From-Scratch & Semantic Cheat Sheet](01-01-01-HTML5-And-CSS3-Basics-Syntax.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-02-01. Syntax-From-Scratch & UI Card Snippets](01-02-01-CSS-Box-Model-And-Typography-Syntax.md)
 
 ---
 
@@ -85,7 +85,7 @@ $$\text{Total Width} = 300\text{px} + 20\text{px} + 20\text{px} + 5\text{px} + 5
 
 
 ---
-[⬅️ 01-01-01. Syntax-From-Scratch & Semantic Cheat Sheet](01-01-01-Syntax-From-Scratch.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-02-01. Syntax-From-Scratch & UI Card Snippets](01-02-01-Syntax-From-Scratch.md)
+[⬅️ 01-01-01. Syntax-From-Scratch & Semantic Cheat Sheet](01-01-01-HTML5-And-CSS3-Basics-Syntax.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-02-01. Syntax-From-Scratch & UI Card Snippets](01-02-01-CSS-Box-Model-And-Typography-Syntax.md)
 
 
 © 2026 Dev-Library / 01-02-00. CSS Box Model и Типография (Теория, Упражнения и Диагностика)

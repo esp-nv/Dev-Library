@@ -1,3 +1,7 @@
+[⬅️ Кратък справочник](08-UNIT-TESTING-MOCKING.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md)
+
+---
+
 # 📘 Глава 9: Разширено Мокинг Ядро и Test-Driven Development (TDD)
 
 **Статус:** Актуализиран архитектурен справочник | **Цел:** Проектиране на софтуер чрез тестове под капака
@@ -62,4 +66,7 @@
 * **Решение:** Стъпка 1 (Red) трябва да бъде малка и атомарна (напр. тествай само дали методът хвърля грешка при грешно ID). Кодът се изгражда на малки парчета.
 
 ---
-© 2026 Dev-Library / Архитектурно ядро
+
+[⬅️ Кратък справочник](08-UNIT-TESTING-MOCKING.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md)
+
+© 2026 Dev-Library / C Sharp Fundamentals & Architecture

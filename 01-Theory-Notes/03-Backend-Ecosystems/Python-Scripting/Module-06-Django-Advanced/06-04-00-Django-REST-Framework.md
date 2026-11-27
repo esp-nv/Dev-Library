@@ -1,4 +1,4 @@
-[⬅️ 06-03. Middlewares and Sessions](06-03-00-Middlewares-And-Sessions.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-04-01. Syntax From Scratch](06-04-01-Syntax-From-Scratch.md)
+[⬅️ Теория, Onion Архитектура, Cookies vs Sessions & Капани](06-03-00-Middlewares-And-Sessions.md) | [📂 Назад към Module 06 Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06 Django Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Теория, Message Brokers, Task Queues, Caching & Капани](06-05-00-Celery-And-Redis.md)
 
 ---
 
@@ -151,4 +151,7 @@ class BookViewSet(viewsets.ModelViewSet):
     2.  **`has_object_permission()`** се изпълнява **само след като конкретен обект е извлечен от базата** чрез `self.get_object()` (при `GET /books/5/`, `PUT`, `PATCH`, `DELETE`). При **`POST` (създаване)** обектът все още не съществува в базата, а при **`GET` списък** няма единичен обект — затова в тези два случая `has_object_permission` **никога не се извиква**!
 
 ---
-[⬅️ 06-03. Middlewares and Sessions](06-03-00-Middlewares-And-Sessions.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-04-01. Syntax From Scratch](06-04-01-Syntax-From-Scratch.md)
+
+[⬅️ Теория, Onion Архитектура, Cookies vs Sessions & Капани](06-03-00-Middlewares-And-Sessions.md) | [📂 Назад към Module 06 Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06 Django Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Теория, Message Brokers, Task Queues, Caching & Капани](06-05-00-Celery-And-Redis.md)
+
+© 2026 Dev-Library / Module 06 Django Advanced & Architecture

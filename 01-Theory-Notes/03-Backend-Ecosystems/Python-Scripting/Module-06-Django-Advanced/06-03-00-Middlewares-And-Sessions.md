@@ -1,4 +1,4 @@
-[⬅️ 06-02. User Model & Signals](06-02-00-User-Model-And-Signals.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-03-01. Syntax From Scratch](06-03-01-Syntax-From-Scratch.md)
+[⬅️ Теория, `AbstractUser` vs `AbstractBaseUser`, Сигнали & Капани](06-02-00-User-Model-And-Signals.md) | [📂 Назад към Module 06 Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06 Django Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Теория, Serializers, ViewSets, JWT, Permissions & Капани](06-04-00-Django-REST-Framework.md)
 
 ---
 
@@ -131,4 +131,7 @@ def add_to_cart_safe(request):
     3.  **`SESSION_COOKIE_SAMESITE = "Lax"` (или `"Strict"`):** Забранява изпращането на бисквитката при заявки, идващи от чужди злонамерени сайтове. Предпазва от **CSRF (Cross-Site Request Forgery)** атаки.
 
 ---
-[⬅️ 06-02. User Model & Signals](06-02-00-User-Model-And-Signals.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-03-01. Syntax From Scratch](06-03-01-Syntax-From-Scratch.md)
+
+[⬅️ Теория, `AbstractUser` vs `AbstractBaseUser`, Сигнали & Капани](06-02-00-User-Model-And-Signals.md) | [📂 Назад към Module 06 Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06 Django Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Теория, Serializers, ViewSets, JWT, Permissions & Капани](06-04-00-Django-REST-Framework.md)
+
+© 2026 Dev-Library / Module 06 Django Advanced & Architecture

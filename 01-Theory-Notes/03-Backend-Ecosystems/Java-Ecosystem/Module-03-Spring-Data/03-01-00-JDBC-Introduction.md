@@ -1,4 +1,4 @@
-[⬅️ 03-00. Intro to Spring Data](03-00-Intro.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-01-01. Syntax From Scratch](03-01-01-Syntax-From-Scratch.md)
+[⬅️ 03-00. Intro to Spring Data](03-00-Intro.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-01-01. Syntax From Scratch](03-01-01-JDBC-Introduction-Syntax.md)
 
 ---
 
@@ -75,4 +75,4 @@ public class SafeJdbcQuery {
 *   **Java 21+ спрямо C# 12+:** В JDBC индексите на параметрите и колоните започват от **`1`**, докато в ADO.NET колоните започват от **`0`**. В Spring Framework 6.1+ съществува модерен Fluent API клиент **`JdbcClient`** (аналог на Dapper в .NET).
 
 ---
-[⬅️ 03-00. Intro to Spring Data](03-00-Intro.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-01-01. Syntax From Scratch](03-01-01-Syntax-From-Scratch.md)
+[⬅️ 03-00. Intro to Spring Data](03-00-Intro.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-01-01. Syntax From Scratch](03-01-01-JDBC-Introduction-Syntax.md)

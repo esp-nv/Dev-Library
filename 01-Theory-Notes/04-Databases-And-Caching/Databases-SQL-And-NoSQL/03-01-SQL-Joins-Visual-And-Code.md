@@ -1,3 +1,7 @@
+[⬅️ Карта на Модул 03](03-00-SQL-QUERIES-OVERVIEW.md) | [📂 Назад към Databases SQL And NoSQL Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: 04. Databases & Caching](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases SQL And NoSQL](README.md) | [🌐 Следващ домейн: 05. QA & Test Automation](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ Subqueries & WITH](03-02-SQL-Subqueries-And-CTEs.md)
+
+---
+
 📂 [03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и Функции](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [03-02. Subqueries и CTE](03-02-SQL-Subqueries-And-CTEs.md)
 
 ---
@@ -140,4 +144,8 @@ ORDER BY s.FullName ASC;
 ---
 📂 [03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и Функции](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [03-02. Subqueries и CTE](03-02-SQL-Subqueries-And-CTEs.md)
 
-© 2026 Dev-Library / Бази данни: SQL Joins
+---
+
+[⬅️ Карта на Модул 03](03-00-SQL-QUERIES-OVERVIEW.md) | [📂 Назад към Databases SQL And NoSQL Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: 04. Databases & Caching](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases SQL And NoSQL](README.md) | [🌐 Следващ домейн: 05. QA & Test Automation](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ Subqueries & WITH](03-02-SQL-Subqueries-And-CTEs.md)
+
+© 2026 Dev-Library / Databases SQL And NoSQL & Architecture

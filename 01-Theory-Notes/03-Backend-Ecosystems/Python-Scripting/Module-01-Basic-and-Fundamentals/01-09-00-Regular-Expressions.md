@@ -1,4 +1,4 @@
-[⬅️ 01-08. Text Processing](01-08-00-Text-Processing.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-09-01. Syntax From Scratch](01-09-01-Syntax-From-Scratch.md)
+[⬅️ 01-08. Text Processing](01-08-00-Text-Processing.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-09-01. Syntax From Scratch](01-09-01-Regular-Expressions-Syntax.md)
 
 ---
 
@@ -120,4 +120,4 @@ else:
     *   **Правилен фикс:** Добавя се въпросителен знак `?` веднага след квантификатора (`r"<.*?>"`). Това го превръща в **Мързелив (Lazy)**, принуждавайки го да спре веднага при първото срещнато затварящо `>`, връщайки точно `['<div>', '</div>']`.
 
 ---
-[⬅️ 01-08. Text Processing](01-08-00-Text-Processing.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-09-01. Syntax From Scratch](01-09-01-Syntax-From-Scratch.md)
+[⬅️ 01-08. Text Processing](01-08-00-Text-Processing.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-09-01. Syntax From Scratch](01-09-01-Regular-Expressions-Syntax.md)

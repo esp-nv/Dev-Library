@@ -1,4 +1,4 @@
-[⬅️ 04-00. Intro to Spring Boot & Web Architecture](04-00-Intro.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-01-01. Syntax From Scratch](04-01-01-Syntax-From-Scratch.md)
+[⬅️ 04-00. Intro to Spring Boot & Web Architecture](04-00-Intro.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-01-01. Syntax From Scratch](04-01-01-Internet-And-HTTP-Syntax.md)
 
 ---
 
@@ -150,4 +150,4 @@ public class ProductApiController {
 | **Повторна употреба на клиента** | Създава се веднъж (Singleton Bean) и се преизползва (има собствен Connection Pool) | Създава се чрез ``IHttpClientFactory`` (за да се избегне Socket Exhaustion) |
 
 ---
-[⬅️ 04-00. Intro to Spring Boot & Web Architecture](04-00-Intro.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-01-01. Syntax From Scratch](04-01-01-Syntax-From-Scratch.md)
+[⬅️ 04-00. Intro to Spring Boot & Web Architecture](04-00-Intro.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-01-01. Syntax From Scratch](04-01-01-Internet-And-HTTP-Syntax.md)

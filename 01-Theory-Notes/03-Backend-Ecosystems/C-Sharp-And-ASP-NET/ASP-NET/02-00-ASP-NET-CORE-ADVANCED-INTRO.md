@@ -1,3 +1,7 @@
+[⬅️ 01-02. Жизнен цикъл и Middleware компоненти в ASP.NET Core](01-02-ASP-NET-Core-Lifecycle-And-Middleware.md) | [📂 Назад към ASP NET Хъба](README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP NET](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md)
+
+---
+
 [⏪ Глава 01-08. Глобален Пищов (Cheat-Sheet)](../ASP-NET-Core-Fundamentals/01-08-ASP-NET-Core-Fundamentals-CheatSheet.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-01. Custom Middleware и Филтри](02-01-Application-Flow-And-Custom-Middleware.md)
 
 ---
@@ -66,4 +70,8 @@
 ---
 [⏪ Глава 01-08. Глобален Пищов (Cheat-Sheet)](../ASP-NET-Core-Fundamentals/01-08-ASP-NET-Core-Fundamentals-CheatSheet.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-01. Custom Middleware и Филтри](02-01-Application-Flow-And-Custom-Middleware.md)
 
-© 2026 Dev-Library / ASP.NET Core Advanced Overview
+---
+
+[⬅️ 01-02. Жизнен цикъл и Middleware компоненти в ASP.NET Core](01-02-ASP-NET-Core-Lifecycle-And-Middleware.md) | [📂 Назад към ASP NET Хъба](README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP NET](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md)
+
+© 2026 Dev-Library / ASP NET & Architecture

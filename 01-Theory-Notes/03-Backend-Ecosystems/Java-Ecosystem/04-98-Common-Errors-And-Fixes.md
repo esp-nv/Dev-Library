@@ -1,4 +1,4 @@
-[⬅️ 04-97. Java & Spring Category Cheat Sheet](04-97-Category-Cheat-Sheet.md) | 📂 Папка: 04-Java-Ecosystem | [🏠 Начало](../README.md) | [➡️ 04-99. Interview QA, Traps & Debugging](04-99-Interview-QA-Traps-And-Debugging.md)
+[📂 Назад към Java Ecosystem Хъба](README.md) | [📦 Предишен модул: C-Sharp-And-ASP-NET](../C-Sharp-And-ASP-NET/README.md) | [🌐 Домейн: 03. Backend Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Java Ecosystem](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Python-Scripting](../Python-Scripting/README.md)
 
 ---
 
@@ -124,4 +124,7 @@ public void chargeCard(String orderId) {
 | **`OutOfMemoryError` / `StackOverflowError`** | **При изпълнение** (`Runtime` — критичен JVM срив) | Изчерпване на JVM Heap паметта (утечка / огромни заявки) или безкрайна рекурсия. | Ползвайте `Pageable` странициране, `-XX:MaxRAMPercentage=75.0` и базово дъно в рекурсията. |
 
 ---
-[⬅️ 04-97. Java & Spring Category Cheat Sheet](04-97-Category-Cheat-Sheet.md) | 📂 Папка: 04-Java-Ecosystem | [🏠 Начало](../README.md) | [➡️ 04-99. Interview QA, Traps & Debugging](04-99-Interview-QA-Traps-And-Debugging.md)
+
+[📂 Назад към Java Ecosystem Хъба](README.md) | [📦 Предишен модул: C-Sharp-And-ASP-NET](../C-Sharp-And-ASP-NET/README.md) | [🌐 Домейн: 03. Backend Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Java Ecosystem](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Python-Scripting](../Python-Scripting/README.md)
+
+© 2026 Dev-Library / Java Ecosystem & Architecture

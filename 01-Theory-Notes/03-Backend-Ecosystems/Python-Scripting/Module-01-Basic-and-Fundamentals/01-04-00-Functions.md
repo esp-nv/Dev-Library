@@ -1,4 +1,4 @@
-[⬅️ 01-03. List Basics](01-03-00-List-Basics.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-04-01. Syntax From Scratch](01-04-01-Syntax-From-Scratch.md)
+[⬅️ 01-03. List Basics](01-03-00-List-Basics.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-04-01. Syntax From Scratch](01-04-01-Functions-Syntax.md)
 
 ---
 
@@ -133,4 +133,4 @@ print(f"Промо цена:      {price_promo} лв.")
         ```
 
 ---
-[⬅️ 01-03. List Basics](01-03-00-List-Basics.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-04-01. Syntax From Scratch](01-04-01-Syntax-From-Scratch.md)
+[⬅️ 01-03. List Basics](01-03-00-List-Basics.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-04-01. Syntax From Scratch](01-04-01-Functions-Syntax.md)

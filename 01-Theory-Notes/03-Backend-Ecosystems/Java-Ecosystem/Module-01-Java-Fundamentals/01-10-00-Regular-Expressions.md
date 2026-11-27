@@ -1,4 +1,4 @@
-[⬅️ 01-09. Text Processing](01-09-00-Text-Processing.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-10-01. Syntax From Scratch](01-10-01-Syntax-From-Scratch.md)
+[⬅️ 01-09. Text Processing](01-09-00-Text-Processing.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-10-01. Syntax From Scratch](01-10-01-Regular-Expressions-Syntax.md)
 
 ---
 
@@ -120,4 +120,4 @@ public class CleanRegexDemo {
     *   *Решение:* Избягвай вложени квантификатори `(x+)+` или използвай **Possessive Quantifiers** (`a++`), които забраняват на двигателя да се връща назад при неуспех.
 
 ---
-[⬅️ 01-09. Text Processing](01-09-00-Text-Processing.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-10-01. Syntax From Scratch](01-10-01-Syntax-From-Scratch.md)
+[⬅️ 01-09. Text Processing](01-09-00-Text-Processing.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-10-01. Syntax From Scratch](01-10-01-Regular-Expressions-Syntax.md)

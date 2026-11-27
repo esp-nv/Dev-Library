@@ -1,4 +1,4 @@
-[⬅️ 02-03. Inheritance](02-03-00-Inheritance.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-04-01. Syntax From Scratch](02-04-01-Syntax-From-Scratch.md)
+[⬅️ 02-03. Inheritance](02-03-00-Inheritance.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-04-01. Syntax From Scratch](02-04-01-Interfaces-And-Abstract-Classes-Syntax.md)
 
 ---
 
@@ -133,4 +133,4 @@ interface DiscountPolicy {
 | **Функционални интерфейси / Ламбди** | `@FunctionalInterface` (1 абстрактен метод = Lambda) | Вградени делегати (`Func<T, R>`, `Action<T>`, `Predicate<T>`) |
 
 ---
-[⬅️ 02-03. Inheritance](02-03-00-Inheritance.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-04-01. Syntax From Scratch](02-04-01-Syntax-From-Scratch.md)
+[⬅️ 02-03. Inheritance](02-03-00-Inheritance.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-04-01. Syntax From Scratch](02-04-01-Interfaces-And-Abstract-Classes-Syntax.md)

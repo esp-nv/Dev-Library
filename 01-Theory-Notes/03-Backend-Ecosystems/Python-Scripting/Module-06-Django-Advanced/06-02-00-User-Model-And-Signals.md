@@ -1,4 +1,4 @@
-[⬅️ 06-01. Authentication & Authorization](06-01-00-Auth-And-Authorization.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-02-01. Syntax From Scratch](06-02-01-Syntax-From-Scratch.md)
+[📂 Назад към Module 06 Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06 Django Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Теория, Onion Архитектура, Cookies vs Sessions & Капани](06-03-00-Middlewares-And-Sessions.md)
 
 ---
 
@@ -137,4 +137,7 @@ class AccountsConfig(AppConfig):
     *   *Решение:* Ако ти трябва гарантирана реакция на ниво база данни при всяка промяна, използвай SQL тригери или сервизен слой (Service Layer), през който минават всички записи.
 
 ---
-[⬅️ 06-01. Authentication & Authorization](06-01-00-Auth-And-Authorization.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-02-01. Syntax From Scratch](06-02-01-Syntax-From-Scratch.md)
+
+[📂 Назад към Module 06 Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06 Django Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Теория, Onion Архитектура, Cookies vs Sessions & Капани](06-03-00-Middlewares-And-Sessions.md)
+
+© 2026 Dev-Library / Module 06 Django Advanced & Architecture

@@ -1,4 +1,4 @@
-[⬅️ 02-02. Encapsulation](02-02-00-Encapsulation.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-03-01. Syntax From Scratch](02-03-01-Syntax-From-Scratch.md)
+[⬅️ 02-02. Encapsulation](02-02-00-Encapsulation.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-03-01. Syntax From Scratch](02-03-01-Inheritance-Syntax.md)
 
 ---
 
@@ -153,4 +153,4 @@ class Student extends Person {
 | **Diamond Problem решение** | Само 1 родителски клас; конфликт в `default` методи на интерфейси се решава с `InterfaceName.super.method()` | Само 1 родителски клас; интерфейсите с default методи се достъпват чрез каст `((IMyInterface)this).Method()` |
 
 ---
-[⬅️ 02-02. Encapsulation](02-02-00-Encapsulation.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-03-01. Syntax From Scratch](02-03-01-Syntax-From-Scratch.md)
+[⬅️ 02-02. Encapsulation](02-02-00-Encapsulation.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-03-01. Syntax From Scratch](02-03-01-Inheritance-Syntax.md)

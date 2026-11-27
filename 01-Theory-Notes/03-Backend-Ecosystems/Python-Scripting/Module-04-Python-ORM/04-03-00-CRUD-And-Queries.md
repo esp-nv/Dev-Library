@@ -1,4 +1,4 @@
-[⬅️ 04-02. Migrations and Schema](04-02-00-Migrations.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-03-01. Django ORM Syntax](04-03-01-Django-ORM-Syntax.md)
+[⬅️ Теория, Сравнение & Интервю Капани](04-01-00-Models-And-Fields.md) | [📂 Назад към Module 04 Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04 Python ORM](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md)
 
 ---
 
@@ -124,4 +124,7 @@ User.objects.filter(id=1).update(points=F("points") + 50)
     *   Когато използваме **`F("stock") - 1`** (`Product.objects.filter(id=1).update(stock=F("stock") - 1)`), Python изобщо не зарежда числото в паметта си, а изпраща директна SQL инструкция: **`UPDATE products SET stock = stock - 1 WHERE id = 1`**. Базата данни заключва реда и изпълнява операцията атомарно, гарантирайки 100% точност.
 
 ---
-[⬅️ 04-02. Migrations and Schema](04-02-00-Migrations.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-03-01. Django ORM Syntax](04-03-01-Django-ORM-Syntax.md)
+
+[⬅️ Теория, Сравнение & Интервю Капани](04-01-00-Models-And-Fields.md) | [📂 Назад към Module 04 Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04 Python ORM](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md)
+
+© 2026 Dev-Library / Module 04 Python ORM & Architecture

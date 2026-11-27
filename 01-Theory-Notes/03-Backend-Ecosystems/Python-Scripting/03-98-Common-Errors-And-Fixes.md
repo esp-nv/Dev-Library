@@ -1,4 +1,4 @@
-[⬅️ 03-97. Python Category Cheat Sheet](03-97-Category-Cheat-Sheet.md) | 📂 Папка: 03-Python-Scripting | [🏠 Начало](../README.md) | [➡️ 03-99. Interview QA, Traps & Debugging](03-99-Interview-QA-Traps-And-Debugging.md)
+[⬅️ Теория & Капани](06-05-00-Celery-And-Redis.md) | [📂 Назад към Python Scripting Хъба](README.md) | [📦 Предишен модул: Java-Ecosystem](../Java-Ecosystem/README.md) | [🌐 Домейн: 03. Backend Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Python Scripting](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../04-Databases-And-Caching/README.md)
 
 ---
 
@@ -125,4 +125,7 @@ def process_payment(order_id: int, raw_amount: str) -> float:
 | **Custom `Exception` (`OrderProcessingError`)** | **При изпълнение** (`Runtime` — бизнес логика) | Когато кодът умишлено хвърли домейн изключение (`raise OrderProcessingError(...)`). | Хваща се в API слоя (FastAPI `@app.exception_handler` / Django Middleware) и се връща като HTTP `400`/`422`. |
 
 ---
-[⬅️ 03-97. Python Category Cheat Sheet](03-97-Category-Cheat-Sheet.md) | 📂 Папка: 03-Python-Scripting | [🏠 Начало](../README.md) | [➡️ 03-99. Interview QA, Traps & Debugging](03-99-Interview-QA-Traps-And-Debugging.md)
+
+[⬅️ Теория & Капани](06-05-00-Celery-And-Redis.md) | [📂 Назад към Python Scripting Хъба](README.md) | [📦 Предишен модул: Java-Ecosystem](../Java-Ecosystem/README.md) | [🌐 Домейн: 03. Backend Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Python Scripting](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../04-Databases-And-Caching/README.md)
+
+© 2026 Dev-Library / Python Scripting & Architecture

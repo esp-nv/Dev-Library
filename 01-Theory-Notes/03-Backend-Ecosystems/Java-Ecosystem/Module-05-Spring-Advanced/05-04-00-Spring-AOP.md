@@ -1,4 +1,4 @@
-[⬅️ 05-03. Stateless Security with JWT](05-03-00-JWT-Authentication.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-04-01. Syntax From Scratch](05-04-01-Syntax-From-Scratch.md)
+[⬅️ 05-03. Stateless Security with JWT](05-03-00-JWT-Authentication.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-04-01. Syntax From Scratch](05-04-01-Spring-AOP-Syntax.md)
 
 ---
 
@@ -141,4 +141,4 @@ public class PerformanceAspect {
 | **Ограничение за `final` / `sealed` класове** | CGLIB не може да обвие `final` клас или `final` метод | Decorators по интерфейс работят дори върху `sealed` класове |
 
 ---
-[⬅️ 05-03. Stateless Security with JWT](05-03-00-JWT-Authentication.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-04-01. Syntax From Scratch](05-04-01-Syntax-From-Scratch.md)
+[⬅️ 05-03. Stateless Security with JWT](05-03-00-JWT-Authentication.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-04-01. Syntax From Scratch](05-04-01-Spring-AOP-Syntax.md)

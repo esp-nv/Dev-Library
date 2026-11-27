@@ -1,4 +1,4 @@
-[⬅️ 06-00. Intro & Roadmap](06-00-Intro.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-01-01. Syntax From Scratch](06-01-01-Syntax-From-Scratch.md)
+[⬅️ 06-00. Intro & Roadmap](06-00-Intro.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-01-01. Syntax From Scratch](06-01-01-Auth-And-Authorization-Syntax.md)
 
 ---
 
@@ -149,4 +149,4 @@ def delete_catalog_item(request, pk: int):
     3.  **`is_superuser`:** Има **абсолютно всички права** в системата автоматично — извикването на `user.has_perm("каквото.и_да_е")` винаги връща `True` без изобщо да проверява таблиците с права в базата данни.
 
 ---
-[⬅️ 06-00. Intro & Roadmap](06-00-Intro.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-01-01. Syntax From Scratch](06-01-01-Syntax-From-Scratch.md)
+[⬅️ 06-00. Intro & Roadmap](06-00-Intro.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-01-01. Syntax From Scratch](06-01-01-Auth-And-Authorization-Syntax.md)

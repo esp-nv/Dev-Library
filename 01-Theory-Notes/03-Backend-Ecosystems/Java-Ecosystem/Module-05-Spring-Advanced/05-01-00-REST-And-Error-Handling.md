@@ -1,4 +1,4 @@
-[⬅️ 05-00. Intro to Spring Advanced](05-00-Intro.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-01-01. Syntax From Scratch](05-01-01-Syntax-From-Scratch.md)
+[📂 Назад към Module 05 Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Spring Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md)
 
 ---
 
@@ -161,4 +161,7 @@ public class GlobalApiExceptionHandler {
 | **Content Negotiation (JSON / XML)** | Автоматично по ``Accept`` header (при наличие на ``jackson-dataformat-xml``) | Чрез ``.AddXmlSerializerFormatters()`` в ``Program.cs`` |
 
 ---
-[⬅️ 05-00. Intro to Spring Advanced](05-00-Intro.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-01-01. Syntax From Scratch](05-01-01-Syntax-From-Scratch.md)
+
+[📂 Назад към Module 05 Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Spring Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md)
+
+© 2026 Dev-Library / Module 05 Spring Advanced & Architecture

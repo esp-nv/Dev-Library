@@ -1,4 +1,4 @@
- [⬅️ Назад към 01. HTML5 & CSS3 Foundations](../HTML5-CSS3-And-SASS/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Responsive-Forms-And-Frameworks](README.md) | [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Responsive-Forms-And-Frameworks](../TypeScript-Language/README.md) | [▶️ Започни от 02-00 Intro](02-00-Intro.md)
+[📦 Предишен модул: JavaScript-Language](../JavaScript-Language/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Responsive Forms And Frameworks](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md)
 
 ---
 
@@ -13,23 +13,22 @@
 * **[02-00. Intro to Responsive Design & UI Frameworks](02-00-Intro.md)** — Общ преглед на адаптивната архитектура (Mobile-First vs. Desktop-First), сравнение между Custom CSS, Tailwind и Bootstrap и пътна карта на темите.
 * **02-01. Адаптивен уеб дизайн и Media Queries**
   * 📄 [Теория, Viewport Meta Tag, Breakpoints & Капани при мащабиране](02-01-00-Responsive-Design-And-Media-Queries.md)
-  * 🛠️ [Syntax-From-Scratch & Responsive Breakpoints Cheat Sheet](02-01-01-Syntax-From-Scratch.md)
+  * 🛠️ [Syntax-From-Scratch & Responsive Breakpoints Cheat Sheet](02-01-01-Responsive-Design-And-Media-Queries-Syntax.md)
 
 * **02-02. Работа с HTML форми и клиентска валидация**
   * 📄 [Теория, HTTP методи (GET vs. POST), Input типове & Security капани](02-02-00-Working-With-Forms-And-Validation.md)
-  * 🛠️ [Syntax-From-Scratch & Validated Form Snippets + Cheat Sheet](02-02-01-Syntax-From-Scratch.md)
+  * 🛠️ [Syntax-From-Scratch & Validated Form Snippets + Cheat Sheet](02-02-01-Working-With-Forms-And-Validation-Syntax.md)
 
 * **02-03. Tailwind CSS (Utility-First Архитектура)**
   * 📄 [Теория, Атомарни класове, JIT компилатор & Specificity капани](02-03-00-Tailwind-CSS-Utility-First.md)
-  * 🛠️ [Syntax-From-Scratch & Tailwind Utility Cheat Sheet](02-03-01-Syntax-From-Scratch.md)
+  * 🛠️ [Syntax-From-Scratch & Tailwind Utility Cheat Sheet](02-03-01-Tailwind-CSS-Utility-First-Syntax.md)
   
 * **02-04. Bootstrap 5 (12-Колонна Grid система и Компоненти)**
   * 📄 [Теория, Container-Row-Col йерархия, Flexbox основа & Override капани](02-04-00-Bootstrap-5-Grid-And-Components.md)
-  * 🛠️ [Syntax-From-Scratch & Bootstrap 5 Grid Templates + Cheat Sheet](02-04-01-Syntax-From-Scratch.md)
+  * 🛠️ [Syntax-From-Scratch & Bootstrap 5 Grid Templates + Cheat Sheet](02-04-01-Bootstrap-5-Grid-And-Components-Syntax.md)
 
 ---
- [⬅️ Назад към 01. HTML5 & CSS3 Foundations](../HTML5-CSS3-And-SASS/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Responsive-Forms-And-Frameworks](README.md) | [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Responsive-Forms-And-Frameworks](../TypeScript-Language/README.md) | [▶️ Започни от 02-00 Intro](02-00-Intro.md)
 
-© 2026 Dev-Library / 02. Responsive Design, Forms & CSS Frameworks
+[📦 Предишен модул: JavaScript-Language](../JavaScript-Language/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Responsive Forms And Frameworks](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md)
 
-[⬅️ Назад към 01. HTML5 & CSS3 Foundations](../HTML5-CSS3-And-SASS/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Responsive-Forms-And-Frameworks](README.md) | [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Responsive-Forms-And-Frameworks](../TypeScript-Language/README.md)
+© 2026 Dev-Library / Responsive Forms And Frameworks & Architecture

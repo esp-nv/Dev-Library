@@ -1,4 +1,4 @@
-[⬅️ 03-00. Intro & Roadmap](03-00-Intro.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-01-01. Syntax From Scratch](03-01-01-Syntax-From-Scratch.md)
+[⬅️ 03-00. Intro & Roadmap](03-00-Intro.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-01-01. Syntax From Scratch](03-01-01-Classes-And-Objects-Syntax.md)
 
 ---
 
@@ -129,4 +129,4 @@ print(f"Взет изпит с 75 т.: {mod1.is_passed(75)}")
     *   *Ограничение:* След като сложиш `__slots__`, вече **не можеш** динамично да добавяш нови произволни атрибути към обекта по време на изпълнение (`obj.new_field = 5` хвърля `AttributeError`).
 
 ---
-[⬅️ 03-00. Intro & Roadmap](03-00-Intro.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-01-01. Syntax From Scratch](03-01-01-Syntax-From-Scratch.md)
+[⬅️ 03-00. Intro & Roadmap](03-00-Intro.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-01-01. Syntax From Scratch](03-01-01-Classes-And-Objects-Syntax.md)

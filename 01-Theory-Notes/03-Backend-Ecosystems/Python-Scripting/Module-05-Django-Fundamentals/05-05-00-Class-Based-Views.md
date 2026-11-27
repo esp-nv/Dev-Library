@@ -1,4 +1,4 @@
-[⬅️ 05-04. Forms and ModelForms](05-04-00-Forms-And-ModelForms.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-05-01. Syntax From Scratch](05-05-01-Syntax-From-Scratch.md)
+[⬅️ Теория, CSRF защита, Валидация & Капани](05-04-00-Forms-And-ModelForms.md) | [📂 Назад към Module 05 Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Django Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ Теория, `ModelAdmin`, Филтри, Търсене & Капани](05-06-00-Django-Admin.md)
 
 ---
 
@@ -130,4 +130,7 @@ class BookCreateView(LoginRequiredMixin, CreateView):
     2.  **`reverse_lazy("books:list")`** връща мързелив обект-обещание (Lazy Proxy), който **не търси URL адреса веднага**, а изчаква чак до момента, в който потребителят реално изпрати форма и потрябва пренасочване. Затова `reverse()` се ползва вътре във функции и методи (`def post(...)`), а `reverse_lazy()` — в атрибути на класове (`success_url = ...`).
 
 ---
-[⬅️ 05-04. Forms and ModelForms](05-04-00-Forms-And-ModelForms.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-05-01. Syntax From Scratch](05-05-01-Syntax-From-Scratch.md)
+
+[⬅️ Теория, CSRF защита, Валидация & Капани](05-04-00-Forms-And-ModelForms.md) | [📂 Назад към Module 05 Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Django Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ Теория, `ModelAdmin`, Филтри, Търсене & Капани](05-06-00-Django-Admin.md)
+
+© 2026 Dev-Library / Module 05 Django Fundamentals & Architecture

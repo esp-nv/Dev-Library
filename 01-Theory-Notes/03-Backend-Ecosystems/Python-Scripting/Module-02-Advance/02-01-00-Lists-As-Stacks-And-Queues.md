@@ -1,4 +1,4 @@
-[⬅️ 02-00. Intro & Roadmap](02-00-Intro.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-01-01. Syntax From Scratch](02-01-01-Syntax-From-Scratch.md)
+[⬅️ 02-00. Intro & Roadmap](02-00-Intro.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-01-01. Syntax From Scratch](02-01-01-Lists-As-Stacks-And-Queues-Syntax.md)
 
 ---
 
@@ -124,4 +124,4 @@ print(f"Изразът '{expression}' е валиден: {is_balanced and len(br
 *   **Точен Senior отговор:** Под капака `collections.deque` е имплементиран като **двойносвързан списък от блокове с фиксиран размер** (всеки блок в C-ядрото пази по 64 указателя). Това позволява мигновено добавяне и триене от началото и края за **O(1)** без преалокация на целия масив. При опит за изтриване или вмъкване по средата обаче, програмата трябва да обходи блоковете линейно и да преподреди указателите в тях, което има сложност **O(n)**. Ако ти трябва често триене по средата, `deque` не е правилната структура.
 
 ---
-[⬅️ 02-00. Intro & Roadmap](02-00-Intro.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-01-01. Syntax From Scratch](02-01-01-Syntax-From-Scratch.md)
+[⬅️ 02-00. Intro & Roadmap](02-00-Intro.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-01-01. Syntax From Scratch](02-01-01-Lists-As-Stacks-And-Queues-Syntax.md)

@@ -1,3 +1,7 @@
+[📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](01-01-TYPES-CONDITIONALS-LOOPS.md)
+
+---
+
 # 📘 Глава 1: C# Fundamentals — Архитектурен Справочник (Част 1)
 
 **Статус:** Актуализиран фундаментален пищов | **Цел:** Дълбоко разбиране под капака
@@ -125,5 +129,7 @@
   * Когато операцията приключи (напр. базата данни върне записите), държавният автомат възстановява контекста на изпълнение и продължава от следващия ред.
 
 ---
-© 2026 Dev-Library / Архитектурно ядро
 
+[📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](01-01-TYPES-CONDITIONALS-LOOPS.md)
+
+© 2026 Dev-Library / C Sharp Fundamentals & Architecture

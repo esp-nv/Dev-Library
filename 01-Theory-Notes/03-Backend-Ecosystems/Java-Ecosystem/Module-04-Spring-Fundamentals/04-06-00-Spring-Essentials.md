@@ -1,4 +1,4 @@
-[⬅️ 04-05. State Management (Cookies & HttpSession)](04-05-00-State-Management.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-06-01. Syntax From Scratch](04-06-01-Syntax-From-Scratch.md)
+[⬅️ 04-05. State Management (Cookies & HttpSession)](04-05-00-State-Management.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-06-01. Syntax From Scratch](04-06-01-Spring-Essentials-Syntax.md)
 
 ---
 
@@ -141,4 +141,4 @@ public class OrderNotificationListener {
 | **Разпределено заключване на Cron задачи** | Библиотека ShedLock (``@SchedulerLock``) | **Hangfire** или Distributed Lock в Redis / PostgreSQL |
 
 ---
-[⬅️ 04-05. State Management (Cookies & HttpSession)](04-05-00-State-Management.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-06-01. Syntax From Scratch](04-06-01-Syntax-From-Scratch.md)
+[⬅️ 04-05. State Management (Cookies & HttpSession)](04-05-00-State-Management.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-06-01. Syntax From Scratch](04-06-01-Spring-Essentials-Syntax.md)

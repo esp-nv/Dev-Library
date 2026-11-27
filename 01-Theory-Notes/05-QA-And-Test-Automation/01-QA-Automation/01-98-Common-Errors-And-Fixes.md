@@ -1,4 +1,4 @@
-[⬅️ 01-97. QA Category Cheat Sheet](01-97-Category-Cheat-Sheet.md) | 📂 Папка: 01-QA-Automation | [🏠 Начало](../README.md) | [➡️ 01-99. QA Interview Q&A, Traps & Debugging](01-99-Interview-QA-Traps-And-Debugging.md)
+[⬅️ `-00` Теория & Капани](01-04-00-Selenium-WebDriver-And-POM.md) | [📂 Назад към 01 QA Automation Хъба](README.md) | [🌐 Домейн: 05. QA & Test Automation](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01 QA Automation](README.md) | [🌐 Следващ домейн: 06. Cloud, DevOps & Architecture](../../06-Cloud-DevOps-And-Architecture/README.md)
 
 ---
 
@@ -75,4 +75,7 @@ wait.Until(d => d.FindElement(By.CssSelector("tr.order-row"))).Click();
 | **`AssertionError` (`Expected 200 but was 500`)** | **При проверка** (`Runtime — Assert Phase`) | Тестът е изпълнил стъпките успешно, но реалният резултат от системата не съвпада с очаквания. | **Открит реален дефект (или остарял тест)** — прикачете Trace/Screenshot и докладвайте Bug в Jira! |
 
 ---
-[⬅️ 01-97. QA Category Cheat Sheet](01-97-Category-Cheat-Sheet.md) | 📂 Папка: 01-QA-Automation | [🏠 Начало](../README.md) | [➡️ 01-99. QA Interview Q&A, Traps & Debugging](01-99-Interview-QA-Traps-And-Debugging.md)
+
+[⬅️ `-00` Теория & Капани](01-04-00-Selenium-WebDriver-And-POM.md) | [📂 Назад към 01 QA Automation Хъба](README.md) | [🌐 Домейн: 05. QA & Test Automation](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01 QA Automation](README.md) | [🌐 Следващ домейн: 06. Cloud, DevOps & Architecture](../../06-Cloud-DevOps-And-Architecture/README.md)
+
+© 2026 Dev-Library / 01 QA Automation & Architecture

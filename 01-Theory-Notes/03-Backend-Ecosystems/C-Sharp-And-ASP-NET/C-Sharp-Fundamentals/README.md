@@ -1,3 +1,7 @@
+[📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от Кратък справочник](01-C-SHARP-FUND-SHORT.md)
+
+---
+
 # 📚 C# Basic, Fundamentals, Advanced & OOP – Архитектурна Библиотека
 
 Пълна справочна база по C# и .NET, структурирана в **двоен стандарт**:
@@ -87,4 +91,7 @@
   * *Обхваща:* Сравнение на атрибутите между трите рамки и стратегия за 100% Code Coverage в Judge.
 
 ---
-© 2026 Dev-Library / Пълна архитектурна библиотека по C#
+
+[📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от Кратък справочник](01-C-SHARP-FUND-SHORT.md)
+
+© 2026 Dev-Library / C Sharp Fundamentals & Architecture

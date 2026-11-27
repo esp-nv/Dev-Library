@@ -1,4 +1,4 @@
-[⬅️ Назад към 01. Core Tools](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md)| [📂 Следващ модул: Git & GitHub](../Git-And-GitHub/README.md) | [▶️ Започни от 00-00 Intro](00-00-Intro.md)
+[📦 Предишен модул: Algorithms-And-Data-Structures](../Algorithms-And-Data-Structures/README.md) | [🌐 Домейн: 01. Core Tools & Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course Intro And Setup](README.md) | [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Git-And-GitHub](../Git-And-GitHub/README.md)
 
 ---
 
@@ -12,15 +12,14 @@
 
 * **00-01. Уеб Екосистема (Client vs. Server) & Сравнителен одит на 10-те IDE среди**
   * 📄 [Теория, Архитектурен триъгълник, Матрица на 10-те IDE среди & Капани](00-01-00-Web-Ecosystem-And-IDEs.md)
-  * 🛠️ [Syntax-From-Scratch & VS Code Сеньор конфигурация (Extensions, Short-keys & JSON Snippets)](00-01-01-Syntax-And-Config-From-Scratch.md)
+  * 🛠️ [Syntax-From-Scratch & VS Code Сеньор конфигурация (Extensions, Short-keys & JSON Snippets)](00-01-01-Syntax-And-Config.md)
   
 * **00-02. Браузърна диагностика, Live Server & Мрежова интеграция**
   * 📄 [Теория, WebSocket поток, Side-by-Side Layout & Cache Капани](00-02-00-Browser-Diagnostics-And-Network.md)
-  * 🛠️ [Syntax-From-Scratch & DevTools Audit Cheat Sheet](00-02-01-DevTools-Audit-From-Scratch.md)
+  * 🛠️ [Syntax-From-Scratch & DevTools Audit Cheat Sheet](00-02-01-DevTools-Audit.md)
 
 ---
-[⬅️ Назад към 01. Core Tools](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md)| [📂 Следващ модул: Git & GitHub](../Git-And-GitHub/README.md) | [▶️ Започни от 00-00 Intro](00-00-Intro.md)
 
----
-© 2026 Dev-Library / Module 00: Course Intro & Development Environment Setup
+[📦 Предишен модул: Algorithms-And-Data-Structures](../Algorithms-And-Data-Structures/README.md) | [🌐 Домейн: 01. Core Tools & Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course Intro And Setup](README.md) | [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Git-And-GitHub](../Git-And-GitHub/README.md)
 
+© 2026 Dev-Library / Course Intro And Setup & Architecture

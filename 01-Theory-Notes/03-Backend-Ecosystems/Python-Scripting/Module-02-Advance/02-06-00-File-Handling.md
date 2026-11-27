@@ -1,4 +1,4 @@
-[⬅️ 02-05. Error Handling](02-05-00-Error-Handling.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-06-01. Syntax From Scratch](02-06-01-Syntax-From-Scratch.md)
+[⬅️ Теория, Йерархия на грешките & Капани](02-05-00-Error-Handling.md) | [📂 Назад към Module 02 Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02 Advance](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md)
 
 ---
 
@@ -121,4 +121,7 @@ with open(log_path, "r", encoding="utf-8") as file:
     *   **Правилен фикс:** За да върнеш курсора обратно в началото на файла без да го затваряш и отваряш наново, се извиква методът **`f.seek(0)`**.
 
 ---
-[⬅️ 02-05. Error Handling](02-05-00-Error-Handling.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-06-01. Syntax From Scratch](02-06-01-Syntax-From-Scratch.md)
+
+[⬅️ Теория, Йерархия на грешките & Капани](02-05-00-Error-Handling.md) | [📂 Назад към Module 02 Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02 Advance](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md)
+
+© 2026 Dev-Library / Module 02 Advance & Architecture

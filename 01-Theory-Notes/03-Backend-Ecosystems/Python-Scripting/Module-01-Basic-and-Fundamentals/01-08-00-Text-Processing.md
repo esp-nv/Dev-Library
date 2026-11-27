@@ -1,4 +1,4 @@
-[⬅️ 01-07. Bitwise Operations](01-07-00-Bitwise-Operations.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-08-01. Syntax From Scratch](01-08-01-Syntax-From-Scratch.md)
+[⬅️ 01-07. Bitwise Operations](01-07-00-Bitwise-Operations.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-08-01. Syntax From Scratch](01-08-01-Text-Processing-Syntax.md)
 
 ---
 
@@ -111,4 +111,4 @@ print(f"Изчистен имейл: '{clean_email}'")
 *   **Точен Senior отговор:** С цел икономия на RAM памет, Python автоматично кешира (Interns) кратки стрингове, които приличат на имена на променливи (съдържат само букви, цифри и долна черта, напр. `"user_admin"`). Тогава двете променливи сочат към един и същ адрес в паметта и `is` връща `True`. Но ако текстът съдържа интервали, специални символи (напр. `"hello world!"`) или е прочетен динамично от конзолата, Python създава два отделни обекта в паметта и `is` връща **`False`**. **Златен закон:** Стринговете се сравняват **единствено с `==`**, никога с `is`!
 
 ---
-[⬅️ 01-07. Bitwise Operations](01-07-00-Bitwise-Operations.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-08-01. Syntax From Scratch](01-08-01-Syntax-From-Scratch.md)
+[⬅️ 01-07. Bitwise Operations](01-07-00-Bitwise-Operations.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-08-01. Syntax From Scratch](01-08-01-Text-Processing-Syntax.md)

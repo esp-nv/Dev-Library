@@ -1,4 +1,4 @@
-[⬅️ 01-02. Data Types](01-02-00-Data-Types-And-Variables.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-03-01. Syntax From Scratch](01-03-01-Syntax-From-Scratch.md)
+[⬅️ 01-02. Data Types](01-02-00-Data-Types-And-Variables.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-03-01. Syntax From Scratch](01-03-01-List-Basics-Syntax.md)
 
 ---
 
@@ -120,4 +120,4 @@ print(f"Филтрирани високи портове: {backup_ports}")
     2.  **`sorted(my_list)`:** Не докосва оригиналния списък, а създава и **връща изцяло нов сортиран списък** (работи и върху всякакви други колекции, не само списъци).
 
 ---
-[⬅️ 01-02. Data Types](01-02-00-Data-Types-And-Variables.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-03-01. Syntax From Scratch](01-03-01-Syntax-From-Scratch.md)
+[⬅️ 01-02. Data Types](01-02-00-Data-Types-And-Variables.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-03-01. Syntax From Scratch](01-03-01-List-Basics-Syntax.md)

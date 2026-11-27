@@ -1,3 +1,7 @@
+[⬅️ Кратък справочник](01-01-TYPES-CONDITIONALS-LOOPS.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](10-METHODS-DELEGATES-LAMBDA.md)
+
+---
+
 # 📘 Глава 4: Анатомия на Колекциите и Управление на Паметта
 
 **Статус:** Актуализиран архитектурен справочник | **Цел:** Дълбоко разбиране под капака
@@ -77,5 +81,7 @@
 * **IList\<T>** — *"Притежавам всички горни функции + бърз достъп по индекс (`[index]`)"*. Ползвай го, когато вътрешната подредба е критична за бизнес логиката.
 
 ---
-© 2026 Dev-Library / Архитектурно ядро
 
+[⬅️ Кратък справочник](01-01-TYPES-CONDITIONALS-LOOPS.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](10-METHODS-DELEGATES-LAMBDA.md)
+
+© 2026 Dev-Library / C Sharp Fundamentals & Architecture

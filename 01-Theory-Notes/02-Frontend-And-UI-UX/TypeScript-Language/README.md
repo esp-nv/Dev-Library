@@ -1,4 +1,4 @@
-[⬅️ Назад към 02. Natural Extensions & QA Automation](../README.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md) | [▶️ Започни от 02-00 Intro](02-00-Intro-To-TypeScript-And-Compiler.md)
+[📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [▶️ Започни от 02-98. Common Errors, Edge Cases & Fixes (Каталог на грешките)](02-98-Common-Errors-And-Fixes.md)
 
 ---
 
@@ -13,15 +13,15 @@
 ### 📦 01. TypeScript Core & Type System
 * **[02-00. Intro to TypeScript, Compiler (tsc) & Architecture](02-00-Intro-To-TypeScript-And-Compiler.md)**
 * **[02-00-TypeScript-vs-JavaScript](02-00-TypeScript-vs-JavaScript.md)**
-* **02-01. Basic Types, Interfaces & Type Aliases (`unknown` vs `any`)** ([`-00` Теория & Капани](02-01-00-Basic-Types-And-Interfaces.md) | [`-01` Syntax & Cheat Sheet](02-01-01-Syntax-From-Scratch.md))
-* **02-02. Advanced Types (Unions, Intersections, Type Guards & Utility Types)** ([`-00` Теория & Капани](02-02-00-Advanced-Types-And-Guards.md) | [`-01` Syntax & Utility Cheat Sheet](02-02-01-Syntax-From-Scratch.md))
+* **02-01. Basic Types, Interfaces & Type Aliases (`unknown` vs `any`)** ([`-00` Теория & Капани](02-01-00-Basic-Types-And-Interfaces.md) | [`-01` Syntax & Cheat Sheet](02-01-01-Basic-Types-And-Interfaces-Syntax.md))
+* **02-02. Advanced Types (Unions, Intersections, Type Guards & Utility Types)** ([`-00` Теория & Капани](02-02-00-Advanced-Types-And-Guards.md) | [`-01` Syntax & Utility Cheat Sheet](02-02-01-Advanced-Types-And-Guards-Syntax.md))
 
 ### 📦 02. Object-Oriented TypeScript & Generics
-* **02-03. OOP in TypeScript (Classes, Access Modifiers, Abstract & Structural Typing)** ([`-00` Теория & Капани](02-03-00-OOP-In-TypeScript.md) | [`-01` Syntax & OOP Cheat Sheet](02-03-01-Syntax-From-Scratch.md))
-* **02-04. Mastering Generics, Constraints (`<T extends ...>`) & Mapped Types** ([`-00` Теория & Капани](02-04-00-Mastering-Generics.md) | [`-01` Syntax & Generics Cheat Sheet](02-04-01-Syntax-From-Scratch.md))
+* **02-03. OOP in TypeScript (Classes, Access Modifiers, Abstract & Structural Typing)** ([`-00` Теория & Капани](02-03-00-OOP-In-TypeScript.md) | [`-01` Syntax & OOP Cheat Sheet](02-03-01-OOP-In-TypeScript-Syntax.md))
+* **02-04. Mastering Generics, Constraints (`<T extends ...>`) & Mapped Types** ([`-00` Теория & Капани](02-04-00-Mastering-Generics.md) | [`-01` Syntax & Generics Cheat Sheet](02-04-01-Mastering-Generics-Syntax.md))
 
 ### 📦 03. Decorators, Modules & Async TypeScript
-* **02-05. Decorators, ES Modules, Async/Await & Typed Error Handling** ([`-00` Теория & Капани](02-05-00-Decorators-Modules-And-Async.md) | [`-01` Syntax & Async Cheat Sheet](02-05-01-Syntax-From-Scratch.md))
+* **02-05. Decorators, ES Modules, Async/Await & Typed Error Handling** ([`-00` Теория & Капани](02-05-00-Decorators-Modules-And-Async.md) | [`-01` Syntax & Async Cheat Sheet](02-05-01-Decorators-Modules-And-Async-Syntax.md))
 
 ---
 
@@ -34,7 +34,6 @@
 
 ---
 
-[⬅️ Назад към 02. Natural Extensions & QA Automation](../README.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md) | [▶️ Започни от 02-00 Intro](02-00-Intro-To-TypeScript-And-Compiler.md)
+[📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [▶️ Започни от 02-98. Common Errors, Edge Cases & Fixes (Каталог на грешките)](02-98-Common-Errors-And-Fixes.md)
 
 © 2026 Dev-Library / TypeScript Language & Architecture
-
