@@ -83,4 +83,4 @@ builder.Services.AddAntiforgery(options =>
 ---
 [⬅️ 02-06. Razor Рендериране и Пренос](02-06-Razor-Pages-Vs-MVC-Architectural-Contrast.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-08. Мрежов достъп през CORS](02-08-Cross-Origin-Resource-Sharing-CORS-Infrastructure.md)
 
-© 2026 Dev-Library / Глобална Сигурност и OWASP Защити
+© 2026 Dev-Library / 02-07. Глобална уеб сигурност: Защита от XSS, SQL Injection и CSRF

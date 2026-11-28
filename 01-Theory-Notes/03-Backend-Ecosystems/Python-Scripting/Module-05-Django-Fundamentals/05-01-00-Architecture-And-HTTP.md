@@ -1,4 +1,4 @@
-[⬅️ 05-00. Intro & Roadmap](05-00-Intro.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-01-01. Syntax From Scratch](05-01-01-Architecture-And-HTTP-Syntax.md)
+[⬅️ 05-00. Intro & Roadmap](05-00-Intro.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-01-01. Syntax From Scratch](05-01-01-Syntax-Architecture-And-HTTP.md)
 
 ---
 
@@ -141,4 +141,4 @@ class UserProfile(models.Model):
     2.  **`403 Forbidden` (Забранен достъп / Знам кой си, но нямаш права!):** Ти си успешно логнат като обикновен потребител (`User`), но се опитваш да отвориш страница само за администратори (`/admin/delete-all/`). Повторното логване няма да помогне, защото нямаш нужната роля.
 
 ---
-[⬅️ 05-00. Intro & Roadmap](05-00-Intro.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-01-01. Syntax From Scratch](05-01-01-Architecture-And-HTTP-Syntax.md)
+[⬅️ 05-00. Intro & Roadmap](05-00-Intro.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-01-01. Syntax From Scratch](05-01-01-Syntax-Architecture-And-HTTP.md)

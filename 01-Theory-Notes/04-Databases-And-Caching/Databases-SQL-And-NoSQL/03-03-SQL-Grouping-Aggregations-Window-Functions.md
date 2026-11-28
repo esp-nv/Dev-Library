@@ -158,4 +158,4 @@ WHERE PriceRank <= 2; -- Филтрираме прозоречната функ�
 ---
 ⬅️ [03-02. Subqueries и CTE](03-02-SQL-Subqueries-And-CTEs.md) | 📂 [03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и Функции](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md)  | ➡️ [03-04. Вградени функции и Сет оператори](03-04-SQL-BuiltIn-Functions-And-Set-Operators.md)
 
-© 2026 Dev-Library / Бази данни: Групиране, Агрегации и Window Functions
+© 2026 Dev-Library / 03-03. Групиране, Агрегации и Window Functions (Прозоречни функции)

@@ -1,4 +1,4 @@
-[⬅️ 03-08. Decorators](03-08-00-Decorators.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-09-01. Syntax From Scratch](03-09-01-Testing-Syntax.md)
+[⬅️ 03-08. Decorators](03-08-00-Decorators.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-09-01. Syntax From Scratch](03-09-01-Syntax-Testing.md)
 
 ---
 
@@ -148,4 +148,4 @@ if __name__ == "__main__":
 *   **Точен Senior отговор:** Когато файл `user_service.py` направи `from database_module import get_user`, той създава **собствена локална референция** към функцията `get_user` в своето пространство от имена. Ако ти пачнеш оригиналния `database_module.get_user`, референцията вътре в `user_service.py` остава непроменена и продължава да вика реалната база данни! Затова златният закон в Python Mocking е: **„Пачвай там, където функцията се ИЗПОЛЗВА (`user_service.get_user`), а не там, където е дефинирана“**.
 
 ---
-[⬅️ 03-08. Decorators](03-08-00-Decorators.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-09-01. Syntax From Scratch](03-09-01-Testing-Syntax.md)
+[⬅️ 03-08. Decorators](03-08-00-Decorators.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-09-01. Syntax From Scratch](03-09-01-Syntax-Testing.md)

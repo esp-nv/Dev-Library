@@ -1,4 +1,4 @@
-[⬅️ 01-05. List Advanced](01-05-00-List-Advanced.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-06-01. Syntax From Scratch](01-06-01-Dictionaries-Syntax.md)
+[⬅️ 01-05. List Advanced](01-05-00-List-Advanced.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-06-01. Syntax From Scratch](01-06-01-Syntax-Dictionaries.md)
 
 ---
 
@@ -116,4 +116,4 @@ for key, value in user_cache.items():
 *   **Точен Senior отговор:** За да бъде един обект ключ в хеш таблица, той трябва да бъде **Hashable** — неговият хеш код (`hash(key)`) никога да не се променя през целия му живот в паметта. Тъй като списъкът е **изменяем (Mutable)**, ако го сложиш като ключ и после добавиш нов елемент в него с `.append()`, неговият хеш би се променил и Python никога повече няма да може да намери слота му в таблицата. Кортежът (`tuple`) е **неизменяем (Immutable)**, затова неговият хеш е константа и той е напълно валиден ключ (освен ако вътре в самия кортеж не си скрил списък!).
 
 ---
-[⬅️ 01-05. List Advanced](01-05-00-List-Advanced.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-06-01. Syntax From Scratch](01-06-01-Dictionaries-Syntax.md)
+[⬅️ 01-05. List Advanced](01-05-00-List-Advanced.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-06-01. Syntax From Scratch](01-06-01-Syntax-Dictionaries.md)

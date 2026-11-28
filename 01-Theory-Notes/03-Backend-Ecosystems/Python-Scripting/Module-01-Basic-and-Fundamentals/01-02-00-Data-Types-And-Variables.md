@@ -1,4 +1,4 @@
-[⬅️ 01-01. Basic Syntax](01-01-00-Basic-Syntax-Conditional-Statements-And-Loops.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-02-01. Syntax From Scratch](01-02-01-Data-Types-And-Variables-Syntax.md)
+[⬅️ 01-01. Basic Syntax](01-01-00-Basic-Syntax-Conditional-Statements-And-Loops.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-02-01. Syntax From Scratch](01-02-01-Syntax-Data-Types-And-Variables.md)
 
 ---
 
@@ -118,4 +118,4 @@ print(f"Цяла част: {rounded_int}")
     *   *Скритата уловка (Integer Interning):* Python кешира в паметта числата от `-5` до `256`. Затова `a = 10; b = 10; a is b` връща `True`. Но при `a = 500; b = 500; a is b` Python създава два отделни обекта в паметта и `is` връща **`False`**! Затова `is` се използва **единствено** за проверка срещу `None` (`if data is None:`).
 
 ---
-[⬅️ 01-01. Basic Syntax](01-01-00-Basic-Syntax-Conditional-Statements-And-Loops.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-02-01. Syntax From Scratch](01-02-01-Data-Types-And-Variables-Syntax.md)
+[⬅️ 01-01. Basic Syntax](01-01-00-Basic-Syntax-Conditional-Statements-And-Loops.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-02-01. Syntax From Scratch](01-02-01-Syntax-Data-Types-And-Variables.md)

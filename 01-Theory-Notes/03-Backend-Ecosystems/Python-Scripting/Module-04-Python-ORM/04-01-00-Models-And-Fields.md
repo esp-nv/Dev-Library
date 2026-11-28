@@ -159,4 +159,4 @@ class Product(models.Model):
 
 [📂 Назад към Module 04 Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04 Python ORM](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ Теория, `QuerySet` срещу `Session` & Капани](04-03-00-CRUD-And-Queries.md)
 
-© 2026 Dev-Library / Module 04 Python ORM & Architecture
+© 2026 Dev-Library / 04-01-00. Models, Fields and Data Types (Теория, Сравнение & Интервю Капани)

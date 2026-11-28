@@ -147,4 +147,4 @@ public async Task<List<ProductDto>> GetCatalogAsync()
 ---
 [⬅️ 02-03. Кеширане, Логване и Сигнали](02-03-Caching-Logging-And-Advanced-Topics.md) | [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)| [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-05. Архитектурен контраст: Razor Pages срещу ASP.NET Core MVC](02-05-Razor-Pages-Vs-MVC-Architectural-Contrast.md)
 
-© 2026 Dev-Library / Справочник: Глобален Advanced Пищов
+© 2026 Dev-Library / 02-04. ASP.NET Core Advanced (Глобален Напреднал Пищов)

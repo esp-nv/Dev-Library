@@ -236,4 +236,4 @@ public class CastingSafetyDemo
 5. **Използвай `if (obj is SubClass sub)`** вместо директно кастване `(SubClass)obj`, за да избегнеш `InvalidCastException`.
 
 ---
-© 2026 Dev-Library / Пълен учебен модул по Обектно-Ориентирано Програмиране в C#
+© 2026 Dev-Library / Учебник: Обектно-Ориентирано Програмиране (OOP) и Паметта в C#

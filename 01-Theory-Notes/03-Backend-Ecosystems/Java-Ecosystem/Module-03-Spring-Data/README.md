@@ -11,28 +11,28 @@
 *   **[03-00. Intro to Spring Data, Hibernate & ORM Architecture](03-00-Intro.md)**
 *   **03-01. DB Apps Introduction (JDBC, `PreparedStatement` & HikariCP)**
     *   📄 [Теория, SQL Injection защита, Connection Pooling & Капани](03-01-00-JDBC-Introduction.md)
-    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](03-01-01-JDBC-Introduction-Syntax.md)
+    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](03-01-01-Syntax-JDBC-Introduction.md)
 *   **03-02. Introduction to Hibernate & Entity Lifecycle**
     *   📄 [Теория, JPA срещу Hibernate, 4-те състояния на Entity & Капани](03-02-00-Hibernate-Intro.md)
-    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](03-02-01-Hibernate-Intro-Syntax.md)
+    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](03-02-01-Syntax-Hibernate-Intro.md)
 *   **03-03. Hibernate Code First & Entity Relations (1:1, 1:N, M:N)**
     *   📄 [Теория, FetchType LAZY vs EAGER, CascadeType & Капани](03-03-00-Entity-Relations.md)
-    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](03-03-01-Entity-Relations-Syntax.md)
+    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](03-03-01-Syntax-Entity-Relations.md)
 *   **03-04. Spring Data Intro & Repositories**
     *   📄 [Теория, `JpaRepository`, Derived Query Methods & Капани](03-04-00-Spring-Data-Repositories.md)
-    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](03-04-01-Spring-Data-Repositories-Syntax.md)
+    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](03-04-01-Syntax-Spring-Data-Repositories.md)
 *   **03-05. Spring Data Advanced Querying (`JPQL`, `@Query` & N+1)**
     *   📄 [Теория, `JOIN FETCH`, Projections, Pagination & Капани](03-05-00-Advanced-Querying.md)
-    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](03-05-01-Advanced-Querying-Syntax.md)
+    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](03-05-01-Syntax-Advanced-Querying.md)
 *   **03-06. Java Auto Mapping Objects (`ModelMapper` / `MapStruct` & DTOs)**
     *   📄 [Теория, Entity vs DTO сигурност, MapStruct срещу ModelMapper](03-06-00-Auto-Mapping-DTOs.md)
-    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](03-06-01-Auto-Mapping-DTOs-Syntax.md)
+    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](03-06-01-Syntax-Auto-Mapping-DTOs.md)
 *   **03-07. JSON and XML Processing (Jackson & Gson)**
     *   📄 [Теория, Сериализация, Безкрайна рекурсия при релации & Капани](03-07-00-JSON-And-XML-Processing.md)
-    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](03-07-01-JSON-And-XML-Processing-Syntax.md)
+    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](03-07-01-Syntax-JSON-And-XML-Processing.md)
 
 ---
 
 [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03 Spring Data](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [▶️ Започни от 03-00. Intro: Въведение в Spring Data, Hibernate & Архитектурен Roadmap](03-00-Intro.md)
 
-© 2026 Dev-Library / Module 03 Spring Data & Architecture
+© 2026 Dev-Library / Module 03: Spring Data (Hibernate & JPA)

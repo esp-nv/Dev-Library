@@ -1,4 +1,4 @@
-[⬅️ 02-05. Polymorphism](02-05-00-Polymorphism.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-06-01. Syntax From Scratch](02-06-01-SOLID-Principles-Syntax.md)
+[⬅️ 02-05. Polymorphism](02-05-00-Polymorphism.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-06-01. Syntax From Scratch](02-06-01-Syntax-SOLID-Principles.md)
 
 ---
 
@@ -133,4 +133,4 @@ public class CheckoutService {
 | **Вградени функционални интерфейси (ISP)** | `Predicate<T>`, `Function<T,R>`, `Consumer<T>`, `Supplier<T>` | `Predicate<T>`, `Func<T,R>`, `Action<T>` |
 
 ---
-[⬅️ 02-05. Polymorphism](02-05-00-Polymorphism.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-06-01. Syntax From Scratch](02-06-01-SOLID-Principles-Syntax.md)
+[⬅️ 02-05. Polymorphism](02-05-00-Polymorphism.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-06-01. Syntax From Scratch](02-06-01-Syntax-SOLID-Principles.md)

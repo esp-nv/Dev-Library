@@ -1,4 +1,4 @@
-[⬅️ 04-02-01. Django ORM Syntax](04-02-01-Django-ORM-Syntax.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-03-00. CRUD and Queries](04-03-00-CRUD-And-Queries.md)
+[⬅️ 04-02-01. Django ORM Syntax](04-02-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-03-00. CRUD and Queries](04-03-00-CRUD-And-Queries.md)
 
 ---
 
@@ -99,4 +99,4 @@ alembic downgrade base  # Отменя абсолютно всички мигр�
 | `alembic upgrade head --sql` | Принтира суровия SQL без да го изпълнява |
 
 ---
-[⬅️ 04-02-01. Django ORM Syntax](04-02-01-Django-ORM-Syntax.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-03-00. CRUD and Queries](04-03-00-CRUD-And-Queries.md)
+[⬅️ 04-02-01. Django ORM Syntax](04-02-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-03-00. CRUD and Queries](04-03-00-CRUD-And-Queries.md)

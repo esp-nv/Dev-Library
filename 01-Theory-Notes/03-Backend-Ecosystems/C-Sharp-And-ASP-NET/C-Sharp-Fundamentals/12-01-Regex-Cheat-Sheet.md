@@ -116,5 +116,5 @@ string tokens = Regex.Split(input, @"[,;|\s]+");
 ### 🔗 Официална документация
 * **[Microsoft Learn: .NET Regular Expression Language - Quick Reference](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference)** — Пълният официален справочник на Microsoft за всички Regex конструкции, Substitutions и опции в C#.
 
-© 2026 Dev-Library / Бърз изпитен Cheat Sheet по Regex
+© 2026 Dev-Library / Cheat Sheet: Регулярни изрази (Regex) в C#
 

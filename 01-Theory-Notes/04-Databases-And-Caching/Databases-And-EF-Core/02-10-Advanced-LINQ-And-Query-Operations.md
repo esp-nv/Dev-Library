@@ -94,4 +94,4 @@ public class Product
 ---
 [⬅️ 02-09. Валидации и Атрибути](02-09-Data-Annotations-Validation-And-Attributes.md) | [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) | [🏠 Начало (EF Core)](README.md) | [➡️ 03-00. Кратък справочник за защити](03-00-ADVANCED-DBCONTEXT-PROTECTIONS-INTRO.md)
 
-© 2026 Dev-Library / Напреднал EF Core: Специфични операции
+© 2026 Dev-Library / 02-10. Напреднал LINQ, Стратегии за зареждане и Конкурентност

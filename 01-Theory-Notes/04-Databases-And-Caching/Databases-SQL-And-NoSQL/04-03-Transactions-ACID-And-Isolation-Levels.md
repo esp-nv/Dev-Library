@@ -173,4 +173,4 @@ catch
 ---
 ⬅️ [04-02. Оптимизация на заявки и архитектура](04-02-SQL-Query-And-Architecture-Optimization.md) | 📂 [04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-04. Views, Functions, Procedures и Triggers](04-04-Views-Functions-Procedures-Triggers.md)
 
-© 2026 Dev-Library / Бази данни: Транзакции, ACID и Нива на изолация
+© 2026 Dev-Library / 04-03. Транзакции, ACID свойства и Нива на изолация (Isolation Levels)

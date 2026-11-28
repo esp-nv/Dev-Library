@@ -170,4 +170,4 @@ Status: 200 OK
 ---
 [⬅️ 01-04. Процес на проектиране: Алгоритъм за изграждане на системи от нулата](01-04-System-Design-Interview-Process.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md) | [🏠 Главен Хъб на проекта](../README.md)| [➡️ 01-06. Стратегии за Шардинг](01-06-Advanced-Database-Scaling-Sharding-Strategies.md)
 
-© 2026 Dev-Library / Системен Дизайн: Комуникационни Слоеве
+© 2026 Dev-Library / 01-05. Дълбоко гмуркане: Комуникация между Микроуслуги (gRPC срещу RabbitMQ)

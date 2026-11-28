@@ -48,12 +48,12 @@
 ### 📦 Module 04: Python ORM (Django ORM & SQLAlchemy 2.0)
 *   📂 [Индекс на Module 04: Python ORM](Module-04-Python-ORM/README.md)
 *   **[04-00. Intro & ORM Architecture Roadmap](Module-04-Python-ORM/04-00-Intro.md)**
-*   **04-01. Models, Fields, Meta & Constraints** (`-00` [Теория](Module-04-Python-ORM/04-01-00-Models-And-Fields.md) | `-01` [Django](Module-04-Python-ORM/04-01-01-Django-ORM-Syntax.md) | `-02` [SQLAlchemy](Module-04-Python-ORM/04-01-02-SQLAlchemy-Syntax.md))
-*   **04-02. Migrations & Schema Evolution (Alembic)** (`-00` [Теория](Module-04-Python-ORM/04-02-00-Migrations.md) | `-01` [Django](Module-04-Python-ORM/04-02-01-Django-ORM-Syntax.md) | `-02` [SQLAlchemy](Module-04-Python-ORM/04-02-02-SQLAlchemy-Syntax.md))
-*   **04-03. QuerySets, Filtering, `Q` & `F` Expressions** (`-00` [Теория](Module-04-Python-ORM/04-03-00-CRUD-And-Queries.md) | `-01` [Django](Module-04-Python-ORM/04-03-01-Django-ORM-Syntax.md) | `-02` [SQLAlchemy](Module-04-Python-ORM/04-03-02-SQLAlchemy-Syntax.md))
-*   **04-04. Relationships (1:1, 1:N, M:N & Self-Referencing)** (`-00` [Теория](Module-04-Python-ORM/04-04-00-Relationships.md) | `-01` [Django](Module-04-Python-ORM/04-04-01-Django-ORM-Syntax.md) | `-02` [SQLAlchemy](Module-04-Python-ORM/04-04-02-SQLAlchemy-Syntax.md))
-*   **04-05. Query Optimization (`select_related`, `prefetch_related` & N+1)** (`-00` [Теория](Module-04-Python-ORM/04-05-00-Optimization-And-N-Plus-1.md) | `-01` [Django](Module-04-Python-ORM/04-05-01-Django-ORM-Syntax.md) | `-02` [SQLAlchemy](Module-04-Python-ORM/04-05-02-SQLAlchemy-Syntax.md))
-*   **04-06. Transactions (ACID), Raw SQL, Async ORM & NoSQL** (`-00` [Теория](Module-04-Python-ORM/04-06-00-Transactions-And-Async.md) | `-01` [Django](Module-04-Python-ORM/04-06-01-Django-ORM-Syntax.md) | `-02` [SQLAlchemy](Module-04-Python-ORM/04-06-02-SQLAlchemy-Syntax.md))
+*   **04-01. Models, Fields, Meta & Constraints** (`-00` [Теория](Module-04-Python-ORM/04-01-00-Models-And-Fields.md) | `-01` [Django](Module-04-Python-ORM/04-01-01-Syntax-Django-ORM.md) | `-02` [SQLAlchemy](Module-04-Python-ORM/04-01-02-Syntax-SQLAlchemy.md))
+*   **04-02. Migrations & Schema Evolution (Alembic)** (`-00` [Теория](Module-04-Python-ORM/04-02-00-Migrations.md) | `-01` [Django](Module-04-Python-ORM/04-02-01-Syntax-Django-ORM.md) | `-02` [SQLAlchemy](Module-04-Python-ORM/04-02-02-Syntax-SQLAlchemy.md))
+*   **04-03. QuerySets, Filtering, `Q` & `F` Expressions** (`-00` [Теория](Module-04-Python-ORM/04-03-00-CRUD-And-Queries.md) | `-01` [Django](Module-04-Python-ORM/04-03-01-Syntax-Django-ORM.md) | `-02` [SQLAlchemy](Module-04-Python-ORM/04-03-02-Syntax-SQLAlchemy.md))
+*   **04-04. Relationships (1:1, 1:N, M:N & Self-Referencing)** (`-00` [Теория](Module-04-Python-ORM/04-04-00-Relationships.md) | `-01` [Django](Module-04-Python-ORM/04-04-01-Syntax-Django-ORM.md) | `-02` [SQLAlchemy](Module-04-Python-ORM/04-04-02-Syntax-SQLAlchemy.md))
+*   **04-05. Query Optimization (`select_related`, `prefetch_related` & N+1)** (`-00` [Теория](Module-04-Python-ORM/04-05-00-Optimization-And-N-Plus-1.md) | `-01` [Django](Module-04-Python-ORM/04-05-01-Syntax-Django-ORM.md) | `-02` [SQLAlchemy](Module-04-Python-ORM/04-05-02-Syntax-SQLAlchemy.md))
+*   **04-06. Transactions (ACID), Raw SQL, Async ORM & NoSQL** (`-00` [Теория](Module-04-Python-ORM/04-06-00-Transactions-And-Async.md) | `-01` [Django](Module-04-Python-ORM/04-06-01-Syntax-Django-ORM.md) | `-02` [SQLAlchemy](Module-04-Python-ORM/04-06-02-Syntax-SQLAlchemy.md))
 
 ### 📦 Module 05: Django Fundamentals (Django Basics)
 *   📂 [Индекс на Module 05: Django Fundamentals](Module-05-Django-Fundamentals/README.md)
@@ -86,4 +86,4 @@
 
 [📦 Предишен модул: Java-Ecosystem](../Java-Ecosystem/README.md) | [🌐 Домейн: 03. Backend Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Python Scripting](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../04-Databases-And-Caching/README.md) | [▶️ Започни от 03-00. Intro: Въведение в Python OOP & Архитектурен Roadmap](Module-03-OOP/03-00-Intro.md)
 
-© 2026 Dev-Library / Python Scripting & Architecture
+© 2026 Dev-Library / Python Scripting & Software Engineering (Пълен Архитектурен Справочник)

@@ -141,4 +141,4 @@ finally:
 
 [📂 Назад към Module 02 Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02 Advance](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md) | [➡️ Теория, I/O Потоци, Контекст мениджъри & Капани](02-06-00-File-Handling.md)
 
-© 2026 Dev-Library / Module 02 Advance & Architecture
+© 2026 Dev-Library / 02-05-00. Error Handling (Теория, Йерархия на грешките & Капани)

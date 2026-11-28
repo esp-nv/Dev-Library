@@ -1,4 +1,4 @@
-[⬅️ 04-01. Internet Explained & HTTP Protocol](04-01-00-Internet-And-HTTP.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-02-01. Syntax From Scratch](04-02-01-Spring-Boot-Intro-Syntax.md)
+[⬅️ 04-01. Internet Explained & HTTP Protocol](04-01-00-Internet-And-HTTP.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-02-01. Syntax From Scratch](04-02-01-Syntax-Spring-Boot-Intro.md)
 
 ---
 
@@ -118,4 +118,4 @@ spring.datasource.password=\${DB_PASSWORD:postgres}
 | **Packaging за Deployment** | Самостоятелен **`Fat JAR`** (`java -jar app.jar`) или Docker image | Framework-dependent DLL или Self-contained binary (`dotnet publish`) |
 
 ---
-[⬅️ 04-01. Internet Explained & HTTP Protocol](04-01-00-Internet-And-HTTP.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-02-01. Syntax From Scratch](04-02-01-Spring-Boot-Intro-Syntax.md)
+[⬅️ 04-01. Internet Explained & HTTP Protocol](04-01-00-Internet-And-HTTP.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-02-01. Syntax From Scratch](04-02-01-Syntax-Spring-Boot-Intro.md)

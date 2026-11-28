@@ -125,4 +125,4 @@ LIMIT 5 OFFSET 0;
 ---
 ⬅️ [01-02. Типове данни и Памет](01-02-SQL-Data-Types-Memory-And-CSharp.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [01-04. NoSQL: MongoDB](01-04-NoSQL-Documents-MongoDB.md)
 
-© 2026 Dev-Library / Бази данни: Релационни диалекти
+© 2026 Dev-Library / ️ 01-03. Релационни диалекти: MS SQL Server, PostgreSQL, MySQL и SQLite

@@ -84,4 +84,4 @@
 ---
 [⬅️  01-03. Architectural Principles, Attributes and Trade-offs (Архитектурни принципи)](01-03-Architectural-Attributes-And-TradeOffs.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md) | [🏠 Главен Хъб на проекта](../README.md) | [➡️ 01-05. Дълбоко гмуркане: Комуникация между Микроуслуги (gRPC срещу RabbitMQ)](01-05-Deep-Dive-Microservices-Communication.md)
 
-© 2026 Dev-Library / Системен Дизайн: Процеси и Алгоритми на Проектиране
+© 2026 Dev-Library / 01-04. Процес на проектиране: Алгоритъм за изграждане на системи от нулата

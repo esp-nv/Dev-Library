@@ -1,4 +1,4 @@
-[⬅️ 04-02-00. Теория & Сравнение](04-02-00-Migrations.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-02-02. SQLAlchemy Syntax](04-02-02-SQLAlchemy-Syntax.md)
+[⬅️ 04-02-00. Теория & Сравнение](04-02-00-Migrations.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-02-02. SQLAlchemy Syntax](04-02-02-Syntax-SQLAlchemy.md)
 
 ---
 
@@ -96,4 +96,4 @@ class Migration(migrations.Migration):
 | `python manage.py makemigrations --empty app` | Създава празна миграция за потребителски Python код |
 
 ---
-[⬅️ 04-02-00. Теория & Сравнение](04-02-00-Migrations.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-02-02. SQLAlchemy Syntax](04-02-02-SQLAlchemy-Syntax.md)
+[⬅️ 04-02-00. Теория & Сравнение](04-02-00-Migrations.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-02-02. SQLAlchemy Syntax](04-02-02-Syntax-SQLAlchemy.md)

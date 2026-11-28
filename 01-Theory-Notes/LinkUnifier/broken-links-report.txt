@@ -1,16 +1,21 @@
-[README.md] -> [C# & ASP.NET Core (`C-Sharp-And-ASP-NET/`)](03-Backend-Ecosystems/C-Sharp-And-ASP-NET/README.md)
+================================================================================
+ОТЧЕТ ОТ LINKUNIFIER (01-Theory-Notes) — 2026-11-28 10:52:06
+================================================================================
+• Общо проверени .md файлове:       488
+• Преименувани *-Syntax.md файлове:  0
+• Обновени .md файлове:              266
+• Автоматично поправени линкове:     0
+• Счупени линкове за ръчен преглед:  287
+
+--------------------------------------------------------------------------------
+1. СЧУПЕНИ ЛИНКОВЕ ЗА РЪЧЕН ПРЕГЛЕД (287)
+--------------------------------------------------------------------------------
 [00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [➡️ 03-01. Ниво 3: Промяна на мисленето](03-01-Level-3-Mindset-Shift.md)
-[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [01-QA-Automation/README.md](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/01-QA-Automation/README.md)
-[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [02-TypeScript-Language/README.md](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/README.md)
-[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [03-Python-Scripting/README.md](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/03-Python-Scripting/README.md)
-[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [04-Java-Ecosystem/README.md](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/04-Java-Ecosystem/README.md)
-[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [Главен индекс на Ниво 2 (README.md)](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/README.md)
-[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [Индекс на 01-QA-Automation](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/01-QA-Automation/README.md)
 [00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [01-00. QA Automation And Selenium Basics](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/01-QA-Automation/01-00-QA-Automation-And-Selenium-Basics.md)
 [00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [01-01. DOM Selectors And XPath Strategies](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/01-QA-Automation/01-01-DOM-Selectors-And-XPath-Strategies.md)
 [00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [01-02. Advanced QA Traps And Snippets](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/01-QA-Automation/01-02-Advanced-QA-Traps-And-Snippets.md)
 [00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [01-03. QA Cheat Sheet And Reference Guide](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/01-QA-Automation/01-03-QA-Cheat-Sheet-And-Reference-Guide.md)
-[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [Индекс на 02-TypeScript-Language](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/README.md)
+[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [01-QA-Automation/README.md](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/01-QA-Automation/README.md)
 [00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [02-01. Introduction to TypeScript](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/02-01-Introduction-to-TypeScript.md)
 [00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [02-02. Advanced Data Types](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/02-02-Advanced-Data-Types.md)
 [00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [02-03. OOP in TypeScript](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/02-03-OOP-in-TypeScript.md)
@@ -19,130 +24,49 @@
 [00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [02-06. TypeScript Traps And Snippets](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/02-06-TypeScript-Traps-And-Snippets.md)
 [00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [02-07. TypeScript Cheat Sheet](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/02-07-TypeScript-Cheat-Sheet.md)
 [00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [02-08. TypeScript Deep Dive Addendum](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/02-08-TypeScript-Deep-Dive-Addendum.md)
-[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [Индекс на 03-Python-Scripting](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/03-Python-Scripting/README.md)
+[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [02-TypeScript-Language/README.md](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/README.md)
+[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [03-Python-Scripting/README.md](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/03-Python-Scripting/README.md)
+[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [04-Java-Ecosystem/README.md](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/04-Java-Ecosystem/README.md)
+[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [Module 01: Java Fundamentals](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/04-Java-Ecosystem/Module-01-Java-Fundamentals/README.md)
 [00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [Module 01: Python Basics](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/03-Python-Scripting/Module-01-Basics/README.md)
+[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [Module 02: Java OOP](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/04-Java-Ecosystem/Module-02-Java-OOP/README.md)
 [00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [Module 02: Python Advanced](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/03-Python-Scripting/Module-02-Advanced/README.md)
 [00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [Module 03: Python OOP](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/03-Python-Scripting/Module-03-OOP/README.md)
-[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [Индекс на 04-Java-Ecosystem](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/04-Java-Ecosystem/README.md)
-[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [Module 01: Java Fundamentals](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/04-Java-Ecosystem/Module-01-Java-Fundamentals/README.md)
-[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [Module 02: Java OOP](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/04-Java-Ecosystem/Module-02-Java-OOP/README.md)
 [00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [Module 03: Spring Data (Hibernate & JPA)](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/04-Java-Ecosystem/Module-03-Spring-Data/README.md)
 [00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [Module 04: Spring Fundamentals (Spring Boot & MVC)](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/04-Java-Ecosystem/Module-04-Spring-Fundamentals/README.md)
 [00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [Module 05: Spring Advanced (REST APIs, Security, JWT & Docker)](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/04-Java-Ecosystem/Module-05-Spring-Advanced/README.md)
-[01-Core-Tools-And-Fundamentals/README.md] -> [04. Linux, Terminal & Bash Scripting (`Linux-And-Bash-Scripting/`)](Linux-And-Bash-Scripting/README.md)
-[02-Frontend-And-UI-UX/README.md] -> [🏛️ Начало Dev-Library](../../../README.md)
-[02-Frontend-And-UI-UX/README.md] -> [04. UI/UX Design, Figma & Accessibility (`UI-UX-Design-And-Figma/`)](UI-UX-Design-And-Figma/README.md)
-[02-Frontend-And-UI-UX/README.md] -> [05. JavaScript (ES6+) & Модерни SPA Рамки (`JavaScript-And-SPA-Frameworks/`)](JavaScript-And-SPA-Frameworks/README.md)
-[03-Backend-Ecosystems/README.md] -> [🧭 Пътеводител за Учене (00-Learning-Roadmaps)](00-Learning-Roadmaps/README.md)
-[03-Backend-Ecosystems/README.md] -> [00. Примерни Пътеки за Учене (`00-Learning-Roadmaps/`)](00-Learning-Roadmaps/README.md)
-[03-Backend-Ecosystems/README.md] -> [00. Примерни Пътеки за Учене и Дневници (Learning Roadmaps)](00-Learning-Roadmaps/README.md)
-[03-Backend-Ecosystems/README.md] -> [Full-Stack & QA Automation Roadmap (Нива 1–4)](00-Learning-Roadmaps/Full-Stack-And-QA-Automation-Roadmap/README.md)
-[03-Backend-Ecosystems/README.md] -> [Дневници и Чеклистове на Обучението](00-Learning-Roadmaps/Study-Checklists-And-Logs/README.md)
-[03-Backend-Ecosystems/README.md] -> [01. Инструменти, Контрол на Версиите и Алгоритми (Core Tools)](01-Core-Tools-And-Fundamentals/README.md)
-[03-Backend-Ecosystems/README.md] -> [Git & GitHub (CLI, GitHub Desktop & TortoiseGit)](01-Core-Tools-And-Fundamentals/Git-And-GitHub/README.md)
-[03-Backend-Ecosystems/README.md] -> [Алгоритми и Структури от Данни (Algorithms)](01-Core-Tools-And-Fundamentals/Algorithms-Introduction/README.md)
-[03-Backend-Ecosystems/README.md] -> [Linux, Terminal & Bash Scripting](01-Core-Tools-And-Fundamentals/Linux-And-Bash-Scripting/README.md)
-[03-Backend-Ecosystems/README.md] -> [02. Фронтенд и UI/UX Дизайн (Frontend & UI/UX)](02-Frontend-And-UI-UX/README.md)
-[03-Backend-Ecosystems/README.md] -> [UI/UX Design & Figma](02-Frontend-And-UI-UX/UI-UX-Design-And-Figma/README.md)
-[03-Backend-Ecosystems/README.md] -> [HTML5, CSS3, Sass/SCSS & Responsive](02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md)
-[03-Backend-Ecosystems/README.md] -> [JavaScript (ES6+) & TypeScript](02-Frontend-And-UI-UX/JavaScript-And-TypeScript/README.md)
-[03-Backend-Ecosystems/README.md] -> [Модерни SPA Рамки (React, Vue 3, Angular)](02-Frontend-And-UI-UX/Modern-SPA-Frameworks/README.md)
-[03-Backend-Ecosystems/README.md] -> [03. Бекенд Екосистеми (Backend Ecosystems)](03-Backend-Ecosystems/README.md)
-[03-Backend-Ecosystems/README.md] -> [C# & ASP.NET Core](03-Backend-Ecosystems/C-Sharp-And-ASP-NET/README.md)
-[03-Backend-Ecosystems/README.md] -> [Java 21+ & Spring Boot 3](03-Backend-Ecosystems/Java-Ecosystem/README.md)
-[03-Backend-Ecosystems/README.md] -> [Python 3.x, Django & FastAPI](03-Backend-Ecosystems/Python-Scripting/README.md)
-[03-Backend-Ecosystems/README.md] -> [Node.js, Express & NestJS](03-Backend-Ecosystems/Node-Express-And-NestJS/README.md)
-[03-Backend-Ecosystems/README.md] -> [Modern PHP 8.3+, Laravel & WordPress](03-Backend-Ecosystems/PHP-Laravel-And-WordPress/README.md)
-[03-Backend-Ecosystems/README.md] -> [REST API, RESTful & GraphQL (API Архитектура)](03-Backend-Ecosystems/REST-API-And-GraphQL/README.md)
-[03-Backend-Ecosystems/README.md] -> [04. Бази Данни, Кеширане и Потоци (Databases & Data)](04-Databases-And-Caching/README.md)
-[03-Backend-Ecosystems/README.md] -> [Релационни Бази Данни (SQL Server & PostgreSQL)](04-Databases-And-Caching/SQL-And-Relational-DBs/README.md)
-[03-Backend-Ecosystems/README.md] -> [ORM Системи (EF Core & Hibernate/JPA)](04-Databases-And-Caching/ORM-Systems/README.md)
-[03-Backend-Ecosystems/README.md] -> [NoSQL и Кеширане в Паметта (Redis & MongoDB)](04-Databases-And-Caching/NoSQL-And-Redis-Caching/README.md)
-[03-Backend-Ecosystems/README.md] -> [Event Streaming и Опашки (Apache Kafka & RabbitMQ)](04-Databases-And-Caching/Data-Engineering-And-Streaming/README.md)
-[03-Backend-Ecosystems/README.md] -> [05. QA и Автоматизирано Тестване (QA Automation & SDET)](05-QA-And-Test-Automation/README.md)
-[03-Backend-Ecosystems/README.md] -> [Manual QA, Test Design & Jira](05-QA-And-Test-Automation/Manual-QA-And-Jira/README.md)
-[03-Backend-Ecosystems/README.md] -> [Unit Testing & Mocking (C#, Java, TS, Python)](05-QA-And-Test-Automation/Multi-Language-Unit-Testing/README.md)
-[03-Backend-Ecosystems/README.md] -> [Web UI & Mobile Автоматизация](05-QA-And-Test-Automation/UI-And-Mobile-Automation/README.md)
-[03-Backend-Ecosystems/README.md] -> [API, Contract & Performance Тестване](05-QA-And-Test-Automation/API-And-Performance-Testing/README.md)
-[03-Backend-Ecosystems/README.md] -> [06. Облачна Инфраструктура, DevOps и Архитектура](06-Cloud-DevOps-And-Architecture/README.md)
-[03-Backend-Ecosystems/README.md] -> [System Design & Software Architecture](06-Cloud-DevOps-And-Architecture/System-Design-And-Architecture/README.md)
-[03-Backend-Ecosystems/README.md] -> [Docker & Kubernetes (Контейнеризация)](06-Cloud-DevOps-And-Architecture/Docker-And-Kubernetes/README.md)
-[03-Backend-Ecosystems/README.md] -> [Cloud Платформи (AWS & Microsoft Azure)](06-Cloud-DevOps-And-Architecture/Cloud-Platforms-AWS-And-Azure/README.md)
-[03-Backend-Ecosystems/README.md] -> [CI/CD, Observability & Technical SEO](06-Cloud-DevOps-And-Architecture/CI-CD-And-SEO/README.md)
-[03-Backend-Ecosystems/README.md] -> [07. Разработка на Игри (Game Development)](07-Game-Development/README.md)
-[03-Backend-Ecosystems/README.md] -> [Unity Engine & C# Game Scripting](07-Game-Development/Unity-And-C-Sharp-Scripting/README.md)
-[03-Backend-Ecosystems/README.md] -> [Game Design Patterns & Архитектура](07-Game-Development/Game-Design-Patterns/README.md)
-[05-QA-And-Test-Automation/README.md] -> [02. Security & Penetration Testing (OWASP Top 10)](Security-And-Penetration-Testing/README.md)
-[06-Cloud-DevOps-And-Architecture/README.md] -> [03. Docker & Kubernetes (Контейнеризация)](Docker-And-Kubernetes/README.md)
-[06-Cloud-DevOps-And-Architecture/README.md] -> [04. Cloud Платформи (AWS & Microsoft Azure)](Cloud-Platforms-AWS-And-Azure/README.md)
-[07-Game-Development/README.md] -> [🧭 Пътеводител за Учене (00-Learning-Roadmaps)](00-Learning-Roadmaps/README.md)
-[07-Game-Development/README.md] -> [▶️ Започни от Git & GitHub](01-Core-Tools-And-Fundamentals/Git-And-GitHub/README.md)
-[07-Game-Development/README.md] -> [00. Примерни Пътеки за Учене (`00-Learning-Roadmaps/`)](00-Learning-Roadmaps/README.md)
-[07-Game-Development/README.md] -> [00. Примерни Пътеки за Учене и Дневници (Learning Roadmaps)](00-Learning-Roadmaps/README.md)
-[07-Game-Development/README.md] -> [Full-Stack & QA Automation Roadmap (Нива 1–4)](00-Learning-Roadmaps/Full-Stack-And-QA-Automation-Roadmap/README.md)
-[07-Game-Development/README.md] -> [Дневници и Чеклистове на Обучението](00-Learning-Roadmaps/01-Personal-Checklists/README.md)
-[07-Game-Development/README.md] -> [01. Инструменти, Контрол на Версиите и Алгоритми (Core Tools)](01-Core-Tools-And-Fundamentals/README.md)
-[07-Game-Development/README.md] -> [Git & GitHub (CLI, GitHub Desktop & TortoiseGit)](01-Core-Tools-And-Fundamentals/Git-And-GitHub/README.md)
-[07-Game-Development/README.md] -> [Алгоритми и Структури от Данни (Algorithms)](01-Core-Tools-And-Fundamentals/Algorithms-Introduction/README.md)
-[07-Game-Development/README.md] -> [Linux, Terminal & Bash Scripting](01-Core-Tools-And-Fundamentals/Linux-And-Bash-Scripting/README.md)
-[07-Game-Development/README.md] -> [02. Фронтенд и UI/UX Дизайн (Frontend & UI/UX)](02-Frontend-And-UI-UX/README.md)
-[07-Game-Development/README.md] -> [UI/UX Design & Figma](02-Frontend-And-UI-UX/UI-UX-Design-And-Figma/README.md)
-[07-Game-Development/README.md] -> [HTML5, CSS3, Sass/SCSS & Responsive](02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md)
-[07-Game-Development/README.md] -> [JavaScript (ES6+) & TypeScript](02-Frontend-And-UI-UX/JavaScript-And-TypeScript/README.md)
-[07-Game-Development/README.md] -> [Модерни SPA Рамки (React, Vue 3, Angular)](02-Frontend-And-UI-UX/Modern-SPA-Frameworks/README.md)
-[07-Game-Development/README.md] -> [03. Бекенд Екосистеми (Backend Ecosystems)](03-Backend-Ecosystems/README.md)
-[07-Game-Development/README.md] -> [C# & ASP.NET Core](03-Backend-Ecosystems/C-Sharp-And-ASP-NET/README.md)
-[07-Game-Development/README.md] -> [Java 21+ & Spring Boot 3](03-Backend-Ecosystems/Java-Scripting/README.md)
-[07-Game-Development/README.md] -> [Python 3.x, Django & FastAPI](03-Backend-Ecosystems/Python-Scripting/README.md)
-[07-Game-Development/README.md] -> [Node.js, Express & NestJS](03-Backend-Ecosystems/Node-Express-And-NestJS/README.md)
-[07-Game-Development/README.md] -> [Modern PHP 8.3+, Laravel & WordPress](03-Backend-Ecosystems/PHP-Laravel-And-WordPress/README.md)
-[07-Game-Development/README.md] -> [REST API, RESTful & GraphQL (API Архитектура)](03-Backend-Ecosystems/REST-API-And-GraphQL/README.md)
-[07-Game-Development/README.md] -> [04. Бази Данни, Кеширане и Потоци (Databases & Data)](04-Databases-And-Caching/README.md)
-[07-Game-Development/README.md] -> [Релационни Бази Данни (SQL Server & PostgreSQL)](04-Databases-And-Caching/SQL-And-Relational-DBs/README.md)
-[07-Game-Development/README.md] -> [ORM Системи (EF Core & Hibernate/JPA)](04-Databases-And-Caching/ORM-Systems/README.md)
-[07-Game-Development/README.md] -> [NoSQL и Кеширане в Паметта (Redis & MongoDB)](04-Databases-And-Caching/NoSQL-And-Redis-Caching/README.md)
-[07-Game-Development/README.md] -> [Event Streaming и Опашки (Apache Kafka & RabbitMQ)](04-Databases-And-Caching/Data-Engineering-And-Streaming/README.md)
-[07-Game-Development/README.md] -> [05. QA и Автоматизирано Тестване (QA Automation & SDET)](05-QA-And-Test-Automation/README.md)
-[07-Game-Development/README.md] -> [Manual QA, Test Design & Jira](05-QA-And-Test-Automation/Manual-QA-And-Jira/README.md)
-[07-Game-Development/README.md] -> [Unit Testing & Mocking (C#, Java, TS, Python)](05-QA-And-Test-Automation/Multi-Language-Unit-Testing/README.md)
-[07-Game-Development/README.md] -> [Web UI & Mobile Автоматизация](05-QA-And-Test-Automation/UI-And-Mobile-Automation/README.md)
-[07-Game-Development/README.md] -> [API, Contract & Performance Тестване](05-QA-And-Test-Automation/API-And-Performance-Testing/README.md)
-[07-Game-Development/README.md] -> [06. Облачна Инфраструктура, DevOps и Архитектура](06-Cloud-DevOps-And-Architecture/README.md)
-[07-Game-Development/README.md] -> [System Design & Software Architecture](06-Cloud-DevOps-And-Architecture/System-Design-And-Architecture/README.md)
-[07-Game-Development/README.md] -> [Docker & Kubernetes (Контейнеризация)](06-Cloud-DevOps-And-Architecture/Docker-And-Kubernetes/README.md)
-[07-Game-Development/README.md] -> [Cloud Платформи (AWS & Microsoft Azure)](06-Cloud-DevOps-And-Architecture/Cloud-Platforms-AWS-And-Azure/README.md)
-[07-Game-Development/README.md] -> [CI/CD, Observability & Technical SEO](06-Cloud-DevOps-And-Architecture/CI-CD-And-SEO/README.md)
-[07-Game-Development/README.md] -> [07. Разработка на Игри (Game Development)](07-Game-Development/README.md)
-[07-Game-Development/README.md] -> [Unity Engine & C# Game Scripting](07-Game-Development/Unity-And-C-Sharp-Scripting/README.md)
-[07-Game-Development/README.md] -> [Game Design Patterns & Архитектура](07-Game-Development/Game-Design-Patterns/README.md)
-[Architecture-And-Cross-Stack/README.md] -> [Бази данни (SQL & NoSQL)](../Databases-SQL-And-NoSQL/)
-[Architecture-And-Cross-Stack/README.md] -> [Entity Framework Core](../Databases-And-EF-Core/)
+[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [Главен индекс на Ниво 2 (README.md)](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/README.md)
+[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [Индекс на 01-QA-Automation](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/01-QA-Automation/README.md)
+[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [Индекс на 02-TypeScript-Language](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/README.md)
+[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [Индекс на 03-Python-Scripting](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/03-Python-Scripting/README.md)
+[00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md] -> [Индекс на 04-Java-Ecosystem](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/04-Java-Ecosystem/README.md)
 [01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/00-02-04-Java-Implementation.md] -> [➡️ 00-02-04-Java-Implementation.md](00-0-04-Java-Implementation.md)
 [01-Core-Tools-And-Fundamentals/Course-Intro-And-Setup/00-02-01-DevTools-Audit.md] -> [01-00. Intro to HTML5 & CSS3](../Module-01-HTML-And-CSS-Foundations/01-00-Intro.md)
+[01-Core-Tools-And-Fundamentals/README.md] -> [04. Linux, Terminal & Bash Scripting (`Linux-And-Bash-Scripting/`)](Linux-And-Bash-Scripting/README.md)
 [02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-00-Intro.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
 [02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-00-Intro.md] -> [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md)
-[02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-01-01-HTML5-And-CSS3-Basics-Syntax.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
-[02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-01-01-HTML5-And-CSS3-Basics-Syntax.md] -> [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md)
+[02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-01-01-Syntax-HTML5-And-CSS3-Basics.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
+[02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-01-01-Syntax-HTML5-And-CSS3-Basics.md] -> [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md)
 [02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-02-00-CSS-Box-Model-And-Typography.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
 [02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-02-00-CSS-Box-Model-And-Typography.md] -> [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md)
-[02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-02-01-CSS-Box-Model-And-Typography-Syntax.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
-[02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-02-01-CSS-Box-Model-And-Typography-Syntax.md] -> [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md)
+[02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-02-01-Syntax-CSS-Box-Model-And-Typography.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
+[02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-02-01-Syntax-CSS-Box-Model-And-Typography.md] -> [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md)
 [02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-03-00-CSS-Layout-Flexbox.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
 [02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-03-00-CSS-Layout-Flexbox.md] -> [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md)
 [02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-03-00-CSS-Layout-Flexbox.md] -> [02-00. Intro to Responsive & UI Frameworks](../02-Responsive-Forms-And-Frameworks/02-00-Intro.md)
-[02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-03-01-CSS-Layout-Flexbox-Syntax.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
-[02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-03-01-CSS-Layout-Flexbox-Syntax.md] -> [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md)
+[02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-03-01-Syntax-CSS-Layout-Flexbox.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
+[02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-03-01-Syntax-CSS-Layout-Flexbox.md] -> [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md)
 [02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-04-00-Sass-And-SCSS-Architecture.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
 [02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-04-00-Sass-And-SCSS-Architecture.md] -> [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md)
-[02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-04-01-Sass-And-SCSS-Architecture-Syntax.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
-[02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-04-01-Sass-And-SCSS-Architecture-Syntax.md] -> [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md)
+[02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-04-01-Syntax-Sass-And-SCSS-Architecture.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
+[02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-04-01-Syntax-Sass-And-SCSS-Architecture.md] -> [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md)
+[02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-05-CSS-Methodologies-And-Frameworks-Comparison.md] -> [➡️ 02-00. Intro to Responsive Design & UI Frameworks](../02-Responsive-Forms-And-Frameworks/02-00-Intro.md)
 [02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-05-CSS-Methodologies-And-Frameworks-Comparison.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
 [02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-05-CSS-Methodologies-And-Frameworks-Comparison.md] -> [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md)
-[02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-05-CSS-Methodologies-And-Frameworks-Comparison.md] -> [➡️ 02-00. Intro to Responsive Design & UI Frameworks](../02-Responsive-Forms-And-Frameworks/02-00-Intro.md)
 [02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-05-CSS-Methodologies-And-Frameworks-Comparison.md] -> [02-00. Intro to Responsive Design & UI Frameworks](../02-Responsive-Forms-And-Frameworks/02-00-Intro.md)
+[02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-95-Exam-Preparation-And-Templates.md] -> [➡️ 01-96. Performance & Optimizations](../01-96-Performance-And-Optimizations.md)
 [02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-95-Exam-Preparation-And-Templates.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
 [02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-95-Exam-Preparation-And-Templates.md] -> [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md)
-[02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-95-Exam-Preparation-And-Templates.md] -> [➡️ 01-96. Performance & Optimizations](../01-96-Performance-And-Optimizations.md)
 [02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-95-Exam-Preparation-And-Templates.md] -> [01-96. Performance & Optimizations](../01-96-Performance-And-Optimizations.md)
 [02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-95-Exam-Preparation-And-Templates.md] -> [01-97. Category Cheat Sheet](../01-97-Category-Cheat-Sheet.md)
 [02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-95-Exam-Preparation-And-Templates.md] -> [01-98. Common Errors & Fixes](../01-98-Common-Errors-And-Fixes.md)
@@ -157,116 +81,46 @@
 [02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-99-Interview-QA-Traps-And-Debugging.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
 [02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-99-Interview-QA-Traps-And-Debugging.md] -> [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md)
 [02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-99-Interview-QA-Traps-And-Debugging.md] -> [01-QA-Automation (Ниво 2)](../02-Level-2-Natural-Extensions-QA-Automation/01-QA-Automation/README.md)
-[02-Frontend-And-UI-UX/JavaScript-Language/README.md] -> [▶️ Започни от 02-00. Intro to JavaScript & V8 Engine](02-00-Intro-To-JavaScript-And-V8-Engine.md)
-[02-Frontend-And-UI-UX/JavaScript-Language/README.md] -> [02-00. Intro to JavaScript, V8 Engine & Architecture](02-00-Intro-To-JavaScript-And-V8-Engine.md)
-[02-Frontend-And-UI-UX/JavaScript-Language/README.md] -> [`-00` Теория & Капани](02-01-00-Variables-Types-And-Coercion.md)
-[02-Frontend-And-UI-UX/JavaScript-Language/README.md] -> [`-01` Syntax & Cheat Sheet](02-01-01-Variables-Types-And-Coercion-Syntax.md)
-[02-Frontend-And-UI-UX/JavaScript-Language/README.md] -> [`-00` Теория & Капани](02-02-00-Functions-Closures-And-This.md)
-[02-Frontend-And-UI-UX/JavaScript-Language/README.md] -> [`-01` Syntax & Functions Cheat Sheet](02-02-01-Functions-Closures-And-This-Syntax.md)
-[02-Frontend-And-UI-UX/JavaScript-Language/README.md] -> [`-00` Теория & Капани](02-03-00-Prototypes-OOP-And-Classes.md)
-[02-Frontend-And-UI-UX/JavaScript-Language/README.md] -> [`-01` Syntax & OOP Cheat Sheet](02-03-01-Prototypes-OOP-And-Classes-Syntax.md)
-[02-Frontend-And-UI-UX/JavaScript-Language/README.md] -> [`-00` Теория & Капани](02-04-00-Event-Loop-And-Asynchronous-JS.md)
-[02-Frontend-And-UI-UX/JavaScript-Language/README.md] -> [`-01` Syntax & Async Cheat Sheet](02-04-01-Event-Loop-And-Asynchronous-JS-Syntax.md)
-[02-Frontend-And-UI-UX/JavaScript-Language/README.md] -> [`-00` Теория & Капани](02-05-00-DOM-Events-And-Browser-Storage.md)
-[02-Frontend-And-UI-UX/JavaScript-Language/README.md] -> [`-01` Syntax & DOM Cheat Sheet](02-05-01-DOM-Events-And-Browser-Storage-Syntax.md)
-[02-Frontend-And-UI-UX/JavaScript-Language/README.md] -> [02-06. Browser JavaScript vs Node.js Runtime Comparison](02-06-Browser-JS-vs-NodeJS-Runtime-Comparison.md)
-[02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-00-Intro.md] -> [📂 Предишна папка: 01. HTML5 & CSS3 Foundations](../01-HTML-And-CSS-Foundations/README.md)
-[02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-00-Intro.md] -> [🏠 Начало](../../../../README.md)
+[02-Frontend-And-UI-UX/JavaScript-Language/02-06-Browser-JS-vs-NodeJS-Runtime-Comparison.md] -> [📦 Node.js, Express & NestJS](../../03-Backend-Ecosystems/Node-Express-And-NestJS/README.md)
+[02-Frontend-And-UI-UX/README.md] -> [🏛️ Начало Dev-Library](../../../README.md)
+[02-Frontend-And-UI-UX/README.md] -> [04. UI/UX Design, Figma & Accessibility (`UI-UX-Design-And-Figma/`)](UI-UX-Design-And-Figma/README.md)
+[02-Frontend-And-UI-UX/README.md] -> [05. JavaScript (ES6+) & Модерни SPA Рамки (`JavaScript-And-SPA-Frameworks/`)](JavaScript-And-SPA-Frameworks/README.md)
 [02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-00-Intro.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
+[02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-00-Intro.md] -> [🏠 Начало](../../../../README.md)
+[02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-00-Intro.md] -> [📂 Предишна папка: 01. HTML5 & CSS3 Foundations](../01-HTML-And-CSS-Foundations/README.md)
 [02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-01-00-Responsive-Design-And-Media-Queries.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
-[02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-01-01-Responsive-Design-And-Media-Queries-Syntax.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
+[02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-01-01-Syntax-Responsive-Design-And-Media-Queries.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
 [02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-02-00-Working-With-Forms-And-Validation.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
-[02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-02-01-Working-With-Forms-And-Validation-Syntax.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
+[02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-02-01-Syntax-Working-With-Forms-And-Validation.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
 [02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-03-00-Tailwind-CSS-Utility-First.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
-[02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-03-01-Tailwind-CSS-Utility-First-Syntax.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
+[02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-03-01-Syntax-Tailwind-CSS-Utility-First.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
 [02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-04-00-Bootstrap-5-Grid-And-Components.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
-[02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-04-01-Bootstrap-5-Grid-And-Components-Syntax.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
-[02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-04-01-Bootstrap-5-Grid-And-Components-Syntax.md] -> [➡️ 03-00. Intro to Web Visibility & Caching](../03-SEO-And-Redis-Caching/03-00-Intro.md)
+[02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-04-01-Syntax-Bootstrap-5-Grid-And-Components.md] -> [➡️ 03-00. Intro to Web Visibility & Caching](../03-SEO-And-Redis-Caching/03-00-Intro.md)
+[02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-04-01-Syntax-Bootstrap-5-Grid-And-Components.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
 [02-Frontend-And-UI-UX/TypeScript-Language/02-00-Intro-To-TypeScript-And-Compiler.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
 [02-Frontend-And-UI-UX/TypeScript-Language/02-00-TypeScript-vs-JavaScript.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
 [02-Frontend-And-UI-UX/TypeScript-Language/02-01-00-Basic-Types-And-Interfaces.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
-[02-Frontend-And-UI-UX/TypeScript-Language/02-01-01-Basic-Types-And-Interfaces-Syntax.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
+[02-Frontend-And-UI-UX/TypeScript-Language/02-01-01-Syntax-Basic-Types-And-Interfaces.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
 [02-Frontend-And-UI-UX/TypeScript-Language/02-02-00-Advanced-Types-And-Guards.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
-[02-Frontend-And-UI-UX/TypeScript-Language/02-02-01-Advanced-Types-And-Guards-Syntax.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
+[02-Frontend-And-UI-UX/TypeScript-Language/02-02-01-Syntax-Advanced-Types-And-Guards.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
 [02-Frontend-And-UI-UX/TypeScript-Language/02-03-00-OOP-In-TypeScript.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
-[02-Frontend-And-UI-UX/TypeScript-Language/02-03-01-OOP-In-TypeScript-Syntax.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
+[02-Frontend-And-UI-UX/TypeScript-Language/02-03-01-Syntax-OOP-In-TypeScript.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
 [02-Frontend-And-UI-UX/TypeScript-Language/02-04-00-Mastering-Generics.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
-[02-Frontend-And-UI-UX/TypeScript-Language/02-04-01-Mastering-Generics-Syntax.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
+[02-Frontend-And-UI-UX/TypeScript-Language/02-04-01-Syntax-Mastering-Generics.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
 [02-Frontend-And-UI-UX/TypeScript-Language/02-05-00-Decorators-Modules-And-Async.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
-[02-Frontend-And-UI-UX/TypeScript-Language/02-05-01-Decorators-Modules-And-Async-Syntax.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
+[02-Frontend-And-UI-UX/TypeScript-Language/02-05-01-Syntax-Decorators-Modules-And-Async.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
+[02-Frontend-And-UI-UX/TypeScript-Language/02-96-Performance-And-Optimizations.md] -> [➡️ 02-10. Category Cheat Sheet](02-10-Category-Cheat-Sheet.md)
 [02-Frontend-And-UI-UX/TypeScript-Language/02-96-Performance-And-Optimizations.md] -> [⬅️ 02-08. TypeScript Deep Dive Addendum](02-08-TypeScript-Deep-Dive-Addendum.md)
 [02-Frontend-And-UI-UX/TypeScript-Language/02-96-Performance-And-Optimizations.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
-[02-Frontend-And-UI-UX/TypeScript-Language/02-96-Performance-And-Optimizations.md] -> [➡️ 02-10. Category Cheat Sheet](02-10-Category-Cheat-Sheet.md)
+[02-Frontend-And-UI-UX/TypeScript-Language/02-97-Category-Cheat-Sheet.md] -> [➡️ 02-11. Common Errors And Fixes](02-11-Common-Errors-And-Fixes.md)
 [02-Frontend-And-UI-UX/TypeScript-Language/02-97-Category-Cheat-Sheet.md] -> [⬅️ 02-09. TypeScript Оптимизации](02-09-Performance-And-Optimizations.md)
 [02-Frontend-And-UI-UX/TypeScript-Language/02-97-Category-Cheat-Sheet.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
-[02-Frontend-And-UI-UX/TypeScript-Language/02-97-Category-Cheat-Sheet.md] -> [➡️ 02-11. Common Errors And Fixes](02-11-Common-Errors-And-Fixes.md)
+[02-Frontend-And-UI-UX/TypeScript-Language/02-99-Interview-QA-Traps-And-Debugging.md] -> [➡️ 03-Python-Scripting](../03-Python-Scripting/README.md)
 [02-Frontend-And-UI-UX/TypeScript-Language/02-99-Interview-QA-Traps-And-Debugging.md] -> [⬅️ 02-11. TypeScript Common Errors & Fixes](02-11-Common-Errors-And-Fixes.md)
 [02-Frontend-And-UI-UX/TypeScript-Language/02-99-Interview-QA-Traps-And-Debugging.md] -> [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)
-[02-Frontend-And-UI-UX/TypeScript-Language/02-99-Interview-QA-Traps-And-Debugging.md] -> [➡️ 03-Python-Scripting](../03-Python-Scripting/README.md)
-[03-Backend-Ecosystems/Java-Ecosystem/04-98-Common-Errors-And-Fixes.md] -> [📦 Предишен модул: C-Sharp-And-ASP-NET](../C-Sharp-And-ASP-NET/README.md)
-[03-Backend-Ecosystems/Java-Ecosystem/04-99-Interview-QA-Traps-And-Debugging.md] -> [➡️ 01-QA-Automation](../01-QA-Automation/README.md)
-[03-Backend-Ecosystems/Java-Ecosystem/README.md] -> [📦 Предишен модул: C-Sharp-And-ASP-NET](../C-Sharp-And-ASP-NET/README.md)
-[03-Backend-Ecosystems/Java-Ecosystem/README.md] -> [Теория & Капани](Module-05-Spring-Advanced/05-06-00-Cloud-Docker-Kafka.md)
-[03-Backend-Ecosystems/Java-Ecosystem/README.md] -> [Syntax & Cheat Sheet](Module-05-Spring-Advanced/05-06-01-Syntax.md)
-[03-Backend-Ecosystems/Python-Scripting/03-99-Interview-QA-Traps-And-Debugging.md] -> [➡️ 04-Java-Ecosystem](../04-Java-Ecosystem/README.md)
-[04-Databases-And-Caching/Databases-And-EF-Core/01-00-SQL-SERVER-AND-RELATIONS-INTRO.md] -> [➡️ Главен справочник на темата](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
-[04-Databases-And-Caching/Databases-And-EF-Core/02-00-EF-CORE-AND-CODE-FIRST-INTRO.md] -> [02-04. Мулти-провайдър Превключване](02-04-Multi-Database-Provider-Switch.md)
-[04-Databases-And-Caching/Databases-And-EF-Core/02-01-EF-Core-Mapping-Approaches.md] -> [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
-[04-Databases-And-Caching/Databases-And-EF-Core/02-02-ApplicationDbContext-And-Fluent-API-Configuration.md] -> [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
-[04-Databases-And-Caching/Databases-And-EF-Core/02-03-EF-Core-Fluent-API-And-Migrations-CheatSheet.md] -> [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
-[04-Databases-And-Caching/Databases-And-EF-Core/02-03-EF-Core-Fluent-API-And-Migrations-CheatSheet.md] -> [➡️ 02-04. Мулти-провайдър Превключване](02-04-Multi-Database-Provider-Switch.md)
-[04-Databases-And-Caching/Databases-And-EF-Core/02-04-Multi-Database-Configuration-And-Switching.md] -> [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
-[04-Databases-And-Caching/Databases-And-EF-Core/02-05-AdoNet-Vs-EfCore-And-Change-Tracking.md] -> [⬅️ 02-04. Мулти-провайдър Превключване](02-04-Multi-Database-Provider-Switch.md)
-[04-Databases-And-Caching/Databases-And-EF-Core/02-05-AdoNet-Vs-EfCore-And-Change-Tracking.md] -> [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
-[04-Databases-And-Caching/Databases-And-EF-Core/02-06-Database-First-Model-Scaffolding.md] -> [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
-[04-Databases-And-Caching/Databases-And-EF-Core/02-07-EF-Core-TDD-And-InMemory-Testing.md] -> [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
-[04-Databases-And-Caching/Databases-And-EF-Core/02-08-InverseProperty-Multiple-Relationships.md] -> [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
-[04-Databases-And-Caching/Databases-And-EF-Core/02-09-Data-Annotations-Validation-And-Attributes.md] -> [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
-[04-Databases-And-Caching/Databases-And-EF-Core/02-10-Advanced-LINQ-And-Query-Operations.md] -> [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
-[04-Databases-And-Caching/Databases-And-EF-Core/03-00-ADVANCED-DBCONTEXT-PROTECTIONS-INTRO.md] -> [⬅️ Главен справочник на темата](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
-[04-Databases-And-Caching/Databases-And-EF-Core/03-00-ADVANCED-DBCONTEXT-PROTECTIONS-INTRO.md] -> [⏪ Глава 02-00. Основи на EF Core](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
-[04-Databases-And-Caching/Databases-And-EF-Core/README.md] -> [Архитектура и Cross-Stack](../Architecture-And-Cross-Stack/)
-[04-Databases-And-Caching/Databases-And-EF-Core/README.md] -> [Главен справочник на темата](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
-[04-Databases-And-Caching/Databases-And-EF-Core/README.md] -> [Превключване на провайдъри](02-04-Multi-Database-Provider-Switch.md)
-[04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md] -> [01-04. NoSQL: MongoDB](01-04-NoSQL-Documents-MongoDB.md)
-[04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-08-Specialized-Databases-Vector-Search-Graph.md] -> [02-01. Връзки между таблици](02-01-Table-Relations-And-Constraints.md)
-[04-Databases-And-Caching/Databases-SQL-And-NoSQL/03-00-SQL-QUERIES-OVERVIEW.md] -> [➡️ 03-01. Joins](03-01-SQL-Joins.md)
-[04-Databases-And-Caching/Databases-SQL-And-NoSQL/04-01-Indices-And-Execution-Plans.md] -> [04-02. Транзакции и ACID](04-02-Transactions-ACID-And-Isolation-Levels.md)
-[04-Databases-And-Caching/Databases-SQL-And-NoSQL/04-06-OLTP-vs-OLAP-And-Data-Warehouses.md] -> [00-03. Архитектура, Бекъпи и Инструменти](00-03-DBMS-Architecture-Backups-And-Tools.md)
-[04-Databases-And-Caching/Databases-SQL-And-NoSQL/README.md] -> [Архитектурен Атлас](../Architecture-And-Cross-Stack/)
-[04-Databases-And-Caching/Redis-Caching/03-02-00-Redis-Caching-Architecture.md] -> [⬅️ 03-01-01. Syntax-From-Scratch & SEO Audit Checklist](03-01-01-Syntax.md)
-[04-Databases-And-Caching/Redis-Caching/03-02-00-Redis-Caching-Architecture.md] -> [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md)
-[04-Databases-And-Caching/Redis-Caching/03-02-00-Redis-Caching-Architecture.md] -> [🏠 Начало](../../../../README.md)
-[04-Databases-And-Caching/Redis-Caching/03-02-00-Redis-Caching-Architecture.md] -> [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md)
-[04-Databases-And-Caching/Redis-Caching/03-02-01-Redis-Syntax.md] -> [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md)
-[04-Databases-And-Caching/Redis-Caching/03-02-01-Redis-Syntax.md] -> [🏠 Начало](../../../../README.md)
-[04-Databases-And-Caching/Redis-Caching/03-02-01-Redis-Syntax.md] -> [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md)
-[04-Databases-And-Caching/Redis-Caching/03-02-01-Redis-Syntax.md] -> [➡️ 04-00. Intro & Judge Exam Strategy](../04-Exam-Preparation/04-00-Intro.md)
-[05-QA-And-Test-Automation/01-QA-Automation/01-00-Intro-To-QA-Engineering.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
-[05-QA-And-Test-Automation/01-QA-Automation/01-01-00-SDLC-STLC-And-Testing-Types.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
-[05-QA-And-Test-Automation/01-QA-Automation/01-01-01-SDLC-STLC-And-Testing-Types-Syntax.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
-[05-QA-And-Test-Automation/01-QA-Automation/01-02-00-Test-Design-Jira-And-MS-Project.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
-[05-QA-And-Test-Automation/01-QA-Automation/01-02-01-Test-Design-Jira-And-MS-Project-Syntax.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
-[05-QA-And-Test-Automation/01-QA-Automation/01-03-00-Multi-Language-Unit-Testing.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
-[05-QA-And-Test-Automation/01-QA-Automation/01-03-01-Multi-Language-Unit-Testing-Syntax.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
-[05-QA-And-Test-Automation/01-QA-Automation/01-04-01-Selenium-WebDriver-And-POM-Syntax.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
-[05-QA-And-Test-Automation/01-QA-Automation/01-05-00-Playwright-AJAX-And-Appium.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
-[05-QA-And-Test-Automation/01-QA-Automation/01-05-01-Playwright-AJAX-And-Appium-Syntax.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
-[05-QA-And-Test-Automation/01-QA-Automation/01-06-00-API-And-Performance-Testing.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
-[05-QA-And-Test-Automation/01-QA-Automation/01-06-01-API-And-Performance-Testing-Syntax.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
-[05-QA-And-Test-Automation/01-QA-Automation/01-96-Performance-And-Optimizations.md] -> [⬅️ 01-08. Индустриални QA Платформи](01-08-Jira-JQL-TestRail-And-CICD-Platforms.md)
-[05-QA-And-Test-Automation/01-QA-Automation/01-99-Interview-QA-Traps-And-Debugging.md] -> [➡️ 02-TypeScript-Language](../02-TypeScript-Language/README.md)
-[06-Cloud-DevOps-And-Architecture/System-Design-And-Software-Architecture/README.md] -> [📂 Отиди в папка ASP-NET](../ASP-NET/)
-[06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-00-Technical-SEO-And-Meta-Tags.md] -> [⬅️ 03-00. Intro to Web Visibility & In-Memory Caching](03-00-Intro.md)
-[06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-00-Technical-SEO-And-Meta-Tags.md] -> [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md)
-[06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-00-Technical-SEO-And-Meta-Tags.md] -> [🏠 Начало](../../../../README.md)
-[06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-00-Technical-SEO-And-Meta-Tags.md] -> [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md)
-[06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-01-SEO-Syntax.md] -> [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md)
-[06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-01-SEO-Syntax.md] -> [🏠 Начало](../../../../README.md)
-[06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-01-SEO-Syntax.md] -> [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md)
 [03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md] -> [📦 Екосистема: C Sharp And ASP NET](../README.md)
-[03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/00-Chrome-DevTools-Full-Diagnostic-Guide.md] -> [⬅️ 00-03. Тестване с Postman](00-03-Postman-API-Testing-Fundamentals.md)
 [03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/00-Chrome-DevTools-Full-Diagnostic-Guide.md] -> [⏩ Глава 01-00. Еволюция на ASP.NET](01-00-ASP-NET-VERSIONS-AND-EVOLUTION.md)
+[03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/00-Chrome-DevTools-Full-Diagnostic-Guide.md] -> [⬅️ 00-03. Тестване с Postman](00-03-Postman-API-Testing-Fundamentals.md)
 [03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md] -> [📦 Екосистема: C Sharp And ASP NET](../README.md)
 [03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/01-02-ASP-NET-Core-Lifecycle-And-Middleware.md] -> [📦 Екосистема: C Sharp And ASP NET](../README.md)
 [03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/02-00-ASP-NET-CORE-ADVANCED-INTRO.md] -> [📦 Екосистема: C Sharp And ASP NET](../README.md)
@@ -274,14 +128,14 @@
 [03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/02-05-Razor-Pages-Vs-MVC-Architectural-Contrast.md] -> [➡️ 02-06. Глобална Софтуерна Сигурност](02-06-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md)
 [03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/02-06-Repository-Pattern-Generic-Repositories.md] -> [➡️ 02-06. Глобална Софтуерна Сигурност](02-06-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md)
 [03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/02-07-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md] -> [⬅️ 02-06. Razor Рендериране и Пренос](02-06-Razor-Pages-Vs-MVC-Architectural-Contrast.md)
-[03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/README.md] -> [📦 Екосистема: C Sharp And ASP NET](../README.md)
 [03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/README.md] -> [🏠 Всички бележки (01-Theory-Notes)](../README.md)
-[03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/README.md] -> [🗄️ Бази данни (SQL & NoSQL)](../Databases-SQL-And-NoSQL/)
 [03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/README.md] -> [💾 Entity Framework Core](../Databases-And-EF-Core/)
+[03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/README.md] -> [📦 Екосистема: C Sharp And ASP NET](../README.md)
+[03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/README.md] -> [🗄️ Бази данни (SQL & NoSQL)](../Databases-SQL-And-NoSQL/)
 [03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/README.md] -> [02-06. Глобална Софтуерна Сигурност](02-06-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md)
-[03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/README.md] -> [Всички бележки (01-Theory-Notes)](../README.md)
-[03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/README.md] -> [Бази данни (SQL & NoSQL)](../Databases-SQL-And-NoSQL/)
 [03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/README.md] -> [Entity Framework Core](../Databases-And-EF-Core/)
+[03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/README.md] -> [Бази данни (SQL & NoSQL)](../Databases-SQL-And-NoSQL/)
+[03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/README.md] -> [Всички бележки (01-Theory-Notes)](../README.md)
 [03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/01-01-TYPES-CONDITIONALS-LOOPS.md] -> [📦 Екосистема: C Sharp And ASP NET](../README.md)
 [03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/01-C-SHARP-FUND-SHORT.md] -> [📦 Екосистема: C Sharp And ASP NET](../README.md)
 [03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/04-COLECTIONS.md] -> [📦 Екосистема: C Sharp And ASP NET](../README.md)
@@ -296,4 +150,428 @@
 [03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/13-STREAMS-FILES-DIRECTORIES.md] -> [📦 Екосистема: C Sharp And ASP NET](../README.md)
 [03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/14-DESIGN-PATTERNS-OOP.md] -> [📦 Екосистема: C Sharp And ASP NET](../README.md)
 [03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md] -> [📦 Екосистема: C Sharp And ASP NET](../README.md)
-[03-Backend-Ecosystems/Java-Ecosystem/Module-05-Spring-Advanced/05-05-01-Docs-Testing-And-Docker-Syntax.md] -> [➡️ Глобален Индекс & Речник](../../GLOBAL-INDEX-AND-GLOSSARY.md)
+[03-Backend-Ecosystems/Java-Ecosystem/04-98-Common-Errors-And-Fixes.md] -> [📦 Предишен модул: C-Sharp-And-ASP-NET](../C-Sharp-And-ASP-NET/README.md)
+[03-Backend-Ecosystems/Java-Ecosystem/04-99-Interview-QA-Traps-And-Debugging.md] -> [➡️ 01-QA-Automation](../01-QA-Automation/README.md)
+[03-Backend-Ecosystems/Java-Ecosystem/Module-05-Spring-Advanced/05-05-01-Syntax-Docs-Testing-And-Docker.md] -> [➡️ Глобален Индекс & Речник](../../GLOBAL-INDEX-AND-GLOSSARY.md)
+[03-Backend-Ecosystems/Java-Ecosystem/README.md] -> [📦 Предишен модул: C-Sharp-And-ASP-NET](../C-Sharp-And-ASP-NET/README.md)
+[03-Backend-Ecosystems/Java-Ecosystem/README.md] -> [Syntax & Cheat Sheet](Module-05-Spring-Advanced/05-06-01-Syntax.md)
+[03-Backend-Ecosystems/Java-Ecosystem/README.md] -> [Теория & Капани](Module-05-Spring-Advanced/05-06-00-Cloud-Docker-Kafka.md)
+[03-Backend-Ecosystems/Python-Scripting/03-99-Interview-QA-Traps-And-Debugging.md] -> [➡️ 04-Java-Ecosystem](../04-Java-Ecosystem/README.md)
+[03-Backend-Ecosystems/README.md] -> [🧭 Пътеводител за Учене (00-Learning-Roadmaps)](00-Learning-Roadmaps/README.md)
+[03-Backend-Ecosystems/README.md] -> [00. Примерни Пътеки за Учене (`00-Learning-Roadmaps/`)](00-Learning-Roadmaps/README.md)
+[03-Backend-Ecosystems/README.md] -> [00. Примерни Пътеки за Учене и Дневници (Learning Roadmaps)](00-Learning-Roadmaps/README.md)
+[03-Backend-Ecosystems/README.md] -> [01. Инструменти, Контрол на Версиите и Алгоритми (Core Tools)](01-Core-Tools-And-Fundamentals/README.md)
+[03-Backend-Ecosystems/README.md] -> [02. Фронтенд и UI/UX Дизайн (Frontend & UI/UX)](02-Frontend-And-UI-UX/README.md)
+[03-Backend-Ecosystems/README.md] -> [03. Бекенд Екосистеми (Backend Ecosystems)](03-Backend-Ecosystems/README.md)
+[03-Backend-Ecosystems/README.md] -> [04. Бази Данни, Кеширане и Потоци (Databases & Data)](04-Databases-And-Caching/README.md)
+[03-Backend-Ecosystems/README.md] -> [05. QA и Автоматизирано Тестване (QA Automation & SDET)](05-QA-And-Test-Automation/README.md)
+[03-Backend-Ecosystems/README.md] -> [06. Облачна Инфраструктура, DevOps и Архитектура](06-Cloud-DevOps-And-Architecture/README.md)
+[03-Backend-Ecosystems/README.md] -> [07. Разработка на Игри (Game Development)](07-Game-Development/README.md)
+[03-Backend-Ecosystems/README.md] -> [API, Contract & Performance Тестване](05-QA-And-Test-Automation/API-And-Performance-Testing/README.md)
+[03-Backend-Ecosystems/README.md] -> [C# & ASP.NET Core](03-Backend-Ecosystems/C-Sharp-And-ASP-NET/README.md)
+[03-Backend-Ecosystems/README.md] -> [CI/CD, Observability & Technical SEO](06-Cloud-DevOps-And-Architecture/CI-CD-And-SEO/README.md)
+[03-Backend-Ecosystems/README.md] -> [Cloud Платформи (AWS & Microsoft Azure)](06-Cloud-DevOps-And-Architecture/Cloud-Platforms-AWS-And-Azure/README.md)
+[03-Backend-Ecosystems/README.md] -> [Docker & Kubernetes (Контейнеризация)](06-Cloud-DevOps-And-Architecture/Docker-And-Kubernetes/README.md)
+[03-Backend-Ecosystems/README.md] -> [Event Streaming и Опашки (Apache Kafka & RabbitMQ)](04-Databases-And-Caching/Data-Engineering-And-Streaming/README.md)
+[03-Backend-Ecosystems/README.md] -> [Full-Stack & QA Automation Roadmap (Нива 1–4)](00-Learning-Roadmaps/Full-Stack-And-QA-Automation-Roadmap/README.md)
+[03-Backend-Ecosystems/README.md] -> [Game Design Patterns & Архитектура](07-Game-Development/Game-Design-Patterns/README.md)
+[03-Backend-Ecosystems/README.md] -> [Git & GitHub (CLI, GitHub Desktop & TortoiseGit)](01-Core-Tools-And-Fundamentals/Git-And-GitHub/README.md)
+[03-Backend-Ecosystems/README.md] -> [HTML5, CSS3, Sass/SCSS & Responsive](02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md)
+[03-Backend-Ecosystems/README.md] -> [Java 21+ & Spring Boot 3](03-Backend-Ecosystems/Java-Ecosystem/README.md)
+[03-Backend-Ecosystems/README.md] -> [JavaScript (ES6+) & TypeScript](02-Frontend-And-UI-UX/JavaScript-And-TypeScript/README.md)
+[03-Backend-Ecosystems/README.md] -> [Linux, Terminal & Bash Scripting](01-Core-Tools-And-Fundamentals/Linux-And-Bash-Scripting/README.md)
+[03-Backend-Ecosystems/README.md] -> [Manual QA, Test Design & Jira](05-QA-And-Test-Automation/Manual-QA-And-Jira/README.md)
+[03-Backend-Ecosystems/README.md] -> [Modern PHP 8.3+, Laravel & WordPress](03-Backend-Ecosystems/PHP-Laravel-And-WordPress/README.md)
+[03-Backend-Ecosystems/README.md] -> [Node.js, Express & NestJS](03-Backend-Ecosystems/Node-Express-And-NestJS/README.md)
+[03-Backend-Ecosystems/README.md] -> [NoSQL и Кеширане в Паметта (Redis & MongoDB)](04-Databases-And-Caching/NoSQL-And-Redis-Caching/README.md)
+[03-Backend-Ecosystems/README.md] -> [ORM Системи (EF Core & Hibernate/JPA)](04-Databases-And-Caching/ORM-Systems/README.md)
+[03-Backend-Ecosystems/README.md] -> [Python 3.x, Django & FastAPI](03-Backend-Ecosystems/Python-Scripting/README.md)
+[03-Backend-Ecosystems/README.md] -> [REST API, RESTful & GraphQL (API Архитектура)](03-Backend-Ecosystems/REST-API-And-GraphQL/README.md)
+[03-Backend-Ecosystems/README.md] -> [System Design & Software Architecture](06-Cloud-DevOps-And-Architecture/System-Design-And-Architecture/README.md)
+[03-Backend-Ecosystems/README.md] -> [UI/UX Design & Figma](02-Frontend-And-UI-UX/UI-UX-Design-And-Figma/README.md)
+[03-Backend-Ecosystems/README.md] -> [Unit Testing & Mocking (C#, Java, TS, Python)](05-QA-And-Test-Automation/Multi-Language-Unit-Testing/README.md)
+[03-Backend-Ecosystems/README.md] -> [Unity Engine & C# Game Scripting](07-Game-Development/Unity-And-C-Sharp-Scripting/README.md)
+[03-Backend-Ecosystems/README.md] -> [Web UI & Mobile Автоматизация](05-QA-And-Test-Automation/UI-And-Mobile-Automation/README.md)
+[03-Backend-Ecosystems/README.md] -> [Алгоритми и Структури от Данни (Algorithms)](01-Core-Tools-And-Fundamentals/Algorithms-Introduction/README.md)
+[03-Backend-Ecosystems/README.md] -> [Дневници и Чеклистове на Обучението](00-Learning-Roadmaps/Study-Checklists-And-Logs/README.md)
+[03-Backend-Ecosystems/README.md] -> [Модерни SPA Рамки (React, Vue 3, Angular)](02-Frontend-And-UI-UX/Modern-SPA-Frameworks/README.md)
+[03-Backend-Ecosystems/README.md] -> [Релационни Бази Данни (SQL Server & PostgreSQL)](04-Databases-And-Caching/SQL-And-Relational-DBs/README.md)
+[04-Databases-And-Caching/Databases-And-EF-Core/01-00-SQL-SERVER-AND-RELATIONS-INTRO.md] -> [➡️ Главен справочник на темата](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
+[04-Databases-And-Caching/Databases-And-EF-Core/02-00-EF-CORE-AND-CODE-FIRST-INTRO.md] -> [02-04. Мулти-провайдър Превключване](02-04-Multi-Database-Provider-Switch.md)
+[04-Databases-And-Caching/Databases-And-EF-Core/02-01-EF-Core-Mapping-Approaches.md] -> [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
+[04-Databases-And-Caching/Databases-And-EF-Core/02-02-ApplicationDbContext-And-Fluent-API-Configuration.md] -> [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
+[04-Databases-And-Caching/Databases-And-EF-Core/02-03-EF-Core-Fluent-API-And-Migrations-CheatSheet.md] -> [➡️ 02-04. Мулти-провайдър Превключване](02-04-Multi-Database-Provider-Switch.md)
+[04-Databases-And-Caching/Databases-And-EF-Core/02-03-EF-Core-Fluent-API-And-Migrations-CheatSheet.md] -> [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
+[04-Databases-And-Caching/Databases-And-EF-Core/02-04-Multi-Database-Configuration-And-Switching.md] -> [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
+[04-Databases-And-Caching/Databases-And-EF-Core/02-05-AdoNet-Vs-EfCore-And-Change-Tracking.md] -> [⬅️ 02-04. Мулти-провайдър Превключване](02-04-Multi-Database-Provider-Switch.md)
+[04-Databases-And-Caching/Databases-And-EF-Core/02-05-AdoNet-Vs-EfCore-And-Change-Tracking.md] -> [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
+[04-Databases-And-Caching/Databases-And-EF-Core/02-06-Database-First-Model-Scaffolding.md] -> [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
+[04-Databases-And-Caching/Databases-And-EF-Core/02-07-EF-Core-TDD-And-InMemory-Testing.md] -> [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
+[04-Databases-And-Caching/Databases-And-EF-Core/02-08-InverseProperty-Multiple-Relationships.md] -> [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
+[04-Databases-And-Caching/Databases-And-EF-Core/02-09-Data-Annotations-Validation-And-Attributes.md] -> [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
+[04-Databases-And-Caching/Databases-And-EF-Core/02-10-Advanced-LINQ-And-Query-Operations.md] -> [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
+[04-Databases-And-Caching/Databases-And-EF-Core/03-00-ADVANCED-DBCONTEXT-PROTECTIONS-INTRO.md] -> [⏪ Глава 02-00. Основи на EF Core](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
+[04-Databases-And-Caching/Databases-And-EF-Core/03-00-ADVANCED-DBCONTEXT-PROTECTIONS-INTRO.md] -> [⬅️ Главен справочник на темата](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
+[04-Databases-And-Caching/Databases-And-EF-Core/README.md] -> [Архитектура и Cross-Stack](../Architecture-And-Cross-Stack/)
+[04-Databases-And-Caching/Databases-And-EF-Core/README.md] -> [Главен справочник на темата](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
+[04-Databases-And-Caching/Databases-And-EF-Core/README.md] -> [Превключване на провайдъри](02-04-Multi-Database-Provider-Switch.md)
+[04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md] -> [01-04. NoSQL: MongoDB](01-04-NoSQL-Documents-MongoDB.md)
+[04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-08-Specialized-Databases-Vector-Search-Graph.md] -> [02-01. Връзки между таблици](02-01-Table-Relations-And-Constraints.md)
+[04-Databases-And-Caching/Databases-SQL-And-NoSQL/03-00-SQL-QUERIES-OVERVIEW.md] -> [➡️ 03-01. Joins](03-01-SQL-Joins.md)
+[04-Databases-And-Caching/Databases-SQL-And-NoSQL/04-01-Indices-And-Execution-Plans.md] -> [04-02. Транзакции и ACID](04-02-Transactions-ACID-And-Isolation-Levels.md)
+[04-Databases-And-Caching/Databases-SQL-And-NoSQL/04-06-OLTP-vs-OLAP-And-Data-Warehouses.md] -> [00-03. Архитектура, Бекъпи и Инструменти](00-03-DBMS-Architecture-Backups-And-Tools.md)
+[04-Databases-And-Caching/Databases-SQL-And-NoSQL/README.md] -> [Архитектурен Атлас](../Architecture-And-Cross-Stack/)
+[04-Databases-And-Caching/Redis-Caching/03-02-00-Redis-Caching-Architecture.md] -> [⬅️ 03-01-01. Syntax-From-Scratch & SEO Audit Checklist](03-01-01-Syntax.md)
+[04-Databases-And-Caching/Redis-Caching/03-02-00-Redis-Caching-Architecture.md] -> [🏠 Начало](../../../../README.md)
+[04-Databases-And-Caching/Redis-Caching/03-02-00-Redis-Caching-Architecture.md] -> [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md)
+[04-Databases-And-Caching/Redis-Caching/03-02-00-Redis-Caching-Architecture.md] -> [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md)
+[04-Databases-And-Caching/Redis-Caching/03-02-01-Syntax-Redis.md] -> [➡️ 04-00. Intro & Judge Exam Strategy](../04-Exam-Preparation/04-00-Intro.md)
+[04-Databases-And-Caching/Redis-Caching/03-02-01-Syntax-Redis.md] -> [🏠 Начало](../../../../README.md)
+[04-Databases-And-Caching/Redis-Caching/03-02-01-Syntax-Redis.md] -> [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md)
+[04-Databases-And-Caching/Redis-Caching/03-02-01-Syntax-Redis.md] -> [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md)
+[05-QA-And-Test-Automation/01-QA-Automation/01-00-Intro-To-QA-Engineering.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
+[05-QA-And-Test-Automation/01-QA-Automation/01-01-00-SDLC-STLC-And-Testing-Types.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
+[05-QA-And-Test-Automation/01-QA-Automation/01-01-01-Syntax-SDLC-STLC-And-Testing-Types.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
+[05-QA-And-Test-Automation/01-QA-Automation/01-02-00-Test-Design-Jira-And-MS-Project.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
+[05-QA-And-Test-Automation/01-QA-Automation/01-02-01-Syntax-Test-Design-Jira-And-MS-Project.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
+[05-QA-And-Test-Automation/01-QA-Automation/01-03-00-Multi-Language-Unit-Testing.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
+[05-QA-And-Test-Automation/01-QA-Automation/01-03-01-Syntax-Multi-Language-Unit-Testing.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
+[05-QA-And-Test-Automation/01-QA-Automation/01-04-01-Syntax-Selenium-WebDriver-And-POM.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
+[05-QA-And-Test-Automation/01-QA-Automation/01-05-00-Playwright-AJAX-And-Appium.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
+[05-QA-And-Test-Automation/01-QA-Automation/01-05-01-Syntax-Playwright-AJAX-And-Appium.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
+[05-QA-And-Test-Automation/01-QA-Automation/01-06-00-API-And-Performance-Testing.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
+[05-QA-And-Test-Automation/01-QA-Automation/01-06-01-Syntax-API-And-Performance-Testing.md] -> [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md)
+[05-QA-And-Test-Automation/01-QA-Automation/01-96-Performance-And-Optimizations.md] -> [⬅️ 01-08. Индустриални QA Платформи](01-08-Jira-JQL-TestRail-And-CICD-Platforms.md)
+[05-QA-And-Test-Automation/01-QA-Automation/01-99-Interview-QA-Traps-And-Debugging.md] -> [➡️ 02-TypeScript-Language](../02-TypeScript-Language/README.md)
+[05-QA-And-Test-Automation/README.md] -> [02. Security & Penetration Testing (OWASP Top 10)](Security-And-Penetration-Testing/README.md)
+[06-Cloud-DevOps-And-Architecture/README.md] -> [03. Docker & Kubernetes (Контейнеризация)](Docker-And-Kubernetes/README.md)
+[06-Cloud-DevOps-And-Architecture/README.md] -> [04. Cloud Платформи (AWS & Microsoft Azure)](Cloud-Platforms-AWS-And-Azure/README.md)
+[06-Cloud-DevOps-And-Architecture/System-Design-And-Software-Architecture/README.md] -> [📂 Отиди в папка ASP-NET](../ASP-NET/)
+[06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-00-Technical-SEO-And-Meta-Tags.md] -> [⬅️ 03-00. Intro to Web Visibility & In-Memory Caching](03-00-Intro.md)
+[06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-00-Technical-SEO-And-Meta-Tags.md] -> [🏠 Начало](../../../../README.md)
+[06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-00-Technical-SEO-And-Meta-Tags.md] -> [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md)
+[06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-00-Technical-SEO-And-Meta-Tags.md] -> [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md)
+[06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-01-Syntax-SEO.md] -> [🏠 Начало](../../../../README.md)
+[06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-01-Syntax-SEO.md] -> [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md)
+[06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-01-Syntax-SEO.md] -> [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md)
+[07-Game-Development/README.md] -> [▶️ Започни от Git & GitHub](01-Core-Tools-And-Fundamentals/Git-And-GitHub/README.md)
+[07-Game-Development/README.md] -> [🧭 Пътеводител за Учене (00-Learning-Roadmaps)](00-Learning-Roadmaps/README.md)
+[07-Game-Development/README.md] -> [00. Примерни Пътеки за Учене (`00-Learning-Roadmaps/`)](00-Learning-Roadmaps/README.md)
+[07-Game-Development/README.md] -> [00. Примерни Пътеки за Учене и Дневници (Learning Roadmaps)](00-Learning-Roadmaps/README.md)
+[07-Game-Development/README.md] -> [01. Инструменти, Контрол на Версиите и Алгоритми (Core Tools)](01-Core-Tools-And-Fundamentals/README.md)
+[07-Game-Development/README.md] -> [02. Фронтенд и UI/UX Дизайн (Frontend & UI/UX)](02-Frontend-And-UI-UX/README.md)
+[07-Game-Development/README.md] -> [03. Бекенд Екосистеми (Backend Ecosystems)](03-Backend-Ecosystems/README.md)
+[07-Game-Development/README.md] -> [04. Бази Данни, Кеширане и Потоци (Databases & Data)](04-Databases-And-Caching/README.md)
+[07-Game-Development/README.md] -> [05. QA и Автоматизирано Тестване (QA Automation & SDET)](05-QA-And-Test-Automation/README.md)
+[07-Game-Development/README.md] -> [06. Облачна Инфраструктура, DevOps и Архитектура](06-Cloud-DevOps-And-Architecture/README.md)
+[07-Game-Development/README.md] -> [07. Разработка на Игри (Game Development)](07-Game-Development/README.md)
+[07-Game-Development/README.md] -> [API, Contract & Performance Тестване](05-QA-And-Test-Automation/API-And-Performance-Testing/README.md)
+[07-Game-Development/README.md] -> [C# & ASP.NET Core](03-Backend-Ecosystems/C-Sharp-And-ASP-NET/README.md)
+[07-Game-Development/README.md] -> [CI/CD, Observability & Technical SEO](06-Cloud-DevOps-And-Architecture/CI-CD-And-SEO/README.md)
+[07-Game-Development/README.md] -> [Cloud Платформи (AWS & Microsoft Azure)](06-Cloud-DevOps-And-Architecture/Cloud-Platforms-AWS-And-Azure/README.md)
+[07-Game-Development/README.md] -> [Docker & Kubernetes (Контейнеризация)](06-Cloud-DevOps-And-Architecture/Docker-And-Kubernetes/README.md)
+[07-Game-Development/README.md] -> [Event Streaming и Опашки (Apache Kafka & RabbitMQ)](04-Databases-And-Caching/Data-Engineering-And-Streaming/README.md)
+[07-Game-Development/README.md] -> [Full-Stack & QA Automation Roadmap (Нива 1–4)](00-Learning-Roadmaps/Full-Stack-And-QA-Automation-Roadmap/README.md)
+[07-Game-Development/README.md] -> [Game Design Patterns & Архитектура](07-Game-Development/Game-Design-Patterns/README.md)
+[07-Game-Development/README.md] -> [Git & GitHub (CLI, GitHub Desktop & TortoiseGit)](01-Core-Tools-And-Fundamentals/Git-And-GitHub/README.md)
+[07-Game-Development/README.md] -> [HTML5, CSS3, Sass/SCSS & Responsive](02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md)
+[07-Game-Development/README.md] -> [Java 21+ & Spring Boot 3](03-Backend-Ecosystems/Java-Scripting/README.md)
+[07-Game-Development/README.md] -> [JavaScript (ES6+) & TypeScript](02-Frontend-And-UI-UX/JavaScript-And-TypeScript/README.md)
+[07-Game-Development/README.md] -> [Linux, Terminal & Bash Scripting](01-Core-Tools-And-Fundamentals/Linux-And-Bash-Scripting/README.md)
+[07-Game-Development/README.md] -> [Manual QA, Test Design & Jira](05-QA-And-Test-Automation/Manual-QA-And-Jira/README.md)
+[07-Game-Development/README.md] -> [Modern PHP 8.3+, Laravel & WordPress](03-Backend-Ecosystems/PHP-Laravel-And-WordPress/README.md)
+[07-Game-Development/README.md] -> [Node.js, Express & NestJS](03-Backend-Ecosystems/Node-Express-And-NestJS/README.md)
+[07-Game-Development/README.md] -> [NoSQL и Кеширане в Паметта (Redis & MongoDB)](04-Databases-And-Caching/NoSQL-And-Redis-Caching/README.md)
+[07-Game-Development/README.md] -> [ORM Системи (EF Core & Hibernate/JPA)](04-Databases-And-Caching/ORM-Systems/README.md)
+[07-Game-Development/README.md] -> [Python 3.x, Django & FastAPI](03-Backend-Ecosystems/Python-Scripting/README.md)
+[07-Game-Development/README.md] -> [REST API, RESTful & GraphQL (API Архитектура)](03-Backend-Ecosystems/REST-API-And-GraphQL/README.md)
+[07-Game-Development/README.md] -> [System Design & Software Architecture](06-Cloud-DevOps-And-Architecture/System-Design-And-Architecture/README.md)
+[07-Game-Development/README.md] -> [UI/UX Design & Figma](02-Frontend-And-UI-UX/UI-UX-Design-And-Figma/README.md)
+[07-Game-Development/README.md] -> [Unit Testing & Mocking (C#, Java, TS, Python)](05-QA-And-Test-Automation/Multi-Language-Unit-Testing/README.md)
+[07-Game-Development/README.md] -> [Unity Engine & C# Game Scripting](07-Game-Development/Unity-And-C-Sharp-Scripting/README.md)
+[07-Game-Development/README.md] -> [Web UI & Mobile Автоматизация](05-QA-And-Test-Automation/UI-And-Mobile-Automation/README.md)
+[07-Game-Development/README.md] -> [Алгоритми и Структури от Данни (Algorithms)](01-Core-Tools-And-Fundamentals/Algorithms-Introduction/README.md)
+[07-Game-Development/README.md] -> [Дневници и Чеклистове на Обучението](00-Learning-Roadmaps/01-Personal-Checklists/README.md)
+[07-Game-Development/README.md] -> [Модерни SPA Рамки (React, Vue 3, Angular)](02-Frontend-And-UI-UX/Modern-SPA-Frameworks/README.md)
+[07-Game-Development/README.md] -> [Релационни Бази Данни (SQL Server & PostgreSQL)](04-Databases-And-Caching/SQL-And-Relational-DBs/README.md)
+[Architecture-And-Cross-Stack/README.md] -> [Entity Framework Core](../Databases-And-EF-Core/)
+[Architecture-And-Cross-Stack/README.md] -> [Бази данни (SQL & NoSQL)](../Databases-SQL-And-NoSQL/)
+[README.md] -> [C# & ASP.NET Core (`C-Sharp-And-ASP-NET/`)](03-Backend-Ecosystems/C-Sharp-And-ASP-NET/README.md)
+
+--------------------------------------------------------------------------------
+2. ПРЕИМЕНУВАНИ ФАЙЛОВЕ (0)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+3. АВТОМАТИЧНО ПОПРАВЕНИ ЛИНКОВЕ (0)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+4. ВСИЧКИ ОБНОВЕНИ ФАЙЛОВЕ (266)
+--------------------------------------------------------------------------------
+README.md
+00-Learning-Roadmaps/00-Full-Stack-And-QA-Automation-Roadmap.md
+00-Learning-Roadmaps/FRAMEWORK-AND-TECH-SELECTION-GUIDE.md
+00-Learning-Roadmaps/README.md
+00-Learning-Roadmaps/TECH-STACK-COMPARISONS.md
+01-Core-Tools-And-Fundamentals/README.md
+02-Frontend-And-UI-UX/README.md
+03-Backend-Ecosystems/README.md
+04-Databases-And-Caching/README.md
+05-QA-And-Test-Automation/README.md
+06-Cloud-DevOps-And-Architecture/README.md
+07-Game-Development/README.md
+Architecture-And-Cross-Stack/01-00-ARCHITECTURE-AND-MEMORY-INTRO.md
+Architecture-And-Cross-Stack/01-01-Cross-Stack-Types-And-Ecosystem.md
+Architecture-And-Cross-Stack/01-02-Stack-Vs-Heap-Memory-Deep-Dive.md
+Architecture-And-Cross-Stack/01-03-Ecosystems-Comparison-DotNet-JVM-Node.md
+Architecture-And-Cross-Stack/01-04-Compilers-Interpreters-And-Runtime.md
+Architecture-And-Cross-Stack/02-00-SOFTWARE-ARCHITECTURE-OVERVIEW.md
+Architecture-And-Cross-Stack/02-01-Architectural-Styles-Monolith-Microservices-Serverless.md
+Architecture-And-Cross-Stack/02-02-SQL-Vs-NoSQL-Cross-Stack-Comparison.md
+Architecture-And-Cross-Stack/02-03-SQL-Vs-NoSQL-Interview-CheatSheet.md
+Architecture-And-Cross-Stack/README.md
+01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/00-00-Intro-And-Big-O.md
+01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/00-01-00-Recursion-And-Backtracking.md
+01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/00-01-04-Java-Implementation.md
+01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/00-02-00-Searching-Algorithms.md
+01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/00-02-01-Python-Implementation.md
+01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/00-02-02-CSharp-Implementation.md
+01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/00-02-03-JavaScript-Implementation.md
+01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/00-02-04-Java-Implementation.md
+01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/00-03-00-Sorting-Algorithms.md
+01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/00-03-01-Python-Implementation.md
+01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/00-03-02-CSharp-Implementation.md
+01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/00-06-00-Dynamic-Programming.md
+01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/00-06-01-Python-Implementation.md
+01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/README.md
+01-Core-Tools-And-Fundamentals/Course-Intro-And-Setup/00-00-Intro.md
+01-Core-Tools-And-Fundamentals/Course-Intro-And-Setup/00-01-00-Web-Ecosystem-And-IDEs.md
+01-Core-Tools-And-Fundamentals/Course-Intro-And-Setup/00-01-01-Syntax-And-Config.md
+01-Core-Tools-And-Fundamentals/Course-Intro-And-Setup/00-02-00-Browser-Diagnostics-And-Network.md
+01-Core-Tools-And-Fundamentals/Course-Intro-And-Setup/00-02-01-DevTools-Audit.md
+01-Core-Tools-And-Fundamentals/Course-Intro-And-Setup/README.md
+01-Core-Tools-And-Fundamentals/Git-And-GitHub/01-00-Git-And-GitHub-Architecture.md
+01-Core-Tools-And-Fundamentals/Git-And-GitHub/01-01-Syntax.md
+01-Core-Tools-And-Fundamentals/Git-And-GitHub/README.md
+02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-00-Intro.md
+02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-01-00-HTML5-And-CSS3-Basics.md
+02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-01-01-Syntax-HTML5-And-CSS3-Basics.md
+02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-02-00-CSS-Box-Model-And-Typography.md
+02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-02-01-Syntax-CSS-Box-Model-And-Typography.md
+02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-03-00-CSS-Layout-Flexbox.md
+02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-03-01-Syntax-CSS-Layout-Flexbox.md
+02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-04-00-Sass-And-SCSS-Architecture.md
+02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-04-01-Syntax-Sass-And-SCSS-Architecture.md
+02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-05-CSS-Methodologies-And-Frameworks-Comparison.md
+02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-95-Exam-Preparation-And-Templates.md
+02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-96-Performance-And-Optimizations.md
+02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-97-Category-Cheat-Sheet.md
+02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-98-Common-Errors-And-Fixes.md
+02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-99-Interview-QA-Traps-And-Debugging.md
+02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md
+02-Frontend-And-UI-UX/JavaScript-Language/02-00-Intro-To-JavaScript-And-V8-Engine.md
+02-Frontend-And-UI-UX/JavaScript-Language/02-01-00-Variables-Types-And-Coercion.md
+02-Frontend-And-UI-UX/JavaScript-Language/02-02-00-Functions-Closures-And-This.md
+02-Frontend-And-UI-UX/JavaScript-Language/02-02-01-Syntax-Functions-Closures-And-This.md
+02-Frontend-And-UI-UX/JavaScript-Language/02-03-00-Prototypes-OOP-And-Classes.md
+02-Frontend-And-UI-UX/JavaScript-Language/02-05-00-DOM-Events-And-Browser-Storage.md
+02-Frontend-And-UI-UX/JavaScript-Language/02-05-01-Syntax-DOM-Events-And-Browser-Storage.md
+02-Frontend-And-UI-UX/JavaScript-Language/02-06-Browser-JS-vs-NodeJS-Runtime-Comparison.md
+02-Frontend-And-UI-UX/JavaScript-Language/02-96-Performance-And-Optimizations.md
+02-Frontend-And-UI-UX/JavaScript-Language/02-97-Category-Cheat-Sheet.md
+02-Frontend-And-UI-UX/JavaScript-Language/02-98-Common-Errors-And-Fixes.md
+02-Frontend-And-UI-UX/JavaScript-Language/02-99-Interview-QA-Traps-And-Debugging.md
+02-Frontend-And-UI-UX/JavaScript-Language/README.md
+02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-00-Intro.md
+02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-01-00-Responsive-Design-And-Media-Queries.md
+02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-01-01-Syntax-Responsive-Design-And-Media-Queries.md
+02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-02-00-Working-With-Forms-And-Validation.md
+02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-02-01-Syntax-Working-With-Forms-And-Validation.md
+02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-03-00-Tailwind-CSS-Utility-First.md
+02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-03-01-Syntax-Tailwind-CSS-Utility-First.md
+02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-04-00-Bootstrap-5-Grid-And-Components.md
+02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-04-01-Syntax-Bootstrap-5-Grid-And-Components.md
+02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/README.md
+02-Frontend-And-UI-UX/TypeScript-Language/02-00-Intro-To-TypeScript-And-Compiler.md
+02-Frontend-And-UI-UX/TypeScript-Language/02-00-TypeScript-vs-JavaScript.md
+02-Frontend-And-UI-UX/TypeScript-Language/02-01-00-Basic-Types-And-Interfaces.md
+02-Frontend-And-UI-UX/TypeScript-Language/02-01-01-Syntax-Basic-Types-And-Interfaces.md
+02-Frontend-And-UI-UX/TypeScript-Language/02-02-00-Advanced-Types-And-Guards.md
+02-Frontend-And-UI-UX/TypeScript-Language/02-02-01-Syntax-Advanced-Types-And-Guards.md
+02-Frontend-And-UI-UX/TypeScript-Language/02-03-00-OOP-In-TypeScript.md
+02-Frontend-And-UI-UX/TypeScript-Language/02-04-00-Mastering-Generics.md
+02-Frontend-And-UI-UX/TypeScript-Language/02-04-01-Syntax-Mastering-Generics.md
+02-Frontend-And-UI-UX/TypeScript-Language/02-05-00-Decorators-Modules-And-Async.md
+02-Frontend-And-UI-UX/TypeScript-Language/02-05-01-Syntax-Decorators-Modules-And-Async.md
+02-Frontend-And-UI-UX/TypeScript-Language/02-98-Common-Errors-And-Fixes.md
+02-Frontend-And-UI-UX/TypeScript-Language/README.md
+03-Backend-Ecosystems/Java-Ecosystem/04-98-Common-Errors-And-Fixes.md
+03-Backend-Ecosystems/Java-Ecosystem/README.md
+03-Backend-Ecosystems/Python-Scripting/03-98-Common-Errors-And-Fixes.md
+03-Backend-Ecosystems/Python-Scripting/README.md
+04-Databases-And-Caching/Databases-And-EF-Core/01-00-SQL-SERVER-AND-RELATIONS-INTRO.md
+04-Databases-And-Caching/Databases-And-EF-Core/01-01-SQL-Server-Relations-And-Data-Types.md
+04-Databases-And-Caching/Databases-And-EF-Core/01-02-SQL-Server-Joins-And-Transactions-Deep-Dive.md
+04-Databases-And-Caching/Databases-And-EF-Core/02-00-EF-CORE-AND-CODE-FIRST-INTRO.md
+04-Databases-And-Caching/Databases-And-EF-Core/02-01-EF-Core-Mapping-Approaches.md
+04-Databases-And-Caching/Databases-And-EF-Core/02-02-ApplicationDbContext-And-Fluent-API-Configuration.md
+04-Databases-And-Caching/Databases-And-EF-Core/02-03-EF-Core-Fluent-API-And-Migrations-CheatSheet.md
+04-Databases-And-Caching/Databases-And-EF-Core/02-04-Multi-Database-Configuration-And-Switching.md
+04-Databases-And-Caching/Databases-And-EF-Core/02-05-AdoNet-Vs-EfCore-And-Change-Tracking.md
+04-Databases-And-Caching/Databases-And-EF-Core/02-06-Database-First-Model-Scaffolding.md
+04-Databases-And-Caching/Databases-And-EF-Core/02-07-EF-Core-TDD-And-InMemory-Testing.md
+04-Databases-And-Caching/Databases-And-EF-Core/02-08-InverseProperty-Multiple-Relationships.md
+04-Databases-And-Caching/Databases-And-EF-Core/02-09-Data-Annotations-Validation-And-Attributes.md
+04-Databases-And-Caching/Databases-And-EF-Core/02-10-Advanced-LINQ-And-Query-Operations.md
+04-Databases-And-Caching/Databases-And-EF-Core/03-00-ADVANCED-DBCONTEXT-PROTECTIONS-INTRO.md
+04-Databases-And-Caching/Databases-And-EF-Core/03-01-Global-Query-Filters-And-Soft-Delete.md
+04-Databases-And-Caching/Databases-And-EF-Core/03-02-Intercepting-SaveChanges-And-Cascade-Delete-Restrictions.md
+04-Databases-And-Caching/Databases-And-EF-Core/04-95-Project-Workflow-And-Step-By-Step-Map.md
+04-Databases-And-Caching/Databases-And-EF-Core/README.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/00-01-DBMS-Architecture-Backups-And-Tools.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-00-SQL-INTRO-AND-CRUD.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-01-SQL-Logic-And-Select-Order.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-02-SQL-Data-Types-Memory-And-CSharp.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-04-NoSQL-Documents-And-WideColumn-Mongo-Cassandra.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-05-NoSQL-InMemory-Cache-Redis.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-06-Data-Formats-JSON-And-XML.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-07-Architecture-Neighbors-RabbitMQ-Kafka-GraphQL-Enterprise.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-08-Specialized-Databases-Vector-Search-Graph.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/02-00-DATA-MODELING-OVERVIEW.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/02-01-SQL-Table-Relations-And-Constraints.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/02-02-SQL-Database-Normalization.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/02-03-Document-DB-Modeling-MongoDB.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/02-05-Graph-TimeSeries-Vector-Modeling.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/03-00-SQL-QUERIES-OVERVIEW.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/03-01-SQL-Joins-Visual-And-Code.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/03-02-SQL-Subqueries-And-CTEs.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/03-03-SQL-Grouping-Aggregations-Window-Functions.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/03-04-SQL-BuiltIn-Functions-And-Set-Operators.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/04-01-Indices-And-Execution-Plans.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/04-02-SQL-Query-And-Architecture-Optimization.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/04-03-Transactions-ACID-And-Isolation-Levels.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/04-04-Views-Functions-Procedures-Triggers.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/04-05-CSharp-Data-Access-ADONET-Dapper-Intro.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/04-06-OLTP-vs-OLAP-And-Data-Warehouses.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/04-07-EFCore-Relations-ModelBuilder-And-Joins.md
+04-Databases-And-Caching/Databases-SQL-And-NoSQL/README.md
+04-Databases-And-Caching/Redis-Caching/03-02-00-Redis-Caching-Architecture.md
+04-Databases-And-Caching/Redis-Caching/03-02-01-Syntax-Redis.md
+04-Databases-And-Caching/Redis-Caching/README.md
+05-QA-And-Test-Automation/01-QA-Automation/01-00-Intro-To-QA-Engineering.md
+05-QA-And-Test-Automation/01-QA-Automation/01-02-00-Test-Design-Jira-And-MS-Project.md
+05-QA-And-Test-Automation/01-QA-Automation/01-02-01-Syntax-Test-Design-Jira-And-MS-Project.md
+05-QA-And-Test-Automation/01-QA-Automation/01-03-00-Multi-Language-Unit-Testing.md
+05-QA-And-Test-Automation/01-QA-Automation/01-03-01-Syntax-Multi-Language-Unit-Testing.md
+05-QA-And-Test-Automation/01-QA-Automation/01-04-00-Selenium-WebDriver-And-POM.md
+05-QA-And-Test-Automation/01-QA-Automation/01-05-00-Playwright-AJAX-And-Appium.md
+05-QA-And-Test-Automation/01-QA-Automation/01-05-01-Syntax-Playwright-AJAX-And-Appium.md
+05-QA-And-Test-Automation/01-QA-Automation/01-06-00-API-And-Performance-Testing.md
+05-QA-And-Test-Automation/01-QA-Automation/01-06-01-Syntax-API-And-Performance-Testing.md
+05-QA-And-Test-Automation/01-QA-Automation/01-98-Common-Errors-And-Fixes.md
+05-QA-And-Test-Automation/01-QA-Automation/README.md
+06-Cloud-DevOps-And-Architecture/System-Design-And-Software-Architecture/01-01-Architectural-Styles-And-Patterns.md
+06-Cloud-DevOps-And-Architecture/System-Design-And-Software-Architecture/01-02-Scalability-And-Load-Balancing.md
+06-Cloud-DevOps-And-Architecture/System-Design-And-Software-Architecture/01-03-Architectural-Attributes-And-TradeOffs.md
+06-Cloud-DevOps-And-Architecture/System-Design-And-Software-Architecture/01-04-System-Design-Interview-Process.md
+06-Cloud-DevOps-And-Architecture/System-Design-And-Software-Architecture/01-05-Deep-Dive-Microservices-Communication.md
+06-Cloud-DevOps-And-Architecture/System-Design-And-Software-Architecture/01-06-Advanced-Database-Scaling-Sharding-Strategies.md
+06-Cloud-DevOps-And-Architecture/System-Design-And-Software-Architecture/01-07-System-Design-Global-Cheat-Sheet.md
+06-Cloud-DevOps-And-Architecture/System-Design-And-Software-Architecture/01-08-System-Architecture-Visual-Blueprints.md
+06-Cloud-DevOps-And-Architecture/System-Design-And-Software-Architecture/01-09-System-Design-Visual-Blueprints.md
+06-Cloud-DevOps-And-Architecture/System-Design-And-Software-Architecture/README.md
+06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-00-Technical-SEO-And-Meta-Tags.md
+06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-01-Syntax-SEO.md
+06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/README.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/00-01-Internet-Protocols-And-HTTP-Fundamentals.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/00-02-Git-And-Project-Documentation-Best-Practices.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/00-04-State-Management-And-Asynchronous-Processing.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/00-05-System-Architecture-And-Data-Flow-Blueprints.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/00-06-HTTP-Status-Codes-Full-Reference.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/00-Chrome-DevTools-Full-Diagnostic-Guide.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/00-Postman-API-Testing-Fundamentals.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/01-01-ASP-NET-Framework-Vs-Core-Evolution-Deep-Dive.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/01-02-ASP-NET-Core-Lifecycle-And-Middleware.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/01-03-Model-Binding-And-Data-Validation.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/01-04-ASP-NET-Core-Dependency-Injection-Deep-Dive.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/01-05-Layers-Services-And-Data-Transfer-Objects.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/01-06-ASP-NET-Core-Identity-Authentication.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/01-07-ASP-NET-Core-Application-Architecture-Steps.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/01-08-ASP-NET-Core-Fundamentals-CheatSheet.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/01-09-AutoMapper-Identity-Configuration-Guide.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/01-10-Reflection-And-Attributes.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/02-00-ASP-NET-CORE-ADVANCED-INTRO.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/02-01-Application-Flow-And-Custom-Middleware.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/02-02-Web-API-And-Asynchronous-Processing.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/02-03-Caching-Logging-And-Advanced-Topics.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/02-04-ASP-NET-Core-Advanced-CheatSheet.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/02-05-Razor-Pages-Vs-MVC-Architectural-Contrast.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/02-06-Repository-Pattern-Generic-Repositories.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/02-07-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/02-08-Cross-Origin-Resource-Sharing-CORS-Infrastructure.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/02-09-UI-Automation-Testing-Selenium-And-Fluent-Assertions.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/02-10-MessagePack-Binary-Serialization-In-SignalR.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/README.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/01-01-TYPES-CONDITIONALS-LOOPS.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/01-C-SHARP-FUND-SHORT.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/04-01-Collections-Cheat-Sheet.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/04-COLECTIONS.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/05-SOLID.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/06-REFLECTION-ATTRIBUTES.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/07-DEBUGGING-TECHNIQUES.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/08-UNIT-TESTING-MOCKING.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/09-01-NUnit-xUnit-MSTest.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/09-02-Unit-Testing-Exam-Checklist.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/09-TDD-MOCKING-ADVANCED.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/10-METHODS-DELEGATES-LAMBDA.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/11-01-String-Cheat-Sheet.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/11-STRING-TEXT-PROCESSING.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/12-01-Regex-Cheat-Sheet.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/12-REGULAR-EXPRESSIONS.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/13-STREAMS-FILES-DIRECTORIES.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/14-DESIGN-PATTERNS-OOP.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/design-patterns-oop-csharp.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/methods-delegates-csharp.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/OOP-Concepts-And-Keywords.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/regular-expressions-csharp.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/streams-files-directories-csharp.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/string-text-processing-csharp.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/tdd-mocking-advanced-csharp.md
+03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/types-conditionals-loops-csharp.md
+03-Backend-Ecosystems/Java-Ecosystem/Module-01-Java-Fundamentals/01-03-00-Arrays.md
+03-Backend-Ecosystems/Java-Ecosystem/Module-01-Java-Fundamentals/README.md
+03-Backend-Ecosystems/Java-Ecosystem/Module-02-Java-OOP/README.md
+03-Backend-Ecosystems/Java-Ecosystem/Module-03-Spring-Data/03-05-00-Advanced-Querying.md
+03-Backend-Ecosystems/Java-Ecosystem/Module-03-Spring-Data/03-07-00-JSON-And-XML-Processing.md
+03-Backend-Ecosystems/Java-Ecosystem/Module-03-Spring-Data/README.md
+03-Backend-Ecosystems/Java-Ecosystem/Module-04-Spring-Fundamentals/README.md
+03-Backend-Ecosystems/Java-Ecosystem/Module-05-Spring-Advanced/05-01-00-REST-And-Error-Handling.md
+03-Backend-Ecosystems/Java-Ecosystem/Module-05-Spring-Advanced/README.md
+03-Backend-Ecosystems/Python-Scripting/Module-01-Basic-and-Fundamentals/README.md
+03-Backend-Ecosystems/Python-Scripting/Module-02-Advance/02-05-00-Error-Handling.md
+03-Backend-Ecosystems/Python-Scripting/Module-02-Advance/02-06-00-File-Handling.md
+03-Backend-Ecosystems/Python-Scripting/Module-02-Advance/README.md
+03-Backend-Ecosystems/Python-Scripting/Module-03-OOP/03-06-00-SOLID.md
+03-Backend-Ecosystems/Python-Scripting/Module-03-OOP/README.md
+03-Backend-Ecosystems/Python-Scripting/Module-04-Python-ORM/04-01-00-Models-And-Fields.md
+03-Backend-Ecosystems/Python-Scripting/Module-04-Python-ORM/04-03-00-CRUD-And-Queries.md
+03-Backend-Ecosystems/Python-Scripting/Module-04-Python-ORM/README.md
+03-Backend-Ecosystems/Python-Scripting/Module-05-Django-Fundamentals/05-00-Intro.md
+03-Backend-Ecosystems/Python-Scripting/Module-05-Django-Fundamentals/05-02-00-URLs-And-FBV.md
+03-Backend-Ecosystems/Python-Scripting/Module-05-Django-Fundamentals/05-04-00-Forms-And-ModelForms.md
+03-Backend-Ecosystems/Python-Scripting/Module-05-Django-Fundamentals/05-05-00-Class-Based-Views.md
+03-Backend-Ecosystems/Python-Scripting/Module-05-Django-Fundamentals/05-06-00-Django-Admin.md
+03-Backend-Ecosystems/Python-Scripting/Module-05-Django-Fundamentals/README.md
+03-Backend-Ecosystems/Python-Scripting/Module-06-Django-Advanced/06-02-00-User-Model-And-Signals.md
+03-Backend-Ecosystems/Python-Scripting/Module-06-Django-Advanced/06-03-00-Middlewares-And-Sessions.md
+03-Backend-Ecosystems/Python-Scripting/Module-06-Django-Advanced/06-04-00-Django-REST-Framework.md
+03-Backend-Ecosystems/Python-Scripting/Module-06-Django-Advanced/06-05-00-Celery-And-Redis.md
+03-Backend-Ecosystems/Python-Scripting/Module-06-Django-Advanced/README.md

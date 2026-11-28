@@ -62,13 +62,13 @@
 ## 4. ДЕТАЙЛНИ ПОДМОДУЛИ КЪМ ГЛАВА 02
 
 * **[02-01-00. Адаптивен уеб дизайн и Media Queries](02-01-00-Responsive-Design-And-Media-Queries.md)** — Viewport механика, Mobile-First стратегия и капани при фиксирани пиксели.
-* **[02-01-01. Syntax-From-Scratch & Responsive Breakpoints Cheat Sheet](02-01-01-Responsive-Design-And-Media-Queries-Syntax.md)** — Media Queries от нулата, табличен Cheat Sheet и адаптивен Grid компонент.
+* **[02-01-01. Syntax-From-Scratch & Responsive Breakpoints Cheat Sheet](02-01-01-Syntax-Responsive-Design-And-Media-Queries.md)** — Media Queries от нулата, табличен Cheat Sheet и адаптивен Grid компонент.
 * **[02-02-00. Работа с HTML форми и клиентска валидация](02-02-00-Working-With-Forms-And-Validation.md)** — HTTP методи, семантика на полетата, достъпност и капани при липсващ `name` атрибут.
-* **[02-02-01. Syntax-From-Scratch & Validated Form Snippets + Cheat Sheet](02-02-01-Working-With-Forms-And-Validation-Syntax.md)** — Пълна регистрационна форма от нулата, справка за Input типове и стилизиране на валидация.
+* **[02-02-01. Syntax-From-Scratch & Validated Form Snippets + Cheat Sheet](02-02-01-Syntax-Working-With-Forms-And-Validation.md)** — Пълна регистрационна форма от нулата, справка за Input типове и стилизиране на валидация.
 * **[02-03-00. Tailwind CSS (Utility-First Архитектура)](02-03-00-Tailwind-CSS-Utility-First.md)** — Архитектура на Utility-First, JIT компилация и капани с динамични имена на класове.
-* **[02-03-01. Syntax-From-Scratch & Tailwind Utility Cheat Sheet](02-03-01-Tailwind-CSS-Utility-First-Syntax.md)** — Настройка, таблица с най-използваните класове и готови Tailwind компоненти.
+* **[02-03-01. Syntax-From-Scratch & Tailwind Utility Cheat Sheet](02-03-01-Syntax-Tailwind-CSS-Utility-First.md)** — Настройка, таблица с най-използваните класове и готови Tailwind компоненти.
 * **[02-04-00. Bootstrap 5 (12-Колонна Grid система и Компоненти)](02-04-00-Bootstrap-5-Grid-And-Components.md)** — 12-колонна мрежа, Flexbox основа и капани при счупена Grid йерархия.
-* **[02-04-01. Syntax-From-Scratch & Bootstrap 5 Grid Templates + Cheat Sheet](02-04-01-Bootstrap-5-Grid-And-Components-Syntax.md)** — CDN интеграция, Grid шаблони и справка за класовете на Bootstrap 5.
+* **[02-04-01. Syntax-From-Scratch & Bootstrap 5 Grid Templates + Cheat Sheet](02-04-01-Syntax-Bootstrap-5-Grid-And-Components.md)** — CDN интеграция, Grid шаблони и справка за класовете на Bootstrap 5.
 
 ---
 [⬅️ Назад към 02. Responsive, Forms & Frameworks](README.md) | [⬅️ Назад към 01. HTML5 & CSS3 Foundations](../HTML5-CSS3-And-SASS/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Responsive-Forms-And-Frameworks](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../TypeScript-Language/README.md) | [➡️ 02-01-00. Адаптивен уеб дизайн и Media Queries](02-01-00-Responsive-Design-And-Media-Queries.md)

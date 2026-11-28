@@ -1,4 +1,4 @@
-[⬅️ 03-01. Classes and Objects](03-01-00-Classes-And-Objects.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-02-01. Syntax From Scratch](03-02-01-Inheritance-Syntax.md)
+[⬅️ 03-01. Classes and Objects](03-01-00-Classes-And-Objects.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-02-01. Syntax From Scratch](03-02-01-Syntax-Inheritance.md)
 
 ---
 
@@ -133,4 +133,4 @@ print(f"JSON Експорт: {admin.to_json()}")
     2.  **`isinstance(obj, Class)`** уважава цялата йерархия на наследяване и връща **`True`** както за самия клас, така и за всеки негов родител или прародител (`isinstance(admin, User)` връща `True`). Затова в реалния код **винаги** се използва `isinstance()`.
 
 ---
-[⬅️ 03-01. Classes and Objects](03-01-00-Classes-And-Objects.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-02-01. Syntax From Scratch](03-02-01-Inheritance-Syntax.md)
+[⬅️ 03-01. Classes and Objects](03-01-00-Classes-And-Objects.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-02-01. Syntax From Scratch](03-02-01-Syntax-Inheritance.md)

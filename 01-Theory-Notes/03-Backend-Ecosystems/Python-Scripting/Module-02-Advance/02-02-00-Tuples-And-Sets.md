@@ -1,4 +1,4 @@
-[⬅️ 02-01. Stacks and Queues](02-01-00-Lists-As-Stacks-And-Queues.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-02-01. Syntax From Scratch](02-02-01-Tuples-And-Sets-Syntax.md)
+[⬅️ 02-01. Stacks and Queues](02-01-00-Lists-As-Stacks-And-Queues.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-02-01. Syntax From Scratch](02-02-01-Syntax-Tuples-And-Sets.md)
 
 ---
 
@@ -111,4 +111,4 @@ print(f"Липсващи умения:  {missing}")
 *   **Точен Senior отговор:** **Не винаги!** Кортежът е неизменяем като **контейнер от референции** (не можеш да смениш на кой адрес в паметта сочи индекс 0). Но ако на индекс 0 вътре в кортежа си сложил **изменяем обект (Mutable)**, като например списък `t = (1, [10, 20])`, ти не можеш да направиш `t = 99`, но можеш спокойно да направиш **`t.append(30)`**! Тогава кортежът става `(1, [10, 20, 30])` без грешка. Също така такъв кортеж веднага губи способността си да бъде ключ в речник (става Unhashable).
 
 ---
-[⬅️ 02-01. Stacks and Queues](02-01-00-Lists-As-Stacks-And-Queues.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-02-01. Syntax From Scratch](02-02-01-Tuples-And-Sets-Syntax.md)
+[⬅️ 02-01. Stacks and Queues](02-01-00-Lists-As-Stacks-And-Queues.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-02-01. Syntax From Scratch](02-02-01-Syntax-Tuples-And-Sets.md)

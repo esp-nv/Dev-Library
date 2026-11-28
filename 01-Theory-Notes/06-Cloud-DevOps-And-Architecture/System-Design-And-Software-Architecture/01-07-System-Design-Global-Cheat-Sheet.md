@@ -72,4 +72,4 @@
 ---
 [⬅️ 01-06. Стратегии за Шардинг](01-06-Advanced-Database-Scaling-Sharding-Strategies.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Главен Хъб на проекта](../README.md) [➡️ 01-08. Системни чертежи: Диаграми на архитектурата и софтуерни потоци](01-08-System-Architecture-Visual-Blueprints.md)
 
-© 2026 Dev-Library / Справочник: Глобален Системен Пищов
+© 2026 Dev-Library / 01-07. Системен Дизайн и Архитектура (Глобален Архитектурен Пищов)

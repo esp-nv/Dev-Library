@@ -115,4 +115,4 @@ ORDER BY WeekendRevenue DESC;
 ---
 ⬅️ [04-05. C# Data Access (ADO.NET и Dapper)](04-05-CSharp-Data-Access-ADONET-Dapper-Intro.md) | 📂 [04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ⏩ [00-03. Архитектура, Бекъпи и Инструменти](00-03-DBMS-Architecture-Backups-And-Tools.md)
 
-© 2026 Dev-Library / Бази данни: OLTP срещу OLAP и Data Warehouses
+© 2026 Dev-Library / 04-06. OLTP срещу OLAP и Data Warehouses (Складове за данни)

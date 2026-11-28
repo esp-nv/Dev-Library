@@ -1,4 +1,4 @@
-[⬅️ 04-03-01. Django ORM Syntax](04-03-01-Django-ORM-Syntax.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-04-00. Table Relationships](04-04-00-Relationships.md)
+[⬅️ 04-03-01. Django ORM Syntax](04-03-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-04-00. Table Relationships](04-04-00-Relationships.md)
 
 ---
 
@@ -179,4 +179,4 @@ r.delete("product:1")
 | **Масов Update / Delete** | `session.execute(update(Model)...)` / `delete(Model)...` |
 
 ---
-[⬅️ 04-03-01. Django ORM Syntax](04-03-01-Django-ORM-Syntax.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-04-00. Table Relationships](04-04-00-Relationships.md)
+[⬅️ 04-03-01. Django ORM Syntax](04-03-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-04-00. Table Relationships](04-04-00-Relationships.md)

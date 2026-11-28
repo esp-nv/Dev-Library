@@ -130,4 +130,4 @@ def checkout_view_clean(request):
 
 [⬅️ Теория, Serializers, ViewSets, JWT, Permissions & Капани](06-04-00-Django-REST-Framework.md) | [📂 Назад към Module 06 Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06 Django Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md)
 
-© 2026 Dev-Library / Module 06 Django Advanced & Architecture
+© 2026 Dev-Library / 06-05-00. Asynchronous Processing with Celery and Redis (Теория, Brokers, Beat & Капани)

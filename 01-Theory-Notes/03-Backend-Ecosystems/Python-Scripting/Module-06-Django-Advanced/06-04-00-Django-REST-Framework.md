@@ -154,4 +154,4 @@ class BookViewSet(viewsets.ModelViewSet):
 
 [⬅️ Теория, Onion Архитектура, Cookies vs Sessions & Капани](06-03-00-Middlewares-And-Sessions.md) | [📂 Назад към Module 06 Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06 Django Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Теория, Message Brokers, Task Queues, Caching & Капани](06-05-00-Celery-And-Redis.md)
 
-© 2026 Dev-Library / Module 06 Django Advanced & Architecture
+© 2026 Dev-Library / 06-04-00. Django REST Framework (Теория, Serializers, ViewSets, JWT & Капани)

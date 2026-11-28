@@ -157,4 +157,4 @@ builder.Services.AddDatabaseConfig(builder.Configuration);
 ---
 [⬅️ 02-03. Глобален Пищов](02-03-EF-Core-Fluent-API-And-Migrations-CheatSheet.md) | [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) 
 
-© 2026 Dev-Library / Справочник: Мулти-провайдър превключване
+© 2026 Dev-Library / 02-04. Стратегия за мулти-провайдър: Превключване между SQL и NoSQL бази

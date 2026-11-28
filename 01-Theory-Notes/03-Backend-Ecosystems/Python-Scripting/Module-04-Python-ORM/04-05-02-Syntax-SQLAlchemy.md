@@ -1,4 +1,4 @@
-[⬅️ 04-05-01. Django ORM Syntax](04-05-01-Django-ORM-Syntax.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-06-00. Transactions and Async](04-06-00-Transactions-And-Async.md)
+[⬅️ 04-05-01. Django ORM Syntax](04-05-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-06-00. Transactions and Async](04-06-00-Transactions-And-Async.md)
 
 ---
 
@@ -129,4 +129,4 @@ def get_cached_catalog(fetch_from_db_func):
 | **`.project(ShortModel)` (Beanie)** | Извлича само избрани полета от MongoDB | 1 NoSQL заявка (пести трафик) |
 
 ---
-[⬅️ 04-05-01. Django ORM Syntax](04-05-01-Django-ORM-Syntax.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-06-00. Transactions and Async](04-06-00-Transactions-And-Async.md)
+[⬅️ 04-05-01. Django ORM Syntax](04-05-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-06-00. Transactions and Async](04-06-00-Transactions-And-Async.md)

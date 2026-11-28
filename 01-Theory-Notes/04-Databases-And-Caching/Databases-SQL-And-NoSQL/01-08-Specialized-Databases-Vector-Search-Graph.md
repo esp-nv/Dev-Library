@@ -101,4 +101,4 @@ RETURN fof.name;
 ---
 ⬅️ [01-07. Съседи на БД (RabbitMQ, Kafka, GraphQL, AD, SAP)](01-07-Architecture-Neighbors-RabbitMQ-Kafka-GraphQL-Enterprise.md) | 🏠 [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [02-01. Връзки между таблици](02-01-Table-Relations-And-Constraints.md)
 
-© 2026 Dev-Library / Бази данни: Специализирани бази (Vector, Search, Graph)
+© 2026 Dev-Library / 01-08. Специализирани Бази данни: Vector (AI), Search Engines и Graph / Time-Series

@@ -47,4 +47,4 @@
 ---
  📂 [Глава 02-00. Софтуерни архитектури и Бази данни (Кратък справочник)](02-00-SOFTWARE-ARCHITECTURE-OVERVIEW.md) | ➡️ [02-02. SQL срещу NoSQL](02-02-SQL-Vs-NoSQL-Cross-Stack-Comparison.md)
 
-© 2026 Dev-Library / Архитектура: Монолит, Микроуслуги и Serverless
+© 2026 Dev-Library / 02-01. Архитектурни стилове: Монолит, Микроуслуги и Serverless

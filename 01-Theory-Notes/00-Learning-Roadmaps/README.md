@@ -38,4 +38,4 @@
 
 [🏛️ Главен Портал (Dev-Library)](../../README.md) | [📚 Инженерна Библиотека (01-Theory-Notes)](../README.md) | [▶️ Разгледай Full-Stack & QA Roadmap](00-Full-Stack-And-QA-Automation-Roadmap.md)
 
-© 2026 Dev-Library / Примерни Пътеки за Учене и Инженерни Сравнения
+© 2026 Dev-Library / Примерни Пътеки за Учене и Инженерни Сравнения (`00-Learning-Roadmaps`)

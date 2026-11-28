@@ -1,4 +1,4 @@
-[⬅️ 03-02. Introduction to Hibernate](03-02-00-Hibernate-Intro.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-03-01. Syntax From Scratch](03-03-01-Entity-Relations-Syntax.md)
+[⬅️ 03-02. Introduction to Hibernate](03-02-00-Hibernate-Intro.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-03-01. Syntax From Scratch](03-03-01-Syntax-Entity-Relations.md)
 
 ---
 
@@ -166,4 +166,4 @@ public class Book {
 | **Синхронизация на двупосочна връзка** | Ръчни методи `addBook()` / `removeBook()` (задължително!) | EF Core **Fix-up** автоматично синхронизира навигационните свойства в паметта |
 
 ---
-[⬅️ 03-02. Introduction to Hibernate](03-02-00-Hibernate-Intro.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-03-01. Syntax From Scratch](03-03-01-Entity-Relations-Syntax.md)
+[⬅️ 03-02. Introduction to Hibernate](03-02-00-Hibernate-Intro.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-03-01. Syntax From Scratch](03-03-01-Syntax-Entity-Relations.md)

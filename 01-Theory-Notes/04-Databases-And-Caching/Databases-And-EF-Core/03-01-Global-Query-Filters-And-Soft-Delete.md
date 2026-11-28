@@ -88,4 +88,4 @@ var allTransactionsIncludingDeleted = context.AssetTransactions
 ---
 [📂 Глава 03. Напреднали защити в DbContext, Глобални филтри и Soft Delete](03-00-ADVANCED-DBCONTEXT-PROTECTIONS-INTRO.md) | [➡️ 03-02. Прихващане на SaveChanges](03-02-Intercepting-SaveChanges-And-Cascade-Delete-Restrictions.md)
 
-© 2026 Dev-Library / DbContext Защити: Глобални филтри
+© 2026 Dev-Library / 03-01. Глобални Query филтри и имплементиране на Soft Delete

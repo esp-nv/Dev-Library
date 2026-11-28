@@ -1,4 +1,4 @@
-[⬅️ 01-06. Objects, Classes & Records](01-06-00-Objects-And-Classes.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-07-01. Syntax From Scratch](01-07-01-Maps-And-Stream-API-Syntax.md)
+[⬅️ 01-06. Objects, Classes & Records](01-06-00-Objects-And-Classes.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-07-01. Syntax From Scratch](01-07-01-Syntax-Maps-And-Stream-API.md)
 
 ---
 
@@ -128,4 +128,4 @@ public class CleanMapsDemo {
     *   *Pro Tip:* Ако предварително знаеш, че ще сложиш 10 000 записа в `HashMap`, подай начален капацитет в конструктора (`new HashMap<>(16384)`), за да избегнеш всички междинни преоразмерявания!
 
 ---
-[⬅️ 01-06. Objects, Classes & Records](01-06-00-Objects-And-Classes.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-07-01. Syntax From Scratch](01-07-01-Maps-And-Stream-API-Syntax.md)
+[⬅️ 01-06. Objects, Classes & Records](01-06-00-Objects-And-Classes.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-07-01. Syntax From Scratch](01-07-01-Syntax-Maps-And-Stream-API.md)

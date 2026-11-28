@@ -1,4 +1,4 @@
-[⬅️ 04-01-01. Django ORM Syntax](04-01-01-Django-ORM-Syntax.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-02-00. Migrations](04-02-00-Migrations.md)
+[⬅️ 04-01-01. Django ORM Syntax](04-01-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-02-00. Migrations](04-02-00-Migrations.md)
 
 ---
 
@@ -180,4 +180,4 @@ class CourseMongoDocument(Document):
 | **Уникалност и Индекс** | `mapped_column(unique=True, index=True)` | `UNIQUE` + `CREATE INDEX` |
 
 ---
-[⬅️ 04-01-01. Django ORM Syntax](04-01-01-Django-ORM-Syntax.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-02-00. Migrations](04-02-00-Migrations.md)
+[⬅️ 04-01-01. Django ORM Syntax](04-01-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-02-00. Migrations](04-02-00-Migrations.md)

@@ -21,7 +21,7 @@
 * **[02. Technical SEO, GEO & Core Web Vitals (`Technical-SEO-And-Web-Vitals/`)](Technical-SEO-And-Web-Vitals/README.md)** *(Премести `03-01-00` и `03-01-01` тук)*
   * *Обхваща:* Обхождане и индексиране от търсачки (`robots.txt`, `sitemap.xml`, `canonical`), структурирани данни (**JSON-LD Schema.org**), Generative Engine Optimization (GEO) за AI търсачки и метрики за скорост (**LCP, INP, CLS**).
   1. **[03-01-00. Technical SEO, GEO & Meta Tags Архитектура](Technical-SEO-And-Web-Vitals/03-01-00-Technical-SEO-And-Meta-Tags.md):** Как търсачките и AI ботовете индексират уеб приложения.
-  2. **[03-01-01. SEO & Schema.org Синтаксис от Нулата](Technical-SEO-And-Web-Vitals/03-01-01-SEO-Syntax.md):** Готови шаблони за OpenGraph, JSON-LD, `robots.txt` и XML Sitemap.
+  2. **[03-01-01. SEO & Schema.org Синтаксис от Нулата](Technical-SEO-And-Web-Vitals/03-01-01-Syntax-SEO.md):** Готови шаблони за OpenGraph, JSON-LD, `robots.txt` и XML Sitemap.
 
 * **[03. Docker & Kubernetes (Контейнеризация)](Docker-And-Kubernetes/README.md)** *(Планирано разширение)*
   * *Обхваща:* Dockerfile Multi-stage builds, Docker Compose, мрежи и томове, Kubernetes Pods, Deployments, Services и Ingress.
@@ -33,4 +33,4 @@
 
 [⬅️ Назад към Инженерната Библиотека (01-Theory-Notes)](../README.md) | [📂 Предишен домейн: 05. QA & Test Automation](../05-QA-And-Test-Automation/README.md) | [🏠 Начало](../../README.md) | [🌐 Следващ домейн: 07. Game Development](../07-Game-Development/README.md) | [▶️ Започни от System Design](System-Design-And-Software-Architecture/README.md)
 
-© 2026 Dev-Library / 06. Облачна Инфраструктура, DevOps и Системна Архитектура
+© 2026 Dev-Library / ️ 06. Облачна Инфраструктура, DevOps и Системна Архитектура

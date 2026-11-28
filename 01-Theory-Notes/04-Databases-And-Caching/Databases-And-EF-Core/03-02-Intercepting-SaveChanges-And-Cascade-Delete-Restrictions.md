@@ -107,4 +107,4 @@ if (violatedSettings.Any())
 ---
 [⬅️ 03-01. Глобални филтри и Soft Delete](03-01-Global-Query-Filters-And-Soft-Delete.md) | [📂 Глава 03. Напреднали защити в DbContext, Глобални филтри и Soft Delete](03-00-ADVANCED-DBCONTEXT-PROTECTIONS-INTRO.md) 
 
-© 2026 Dev-Library / DbContext Защити: Прихващане на SaveChanges
+© 2026 Dev-Library / 03-02. Прихващане на SaveChanges и ChangeTracker сканиране

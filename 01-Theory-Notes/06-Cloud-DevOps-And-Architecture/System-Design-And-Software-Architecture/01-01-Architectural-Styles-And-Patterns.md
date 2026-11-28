@@ -113,4 +113,4 @@ public class OrderApiController : ControllerBase
 ---
 [📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Главен Хъб на проекта](../README.md) | [➡️ 01-02. Мащабируемост и Скейлинг](01-02-Scalability-And-Load-Balancing.md)
 
-© 2026 Dev-Library / Системен Дизайн: Архитектурни Стилистики
+© 2026 Dev-Library / 01-01. Архитектурни стилове и софтуерни шаблони (Patterns)

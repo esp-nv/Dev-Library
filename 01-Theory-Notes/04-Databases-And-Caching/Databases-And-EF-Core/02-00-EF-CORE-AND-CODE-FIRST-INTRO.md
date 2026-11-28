@@ -70,4 +70,4 @@
 ---
 [⏪ Глава 01-00. Основи на SQL Server, релации и T-SQL](01-00-SQL-SERVER-AND-RELATIONS-INTRO.md) | 📂 Глава 02. Основи на Entity Framework Core и Code-First | [🏠 Начало (EF Core)](README.md) | [⏩ Глава 03-00. Напреднали защити в DbContext](03-00-ADVANCED-DBCONTEXT-PROTECTIONS-INTRO.md)
 
-© 2026 Dev-Library / EF Core и Code-First: Кратък справочник
+© 2026 Dev-Library / 02-00. Основи на Entity Framework Core и Code-First подход (Кратък справочник)

@@ -1,4 +1,4 @@
-[⬅️ 04-05-00. Теория & Сравнение](04-05-00-Optimization-And-N-Plus-1.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-05-02. SQLAlchemy Syntax](04-05-02-SQLAlchemy-Syntax.md)
+[⬅️ 04-05-00. Теория & Сравнение](04-05-00-Optimization-And-N-Plus-1.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-05-02. SQLAlchemy Syntax](04-05-02-Syntax-SQLAlchemy.md)
 
 ---
 
@@ -116,4 +116,4 @@ fast_xml = ET.tostring(root, encoding="unicode")
 | **`.values_list("id", flat=True)`** | Връща плосък списък `[1, 2, 3]` | **1 заявка** |
 
 ---
-[⬅️ 04-05-00. Теория & Сравнение](04-05-00-Optimization-And-N-Plus-1.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-05-02. SQLAlchemy Syntax](04-05-02-SQLAlchemy-Syntax.md)
+[⬅️ 04-05-00. Теория & Сравнение](04-05-00-Optimization-And-N-Plus-1.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-05-02. SQLAlchemy Syntax](04-05-02-Syntax-SQLAlchemy.md)

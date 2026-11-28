@@ -181,4 +181,4 @@ public class SpanOptimizationDemo
 5. **При четене на символи по индекс** (`text[i]`) не можеш да пишеш `text[i] = 'a'`. За редакция по индекс превърни в `char[]` (`text.ToCharArray()`) или използвай `StringBuilder`.
 
 ---
-© 2026 Dev-Library / Пълен учебен модул по Текстообработка и Управление на паметта в C#
+© 2026 Dev-Library / Учебник: Текстообработка, String Immutability, StringBuilder и Span<char> в C#

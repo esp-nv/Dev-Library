@@ -133,4 +133,4 @@ class BookCreateView(LoginRequiredMixin, CreateView):
 
 [⬅️ Теория, CSRF защита, Валидация & Капани](05-04-00-Forms-And-ModelForms.md) | [📂 Назад към Module 05 Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Django Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ Теория, `ModelAdmin`, Филтри, Търсене & Капани](05-06-00-Django-Admin.md)
 
-© 2026 Dev-Library / Module 05 Django Fundamentals & Architecture
+© 2026 Dev-Library / 05-05-00. Class-Based Views (Теория, Generic Views, Mixins & Капани)

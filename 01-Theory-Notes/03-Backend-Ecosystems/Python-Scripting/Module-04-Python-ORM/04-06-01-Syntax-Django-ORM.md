@@ -1,4 +1,4 @@
-[⬅️ 04-06-00. Теория & Сравнение](04-06-00-Transactions-And-Async.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-06-02. SQLAlchemy Syntax](04-06-02-SQLAlchemy-Syntax.md)
+[⬅️ 04-06-00. Теория & Сравнение](04-06-00-Transactions-And-Async.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-06-02. SQLAlchemy Syntax](04-06-02-Syntax-SQLAlchemy.md)
 
 ---
 
@@ -114,4 +114,4 @@ def import_xml_batch_safely(xml_data: str) -> None:
 | **Асинхронно обхождане** | `async for item in Model.objects.filter(...):` |
 
 ---
-[⬅️ 04-06-00. Теория & Сравнение](04-06-00-Transactions-And-Async.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-06-02. SQLAlchemy Syntax](04-06-02-SQLAlchemy-Syntax.md)
+[⬅️ 04-06-00. Теория & Сравнение](04-06-00-Transactions-And-Async.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-06-02. SQLAlchemy Syntax](04-06-02-Syntax-SQLAlchemy.md)

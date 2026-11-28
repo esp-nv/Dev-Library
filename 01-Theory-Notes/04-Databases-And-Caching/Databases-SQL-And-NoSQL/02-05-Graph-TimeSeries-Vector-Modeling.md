@@ -119,4 +119,4 @@ LIMIT 3;
 ---
 ⬅️ [02-04. Моделиране в Key-Value и Wide-Column (Redis & Cassandra)](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [03-00. Начало на Модул 03 (SQL Заявки)](03-00-SQL-QUERIES-OVERVIEW.md)
 
-© 2026 Dev-Library / Бази данни: Graph, Time-Series и Vector моделиране
+© 2026 Dev-Library / 02-05. Моделиране в Graph, Time-Series и Vector (AI) Бази данни

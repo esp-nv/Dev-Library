@@ -127,4 +127,4 @@ public class StockController : ControllerBase
 ---
 [⬅️ 00-05. State Management](00-04-State-Management-And-Asynchronous-Processing.md) | 📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-00. Глава 01 Интро](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)
 
-© 2026 Dev-Library / Справочник: Глобални HTTP Статуси
+© 2026 Dev-Library / 00-06. Глобален уеб справочник за HTTP статус кодове в ASP.NET Core

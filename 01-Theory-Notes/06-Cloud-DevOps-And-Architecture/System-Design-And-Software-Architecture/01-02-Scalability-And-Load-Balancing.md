@@ -88,4 +88,4 @@ server {
 ---
 [01-01. Архитектурни стилове и софтуерни шаблони (Patterns)](01-01-Architectural-Styles-And-Patterns.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Главен Хъб на проекта](../README.md) | [➡️ 01-03. Архитектурни качества](01-03-Architectural-Attributes-And-TradeOffs.md)
 
-© 2026 Dev-Library / Системен Дизайн: Мащабируемост и Трафик
+© 2026 Dev-Library / 01-02. Ключови концепции за мащабируемост и балансиране на натоварването

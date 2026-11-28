@@ -75,4 +75,4 @@
 
 [📂 Назад към HTML5 CSS3 And SASS Хъба](README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: HTML5 CSS3 And SASS](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md)
 
-© 2026 Dev-Library / HTML5 CSS3 And SASS & Architecture
+© 2026 Dev-Library / 01-01-00. Въведение в HTML5 и CSS3 (Теория, Упражнения и Изпитни Тактики)

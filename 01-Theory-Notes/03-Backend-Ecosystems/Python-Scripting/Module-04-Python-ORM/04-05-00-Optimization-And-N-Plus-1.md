@@ -1,4 +1,4 @@
-[⬅️ 04-04. Table Relationships](04-04-00-Relationships.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-05-01. Django ORM Syntax](04-05-01-Django-ORM-Syntax.md)
+[⬅️ 04-04. Table Relationships](04-04-00-Relationships.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-05-01. Django ORM Syntax](04-05-01-Syntax-Django-ORM.md)
 
 ---
 
@@ -108,4 +108,4 @@ for order in optimized_orders:
     *   **Правилен фикс:** За броене използвай вградения Python **`len(order.items.all())`** (което чете кеширания списък в RAM без SQL заявка), а за филтриране използвай специалния обект **`Prefetch("items", queryset=Item.objects.filter(price__gt=10))`**.
 
 ---
-[⬅️ 04-04. Table Relationships](04-04-00-Relationships.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-05-01. Django ORM Syntax](04-05-01-Django-ORM-Syntax.md)
+[⬅️ 04-04. Table Relationships](04-04-00-Relationships.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-05-01. Django ORM Syntax](04-05-01-Syntax-Django-ORM.md)

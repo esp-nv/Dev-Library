@@ -1,4 +1,4 @@
-[⬅️ 02-03. Multidimensional Lists](02-03-00-Multidimensional-Lists.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-04-01. Syntax From Scratch](02-04-01-Functions-Advanced-Syntax.md)
+[⬅️ 02-03. Multidimensional Lists](02-03-00-Multidimensional-Lists.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-04-01. Syntax From Scratch](02-04-01-Syntax-Functions-Advanced.md)
 
 ---
 
@@ -125,4 +125,4 @@ print(f"Факториел от 5: {factorial(5)}")
     *   **Правилен фикс:** Подава се `i` като аргумент по подразбиране в самата ламбда, което принуждава Python да го оцени веднага: `funcs = [lambda i=i: i for i in range(3)]`.
 
 ---
-[⬅️ 02-03. Multidimensional Lists](02-03-00-Multidimensional-Lists.md) | [📂 Папка: Module-02-Advance](README.md)| [🏠 Начало](../../../../README.md) | [➡️ 02-04-01. Syntax From Scratch](02-04-01-Functions-Advanced-Syntax.md)
+[⬅️ 02-03. Multidimensional Lists](02-03-00-Multidimensional-Lists.md) | [📂 Папка: Module-02-Advance](README.md)| [🏠 Начало](../../../../README.md) | [➡️ 02-04-01. Syntax From Scratch](02-04-01-Syntax-Functions-Advanced.md)

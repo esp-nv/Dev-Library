@@ -117,4 +117,4 @@
 ---
 [⬅️ 00-02. Git и Документация](00-02-Git-And-Project-Documentation-Best-Practices.md) | [📂 Глава 00-00. Въведение в уеб технологиите и Git](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 00-04. Логическо удържане на състояния](00-04-State-Management-And-Asynchronous-Processing.md)
 
-© 2026 Dev-Library / Справочник: Уеб диагностика с Postman и DevTools
+© 2026 Dev-Library / 00-03. Тестване на уеб заявки и диагностика: Postman и Chrome DevTools

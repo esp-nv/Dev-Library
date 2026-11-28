@@ -1,4 +1,4 @@
-[⬅️ 01-06. Dictionaries](01-06-00-Dictionaries.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-07-01. Syntax From Scratch](01-07-01-Bitwise-Operations-Syntax.md)
+[⬅️ 01-06. Dictionaries](01-06-00-Dictionaries.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-07-01. Syntax From Scratch](01-07-01-Syntax-Bitwise-Operations.md)
 
 ---
 
@@ -120,4 +120,4 @@ print(f"Може ли да пише (след):  {(user_permissions & WRITE) != 
     *   **Формула:** `is_power_of_two = (n > 0) and ((n & (n - 1)) == 0)` (проверката `n > 0` е задължителна, за да изключи нулата).
 
 ---
-[⬅️ 01-06. Dictionaries](01-06-00-Dictionaries.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-07-01. Syntax From Scratch](01-07-01-Bitwise-Operations-Syntax.md)
+[⬅️ 01-06. Dictionaries](01-06-00-Dictionaries.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-07-01. Syntax From Scratch](01-07-01-Syntax-Bitwise-Operations.md)

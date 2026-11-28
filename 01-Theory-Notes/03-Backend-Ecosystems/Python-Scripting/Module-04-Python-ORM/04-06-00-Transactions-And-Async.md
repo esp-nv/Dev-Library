@@ -1,4 +1,4 @@
-[⬅️ 04-05. Query Optimization](04-05-00-Optimization-And-N-Plus-1.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-06-01. Django ORM Syntax](04-06-01-Django-ORM-Syntax.md)
+[⬅️ 04-05. Query Optimization](04-05-00-Optimization-And-N-Plus-1.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-06-01. Django ORM Syntax](04-06-01-Syntax-Django-ORM.md)
 
 ---
 
@@ -136,4 +136,4 @@ def transfer_funds(from_account_id: int, to_account_id: int, amount: Decimal) ->
     *   **Как се решава (Lock Ordering):** Всички трансакции в системата трябва да заключват ресурсите в **строго еднакъв, сортиран ред** (напр. винаги първо по-малкото ID: `sorted([id_a, id_b])`). Така и двете трансакции първо ще поискат ключ `ID=1` — едната ще го вземе, а другата ще изчака спокойно на опашката, без никога да се стигне до взаимно блокиране!
 
 ---
-[⬅️ 04-05. Query Optimization](04-05-00-Optimization-And-N-Plus-1.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-06-01. Django ORM Syntax](04-06-01-Django-ORM-Syntax.md)
+[⬅️ 04-05. Query Optimization](04-05-00-Optimization-And-N-Plus-1.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-06-01. Django ORM Syntax](04-06-01-Syntax-Django-ORM.md)

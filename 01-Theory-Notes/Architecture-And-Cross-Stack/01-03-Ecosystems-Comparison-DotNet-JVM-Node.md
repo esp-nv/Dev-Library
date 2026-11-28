@@ -46,4 +46,4 @@
 ---
 ⬅️ [01-02. Стек и Купчина](01-02-Stack-Vs-Heap-Memory-Deep-Dive.md) | 📂 [Глава 01-00. Архитектура на езиците и Управление на паметта (Кратък справочник)](01-00-ARCHITECTURE-AND-MEMORY-INTRO.md) | ➡️ [01-04. Компилатори и Рънтайм](01-04-Compilers-Interpreters-And-Runtime.md)
 
-© 2026 Dev-Library / Архитектура: Сравнение на платформи
+© 2026 Dev-Library / 01-03. Сравнение на бекенд платформи: .NET срещу JVM срещу Node.js

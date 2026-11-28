@@ -1,4 +1,4 @@
-[⬅️ 01-03. Arrays](01-03-00-Arrays.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-04-01. Syntax From Scratch](01-04-01-Methods-Syntax.md)
+[⬅️ 01-03. Arrays](01-03-00-Arrays.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-04-01. Syntax From Scratch](01-04-01-Syntax-Methods.md)
 
 ---
 
@@ -111,4 +111,4 @@ public class CleanMethodsDemo {
 *   **Точен Senior отговор:** Кодът **няма да се компилира** и ще хвърли грешка **`Reference to test is ambiguous`**! Причината е, че числата `10` и `20` са от тип `int`, така че и двата метода изискват точно едно автоматично разширяване (`int -> long`). Тъй като нито единият метод не е по-специфичен от другия, компилаторът отказва да гадае и изисква изрично уточняване от програмиста чрез суфикс `L`: `test(10, 20L)`.
 
 ---
-[⬅️ 01-03. Arrays](01-03-00-Arrays.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-04-01. Syntax From Scratch](01-04-01-Methods-Syntax.md)
+[⬅️ 01-03. Arrays](01-03-00-Arrays.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-04-01. Syntax From Scratch](01-04-01-Syntax-Methods.md)

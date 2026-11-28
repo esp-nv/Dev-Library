@@ -135,4 +135,4 @@ public record OrderItemSubDoc(string ProductName, int Quantity, decimal UnitPric
 ---
 ⬅️ [02-02. Нормализация на БД](02-02-SQL-Database-Normalization.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [02-04. Моделиране в Key-Value и Wide-Column (Redis & Cassandra)](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md)
 
-© 2026 Dev-Library / Бази данни: Моделиране в MongoDB
+© 2026 Dev-Library / 02-03. Особености при моделиране в Document БД (MongoDB)

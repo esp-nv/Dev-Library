@@ -67,4 +67,4 @@
 ---
 [⬅️  01-02. Мащабируемост и Скейлинг](01-02-Scalability-And-Load-Balancing.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md) | [🏠 Главен Хъб на проекта](../README.md) | [➡️ 01-04. Процес на проектиране](01-04-System-Design-Interview-Process.md)
 
-© 2026 Dev-Library / Системен Дизайн: Архитектурни Принципи и CAP
+© 2026 Dev-Library / 01-03. Архитектурни принципи, Качества и Търговски компромиси (Trade-offs)

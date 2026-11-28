@@ -88,4 +88,4 @@ public class ProfileController : Controller
 ---
 [⬅️ 01-05. Слоеве, Сервизи и DTOs](01-05-Layers-Services-And-Data-Transfer-Objects.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-07. Етапи за изграждане](01-07-ASP-NET-Core-Application-Architecture-Steps.md)
 
-© 2026 Dev-Library / ASP.NET Core: Сигурност и Identity
+© 2026 Dev-Library / 01-06. Потребителски сесии, бисквитки и сигурност с Identity

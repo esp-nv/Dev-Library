@@ -84,4 +84,4 @@ app.Run();
 ---
 [⬅️ 02-09. Автоматизирано Селениум Тестване](02-09-UI-Automation-Testing-Selenium-And-Fluent-Assertions.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md)
 
-© 2026 Dev-Library / Справочник: Висока SignalR Оптимизация през MessagePack
+© 2026 Dev-Library / 02-10. Оптимизация на SignalR чрез бинарна компресия с MessagePack

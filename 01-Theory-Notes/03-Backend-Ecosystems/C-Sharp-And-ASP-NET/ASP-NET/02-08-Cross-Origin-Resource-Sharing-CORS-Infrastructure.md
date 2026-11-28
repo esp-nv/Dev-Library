@@ -82,4 +82,4 @@ app.Run();
 [⬅️ 02-07. Глобална Софтуерна Сигурност](02-07-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md) | 
  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-09. Автоматизирано Селениум Тестване](02-09-UI-Automation-Testing-Selenium-And-Fluent-Assertions.md)
 
-© 2026 Dev-Library / Справочник: CORS и Мрежова Инфраструктура
+© 2026 Dev-Library / 02-08. Мрежов суверен достъп през CORS и Same-Origin Policy

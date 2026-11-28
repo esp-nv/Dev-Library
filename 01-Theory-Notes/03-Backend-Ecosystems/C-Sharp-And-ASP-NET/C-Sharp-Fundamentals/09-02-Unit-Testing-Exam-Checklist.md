@@ -70,4 +70,4 @@ public void MethodName_ShouldExpectedBehavior_WhenCondition()
 * **Не тествай реална база данни или файлова система:** За това използваме Mock проксита.
 
 ---
-© 2026 Dev-Library / Изпитен чеклист по Unit Testing
+© 2026 Dev-Library / Изпитен Чеклист: Какво и как се проверява в Unit Testing (NUnit + Moq)

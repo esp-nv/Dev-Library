@@ -122,4 +122,4 @@
 
 [⬅️ Назад към 00. Learning Roadmaps](README.md) | [📊 Бързо Сравнение на Tech Stack](TECH-STACK-COMPARISONS.md) | [📚 Инженерна Библиотека (01-Theory-Notes)](../README.md) | [🏠 Начало](../../README.md)
 
-© 2026 Dev-Library / Инженерен Наръчник за Избор на Технологии
+© 2026 Dev-Library / Инженерен Наръчник: Как да изберем правилния Език, Технология или Framework

@@ -83,4 +83,4 @@
 ---
 [🏛️ Главен Портал (Dev-Library)](../README.md) | [🧭 Пътеводител за Учене (00-Learning-Roadmaps)](00-Learning-Roadmaps/README.md) | [▶️ Започни от 01-00. Intro to HTML5 & CSS3 Architecture](02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-00-Intro.md)
 ---
-© 2026 Dev-Library / Инженерна Библиотека и Технологичен Архив
+© 2026 Dev-Library / Инженерна Библиотека и Технологичен Архив (`01-Theory-Notes`)

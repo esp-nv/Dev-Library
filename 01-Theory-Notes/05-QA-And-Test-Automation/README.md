@@ -25,4 +25,4 @@
 
 [⬅️ Назад към Инженерната Библиотека (01-Theory-Notes)](../README.md) | [📂 Предишен домейн: 04. Databases & Caching](../04-Databases-And-Caching/README.md) | [🏠 Начало](../../README.md) | [🌐 Следващ домейн: 06. Cloud, DevOps & Architecture](../06-Cloud-DevOps-And-Architecture/README.md) | [▶️ Започни от 01-00. Intro to QA Engineering, Testing Pyramid & Roadmap](01-QA-Automation/01-00-Intro-To-QA-Engineering.md)
 
-© 2026 Dev-Library / 05. QA и Автоматизирано Тестване
+© 2026 Dev-Library / 05. QA и Автоматизирано Тестване (QA Automation & SDET)

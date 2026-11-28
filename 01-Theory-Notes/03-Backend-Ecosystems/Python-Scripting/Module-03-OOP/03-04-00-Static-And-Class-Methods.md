@@ -1,4 +1,4 @@
-[⬅️ 03-03. Encapsulation](03-03-00-Encapsulation.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-04-01. Syntax From Scratch](03-04-01-Static-And-Class-Methods-Syntax.md)
+[⬅️ 03-03. Encapsulation](03-03-00-Encapsulation.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-04-01. Syntax From Scratch](03-04-01-Syntax-Static-And-Class-Methods.md)
 
 ---
 
@@ -136,4 +136,4 @@ print(f"Тип 2: {type(super_admin).__name__}  | Име: {super_admin.username}
     3.  Избирам **обикновена функция на ниво модул**, ако тя е общопомощна (Utility) и няма директна връзка с конкретен клас.
 
 ---
-[⬅️ 03-03. Encapsulation](03-03-00-Encapsulation.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-04-01. Syntax From Scratch](03-04-01-Static-And-Class-Methods-Syntax.md)
+[⬅️ 03-03. Encapsulation](03-03-00-Encapsulation.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-04-01. Syntax From Scratch](03-04-01-Syntax-Static-And-Class-Methods.md)

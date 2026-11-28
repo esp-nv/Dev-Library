@@ -81,17 +81,17 @@
 
 * **[01-01-00. Въведение в HTML5 и CSS3 (Теория и Подмодули)](01-01-00-HTML5-And-CSS3-Basics.md)** — Семантичен уеб дизайн, каскадност, изпитни капани в Judge и детайлни подмодули (`01-01` до `01-05`).
 
-* **[01-01-01. Syntax-From-Scratch & Semantic Cheat Sheet](01-01-01-HTML5-And-CSS3-Basics-Syntax.md)** — Задължителен HTML5 скелет, CSS селектори от нулата и готов компонент за семантична страница с навигация.
+* **[01-01-01. Syntax-From-Scratch & Semantic Cheat Sheet](01-01-01-Syntax-HTML5-And-CSS3-Basics.md)** — Задължителен HTML5 скелет, CSS селектори от нулата и готов компонент за семантична страница с навигация.
 
 * **[01-02-00. CSS Box Model и Типография](01-02-00-CSS-Box-Model-And-Typography.md)** — Математика на кутийния модел, типографски правила, DevTools одит и системни капани (`Width Crash` и `Margin Collapse`).
 
-* **[01-02-01. Syntax-From-Scratch & UI Card Snippets](01-02-01-CSS-Box-Model-And-Typography-Syntax.md)** — Глобално `border-box` нулиране, центриране на блокове и готов компонент за продуктова карта.
+* **[01-02-01. Syntax-From-Scratch & UI Card Snippets](01-02-01-Syntax-CSS-Box-Model-And-Typography.md)** — Глобално `border-box` нулиране, центриране на блокове и готов компонент за продуктова карта.
 
 * **[01-03-00. CSS Layout — Flexbox Архитектура](01-03-00-CSS-Layout-Flexbox.md)** — Главна и напречна ос, еластичност на елементите и капани при препълване на редове и изображения.
 
-* **[01-03-01. Syntax-From-Scratch & Responsive Navbar Snippets](01-03-01-CSS-Layout-Flexbox-Syntax.md)** — Flex рецепти от нулата, перфектно центриране и готов адаптивен хедър.
+* **[01-03-01. Syntax-From-Scratch & Responsive Navbar Snippets](01-03-01-Syntax-CSS-Layout-Flexbox.md)** — Flex рецепти от нулата, перфектно центриране и готов адаптивен хедър.
 * **[01-04-00. Sass и SCSS Архитектура (Препроцесори, Модули и Капани)](01-04-00-Sass-And-SCSS-Architecture.md)** — Компилация, Partials с `_`, модерна система `@use` / `@forward` и защита от дълбоко влагане.
-* **[01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet (Променливи, Mixins и Цикли)](01-04-01-Sass-And-SCSS-Architecture-Syntax.md)** — Синтаксис от нулата, вход/изход превод към CSS, табличен Cheat Sheet и генератор на бутони с `@each`.
+* **[01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet (Променливи, Mixins и Цикли)](01-04-01-Syntax-Sass-And-SCSS-Architecture.md)** — Синтаксис от нулата, вход/изход превод към CSS, табличен Cheat Sheet и генератор на бутони с `@each`.
 * **[01-05. Архитектурно и Хардуерно Сравнение на Стиловете (CSS3, SCSS, Tailwind, Bootstrap 5, CSS-in-JS)](01-05-CSS-Methodologies-And-Frameworks-Comparison.md)** — Сравнителна таблица по категории, прилики и разлики, натоварване на RAM/CPU и матрица за избор на технология.
 
 

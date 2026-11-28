@@ -96,4 +96,4 @@ protected override void OnModelCreating(ModelBuilder modelBuilder)
 ---
 [⬅️ 02-07. TDD и InMemory Тестване](02-07-EF-Core-TDD-And-InMemory-Testing.md) | [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) | [🏠 Начало (EF Core)](README.md) | [➡️ 03-00. Кратък справочник за защити](03-00-ADVANCED-DBCONTEXT-PROTECTIONS-INTRO.md)
 
-© 2026 Dev-Library / Справочник: Множествено свързване и InverseProperty
+© 2026 Dev-Library / 02-08. Атрибутът InverseProperty при множество връзки между две таблици

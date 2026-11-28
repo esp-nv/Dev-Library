@@ -197,4 +197,4 @@ public class SecurityMiddleware
 ---
 [⬅️ 02-00. Кратък справочник](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-02. Web API и Асинхронност](02-02-Web-API-And-Asynchronous-Processing.md)
 
-© 2026 Dev-Library / ASP.NET Core Advanced: Къстъм Уеб Поток
+© 2026 Dev-Library / 02-01. Разширен уеб поток и Custom Middleware конвейер

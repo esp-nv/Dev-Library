@@ -1,4 +1,4 @@
-[⬅️ 04-04-01. Django ORM Syntax](04-04-01-Django-ORM-Syntax.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-05-00. Query Optimization](04-05-00-Optimization-And-N-Plus-1.md)
+[⬅️ 04-04-01. Django ORM Syntax](04-04-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-05-00. Query Optimization](04-05-00-Optimization-And-N-Plus-1.md)
 
 ---
 
@@ -152,4 +152,4 @@ class AuthorRefDoc(Document):
 | **NoSQL Вграждане (MongoDB)** | `items: list[SubModel] = []` вътре в `Document` |
 
 ---
-[⬅️ 04-04-01. Django ORM Syntax](04-04-01-Django-ORM-Syntax.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-05-00. Query Optimization](04-05-00-Optimization-And-N-Plus-1.md)
+[⬅️ 04-04-01. Django ORM Syntax](04-04-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-05-00. Query Optimization](04-05-00-Optimization-And-N-Plus-1.md)

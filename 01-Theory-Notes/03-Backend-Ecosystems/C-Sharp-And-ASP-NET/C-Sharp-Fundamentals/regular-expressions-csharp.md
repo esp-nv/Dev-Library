@@ -179,4 +179,4 @@ public class BacktrackingSafetyDemo
 5. **Кеширай често използваните Regex обекти** в `private static readonly Regex`, ако ги викаш хиляди пъти в цикъл.
 
 ---
-© 2026 Dev-Library / Пълен учебен модул по Регулярни изрази в C#
+© 2026 Dev-Library / Учебник: Регулярни изрази (Regex), Групи, Lookaround и Backtracking в C#

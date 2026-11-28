@@ -1,4 +1,4 @@
-[⬅️ 01-04. Functions](01-04-00-Functions.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-05-01. Syntax From Scratch](01-05-01-List-Advanced-Syntax.md)
+[⬅️ 01-04. Functions](01-04-00-Functions.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-05-01. Syntax From Scratch](01-05-01-Syntax-List-Advanced.md)
 
 ---
 
@@ -126,4 +126,4 @@ print(f"Топ 3 резултата: {top_three}")
     *   **Deep Copy (Дълбоко копие):** Импортира се от вградения модул `import copy` (`copy.deepcopy(matrix)`). То обхожда рекурсивно цялото дърво и създава напълно нови, независими копия на всеки един вложен обект в RAM паметта.
 
 ---
-[⬅️ 01-04. Functions](01-04-00-Functions.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-05-01. Syntax From Scratch](01-05-01-List-Advanced-Syntax.md)
+[⬅️ 01-04. Functions](01-04-00-Functions.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-05-01. Syntax From Scratch](01-05-01-Syntax-List-Advanced.md)

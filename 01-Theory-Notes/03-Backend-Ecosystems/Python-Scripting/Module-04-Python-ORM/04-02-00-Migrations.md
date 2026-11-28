@@ -1,4 +1,4 @@
-[⬅️ 04-01. Models and Fields](04-01-00-Models-And-Fields.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-02-01. Django ORM Syntax](04-02-01-Django-ORM-Syntax.md)
+[⬅️ 04-01. Models and Fields](04-01-00-Models-And-Fields.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-02-01. Django ORM Syntax](04-02-01-Syntax-Django-ORM.md)
 
 ---
 
@@ -116,4 +116,4 @@ class Migration(migrations.Migration):
     3.  **Стъпка 3 (Contract):** Чак когато всички 10 милиона реда са попълнени, пускаш втора миграция, която слага ограничението `NOT NULL`.
 
 ---
-[⬅️ 04-01. Models and Fields](04-01-00-Models-And-Fields.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-02-01. Django ORM Syntax](04-02-01-Django-ORM-Syntax.md)
+[⬅️ 04-01. Models and Fields](04-01-00-Models-And-Fields.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-02-01. Django ORM Syntax](04-02-01-Syntax-Django-ORM.md)

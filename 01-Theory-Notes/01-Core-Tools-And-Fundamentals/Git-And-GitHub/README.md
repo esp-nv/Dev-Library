@@ -25,4 +25,4 @@
 
 [📦 Предишен модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [🌐 Домейн: 01. Core Tools & Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Git And GitHub](README.md) | [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md)
 
-© 2026 Dev-Library / Git And GitHub & Architecture
+© 2026 Dev-Library / Module 01: Git & GitHub (Version Control, GitHub Desktop & TortoiseGit)

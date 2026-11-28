@@ -113,4 +113,4 @@ Status: 200 OK
 ---
 [⬅️ 01-00. Кратък справочник](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-02. Жизнен цикъл и Middleware](01-02-ASP-NET-Core-Lifecycle-And-Middleware.md)
 
-© 2026 Dev-Library / Архитектура: Еволюция и Сравнение Преди и Сега
+© 2026 Dev-Library / 01-01. Еволюция на архитектурата: Класически .NET Framework срещу .NET Core+

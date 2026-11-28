@@ -1,4 +1,4 @@
-[📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [▶️ Започни от 02-00. Intro to JavaScript & V8 Engine](02-00-Intro-To-JavaScript-And-V8-Engine.md)
+[📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [▶️ Започни от 02-00. Intro to JavaScript, V8 Engine & Architecture](02-00-Intro-To-JavaScript-And-V8-Engine.md)
 
 ---
 
@@ -12,15 +12,15 @@
 
 ### 📦 01. JavaScript Core, V8 & Type System
 * **[02-00. Intro to JavaScript, V8 Engine & Architecture](02-00-Intro-To-JavaScript-And-V8-Engine.md)**
-* **02-01. Variables, Data Types & Type Coercion (`let`/`const`, Stack vs Heap, `===`)** ([`-00` Теория & Капани](02-01-00-Variables-Types-And-Coercion.md) | [`-01` Syntax & Cheat Sheet](02-01-01-Variables-Types-And-Coercion-Syntax.md))
-* **02-02. Functions, Lexical Scope, Closures & `this` Binding** ([`-00` Теория & Капани](02-02-00-Functions-Closures-And-This.md) | [`-01` Syntax & Functions Cheat Sheet](02-02-01-Functions-Closures-And-This-Syntax.md))
+* **02-01. Variables, Data Types & Type Coercion (`let`/`const`, Stack vs Heap, `===`)** ([`-00` Теория & Капани](02-01-00-Variables-Types-And-Coercion.md) | [`-01` Syntax & Cheat Sheet](02-01-00-Variables-Types-And-Coercion.md))
+* **02-02. Functions, Lexical Scope, Closures & `this` Binding** ([`-00` Теория & Капани](02-02-00-Functions-Closures-And-This.md) | [`-01` Syntax & Functions Cheat Sheet](02-02-01-Syntax-Functions-Closures-And-This.md))
 
 ### 📦 02. Prototypes, Object-Oriented JS & Event Loop
-* **02-03. Prototypes, Prototype Chain & Modern ES6+ Classes (`#private`)** ([`-00` Теория & Капани](02-03-00-Prototypes-OOP-And-Classes.md) | [`-01` Syntax & OOP Cheat Sheet](02-03-01-Prototypes-OOP-And-Classes-Syntax.md))
-* **02-04. Event Loop, Microtasks, Promises & `async/await`** ([`-00` Теория & Капани](02-04-00-Event-Loop-And-Asynchronous-JS.md) | [`-01` Syntax & Async Cheat Sheet](02-04-01-Event-Loop-And-Asynchronous-JS-Syntax.md))
+* **02-03. Prototypes, Prototype Chain & Modern ES6+ Classes (`#private`)** ([`-00` Теория & Капани](02-03-00-Prototypes-OOP-And-Classes.md) | [`-01` Syntax & OOP Cheat Sheet](02-03-01-Syntax-Prototypes-OOP-And-Classes.md))
+* **02-04. Event Loop, Microtasks, Promises & `async/await`** ([`-00` Теория & Капани](02-04-00-Event-Loop-And-Asynchronous-JS.md) | [`-01` Syntax & Async Cheat Sheet](02-04-01-Syntax-Event-Loop-And-Asynchronous-JS.md))
 
 ### 📦 03. Browser Runtime (DOM, Storage) & Runtime Comparison
-* **02-05. DOM Manipulation, Event Delegation & Web Storage API** ([`-00` Теория & Капани](02-05-00-DOM-Events-And-Browser-Storage.md) | [`-01` Syntax & DOM Cheat Sheet](02-05-01-DOM-Events-And-Browser-Storage-Syntax.md))
+* **02-05. DOM Manipulation, Event Delegation & Web Storage API** ([`-00` Теория & Капани](02-05-00-DOM-Events-And-Browser-Storage.md) | [`-01` Syntax & DOM Cheat Sheet](02-05-01-Syntax-DOM-Events-And-Browser-Storage.md))
 * **[02-06. Browser JavaScript vs Node.js Runtime Comparison](02-06-Browser-JS-vs-NodeJS-Runtime-Comparison.md)** — *Архитектурен мост между Frontend и Backend средата.*
 
 ---
@@ -34,6 +34,6 @@
 
 ---
 
-[📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [▶️ Започни от 02-00. Intro to JavaScript & V8 Engine](02-00-Intro-To-JavaScript-And-V8-Engine.md)
+[📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [▶️ Започни от 02-00. Intro to JavaScript, V8 Engine & Architecture](02-00-Intro-To-JavaScript-And-V8-Engine.md)
 
-© 2026 Dev-Library / JavaScript Language & Architecture
+© 2026 Dev-Library / JavaScript Language (Модерен Уеб Език & Browser Runtime)

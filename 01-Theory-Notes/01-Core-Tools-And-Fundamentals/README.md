@@ -36,4 +36,4 @@
 
 [⬅️ Назад към Инженерната Библиотека (01-Theory-Notes)](../README.md) | [🏠 Начало](../../README.md) | [🌐 Следващ домейн: 02. Frontend & UI/UX](../02-Frontend-And-UI-UX/README.md) | [▶️ Започни от 00-00. Intro to Web Ecosystem & Development Environments](Course-Intro-And-Setup/00-00-Intro.md)
 
-© 2026 Dev-Library / 01. Инструменти, Контрол на Версиите и Алгоритми
+© 2026 Dev-Library / ️ 01. Инструменти, Контрол на Версиите и Алгоритми (Core Tools & Fundamentals)

@@ -146,4 +146,4 @@ jobs:
 
 [⬅️ 01-02-00. Test Design Техники, Jira, CI/CD & MS Project](01-02-00-Test-Design-Jira-And-MS-Project.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-03-00. Unit Testing (AAA, Assertions & Mocking)](01-03-00-Multi-Language-Unit-Testing.md)
 
-© 2026 Dev-Library / 01-02-01. JQL, Automation, CI/CD & Cheat Sheet (Практика от Нулата)
+© 2026 Dev-Library / 01-02-01. JQL, Jira Automation, CI/CD & Cheat Sheet (Практика от Нулата)

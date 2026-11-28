@@ -205,4 +205,4 @@ public class MemoryStreamAndDisposableDemo
 5. **Задавай изрично `Encoding.UTF8`**, когато четеш или пишеш текстови файлове на кирилица.
 
 ---
-© 2026 Dev-Library / Пълен учебен модул по Потоци, Файлове и Директории в C#
+© 2026 Dev-Library / Учебник: Потоци (Streams / I/O), Буфери в RAM, Файлове и Директории в C#

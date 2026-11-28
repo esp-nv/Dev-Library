@@ -1,4 +1,4 @@
-[⬅️ 04-04-00. Теория & Сравнение](04-04-00-Relationships.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-04-02. SQLAlchemy Syntax](04-04-02-SQLAlchemy-Syntax.md)
+[⬅️ 04-04-00. Теория & Сравнение](04-04-00-Relationships.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-04-02. SQLAlchemy Syntax](04-04-02-Syntax-SQLAlchemy.md)
 
 ---
 
@@ -131,4 +131,4 @@ xml_tree = ET.tostring(author_xml, encoding="unicode")
 | **Филтриране по поле на родител** | `Child.objects.filter(parent__name="Ivan")` |
 
 ---
-[⬅️ 04-04-00. Теория & Сравнение](04-04-00-Relationships.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-04-02. SQLAlchemy Syntax](04-04-02-SQLAlchemy-Syntax.md)
+[⬅️ 04-04-00. Теория & Сравнение](04-04-00-Relationships.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-04-02. SQLAlchemy Syntax](04-04-02-Syntax-SQLAlchemy.md)

@@ -108,4 +108,4 @@ ROLLBACK; -- Данните се възстановяват мигновено �
 ---
 [⬅️ 01-01. Релации и типове данни](01-01-SQL-Server-Relations-And-Data-Types.md) | [📂 Глава 01. Основи на SQL Server, релации и T-SQL](01-00-SQL-SERVER-AND-RELATIONS-INTRO.md) | 
 
-© 2026 Dev-Library / Релации и памет: Joins и Транзакции
+© 2026 Dev-Library / 01-02. Дълбоко гмуркане в SQL Joins и сигурност при промени

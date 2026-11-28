@@ -22,4 +22,4 @@
 
 [📦 Предишен модул: Algorithms-And-Data-Structures](../Algorithms-And-Data-Structures/README.md) | [🌐 Домейн: 01. Core Tools & Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course Intro And Setup](README.md) | [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Git-And-GitHub](../Git-And-GitHub/README.md)
 
-© 2026 Dev-Library / Course Intro And Setup & Architecture
+© 2026 Dev-Library / Module 00: Course Intro & Development Environment Setup

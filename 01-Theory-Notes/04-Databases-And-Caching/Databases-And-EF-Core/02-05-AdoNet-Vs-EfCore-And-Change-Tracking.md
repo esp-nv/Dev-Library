@@ -83,4 +83,4 @@ WHERE [e].[JobTitle] = N'Design Engineer'
 ---
 [⬅️ 02-04. Мулти-провайдър Превключване](02-04-Multi-Database-Provider-Switch.md) | [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) | [02-06. Database-First подход и Автоматично генериране на код (Scaffolding)](02-06-Database-First-Model-Scaffolding.md)
 
-© 2026 Dev-Library / Справочник: ADO.NET, Change Tracking и Логване
+© 2026 Dev-Library / 02-05. ADO.NET срещу EF Core, Change Tracking и Логване на заявки

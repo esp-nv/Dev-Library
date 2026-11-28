@@ -77,4 +77,4 @@
 
 [📦 Предишен модул: C-Sharp-And-ASP-NET](../C-Sharp-And-ASP-NET/README.md) | [🌐 Домейн: 03. Backend Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Java Ecosystem](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Python-Scripting](../Python-Scripting/README.md) | [▶️ Започни от 02-00. Intro: Въведение в Java OOP & Архитектурен Roadmap](Module-02-Java-OOP/02-00-Intro.md)
 
-© 2026 Dev-Library / Java Ecosystem & Architecture
+© 2026 Dev-Library / Java & Spring Boot Ecosystem (Пълен Архитектурен Справочник)

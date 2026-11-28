@@ -1,4 +1,4 @@
-[⬅️ 01-07. Associative Arrays (Maps)](01-07-00-Maps-And-Stream-API.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-08-01. Syntax From Scratch](01-08-01-Stream-API-Syntax.md)
+[⬅️ 01-07. Associative Arrays (Maps)](01-07-00-Maps-And-Stream-API.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-08-01. Syntax From Scratch](01-08-01-Syntax-Stream-API.md)
 
 ---
 
@@ -135,4 +135,4 @@ public class CleanStreamDemo {
     2.  **`orElseGet(Supplier<? extends T> supplier)`** е **Lazy (мързелив)** — подадената ламбда функция се изпълнява **само и единствено ако `Optional` е празен**. Затова при извикване на методи или заявки към базата **винаги** използвай `orElseGet(...)`.
 
 ---
-[⬅️ 01-07. Associative Arrays (Maps)](01-07-00-Maps-And-Stream-API.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-08-01. Syntax From Scratch](01-08-01-Stream-API-Syntax.md)
+[⬅️ 01-07. Associative Arrays (Maps)](01-07-00-Maps-And-Stream-API.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-08-01. Syntax From Scratch](01-08-01-Syntax-Stream-API.md)

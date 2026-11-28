@@ -127,4 +127,4 @@ WHERE CustomerId = 42;
 ---
 📂 [Глава 04](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-02. Транзакции и ACID](04-02-Transactions-ACID-And-Isolation-Levels.md)
 
-© 2026 Dev-Library / Бази данни: Индекси и Execution Plans
+© 2026 Dev-Library / 04-01. Индекси (B-Tree) и Четене на Execution Plans

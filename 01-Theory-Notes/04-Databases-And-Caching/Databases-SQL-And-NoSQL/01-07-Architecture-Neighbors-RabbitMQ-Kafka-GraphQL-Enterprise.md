@@ -88,4 +88,4 @@ query {
 ---
 ⬅️ [01-06. Формати: JSON и XML](01-06-Data-Formats-JSON-And-XML.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [01-08. Специализирани БД (Vector, Search, Graph)](01-08-Specialized-Databases-Vector-Search-Graph.md)
 
-© 2026 Dev-Library / Бази данни: Съседи в архитектурата
+© 2026 Dev-Library / 01-07. Съседи на Базата данни: RabbitMQ, Kafka, GraphQL, Mobile, AD и SAP

@@ -99,4 +99,4 @@ Dictionary<string, int> emptyDict = [];
 * **[Zenn: C# Collection Expressions Cheatsheet](https://zenn.dev/inuinu/articles/84c6d5ca85c41f?locale=en)** — Примери за новия съкратен синтаксис с `[..]` в C# 12+.
 
 ---
-© 2026 Dev-Library / Бърз изпитен Cheat Sheet по Колекции
+© 2026 Dev-Library / Cheat Sheet: Колекции и Структури от данни в C#

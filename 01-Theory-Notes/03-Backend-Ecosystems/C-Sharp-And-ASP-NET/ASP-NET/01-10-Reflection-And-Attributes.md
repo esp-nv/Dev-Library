@@ -221,4 +221,4 @@ public class CodingTracker
 ---
 [⬅️ 01-09. Справочник по конфигурация](01-09-AutoMapper-Identity-Configuration-Guide.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
 ---
-© 2026 Dev-Library / Справочник: Reflection & Attributes Пищов
+© 2026 Dev-Library / 01-10. Reflection и Attributes (Дълбок Архитектурен Справочник)

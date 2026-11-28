@@ -80,4 +80,4 @@
 ---
 [⬅️ 00-02. Git и Документация](00-02-Git-And-Project-Documentation-Best-Practices.md) | 📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) 
 
-© 2026 Dev-Library / Справочник: Автоматизация и Диагностика с Postman
+© 2026 Dev-Library / 00-03. Пълен диагностичен наръчник за Postman

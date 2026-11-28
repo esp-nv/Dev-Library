@@ -11,25 +11,25 @@
 *   **[04-00. Intro to Spring Boot & Web Architecture](04-00-Intro.md)**
 *   **04-01. Internet Explained & HTTP Protocol**
     *   📄 [Теория, HTTP Методи, Статус кодове & Капани](04-01-00-Internet-And-HTTP.md)
-    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](04-01-01-Internet-And-HTTP-Syntax.md)
+    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](04-01-01-Syntax-Internet-And-HTTP.md)
 *   **04-02. Spring Boot Introduction & Layered Architecture**
     *   📄 [Теория, Auto-Configuration, Embedded Tomcat & Капани](04-02-00-Spring-Boot-Intro.md)
-    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](04-02-01-Spring-Boot-Intro-Syntax.md)
+    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](04-02-01-Syntax-Spring-Boot-Intro.md)
 *   **04-03. Spring Core (IoC Container, Beans & Dependency Injection)**
     *   📄 [Теория, Bean Scopes, Lifecycle & Капани](04-03-00-Spring-Core-IoC.md)
-    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](04-03-01-Spring-Core-IoC-Syntax.md)
+    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](04-03-01-Syntax-Spring-Core-IoC.md)
 *   **04-04. Spring MVC with Thymeleaf & Validation (`@Valid`)**
     *   📄 [Теория, DispatcherServlet, PRG Патерн & Капани](04-04-00-Spring-MVC-Thymeleaf.md)
-    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](04-04-01-Spring-MVC-Thymeleaf-Syntax.md)
+    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](04-04-01-Syntax-Spring-MVC-Thymeleaf.md)
 *   **04-05. State Management (Cookies & HttpSession)**
     *   📄 [Теория, Stateless vs Stateful, Сигурност & Капани](04-05-00-State-Management.md)
-    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](04-05-01-State-Management-Syntax.md)
+    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](04-05-01-Syntax-State-Management.md)
 *   **04-06. Spring Essentials (Events, Scheduling `@Scheduled` & Caching)**
     *   📄 [Теория, ApplicationEventPublisher, Cron & Капани](04-06-00-Spring-Essentials.md)
-    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](04-06-01-Spring-Essentials-Syntax.md)
+    *   🛠️ [Syntax-From-Scratch & Cheat Sheet](04-06-01-Syntax-Spring-Essentials.md)
 
 ---
 
 [📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04 Spring Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md)
 
-© 2026 Dev-Library / Module 04 Spring Fundamentals & Architecture
+© 2026 Dev-Library / Module 04: Spring Fundamentals (Spring Boot & MVC)

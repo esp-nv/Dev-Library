@@ -1,4 +1,4 @@
-[⬅️ 04-03. CRUD and Queries](04-03-00-CRUD-And-Queries.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-04-01. Django ORM Syntax](04-04-01-Django-ORM-Syntax.md)
+[⬅️ 04-03. CRUD and Queries](04-03-00-CRUD-And-Queries.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-04-01. Django ORM Syntax](04-04-01-Syntax-Django-ORM.md)
 
 ---
 
@@ -118,4 +118,4 @@ class Invoice(models.Model):
     *   **Правилен фикс:** В SQLAlchemy се използва `ondelete="CASCADE"` на `ForeignKey` + `passive_deletes=True`, а в Django 5+ се използва `db_on_delete=models.DB_CASCADE`, за да се прехвърли работата директно към бързия SQL сървър.
 
 ---
-[⬅️ 04-03. CRUD and Queries](04-03-00-CRUD-And-Queries.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-04-01. Django ORM Syntax](04-04-01-Django-ORM-Syntax.md)
+[⬅️ 04-03. CRUD and Queries](04-03-00-CRUD-And-Queries.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-04-01. Django ORM Syntax](04-04-01-Syntax-Django-ORM.md)

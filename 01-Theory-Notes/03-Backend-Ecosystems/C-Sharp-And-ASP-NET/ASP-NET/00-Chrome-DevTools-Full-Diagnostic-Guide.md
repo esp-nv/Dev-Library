@@ -94,4 +94,4 @@
 ---
 [⬅️ 00-03. Тестване с Postman](00-03-Postman-API-Testing-Fundamentals.md) | 📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) | [⏩ Глава 01-00. Еволюция на ASP.NET](01-00-ASP-NET-VERSIONS-AND-EVOLUTION.md)
 
-© 2026 Dev-Library / Справочник: Пълна Chrome DevTools диагностика
+© 2026 Dev-Library / 00-04. Пълен диагностичен наръчник за Chrome DevTools

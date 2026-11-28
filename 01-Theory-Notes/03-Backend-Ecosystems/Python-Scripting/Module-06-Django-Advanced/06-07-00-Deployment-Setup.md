@@ -1,4 +1,4 @@
-[⬅️ 06-06. Testing in Django](06-06-00-Testing-In-Django.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-07-01. Syntax From Scratch](06-07-01-Deployment-Setup-Syntax.md)
+[⬅️ 06-06. Testing in Django](06-06-00-Testing-In-Django.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-07-01. Syntax From Scratch](06-07-01-Syntax-Deployment-Setup.md)
 
 ---
 
@@ -129,4 +129,4 @@ SECURE_HSTS_INCLUDE_SUBDOMAINS = True
     2.  **Защо `MEDIA` не се пази в Docker контейнер:** Docker контейнерите са **ефимерни (непостоянни)** — при всеки нов `git push` и ребилд старият контейнер се унищожава и се създава нов от чист образ. Всички снимки, качени от потребителите вътре в папката `media/` на контейнера, **изчезват безвъзвратно**! Затова в продукция `MEDIA` файловете се пазят в облачно обектно хранилище (**AWS S3**, **Cloudflare R2** или **Cloudinary** чрез пакета `django-storages`).
 
 ---
-[⬅️ 06-06. Testing in Django](06-06-00-Testing-In-Django.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-07-01. Syntax From Scratch](06-07-01-Deployment-Setup-Syntax.md)
+[⬅️ 06-06. Testing in Django](06-06-00-Testing-In-Django.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-07-01. Syntax From Scratch](06-07-01-Syntax-Deployment-Setup.md)

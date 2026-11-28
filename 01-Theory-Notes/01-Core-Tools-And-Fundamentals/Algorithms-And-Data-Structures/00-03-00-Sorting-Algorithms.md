@@ -117,4 +117,4 @@ def insertion_sort(arr: list[int]) -> list[int]:
 ---
 [⬅️ 00-02. Searching Algorithms](00-02-00-Searching-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-03-01. Python Implementation](00-03-01-Python-Implementation.md)
 
-© 2026 Dev-Library /  00-03-00. Sorting Algorithms (Теория, Стабилност, Big O & Капани)
+© 2026 Dev-Library / 00-03-00. Sorting Algorithms (Теория, Стабилност, Big O & Капани)

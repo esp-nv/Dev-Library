@@ -1,4 +1,4 @@
-[⬅️ 04-01-00. Теория & Сравнение](04-01-00-Models-And-Fields.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-01-02. SQLAlchemy Syntax](04-01-02-SQLAlchemy-Syntax.md)
+[⬅️ 04-01-00. Теория & Сравнение](04-01-00-Models-And-Fields.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-01-02. SQLAlchemy Syntax](04-01-02-Syntax-SQLAlchemy.md)
 
 ---
 
@@ -143,4 +143,4 @@ print(xml_output)
 | **Сортиране на таблицата** | `class Meta: ordering = ["-id"]` | `ORDER BY id DESC` |
 
 ---
-[⬅️ 04-01-00. Теория & Сравнение](04-01-00-Models-And-Fields.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-01-02. SQLAlchemy Syntax](04-01-02-SQLAlchemy-Syntax.md)
+[⬅️ 04-01-00. Теория & Сравнение](04-01-00-Models-And-Fields.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-01-02. SQLAlchemy Syntax](04-01-02-Syntax-SQLAlchemy.md)

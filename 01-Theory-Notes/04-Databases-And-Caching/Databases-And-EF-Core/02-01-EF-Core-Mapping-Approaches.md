@@ -184,4 +184,4 @@ protected override void OnModelCreating(ModelBuilder modelBuilder)
 ---
 [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) |  [➡️ 02-02. ApplicationDbContext Конфигурация](02-02-ApplicationDbContext-And-Fluent-API-Configuration.md)
 
-© 2026 Dev-Library / Основи на EF Core: Подходи за Mapping
+© 2026 Dev-Library / 02-01. Подходи за Mapping в EF Core: От C# Клас до SQL Таблица

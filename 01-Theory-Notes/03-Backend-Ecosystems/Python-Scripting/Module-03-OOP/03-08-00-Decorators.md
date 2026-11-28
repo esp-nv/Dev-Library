@@ -1,4 +1,4 @@
-[⬅️ 03-07. Iterators and Generators](03-07-00-Iterators-And-Generators.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-08-01. Syntax From Scratch](03-08-01-Decorators-Syntax.md)
+[⬅️ 03-07. Iterators and Generators](03-07-00-Iterators-And-Generators.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-08-01. Syntax From Scratch](03-08-01-Syntax-Decorators.md)
 
 ---
 
@@ -129,4 +129,4 @@ print(f"Резултат: {answer}")
     2.  **Ред на изпълнение (при викане на `my_func()`):** Първо тръгва кодът на външния `@dec_A` (преди `func()`), после влиза във вътрешния `@dec_B`, изпълнява самата `my_func()`, и накрая излиза обратно през `@dec_B` и `@dec_A` (**като луковица — отвън навътре и после обратно навън**).
 
 ---
-[⬅️ 03-07. Iterators and Generators](03-07-00-Iterators-And-Generators.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-08-01. Syntax From Scratch](03-08-01-Decorators-Syntax.md)
+[⬅️ 03-07. Iterators and Generators](03-07-00-Iterators-And-Generators.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-08-01. Syntax From Scratch](03-08-01-Syntax-Decorators.md)

@@ -90,4 +90,4 @@ GET user:101
 ---
 ⬅️ [02-01. Архитектурни стилове: Монолит, Микроуслуги и Serverless](02-01-Architectural-Styles-Monolith-Microservices-Serverless.md) | 📂 [Глава 02-00. Софтуерни архитектури и Бази данни (Кратък справочник)](02-00-SOFTWARE-ARCHITECTURE-OVERVIEW.md) | [02-03. Интервю Справочник](02-03-SQL-Vs-NoSQL-Interview-CheatSheet.md)
 
-© 2026 Dev-Library / Архитектура: SQL срещу NoSQL сравнение
+© 2026 Dev-Library / 02-02. SQL срещу NoSQL: Cross-Stack Сравнение на Концепциите

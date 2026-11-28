@@ -100,4 +100,4 @@ if (match.Success)
 
 [⬅️ Кратък справочник](11-STRING-TEXT-PROCESSING.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](13-STREAMS-FILES-DIRECTORIES.md)
 
-© 2026 Dev-Library / C Sharp Fundamentals & Architecture
+© 2026 Dev-Library / Глава 12: Регулярни изрази (Regular Expressions / Regex)

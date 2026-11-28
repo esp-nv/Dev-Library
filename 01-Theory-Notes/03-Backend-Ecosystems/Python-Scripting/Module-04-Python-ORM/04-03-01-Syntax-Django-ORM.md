@@ -1,4 +1,4 @@
-[⬅️ 04-03-00. Теория & Сравнение](04-03-00-CRUD-And-Queries.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-03-02. SQLAlchemy Syntax](04-03-02-SQLAlchemy-Syntax.md)
+[⬅️ 04-03-00. Теория & Сравнение](04-03-00-CRUD-And-Queries.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-03-02. SQLAlchemy Syntax](04-03-02-Syntax-SQLAlchemy.md)
 
 ---
 
@@ -145,4 +145,4 @@ catalog.remove(item)
 | **Масов Update / Delete** | `qs.update(x=1)` / `qs.delete()` |
 
 ---
-[⬅️ 04-03-00. Теория & Сравнение](04-03-00-CRUD-And-Queries.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-03-02. SQLAlchemy Syntax](04-03-02-SQLAlchemy-Syntax.md)
+[⬅️ 04-03-00. Теория & Сравнение](04-03-00-CRUD-And-Queries.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-03-02. SQLAlchemy Syntax](04-03-02-Syntax-SQLAlchemy.md)

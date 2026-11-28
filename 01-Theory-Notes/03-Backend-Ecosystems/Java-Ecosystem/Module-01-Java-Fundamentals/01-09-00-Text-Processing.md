@@ -1,4 +1,4 @@
-[⬅️ 01-08. Stream API & Lambdas](01-08-00-Stream-API.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-09-01. Syntax From Scratch](01-09-01-Text-Processing-Syntax.md)
+[⬅️ 01-08. Stream API & Lambdas](01-08-00-Stream-API.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-09-01. Syntax From Scratch](01-09-01-Syntax-Text-Processing.md)
 
 ---
 
@@ -108,4 +108,4 @@ public class CleanStringBuilderDemo {
     2.  **Compact Strings (Java 9+):** Преди Java 9 всеки `String` пазеше буквите в `char[]` (по 2 байта UTF-16 на символ), дори когато текстът е само на латиница. От Java 9 нататък `String` използва **`byte[]` + 1 байт кодировка (`LATIN1` или `UTF16`)** — ако текстът съдържа само Latin-1 символи, заема **1 байт на символ вместо 2 байта**, спестявайки до 50% от Heap паметта на сървъра!
 
 ---
-[⬅️ 01-08. Stream API & Lambdas](01-08-00-Stream-API.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-09-01. Syntax From Scratch](01-09-01-Text-Processing-Syntax.md)
+[⬅️ 01-08. Stream API & Lambdas](01-08-00-Stream-API.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-09-01. Syntax From Scratch](01-09-01-Syntax-Text-Processing.md)

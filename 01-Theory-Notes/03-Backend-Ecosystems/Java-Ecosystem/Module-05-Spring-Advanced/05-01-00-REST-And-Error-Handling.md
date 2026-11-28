@@ -164,4 +164,4 @@ public class GlobalApiExceptionHandler {
 
 [📂 Назад към Module 05 Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Spring Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md)
 
-© 2026 Dev-Library / Module 05 Spring Advanced & Architecture
+© 2026 Dev-Library / 05-01-00. Web API, REST Controllers & Global Error Handling (Теория & Капани)

@@ -1,4 +1,4 @@
-[⬅️ 02-08. Exceptions & Error Handling](02-08-00-Exceptions-Handling.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-09-01. Syntax From Scratch](02-09-01-Unit-Testing-Syntax.md)
+[⬅️ 02-08. Exceptions & Error Handling](02-08-00-Exceptions-Handling.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-09-01. Syntax From Scratch](02-09-01-Syntax-Unit-Testing.md)
 
 ---
 
@@ -154,4 +154,4 @@ class UserServiceTest {
 | **Проверка за извикване (Verify)** | `verify(repo, times(1)).deleteById(5L);` | `mockRepo.Verify(r => r.DeleteById(5), Times.Once);` |
 
 ---
-[⬅️ 02-08. Exceptions & Error Handling](02-08-00-Exceptions-Handling.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-09-01. Syntax From Scratch](02-09-01-Unit-Testing-Syntax.md)
+[⬅️ 02-08. Exceptions & Error Handling](02-08-00-Exceptions-Handling.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-09-01. Syntax From Scratch](02-09-01-Syntax-Unit-Testing.md)

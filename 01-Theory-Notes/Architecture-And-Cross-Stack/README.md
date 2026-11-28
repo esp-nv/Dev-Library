@@ -44,4 +44,4 @@
 ---
 🏠 [Всички бележки (01-Theory-Notes)](../README.md) | 🗄️ [Бази данни (SQL & NoSQL)](../Databases-SQL-And-NoSQL/) | 💾 [Entity Framework Core](../Databases-And-EF-Core/) | ▶️ [Започни от 01-00](01-00-ARCHITECTURE-AND-MEMORY-INTRO.md)
 
-© 2026 Dev-Library / Пълна архитектурна библиотека по Структури и Платформи
+© 2026 Dev-Library / Architecture & Cross-Stack — Фундаментален Архитектурен Атлас

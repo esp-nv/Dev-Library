@@ -66,4 +66,4 @@ public class Student
 ---
 [⬅️ 02-08. Множествено свързване](02-08-InverseProperty-Multiple-Relationships.md) | [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) | [🏠 Начало (EF Core)](README.md) | [➡️ 02-10. Напреднал LINQ и Специфични операции](02-10-Advanced-LINQ-And-Query-Operations.md)
 
-© 2026 Dev-Library / Справочник: Data Annotations Валидации
+© 2026 Dev-Library / 02-09. Валидации с Data Annotations и Специфични Атрибути

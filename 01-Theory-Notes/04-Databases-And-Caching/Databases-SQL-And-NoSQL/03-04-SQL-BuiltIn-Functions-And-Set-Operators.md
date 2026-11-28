@@ -166,4 +166,4 @@ SELECT DISTINCT ProductId FROM OrderItems;
 ---
 ⬅️ [03-03. Групиране, Агрегации и Window Functions](03-03-SQL-Grouping-Aggregations-Window-Functions.md) | 📂 [03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и Функции](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md)  | ⏩ [Глава 04. Производителност и Програмируемост](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md)
 
-© 2026 Dev-Library / Бази данни: Вградени функции и Сет оператори
+© 2026 Dev-Library / 03-04. Вградени функции (Текст, Дати, CASE WHEN) и Сет оператори (UNION, INTERSECT, EXCEPT)

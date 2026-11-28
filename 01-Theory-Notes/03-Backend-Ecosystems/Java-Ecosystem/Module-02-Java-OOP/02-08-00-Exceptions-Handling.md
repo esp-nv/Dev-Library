@@ -1,4 +1,4 @@
-[⬅️ 02-07. Reflection & Annotations](02-07-00-Reflection-And-Annotations.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-08-01. Syntax From Scratch](02-08-01-Exceptions-Handling-Syntax.md)
+[⬅️ 02-07. Reflection & Annotations](02-07-00-Reflection-And-Annotations.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-08-01. Syntax From Scratch](02-08-01-Syntax-Exceptions-Handling.md)
 
 ---
 
@@ -135,4 +135,4 @@ public class SafeFileReader {
 | **Прехвърляне на изключение нагоре** | `throw e;` (запазва оригиналния Stack Trace) | `throw;` (без променлива! `throw ex;` рестартира Stack Trace-а!) |
 
 ---
-[⬅️ 02-07. Reflection & Annotations](02-07-00-Reflection-And-Annotations.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-08-01. Syntax From Scratch](02-08-01-Exceptions-Handling-Syntax.md)
+[⬅️ 02-07. Reflection & Annotations](02-07-00-Reflection-And-Annotations.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-08-01. Syntax From Scratch](02-08-01-Syntax-Exceptions-Handling.md)

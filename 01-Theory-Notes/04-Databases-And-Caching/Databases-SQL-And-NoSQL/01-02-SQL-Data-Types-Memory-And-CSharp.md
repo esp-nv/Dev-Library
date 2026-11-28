@@ -146,4 +146,4 @@ public class Student
 [⬅️ 01-01. Логика на SELECT](01-01-SQL-Logic-And-Select-Order.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) |🏠 [Библиотека БД](README.md)  | [➡️ 01-03. Релационни диалекти](01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md)
 
 ---
-© 2026 Dev-Library / Бази данни: Типове данни, Памет и C#
+© 2026 Dev-Library / 01-02. Типове данни, Заемане на памет и Мостът към C#

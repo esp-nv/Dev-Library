@@ -144,4 +144,4 @@ export interface OrderResponse {
 
 
 ---
-© 2026 Dev-Library / Full-Stack & Multi-Language Архитектурна карта
+© 2026 Dev-Library / 01-01. Cross-Stack Карта: SQL ➔ C# ➔ JS / TypeScript ➔ Python

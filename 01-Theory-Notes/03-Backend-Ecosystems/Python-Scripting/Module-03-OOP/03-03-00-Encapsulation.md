@@ -1,4 +1,4 @@
-[⬅️ 03-02. Inheritance](03-02-00-Inheritance.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-03-01. Syntax From Scratch](03-03-01-Encapsulation-Syntax.md)
+[⬅️ 03-02. Inheritance](03-02-00-Inheritance.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-03-01. Syntax From Scratch](03-03-01-Syntax-Encapsulation.md)
 
 ---
 
@@ -136,4 +136,4 @@ print(f"Нова цена с ДДС: {laptop.price_with_vat} лв.")
 *   **Точен Senior отговор:** Ако в `__init__` напишеш `self.age = age` (без долна черта), Python **автоматично задейства `@age.setter`** още при инициализацията на обекта и веднага ще хвърли `ValueError` при невалидни данни. Ако обаче в `__init__` напишеш `self._age = age` (с долна черта), ти директно записваш в скритото поле и **прескачаш валидацията** в сетъра при създаване! Затова добрата практика е в `__init__` да се пише `self.age = age`, за да се валидират данните още при раждането на обекта.
 
 ---
-[⬅️ 03-02. Inheritance](03-02-00-Inheritance.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-03-01. Syntax From Scratch](03-03-01-Encapsulation-Syntax.md)
+[⬅️ 03-02. Inheritance](03-02-00-Inheritance.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-03-01. Syntax From Scratch](03-03-01-Syntax-Encapsulation.md)

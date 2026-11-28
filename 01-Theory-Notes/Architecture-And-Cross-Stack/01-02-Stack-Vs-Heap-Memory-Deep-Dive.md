@@ -69,4 +69,4 @@ public void ProcessData()
 
 ---
 ⬅️ [01-01. Cross-Stack Карта](01-01-Cross-Stack-Types-And-Ecosystem.md) |  📂 [Глава 01-00. Архитектура на езиците и Управление на паметта (Кратък справочник)](01-00-ARCHITECTURE-AND-MEMORY-INTRO.md)  | ➡️ [01-03. Сравнение на платформи](01-03-Ecosystems-Comparison-DotNet-JVM-Node.md)
-© 2026 Dev-Library / Архитектура: Stack и Heap памет
+© 2026 Dev-Library / 01-02. Дълбоко гмуркане в паметта: Stack срещу Heap

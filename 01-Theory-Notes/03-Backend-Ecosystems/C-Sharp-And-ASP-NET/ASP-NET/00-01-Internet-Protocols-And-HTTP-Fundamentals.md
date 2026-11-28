@@ -124,4 +124,4 @@ Content-Type: application/json
 [📂 Глава 00-00. Въведение в уеб технологиите и Git](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 00-02. Git и Документация](00-02-Git-And-Project-Documentation-Best-Practices.md)
 
 
-© 2026 Dev-Library / Мрежи и HTTP: Фундаменти
+© 2026 Dev-Library / 00-01. Мрежови протоколи и HTTP Анатомия

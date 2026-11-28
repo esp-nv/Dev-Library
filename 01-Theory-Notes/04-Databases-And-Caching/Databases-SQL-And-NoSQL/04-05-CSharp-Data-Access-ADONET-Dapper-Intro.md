@@ -143,4 +143,4 @@ public class OrderReportRepository
 ---
 ⬅️ [04-04. Views, Functions, Procedures и Triggers](04-04-Views-Functions-Procedures-Triggers.md) | 📂 [04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-06. OLTP срещу OLAP и Data Warehouses](04-06-OLTP-vs-OLAP-And-Data-Warehouses.md)
 
-© 2026 Dev-Library / Бази данни: C# Data Access (ADO.NET и Dapper)
+© 2026 Dev-Library / 04-05. Достъп до данни в C#: ADO.NET ➔ Dapper ➔ EF Core

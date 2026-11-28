@@ -106,4 +106,4 @@ def fib_optimal(n: int) -> int:
 
 [📂 Назад към Algorithms And Data Structures Хъба](README.md) | [🌐 Домейн: 01. Core Tools & Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms And Data Structures](README.md) | [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md)
 
-© 2026 Dev-Library / Algorithms And Data Structures & Architecture
+© 2026 Dev-Library / 00-06-00. Dynamic Programming (Теория, Memoization vs Tabulation & Капани)

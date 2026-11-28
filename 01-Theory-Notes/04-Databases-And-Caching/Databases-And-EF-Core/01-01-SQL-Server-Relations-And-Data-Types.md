@@ -61,4 +61,4 @@
 ---
  [📂 Глава 01. Основи на SQL Server, релации и T-SQL](01-00-SQL-SERVER-AND-RELATIONS-INTRO.md) | | [➡️ 01-02. SQL Joins и Транзакции](01-02-SQL-Server-Joins-And-Transactions-Deep-Dive.md)
 
-© 2026 Dev-Library / Релации и памет: Проектиране
+© 2026 Dev-Library / 01-01. Проектиране на релации и физическо заемане на паметта

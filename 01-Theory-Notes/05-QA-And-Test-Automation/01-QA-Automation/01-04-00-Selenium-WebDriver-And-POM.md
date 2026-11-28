@@ -156,4 +156,4 @@ public void Login_ValidCredentials_RedirectsToDashboard()
 
 [📂 Назад към 01 QA Automation Хъба](README.md) | [🌐 Домейн: 05. QA & Test Automation](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01 QA Automation](README.md) | [🌐 Следващ домейн: 06. Cloud, DevOps & Architecture](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-98. Common Errors, Edge Cases & Fixes (Каталог на грешките)](01-98-Common-Errors-And-Fixes.md)
 
-© 2026 Dev-Library / 01 QA Automation & Architecture
+© 2026 Dev-Library / 01-04-00. Selenium WebDriver, DOM Locators, Explicit Waits & POM

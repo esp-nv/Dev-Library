@@ -1,4 +1,4 @@
-[⬅️ 02-09. Unit Testing (JUnit 5 & Mockito)](02-09-00-Unit-Testing.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-10-01. Syntax From Scratch](02-10-01-Design-Patterns-Syntax.md)
+[⬅️ 02-09. Unit Testing (JUnit 5 & Mockito)](02-09-00-Unit-Testing.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-10-01. Syntax From Scratch](02-10-01-Syntax-Design-Patterns.md)
 
 ---
 
@@ -141,4 +141,4 @@ enum AppConfig {
 | **Factory в DI контейнера** | `@Bean` методи вътре в `@Configuration` клас | `services.AddScoped<IService>(sp => new Service(...))` |
 
 ---
-[⬅️ 02-09. Unit Testing (JUnit 5 & Mockito)](02-09-00-Unit-Testing.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-10-01. Syntax From Scratch](02-10-01-Design-Patterns-Syntax.md)
+[⬅️ 02-09. Unit Testing (JUnit 5 & Mockito)](02-09-00-Unit-Testing.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-10-01. Syntax From Scratch](02-10-01-Syntax-Design-Patterns.md)

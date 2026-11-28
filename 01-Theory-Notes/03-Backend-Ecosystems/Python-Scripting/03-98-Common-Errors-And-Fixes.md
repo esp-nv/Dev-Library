@@ -128,4 +128,4 @@ def process_payment(order_id: int, raw_amount: str) -> float:
 
 [⬅️ Теория & Капани](Module-06-Django-Advanced/06-05-00-Celery-And-Redis.md) | [📂 Назад към Python Scripting Хъба](README.md) | [📦 Предишен модул: Java-Ecosystem](../Java-Ecosystem/README.md) | [🌐 Домейн: 03. Backend Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Python Scripting](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../04-Databases-And-Caching/README.md)
 
-© 2026 Dev-Library / Python Scripting & Architecture
+© 2026 Dev-Library / 03-98. Python Common Errors, Edge Cases & Fixes (Каталог на грешките)

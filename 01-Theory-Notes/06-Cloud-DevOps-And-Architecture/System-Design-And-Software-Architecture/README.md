@@ -34,4 +34,4 @@
 
 [🌐 Домейн: 06. Cloud, DevOps & Architecture](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: System Design And Software Architecture](README.md) | [🌐 Следващ домейн: 07. Game Development](../../07-Game-Development/README.md) | [📦 Следващ модул: Technical-SEO-And-Web-Vitals](../Technical-SEO-And-Web-Vitals/README.md)
 
-© 2026 Dev-Library / System Design And Software Architecture & Architecture
+© 2026 Dev-Library / Системен Дизайн и Софтуерна Архитектура (System Design & Architecture)

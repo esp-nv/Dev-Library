@@ -250,4 +250,4 @@ foreach (var foreignKey in modelBuilder.Model.GetEntityTypes().SelectMany(e => e
 ---
 [⬅️ 02-01. Подходи за Mapping](02-01-EF-Core-Mapping-Approaches.md) | [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) | [⬅️ 02-03. Глобален Пищов](02-03-EF-Core-Fluent-API-And-Migrations-CheatSheet.md) 
 
-© 2026 Dev-Library / Основи на EF Core: Конфигурация и LINQ
+© 2026 Dev-Library / 02-02. ApplicationDbContext и Fluent API конфигурация

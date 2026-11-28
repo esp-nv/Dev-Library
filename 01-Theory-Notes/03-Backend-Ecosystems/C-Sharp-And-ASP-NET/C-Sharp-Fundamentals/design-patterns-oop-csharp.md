@@ -301,6 +301,6 @@ public class EnrollCommand : ICommand
 * **[design-patterns-csharp](https://github.com)** *(от RefactoringGuru)*: Най-доброто за **модерен .NET 8 код и структура** — всеки шаблон е разделен в самостоятелен проект с подробни концептуални коментари и примери от реалния свят.
 
 ---
-© 2026 Dev-Library / Архитектурно ядро
+© 2026 Dev-Library / Учебник: Шаблони за проектиране (Design Patterns) в C# OOP (.NET 8)
 
 

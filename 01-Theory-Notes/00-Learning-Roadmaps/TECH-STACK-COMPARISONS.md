@@ -107,4 +107,4 @@
 
 [⬅️ Назад към 00. Learning Roadmaps](README.md) | [📚 Инженерна Библиотека (01-Theory-Notes)](../README.md) | [🏠 Начало](../../README.md)
 
-© 2026 Dev-Library / Бързо Сравнение на Модерния Tech Stack
+© 2026 Dev-Library / Бързо Сравнение на Модерния Tech Stack (Разлики за Лесно Разбиране)

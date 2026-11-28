@@ -1,4 +1,4 @@
-[⬅️ 03-05. Advanced Querying (JPQL & N+1)](03-05-00-Advanced-Querying.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-06-01. Syntax From Scratch](03-06-01-Auto-Mapping-DTOs-Syntax.md)
+[⬅️ 03-05. Advanced Querying (JPQL & N+1)](03-05-00-Advanced-Querying.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-06-01. Syntax From Scratch](03-06-01-Syntax-Auto-Mapping-DTOs.md)
 
 ---
 
@@ -122,4 +122,4 @@ public interface UserMapper {
 | **Индустриална тенденция** | Масово преминаване от `ModelMapper` към **`MapStruct`** или ръчни `.toDto()` методи | Масово преминаване от `AutoMapper` към **`Mapperly`** или ръчни Extension методи `.ToDto()` |
 
 ---
-[⬅️ 03-05. Advanced Querying (JPQL & N+1)](03-05-00-Advanced-Querying.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-06-01. Syntax From Scratch](03-06-01-Auto-Mapping-DTOs-Syntax.md)
+[⬅️ 03-05. Advanced Querying (JPQL & N+1)](03-05-00-Advanced-Querying.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-06-01. Syntax From Scratch](03-06-01-Syntax-Auto-Mapping-DTOs.md)

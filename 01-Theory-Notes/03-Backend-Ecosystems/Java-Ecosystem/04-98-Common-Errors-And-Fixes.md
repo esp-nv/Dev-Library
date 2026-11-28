@@ -127,4 +127,4 @@ public void chargeCard(String orderId) {
 
 [📂 Назад към Java Ecosystem Хъба](README.md) | [📦 Предишен модул: C-Sharp-And-ASP-NET](../C-Sharp-And-ASP-NET/README.md) | [🌐 Домейн: 03. Backend Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Java Ecosystem](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Python-Scripting](../Python-Scripting/README.md)
 
-© 2026 Dev-Library / Java Ecosystem & Architecture
+© 2026 Dev-Library / 04-98. Java 21+ & Spring Boot 3 Common Errors, Edge Cases & Fixes (Каталог на грешките)

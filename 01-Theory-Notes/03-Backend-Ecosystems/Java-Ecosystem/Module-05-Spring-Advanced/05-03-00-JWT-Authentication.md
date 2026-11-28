@@ -1,4 +1,4 @@
-[⬅️ 05-02. Spring Security 6+ & Authentication](05-02-00-Spring-Security.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-03-01. Syntax From Scratch](05-03-01-JWT-Authentication-Syntax.md)
+[⬅️ 05-02. Spring Security 6+ & Authentication](05-02-00-Spring-Security.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-03-01. Syntax From Scratch](05-03-01-Syntax-JWT-Authentication.md)
 
 ---
 
@@ -130,4 +130,4 @@ public SecurityFilterChain securityFilterChain(HttpSecurity http,
 | **OAuth2 / OpenID Connect (Keycloak / Auth0)** | `spring-boot-starter-oauth2-resource-server` (вграден JWT декодер без JJWT!) | `AddJwtBearer` с `options.Authority = "https://example.com"` |
 
 ---
-[⬅️ 05-02. Spring Security 6+ & Authentication](05-02-00-Spring-Security.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-03-01. Syntax From Scratch](05-03-01-JWT-Authentication-Syntax.md)
+[⬅️ 05-02. Spring Security 6+ & Authentication](05-02-00-Spring-Security.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-03-01. Syntax From Scratch](05-03-01-Syntax-JWT-Authentication.md)

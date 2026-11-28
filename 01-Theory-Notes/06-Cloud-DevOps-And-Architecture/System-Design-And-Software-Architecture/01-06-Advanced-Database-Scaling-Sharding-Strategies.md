@@ -101,4 +101,4 @@ public class ShardRouter
 ---
 [⬅️ 01-05. Комуникация в Микроуслуги](01-05-Deep-Dive-Microservices-Communication.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Главен Хъб на проекта](../README.md) | [➡️ 01-07. Глобален Системен Пищов](01-07-System-Design-Global-Cheat-Sheet.md)
 
-© 2026 Dev-Library / Системен Дизайн: Мащабиране и Шардинг
+© 2026 Dev-Library / 01-06. Мащабиране на данни: Стратегии за Шардинг и Репликация на Бази Данни

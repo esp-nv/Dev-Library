@@ -1,4 +1,4 @@
-[⬅️ 02-00. Intro to Java OOP](02-00-Intro.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-01-01. Syntax From Scratch](02-01-01-Abstraction-And-Enums-Syntax.md)
+[⬅️ 02-00. Intro to Java OOP](02-00-Intro.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-01-01. Syntax From Scratch](02-01-01-Syntax-Abstraction-And-Enums.md)
 
 ---
 
@@ -133,4 +133,4 @@ public enum OrderStatus {
 
 
 ---
-[⬅️ 02-00. Intro to Java OOP](02-00-Intro.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-01-01. Syntax From Scratch](02-01-01-Abstraction-And-Enums-Syntax.md)
+[⬅️ 02-00. Intro to Java OOP](02-00-Intro.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-01-01. Syntax From Scratch](02-01-01-Syntax-Abstraction-And-Enums.md)

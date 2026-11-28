@@ -155,4 +155,4 @@ app.MapHub<NotificationHub>("/hubs/notifications"); // Начертава соф
 ---
 [⬅️ 02-02. Web API и Асинхронност](02-02-Web-API-And-Asynchronous-Processing.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-04. Напреднал Глобален Пищов](02-04-ASP-NET-Core-Advanced-CheatSheet.md)
 
-© 2026 Dev-Library / ASP.NET Core Advanced: Оптимизации и Кеш
+© 2026 Dev-Library / 02-03. Кеширане, Логване на заявки и Облачен деплой

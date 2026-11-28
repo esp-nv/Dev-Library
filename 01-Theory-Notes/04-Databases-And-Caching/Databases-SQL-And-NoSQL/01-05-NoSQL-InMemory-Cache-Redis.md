@@ -117,4 +117,4 @@ public class CacheService
 ---
 ⬅️ [01-04. NoSQL: MongoDB и Cassandra](01-04-NoSQL-Documents-And-WideColumn-Mongo-Cassandra.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [01-06. Формати: JSON и XML](01-06-Data-Formats-JSON-And-XML.md)
 
-© 2026 Dev-Library / Бази данни: Redis, Cloud NoSQL и Корпоративни системи
+© 2026 Dev-Library / 01-05. Redis Cache, Cloud NoSQL (DynamoDB & Cosmos DB) и Корпоративни системи

@@ -100,4 +100,4 @@ public class StudentService
 ---
 [⬅️ 02-06. Database-First и Scaffolding](02-06-Database-First-Model-Scaffolding.md) | [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) | [🏠 Начало (EF Core)](README.md) | [➡️ 03-00. Кратък справочник за защити](03-00-ADVANCED-DBCONTEXT-PROTECTIONS-INTRO.md)
 
-© 2026 Dev-Library / Справочник: TDD и InMemory Тестване
+© 2026 Dev-Library / 02-07. EF Core с TDD и Тестване в паметта (In-Memory Testing)

@@ -1,4 +1,4 @@
-[⬅️ 02-02. Tuples and Sets](02-02-00-Tuples-And-Sets.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-03-01. Syntax From Scratch](02-03-01-Multidimensional-Lists-Syntax.md)
+[⬅️ 02-02. Tuples and Sets](02-02-00-Tuples-And-Sets.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-03-01. Syntax From Scratch](02-03-01-Syntax-Multidimensional-Lists.md)
 
 ---
 
@@ -126,4 +126,4 @@ print(f"Второстепенен диагонал: {secondary_diagonal} (Су�
     ```
 
 ---
-[⬅️ 02-02. Tuples and Sets](02-02-00-Tuples-And-Sets.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-03-01. Syntax From Scratch](02-03-01-Multidimensional-Lists-Syntax.md)
+[⬅️ 02-02. Tuples and Sets](02-02-00-Tuples-And-Sets.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-03-01. Syntax From Scratch](02-03-01-Syntax-Multidimensional-Lists.md)

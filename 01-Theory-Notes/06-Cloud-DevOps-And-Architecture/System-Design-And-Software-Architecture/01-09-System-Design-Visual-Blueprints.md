@@ -104,4 +104,4 @@
 ---
 [⬅️ 01-08. Системни чертежи: Диаграми на архитектурата и софтуерни потоци](01-08-System-Architecture-Visual-Blueprints.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Главен Хъб на проекта](../README.md)
 
-© 2026 Dev-Library / Справочник: Системни Чертежи и Диаграми
+© 2026 Dev-Library / 01-08. Визуални Чертежи: Архитектурни Диаграми и Системни Потоци (Blueprints)

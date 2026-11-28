@@ -121,4 +121,4 @@ public void ProductsController_DetailsAction_ShouldReturnValidViewModel()
 ---
 [⬅️ 02-08. Мрежов достъп през CORS](02-08-Cross-Origin-Resource-Sharing-CORS-Infrastructure.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-10. Оптимизация през MessagePack](02-10-MessagePack-Binary-Serialization-In-SignalR.md)
 
-© 2026 Dev-Library / QA Автоматизация: Selenium и уеб среди
+© 2026 Dev-Library / 02-09. Автоматизирано тестване: Selenium WebDriver и MyTested.AspNetCore.Mvc

@@ -159,5 +159,5 @@ foreach (var foreignKey in modelBuilder.Model.GetEntityTypes().SelectMany(e => e
 
 [⬅️ 02-02. ApplicationDbContext Конфигурация](02-02-ApplicationDbContext-And-Fluent-API-Configuration.md) | [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) |  [➡️ 02-04. Мулти-провайдър Превключване](02-04-Multi-Database-Provider-Switch.md)
 
-© 2026 Dev-Library / Справочник: Fluent API & Миграции Пищов
+© 2026 Dev-Library / 02-03. EF Core Fluent API и Миграции (Глобален Инженерен Пищов)
 

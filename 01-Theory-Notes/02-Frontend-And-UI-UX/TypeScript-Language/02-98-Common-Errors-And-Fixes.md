@@ -183,4 +183,4 @@ async function fetchOrderSafe(id: number) {
 
 [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md)
 
-© 2026 Dev-Library / TypeScript Language & Architecture
+© 2026 Dev-Library / 02-11. TypeScript Common Errors, Edge Cases & Fixes (Каталог на грешките)

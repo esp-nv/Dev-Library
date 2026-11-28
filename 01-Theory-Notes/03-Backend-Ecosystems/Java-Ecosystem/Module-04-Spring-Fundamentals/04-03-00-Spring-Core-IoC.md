@@ -1,4 +1,4 @@
-[⬅️ 04-02. Spring Boot Intro & Layered Architecture](04-02-00-Spring-Boot-Intro.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-03-01. Syntax From Scratch](04-03-01-Spring-Core-IoC-Syntax.md)
+[⬅️ 04-02. Spring Boot Intro & Layered Architecture](04-02-00-Spring-Boot-Intro.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-03-01. Syntax From Scratch](04-03-01-Syntax-Spring-Core-IoC.md)
 
 ---
 
@@ -138,4 +138,4 @@ public class CheckoutProcessor {
 | **Отложено създаване на Bean** | `@Lazy` анотация върху класа или параметъра на конструктора | `Lazy<T>` в конструктора (изисква регистрация на `Lazy<>`) |
 
 ---
-[⬅️ 04-02. Spring Boot Intro & Layered Architecture](04-02-00-Spring-Boot-Intro.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-03-01. Syntax From Scratch](04-03-01-Spring-Core-IoC-Syntax.md)
+[⬅️ 04-02. Spring Boot Intro & Layered Architecture](04-02-00-Spring-Boot-Intro.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-03-01. Syntax From Scratch](04-03-01-Syntax-Spring-Core-IoC.md)

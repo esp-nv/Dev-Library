@@ -1,4 +1,4 @@
-[⬅️ 03-03. Hibernate Code First & Entity Relations](03-03-00-Entity-Relations.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-04-01. Syntax From Scratch](03-04-01-Spring-Data-Repositories-Syntax.md)
+[⬅️ 03-03. Hibernate Code First & Entity Relations](03-03-00-Entity-Relations.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-04-01. Syntax From Scratch](03-04-01-Syntax-Spring-Data-Repositories.md)
 
 ---
 
@@ -131,4 +131,4 @@ public interface UserRepository extends JpaRepository<User, Long> {
 | **Масово изтриване (Bulk Delete)** | `repo.deleteAllInBatch()` или `@Modifying @Query("DELETE ...")` | `await db.Orders.Where(...).ExecuteDeleteAsync()` (EF Core 7+) |
 
 ---
-[⬅️ 03-03. Hibernate Code First & Entity Relations](03-03-00-Entity-Relations.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-04-01. Syntax From Scratch](03-04-01-Spring-Data-Repositories-Syntax.md)
+[⬅️ 03-03. Hibernate Code First & Entity Relations](03-03-00-Entity-Relations.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-04-01. Syntax From Scratch](03-04-01-Syntax-Spring-Data-Repositories.md)

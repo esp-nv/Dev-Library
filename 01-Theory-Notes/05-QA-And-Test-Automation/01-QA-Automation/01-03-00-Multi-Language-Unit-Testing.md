@@ -1,4 +1,4 @@
-[⬅️ 01-02-01. JQL, Automation, CI/CD & Cheat Sheet](01-02-01-Test-Design-Jira-And-MS-Project-Syntax.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-03-01. NUnit, JUnit 5, Vitest & pytest](01-03-01-Multi-Language-Unit-Testing-Syntax.md)
+[⬅️ 01-02-01. JQL, Automation, CI/CD & Cheat Sheet](01-02-01-Syntax-Test-Design-Jira-And-MS-Project.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-03-01. NUnit, JUnit 5, Vitest & pytest](01-03-01-Syntax-Multi-Language-Unit-Testing.md)
 
 ---
 
@@ -131,6 +131,6 @@ public class DiscountService(TimeProvider timeProvider, ICustomerRepository repo
 
 ---
 
-[⬅️ 01-02-01. JQL, Automation, CI/CD & Cheat Sheet](01-02-01-Test-Design-Jira-And-MS-Project-Syntax.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-03-01. NUnit, JUnit 5, Vitest & pytest](01-03-01-Multi-Language-Unit-Testing-Syntax.md)
+[⬅️ 01-02-01. JQL, Automation, CI/CD & Cheat Sheet](01-02-01-Syntax-Test-Design-Jira-And-MS-Project.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-03-01. NUnit, JUnit 5, Vitest & pytest](01-03-01-Syntax-Multi-Language-Unit-Testing.md)
 
 © 2026 Dev-Library / 01-03-00. Unit Testing & Mocking (Теория, AAA, Тестови Двойници & Капани)

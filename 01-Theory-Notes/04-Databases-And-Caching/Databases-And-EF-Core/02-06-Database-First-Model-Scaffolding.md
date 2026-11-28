@@ -72,4 +72,4 @@ dotnet ef dbcontext scaffold "Server=Localhost;Database=SoftUni;Trusted_Connecti
 ---
 [⬅️ 02-05. ADO.NET и Change Tracking](02-05-AdoNet-Vs-EfCore-And-Change-Tracking.md) | [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) 
 
-© 2026 Dev-Library / Справочник: Database-First & Scaffolding
+© 2026 Dev-Library / 02-06. Database-First подход и Автоматично генериране на код (Scaffolding)

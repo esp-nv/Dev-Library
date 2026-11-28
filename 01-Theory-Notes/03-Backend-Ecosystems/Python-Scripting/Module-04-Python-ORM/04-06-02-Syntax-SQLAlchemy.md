@@ -1,4 +1,4 @@
-[⬅️ 04-06-01. Django ORM Syntax](04-06-01-Django-ORM-Syntax.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [🏠 Към Главния Хъб на Ниво 2](../../README.md)
+[⬅️ 04-06-01. Django ORM Syntax](04-06-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [🏠 Към Главния Хъб на Ниво 2](../../README.md)
 
 ---
 
@@ -116,4 +116,4 @@ with r.pipeline(transaction=True) as pipe:
 | **NoSQL Атомарност (Redis)** | `with r.pipeline(transaction=True) as pipe: ... pipe.execute()` |
 
 ---
-[⬅️ 04-06-01. Django ORM Syntax](04-06-01-Django-ORM-Syntax.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [🏠 Към Главния Хъб на Ниво 2](../../README.md)
+[⬅️ 04-06-01. Django ORM Syntax](04-06-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [🏠 Към Главния Хъб на Ниво 2](../../README.md)

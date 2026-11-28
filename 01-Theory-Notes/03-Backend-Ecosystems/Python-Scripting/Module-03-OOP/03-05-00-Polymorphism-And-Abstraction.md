@@ -1,4 +1,4 @@
-[⬅️ 03-04. Static and Class Methods](03-04-00-Static-And-Class-Methods.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-05-01. Syntax From Scratch](03-05-01-Polymorphism-And-Abstraction-Syntax.md)
+[⬅️ 03-04. Static and Class Methods](03-04-00-Static-And-Class-Methods.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-05-01. Syntax From Scratch](03-05-01-Syntax-Polymorphism-And-Abstraction.md)
 
 ---
 
@@ -144,4 +144,4 @@ notify_all(active_channels, "elizabeth@softuni.bg", "Модул 03 напред�
     2.  При **`typing.Protocol`** дефинираш структурни правила (като интерфейсите в TypeScript!). Всеки клас, който има описаните в протокола методи, автоматично се признава за съвместим от статичните анализатори (MyPy / Pyright / VS Code), **без да се налага изрично да наследява протокола**.
 
 ---
-[⬅️ 03-04. Static and Class Methods](03-04-00-Static-And-Class-Methods.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-05-01. Syntax From Scratch](03-05-01-Polymorphism-And-Abstraction-Syntax.md)
+[⬅️ 03-04. Static and Class Methods](03-04-00-Static-And-Class-Methods.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-05-01. Syntax From Scratch](03-05-01-Syntax-Polymorphism-And-Abstraction.md)

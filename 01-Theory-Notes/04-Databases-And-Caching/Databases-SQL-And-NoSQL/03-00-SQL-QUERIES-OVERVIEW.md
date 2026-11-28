@@ -59,4 +59,4 @@
 
 [⬅️ RAM Структури и Query-First](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md) | [📂 Назад към Databases SQL And NoSQL Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: 04. Databases & Caching](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases SQL And NoSQL](README.md) | [🌐 Следващ домейн: 05. QA & Test Automation](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ INNER, LEFT, FULL, CROSS, SELF](03-01-SQL-Joins-Visual-And-Code.md)
 
-© 2026 Dev-Library / Databases SQL And NoSQL & Architecture
+© 2026 Dev-Library / 03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и Функции

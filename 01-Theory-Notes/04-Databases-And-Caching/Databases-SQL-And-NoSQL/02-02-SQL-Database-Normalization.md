@@ -145,4 +145,4 @@ CREATE TABLE Users (
 ---
 ⬅️ [02-01. Връзки между таблици и Ограничения](02-01-SQL-Table-Relations-And-Constraints.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [02-03. Моделиране в Document БД (MongoDB)](02-03-Document-DB-Modeling-MongoDB.md)
 
-© 2026 Dev-Library / Бази данни: Нормализация и Денормализация
+© 2026 Dev-Library / 02-02. Нормализация на Бази Данни (1NF, 2NF, 3NF) и Денормализация

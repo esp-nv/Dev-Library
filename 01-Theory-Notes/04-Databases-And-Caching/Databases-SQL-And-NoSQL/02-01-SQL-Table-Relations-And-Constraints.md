@@ -161,4 +161,4 @@ CREATE TABLE Comments (
 ---
 [⬅️ 02-00. Моделиране Overview](02-00-DATA-MODELING-OVERVIEW.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | 🏠 [Библиотека БД](README.md)  | [➡️ 02-02. Нормализация](02-02-SQL-Database-Normalization.md)
 
-© 2026 Dev-Library / Бази данни: Връзки между таблици и Ограничения
+© 2026 Dev-Library / 02-01. Връзки между таблици, Ключове и Ограничения (Constraints)

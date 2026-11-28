@@ -57,4 +57,4 @@
 
 [⬅️ Главен справочник на темата](01-00-SQL-INTRO-AND-CRUD.md) | [📂 Назад към Databases SQL And NoSQL Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: 04. Databases & Caching](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases SQL And NoSQL](README.md) | [🌐 Следващ домейн: 05. QA & Test Automation](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ RAM Структури и Query-First](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md)
 
-© 2026 Dev-Library / Databases SQL And NoSQL & Architecture
+© 2026 Dev-Library / 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)

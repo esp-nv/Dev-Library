@@ -136,4 +136,4 @@ public interface OrderRepository extends JpaRepository<Order, Long> {
 
 [📂 Назад към Module 03 Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03 Spring Data](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ Теория, Сериализация, Безкрайна рекурсия при релации & Капани](03-07-00-JSON-And-XML-Processing.md)
 
-© 2026 Dev-Library / Module 03 Spring Data & Architecture
+© 2026 Dev-Library / 03-05-00. Spring Data Advanced Querying (Теория, `JPQL`, `@Query`, Projections & N+1 Капани)

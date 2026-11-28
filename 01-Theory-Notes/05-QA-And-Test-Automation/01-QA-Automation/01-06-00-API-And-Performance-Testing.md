@@ -1,4 +1,4 @@
-[⬅️ 01-05-01. Playwright & Appium Cheat Sheet](01-05-01-Playwright-AJAX-And-Appium-Syntax.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-06-01. Postman, RestSharp, REST Assured & K6](01-06-01-API-And-Performance-Testing-Syntax.md)
+[⬅️ 01-05-01. Playwright & Appium Cheat Sheet](01-05-01-Syntax-Playwright-AJAX-And-Appium.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-06-01. Postman, RestSharp, REST Assured & K6](01-06-01-Syntax-API-And-Performance-Testing.md)
 
 ---
 
@@ -121,6 +121,6 @@ public async Task CreateOrder_ValidPayload_Returns201AndPersistsOrder()
 
 ---
 
-[⬅️ 01-05-01. Playwright & Appium Cheat Sheet](01-05-01-Playwright-AJAX-And-Appium-Syntax.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-06-01. Postman, RestSharp, REST Assured & K6](01-06-01-API-And-Performance-Testing-Syntax.md)
+[⬅️ 01-05-01. Playwright & Appium Cheat Sheet](01-05-01-Syntax-Playwright-AJAX-And-Appium.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-06-01. Postman, RestSharp, REST Assured & K6](01-06-01-Syntax-API-And-Performance-Testing.md)
 
 © 2026 Dev-Library / 01-06-00. REST API, GraphQL, Contract & Load Testing (K6 & JMeter)

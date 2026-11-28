@@ -133,4 +133,4 @@ public class BookingController : Controller
 
 [⬅️ 01-02. Жизнен цикъл и Middleware](01-02-ASP-NET-Core-Lifecycle-And-Middleware.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-04. Dependency Injection](01-04-ASP-NET-Core-Dependency-Injection-Deep-Dive.md)
 
-© 2026 Dev-Library / ASP.NET Core: Model Binding и Валидация
+© 2026 Dev-Library / 01-03. Model Binding и Валидация на данни в ASP.NET Core

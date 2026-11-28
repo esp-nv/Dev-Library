@@ -45,4 +45,4 @@
 
 [⬅️ Назад към Инженерната Библиотека (01-Theory-Notes)](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текущa папка: 02-Frontend-And-UI-UX](README.md) [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [▶️ Започни от 01-00. Intro to HTML5 & CSS3 Architecture](HTML5-CSS3-And-SASS/01-00-Intro.md)
 
-© 2026 Dev-Library / 02. Фронтенд и UI/UX Дизайн
+© 2026 Dev-Library / 02. Фронтенд и UI/UX Дизайн (Frontend & UI/UX Engineering)

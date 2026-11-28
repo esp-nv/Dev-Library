@@ -1,4 +1,4 @@
-[⬅️ 02-04. Interfaces & Abstract Classes](02-04-00-Interfaces-And-Abstract-Classes.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-05-01. Syntax From Scratch](02-05-01-Polymorphism-Syntax.md)
+[⬅️ 02-04. Interfaces & Abstract Classes](02-04-00-Interfaces-And-Abstract-Classes.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-05-01. Syntax From Scratch](02-05-01-Syntax-Polymorphism.md)
 
 ---
 
@@ -133,4 +133,4 @@ public class CleanPolymorphism {
 | **Полиморфизъм по подразбиране** | Да (всички нестатични, не-`final` методи) | Не (изисква изрични `virtual` и `override`) |
 
 ---
-[⬅️ 02-04. Interfaces & Abstract Classes](02-04-00-Interfaces-And-Abstract-Classes.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-05-01. Syntax From Scratch](02-05-01-Polymorphism-Syntax.md)
+[⬅️ 02-04. Interfaces & Abstract Classes](02-04-00-Interfaces-And-Abstract-Classes.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-05-01. Syntax From Scratch](02-05-01-Syntax-Polymorphism.md)

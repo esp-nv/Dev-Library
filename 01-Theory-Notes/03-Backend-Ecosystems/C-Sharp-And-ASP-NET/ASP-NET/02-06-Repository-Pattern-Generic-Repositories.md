@@ -138,4 +138,4 @@ public class ProductService
 ---
 [⬅️ 02-04. Напреднал Пищов](02-04-ASP-NET-Core-Advanced-CheatSheet.md) | [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-06. Глобална Софтуерна Сигурност](02-06-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md)
 
-© 2026 Dev-Library / Архитектура: Патернът Repository
+© 2026 Dev-Library / 02-05. Архитектурният патерн Repository и Generic Складове

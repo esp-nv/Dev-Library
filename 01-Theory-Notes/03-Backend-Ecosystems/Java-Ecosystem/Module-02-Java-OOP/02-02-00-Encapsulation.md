@@ -1,4 +1,4 @@
-[⬅️ 02-01. Working with Abstraction & Enums](02-01-00-Abstraction-And-Enums.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-02-01. Syntax From Scratch](02-02-01-Encapsulation-Syntax.md)
+[⬅️ 02-01. Working with Abstraction & Enums](02-01-00-Abstraction-And-Enums.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-02-01. Syntax From Scratch](02-02-01-Syntax-Encapsulation.md)
 
 ---
 
@@ -62,4 +62,4 @@
 * **Properties и Read-Only:** Java разчита на конвенцията с гетъри/сетъри и `Collections.unmodifiableList`, докато C# поддържа езикови свойства (`get; init;`) и `IReadOnlyList<T>`.
 
 ---
-[⬅️ 02-01. Working with Abstraction & Enums](02-01-00-Abstraction-And-Enums.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-02-01. Syntax From Scratch](02-02-01-Encapsulation-Syntax.md)
+[⬅️ 02-01. Working with Abstraction & Enums](02-01-00-Abstraction-And-Enums.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-02-01. Syntax From Scratch](02-02-01-Syntax-Encapsulation.md)

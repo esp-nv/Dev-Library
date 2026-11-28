@@ -1,4 +1,4 @@
-[⬅️ 01-00. Intro to QA Engineering & Testing Pyramid](01-00-Intro-To-QA-Engineering.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-01-01. Шаблони & Cheat Sheet](01-01-01-SDLC-STLC-And-Testing-Types-Syntax.md)
+[⬅️ 01-00. Intro to QA Engineering & Testing Pyramid](01-00-Intro-To-QA-Engineering.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-01-01. Шаблони & Cheat Sheet](01-01-01-Syntax-SDLC-STLC-And-Testing-Types.md)
 
 ---
 
@@ -133,6 +133,6 @@ Attachments: checkout_500_console.png, network_trace.har
 
 ---
 
-[⬅️ 01-00. Intro to QA Engineering & Testing Pyramid](01-00-Intro-To-QA-Engineering.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-01-01. Шаблони & Cheat Sheet](01-01-01-SDLC-STLC-And-Testing-Types-Syntax.md)
+[⬅️ 01-00. Intro to QA Engineering & Testing Pyramid](01-00-Intro-To-QA-Engineering.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-01-01. Шаблони & Cheat Sheet](01-01-01-Syntax-SDLC-STLC-And-Testing-Types.md)
 
 © 2026 Dev-Library / 01-01-00. SDLC, STLC, Нива и Видове Тестване (Теория, Сравнения & Капани)

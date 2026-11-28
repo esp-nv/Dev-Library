@@ -119,4 +119,4 @@ public class AssetApiController : ControllerBase
 ---
 [⬅️ 02-01. Custom Middleware и Филтри](02-01-Application-Flow-And-Custom-Middleware.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-03. Кеширане, Логване и Сигнали](02-03-Caching-Logging-And-Advanced-Topics.md)
 
-© 2026 Dev-Library / ASP.NET Core Advanced: Web API и Нишки
+© 2026 Dev-Library / 02-02. Web API проектиране и Напреднала асинхронна обработка

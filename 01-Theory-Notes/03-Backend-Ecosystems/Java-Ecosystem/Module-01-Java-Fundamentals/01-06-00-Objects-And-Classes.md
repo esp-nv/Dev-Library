@@ -1,4 +1,4 @@
-[⬅️ 01-05. Lists](01-05-00-Lists.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-06-01. Syntax From Scratch](01-06-01-Objects-And-Classes-Syntax.md)
+[⬅️ 01-05. Lists](01-05-00-Lists.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-06-01. Syntax From Scratch](01-06-01-Syntax-Objects-And-Classes.md)
 
 ---
 
@@ -137,4 +137,4 @@ public class Book {
     2.  **Какво се чупи, ако забравиш `hashCode()`:** Колекциите `HashMap` и `HashSet` първо изчисляват `hashCode()`, за да намерят в коя „кофа“ (Bucket) да търсят обекта, и **чак след това** викат `equals()`. Ако пренапишеш само `equals()`, две еднакви книги `new Book("Dune")` ще наследят различните адреси в паметта от `Object.hashCode()`, ще попаднат в **различни кофи** и `hashSet.contains(book2)` ще върне **`false`**, въпреки че `book1.equals(book2)` е `true`!
 
 ---
-[⬅️ 01-05. Lists](01-05-00-Lists.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-06-01. Syntax From Scratch](01-06-01-Objects-And-Classes-Syntax.md)
+[⬅️ 01-05. Lists](01-05-00-Lists.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-06-01. Syntax From Scratch](01-06-01-Syntax-Objects-And-Classes.md)

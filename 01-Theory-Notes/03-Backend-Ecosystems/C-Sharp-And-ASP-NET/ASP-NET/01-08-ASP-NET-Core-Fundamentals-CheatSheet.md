@@ -149,4 +149,4 @@ public class StudentService
 ---
 [⬅️ 01-07. Етапи за изграждане](01-07-ASP-NET-Core-Application-Architecture-Steps.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
 
-© 2026 Dev-Library / Справочник: Глобален Fundamentals Пищов
+© 2026 Dev-Library / 01-08. ASP.NET Core Fundamentals (Глобален Инженерен Пищов)
