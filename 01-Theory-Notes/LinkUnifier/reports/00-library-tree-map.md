@@ -1,6 +1,6 @@
 # 🌲 Визуална Карта и Йерархия на Библиотеката (`01-Theory-Notes`)
 
-> **Генерирано на:** `събота, 2026-11-28 16:03:11` | **Общо домейни:** `8`
+> **Генерирано на:** `събота, 2026-11-28 18:34:37` | **Общо домейни:** `10`
 
 ---
 
@@ -9,14 +9,16 @@
 | № | Домейн | Папка | Модули | Уроци (`.md`) | Статус |
 | :--- | :--- | :--- | :---: | :---: | :--- |
 | 1 | **Примерни Пътеки за Учене и Инженерни Сравнения (`00-Learning-Roadmaps`)** | `00-Learning-Roadmaps` | 1 | 10 | ✅ Активен |
-| 2 | **️ 01. Инструменти, Контрол на Версиите и Алгоритми (Core Tools & Fundamentals)** | `01-Core-Tools-And-Fundamentals` | 3 | 38 | ✅ Активен |
+| 2 | **01. Инструменти, Контрол на Версиите и Алгоритми (Core Tools & Fundamentals)** | `01-Core-Tools-And-Fundamentals` | 3 | 38 | ✅ Активен |
 | 3 | **02. Фронтенд и UI/UX Дизайн (Frontend & UI/UX Engineering)** | `02-Frontend-And-UI-UX` | 4 | 61 | ✅ Активен |
-| 4 | **03-Backend-Ecosystems** | `03-Backend-Ecosystems` | 3 | 257 | ✅ Активен |
-| 5 | **️ 04. Бази Данни, ORM Системи и Кеширане (Databases & Caching)** | `04-Databases-And-Caching` | 3 | 49 | ✅ Активен |
+| 4 | **Инженерна Библиотека и Технологичен Архив (`01-Theory-Notes`)** | `03-Backend-Ecosystems` | 13 | 257 | ✅ Активен |
+| 5 | **04. Бази Данни, ORM Системи и Кеширане (Databases & Caching)** | `04-Databases-And-Caching` | 3 | 49 | ✅ Активен |
 | 6 | **05. QA и Автоматизирано Тестване (QA Automation & SDET)** | `05-QA-And-Test-Automation` | 1 | 17 | ✅ Активен |
-| 7 | **️ 06. Облачна Инфраструктура, DevOps и Системна Архитектура** | `06-Cloud-DevOps-And-Architecture` | 2 | 11 | ✅ Активен |
-| 8 | **07-Game-Development** | `07-Game-Development` | 0 | 0 | ✅ Активен |
-| — | **ОБЩО ЗА БИБЛИОТЕКАТА** | `01-Theory-Notes` | **17** | **443** | — |
+| 7 | **06. Облачна Инфраструктура, DevOps и Системна Архитектура** | `06-Cloud-DevOps-And-Architecture` | 2 | 11 | ✅ Активен |
+| 8 | **Инженерна Библиотека и Технологичен Архив (`01-Theory-Notes`)** | `07-Game-Development` | 0 | 0 | 🟡 Празен / Планиран |
+| 9 | **Architecture & Cross-Stack — Фундаментален Архитектурен Атлас** | `Architecture-And-Cross-Stack` | 0 | 9 | ✅ Активен |
+| 10 | **Web-Development** | `Web-Development` | 0 | 4 | ✅ Активен |
+| — | **ОБЩО ЗА БИБЛИОТЕКАТА** | `01-Theory-Notes` | **27** | **456** | — |
 
 ---
 
@@ -24,17 +26,17 @@
 
 * 🌐 **Примерни Пътеки за Учене и Инженерни Сравнения (`00-Learning-Roadmaps`)** (`00-Learning-Roadmaps/`) — *5 урока*
   * 📄 [01-00. Глобален уеб атлас и Път за учене (Roadmap) за C# разработчици](../01-Theory-Notes/00-Learning-Roadmaps/00-Full-Stack-And-QA-Automation-Roadmap.md) (`00-Full-Stack-And-QA-Automation-Roadmap.md`)
-  * 📄 [01-01-Level-1-The-Quick-Wins](../01-Theory-Notes/00-Learning-Roadmaps/01-01-Level-1-The-Quick-Wins.md) (`01-01-Level-1-The-Quick-Wins.md`)
+  * 📄 [01-01-Level-1-The-Quick-Wins.md](../01-Theory-Notes/00-Learning-Roadmaps/01-01-Level-1-The-Quick-Wins.md) (`01-01-Level-1-The-Quick-Wins.md`)
   * 📄 [02-01. Ниво 2: Естествени разширения (QA Automation, TypeScript, Python, Java & Spring Boot)](../01-Theory-Notes/00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md) (`02-01-Level-2-Natural-Extensions.md`)
   * 📄 [Инженерен Наръчник: Как да изберем правилния Език, Технология или Framework](../01-Theory-Notes/00-Learning-Roadmaps/FRAMEWORK-AND-TECH-SELECTION-GUIDE.md) (`FRAMEWORK-AND-TECH-SELECTION-GUIDE.md`)
   * 📄 [Бързо Сравнение на Модерния Tech Stack (Разлики за Лесно Разбиране)](../01-Theory-Notes/00-Learning-Roadmaps/TECH-STACK-COMPARISONS.md) (`TECH-STACK-COMPARISONS.md`)
   * 📦 **01-Personal-Checklists** (`01-Personal-Checklists/`) — *5 урока*
-    * 📄 [11-09-for-tommorow](../01-Theory-Notes/00-Learning-Roadmaps/01-Personal-Checklists/11-09-for-tommorow.md) (`11-09-for-tommorow.md`)
-    * 📄 [14-09-all](../01-Theory-Notes/00-Learning-Roadmaps/01-Personal-Checklists/14-09-all.md) (`14-09-all.md`)
-    * 📄 [14-09-checklist](../01-Theory-Notes/00-Learning-Roadmaps/01-Personal-Checklists/14-09-checklist.md) (`14-09-checklist.md`)
+    * 📄 [11-09-for-tommorow.md](../01-Theory-Notes/00-Learning-Roadmaps/01-Personal-Checklists/11-09-for-tommorow.md) (`11-09-for-tommorow.md`)
+    * 📄 [14-09-all.md](../01-Theory-Notes/00-Learning-Roadmaps/01-Personal-Checklists/14-09-all.md) (`14-09-all.md`)
+    * 📄 [14-09-checklist.md](../01-Theory-Notes/00-Learning-Roadmaps/01-Personal-Checklists/14-09-checklist.md) (`14-09-checklist.md`)
     * 📄 [Технически одит и оценка: TECH-STACK-COMPARISONS.md](../01-Theory-Notes/00-Learning-Roadmaps/01-Personal-Checklists/25-11-2026.md) (`25-11-2026.md`)
     * 📄 [C# → SQL → EF Core → ASP.NET — План за учене](../01-Theory-Notes/00-Learning-Roadmaps/01-Personal-Checklists/map-goal-for-learn.md) (`map-goal-for-learn.md`)
-* 🌐 **️ 01. Инструменти, Контрол на Версиите и Алгоритми (Core Tools & Fundamentals)** (`01-Core-Tools-And-Fundamentals/`) — *0 урока*
+* 🌐 **01. Инструменти, Контрол на Версиите и Алгоритми (Core Tools & Fundamentals)** (`01-Core-Tools-And-Fundamentals/`) — *0 урока*
   * 📦 **Module 02: Algorithms Introduction (Python, C#, JavaScript & Java Multi-Language Atlas)** (`Algorithms-And-Data-Structures/`) — *31 урока*
     * 📄 [00-00. Intro & Big O Notation (Анализ на сложността по време и памет)](../01-Theory-Notes/01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/00-00-Intro-And-Big-O.md) (`00-00-Intro-And-Big-O.md`)
     * 📄 [00-01-00. Recursion and Backtracking (Теория, Call Stack, Дърво & Капани)](../01-Theory-Notes/01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/00-01-00-Recursion-And-Backtracking.md) (`00-01-00-Recursion-And-Backtracking.md`)
@@ -142,7 +144,7 @@
     * 📄 [02-10. TypeScript Category Cheat Sheet: Пълно обобщение по категории](../01-Theory-Notes/02-Frontend-And-UI-UX/TypeScript-Language/02-97-Category-Cheat-Sheet.md) (`02-97-Category-Cheat-Sheet.md`)
     * 📄 [02-11. TypeScript Common Errors, Edge Cases & Fixes (Каталог на грешките)](../01-Theory-Notes/02-Frontend-And-UI-UX/TypeScript-Language/02-98-Common-Errors-And-Fixes.md) (`02-98-Common-Errors-And-Fixes.md`)
     * 📄 [02-12. TypeScript Interview Q&A, Скрити Капани & Debugging Techniques](../01-Theory-Notes/02-Frontend-And-UI-UX/TypeScript-Language/02-99-Interview-QA-Traps-And-Debugging.md) (`02-99-Interview-QA-Traps-And-Debugging.md`)
-* 🌐 **03-Backend-Ecosystems** (`03-Backend-Ecosystems/`) — *0 урока*
+* 🌐 **Инженерна Библиотека и Технологичен Архив (`01-Theory-Notes`)** (`03-Backend-Ecosystems/`) — *0 урока*
   * 📦 **C-Sharp-And-ASP-NET** (`C-Sharp-And-ASP-NET/`) — *0 урока*
     * 📦 **ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас** (`ASP-NET/`) — *31 урока*
       * 📄 [00-00. Въведение в уеб технологиите и Git инженерна хигиена (Кратък справочник)](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md) (`00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md`)
@@ -198,22 +200,22 @@
       * 📄 [Глава 12: Регулярни изрази (Regular Expressions / Regex)](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/12-REGULAR-EXPRESSIONS.md) (`12-REGULAR-EXPRESSIONS.md`)
       * 📄 [Глава 13: Потоци (Streams / I/O), Файлове и Директории в C#](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/13-STREAMS-FILES-DIRECTORIES.md) (`13-STREAMS-FILES-DIRECTORIES.md`)
       * 📄 [Глава 14: Шаблони за проектиране (Design Patterns) в C# OOP](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/14-DESIGN-PATTERNS-OOP.md) (`14-DESIGN-PATTERNS-OOP.md`)
-      * 📄 [colections-csharp](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/colections-csharp.md) (`colections-csharp.md`)
-      * 📄 [csharp](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/csharp.md) (`csharp.md`)
-      * 📄 [debugging-techniques-csharp](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/debugging-techniques-csharp.md) (`debugging-techniques-csharp.md`)
+      * 📄 [colections-csharp.md](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/colections-csharp.md) (`colections-csharp.md`)
+      * 📄 [csharp.md](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/csharp.md) (`csharp.md`)
+      * 📄 [debugging-techniques-csharp.md](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/debugging-techniques-csharp.md) (`debugging-techniques-csharp.md`)
       * 📄 [Учебник: Шаблони за проектиране (Design Patterns) в C# OOP (.NET 8)](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/design-patterns-oop-csharp.md) (`design-patterns-oop-csharp.md`)
       * 📄 [LINQ Справочник: Операции, Логика и Оптимизация](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/LINQ-Operations-Cheat-Sheet.md) (`LINQ-Operations-Cheat-Sheet.md`)
-      * 📄 [map-linq](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/map-linq.md) (`map-linq.md`)
+      * 📄 [map-linq.md](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/map-linq.md) (`map-linq.md`)
       * 📄 [Учебник: Методи, Stack Frames, Делегати и Ламбда изрази в C#](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/methods-delegates-csharp.md) (`methods-delegates-csharp.md`)
       * 📄 [Учебник: Обектно-Ориентирано Програмиране (OOP) и Паметта в C#](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/OOP-Concepts-And-Keywords.md) (`OOP-Concepts-And-Keywords.md`)
-      * 📄 [reflection-attributes-csharp](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/reflection-attributes-csharp.md) (`reflection-attributes-csharp.md`)
+      * 📄 [reflection-attributes-csharp.md](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/reflection-attributes-csharp.md) (`reflection-attributes-csharp.md`)
       * 📄 [Учебник: Регулярни изрази (Regex), Групи, Lookaround и Backtracking в C#](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/regular-expressions-csharp.md) (`regular-expressions-csharp.md`)
-      * 📄 [solid-principles-csharp](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/solid-principles-csharp.md) (`solid-principles-csharp.md`)
+      * 📄 [solid-principles-csharp.md](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/solid-principles-csharp.md) (`solid-principles-csharp.md`)
       * 📄 [Учебник: Потоци (Streams / I/O), Буфери в RAM, Файлове и Директории в C#](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/streams-files-directories-csharp.md) (`streams-files-directories-csharp.md`)
       * 📄 [Учебник: Текстообработка, String Immutability, StringBuilder и Span<char> в C#](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/string-text-processing-csharp.md) (`string-text-processing-csharp.md`)
       * 📄 [Учебник: Разширено Мокинг Ядро и Test-Driven Development (TDD) в C#](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/tdd-mocking-advanced-csharp.md) (`tdd-mocking-advanced-csharp.md`)
       * 📄 [Учебник: Типове данни, Управление на паметта, Условни конструкции и Цикли в C#](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/types-conditionals-loops-csharp.md) (`types-conditionals-loops-csharp.md`)
-      * 📄 [unit-testing-mocking-csharp](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/unit-testing-mocking-csharp.md) (`unit-testing-mocking-csharp.md`)
+      * 📄 [unit-testing-mocking-csharp.md](../01-Theory-Notes/03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/unit-testing-mocking-csharp.md) (`unit-testing-mocking-csharp.md`)
   * 📦 **Java & Spring Boot Ecosystem (Пълен Архитектурен Справочник)** (`Java-Ecosystem/`) — *4 урока*
     * 📄 [04-96. Java 21+ & Spring Boot 3 Оптимизации: Кое е грешно, защо и как е по-добре (с Блок-схеми)](../01-Theory-Notes/03-Backend-Ecosystems/Java-Ecosystem/04-96-Performance-And-Optimizations.md) (`04-96-Performance-And-Optimizations.md`)
     * 📄 [04-97. Java 21+ & Spring Boot 3 Category Cheat Sheet: Пълно обобщение & Библиотеки](../01-Theory-Notes/03-Backend-Ecosystems/Java-Ecosystem/04-97-Category-Cheat-Sheet.md) (`04-97-Category-Cheat-Sheet.md`)
@@ -416,7 +418,7 @@
       * 📄 [06-06-01. Testing in Django: Синтаксис от нулата & Cheat Sheet](../01-Theory-Notes/03-Backend-Ecosystems/Python-Scripting/Module-06-Django-Advanced/06-06-01-Syntax-Testing-In-Django.md) (`06-06-01-Syntax-Testing-In-Django.md`)
       * 📄 [06-07-00. Deployment Setup (Теория, Gunicorn, Nginx, WhiteNoise & Капани)](../01-Theory-Notes/03-Backend-Ecosystems/Python-Scripting/Module-06-Django-Advanced/06-07-00-Deployment-Setup.md) (`06-07-00-Deployment-Setup.md`)
       * 📄 [06-07-01. Deployment Setup: Синтаксис от нулата & Cheat Sheet](../01-Theory-Notes/03-Backend-Ecosystems/Python-Scripting/Module-06-Django-Advanced/06-07-01-Syntax-Deployment-Setup.md) (`06-07-01-Syntax-Deployment-Setup.md`)
-* 🌐 **️ 04. Бази Данни, ORM Системи и Кеширане (Databases & Caching)** (`04-Databases-And-Caching/`) — *0 урока*
+* 🌐 **04. Бази Данни, ORM Системи и Кеширане (Databases & Caching)** (`04-Databases-And-Caching/`) — *0 урока*
   * 📦 **Databases & Entity Framework Core — Пълен Архитектурен Пътеводител** (`Databases-And-EF-Core/`) — *18 урока*
     * 📄 [01-00. Основи на SQL Server, релации и T-SQL операции (Кратък справочник)](../01-Theory-Notes/04-Databases-And-Caching/Databases-And-EF-Core/01-00-SQL-SERVER-AND-RELATIONS-INTRO.md) (`01-00-SQL-SERVER-AND-RELATIONS-INTRO.md`)
     * 📄 [01-01. Проектиране на релации и физическо заемане на паметта](../01-Theory-Notes/04-Databases-And-Caching/Databases-And-EF-Core/01-01-SQL-Server-Relations-And-Data-Types.md) (`01-01-SQL-Server-Relations-And-Data-Types.md`)
@@ -436,12 +438,12 @@
     * 📄 [03-01. Глобални Query филтри и имплементиране на Soft Delete](../01-Theory-Notes/04-Databases-And-Caching/Databases-And-EF-Core/03-01-Global-Query-Filters-And-Soft-Delete.md) (`03-01-Global-Query-Filters-And-Soft-Delete.md`)
     * 📄 [03-02. Прихващане на SaveChanges и ChangeTracker сканиране](../01-Theory-Notes/04-Databases-And-Caching/Databases-And-EF-Core/03-02-Intercepting-SaveChanges-And-Cascade-Delete-Restrictions.md) (`03-02-Intercepting-SaveChanges-And-Cascade-Delete-Restrictions.md`)
     * 📄 [04-95. EF Core Project Workflow: Карта Стъпка по Стъпка (Entity ➔ Mapping ➔ LINQ ➔ SQL)](../01-Theory-Notes/04-Databases-And-Caching/Databases-And-EF-Core/04-95-Project-Workflow-And-Step-By-Step-Map.md) (`04-95-Project-Workflow-And-Step-By-Step-Map.md`)
-  * 📦 **️ Databases (SQL & NoSQL) – Архитектурна Библиотека** (`Databases-SQL-And-NoSQL/`) — *29 урока*
+  * 📦 **Databases (SQL & NoSQL) – Архитектурна Библиотека** (`Databases-SQL-And-NoSQL/`) — *29 урока*
     * 📄 [00-01. Архитектура на СУБД, Инструменти, Бекъпи и Миграции](../01-Theory-Notes/04-Databases-And-Caching/Databases-SQL-And-NoSQL/00-01-DBMS-Architecture-Backups-And-Tools.md) (`00-01-DBMS-Architecture-Backups-And-Tools.md`)
     * 📄 [01. Въведение в БД, Типове данни и CRUD операции (Кратък справочник)](../01-Theory-Notes/04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-00-SQL-INTRO-AND-CRUD.md) (`01-00-SQL-INTRO-AND-CRUD.md`)
     * 📄 [01-01. Логика на мислене и Ред на написване на `SELECT`](../01-Theory-Notes/04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-01-SQL-Logic-And-Select-Order.md) (`01-01-SQL-Logic-And-Select-Order.md`)
     * 📄 [01-02. Типове данни, Заемане на памет и Мостът към C#](../01-Theory-Notes/04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-02-SQL-Data-Types-Memory-And-CSharp.md) (`01-02-SQL-Data-Types-Memory-And-CSharp.md`)
-    * 📄 [️ 01-03. Релационни диалекти: MS SQL Server, PostgreSQL, MySQL и SQLite](../01-Theory-Notes/04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md) (`01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md`)
+    * 📄 [01-03. Релационни диалекти: MS SQL Server, PostgreSQL, MySQL и SQLite](../01-Theory-Notes/04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md) (`01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md`)
     * 📄 [01-04. NoSQL Бази данни: MongoDB и Apache Cassandra](../01-Theory-Notes/04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-04-NoSQL-Documents-And-WideColumn-Mongo-Cassandra.md) (`01-04-NoSQL-Documents-And-WideColumn-Mongo-Cassandra.md`)
     * 📄 [01-05. Redis Cache, Cloud NoSQL (DynamoDB & Cosmos DB) и Корпоративни системи](../01-Theory-Notes/04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-05-NoSQL-InMemory-Cache-Redis.md) (`01-05-NoSQL-InMemory-Cache-Redis.md`)
     * 📄 [01-06. Формати за данни: JSON и XML (в SQL и C#)](../01-Theory-Notes/04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-06-Data-Formats-JSON-And-XML.md) (`01-06-Data-Formats-JSON-And-XML.md`)
@@ -488,7 +490,7 @@
     * 📄 [01-97. QA Automation Category Cheat Sheet: Пълно обобщение по категории & Инструменти](../01-Theory-Notes/05-QA-And-Test-Automation/01-QA-Automation/01-97-Category-Cheat-Sheet.md) (`01-97-Category-Cheat-Sheet.md`)
     * 📄 [01-98. QA Automation Common Errors, Edge Cases & Fixes (Каталог на грешките)](../01-Theory-Notes/05-QA-And-Test-Automation/01-QA-Automation/01-98-Common-Errors-And-Fixes.md) (`01-98-Common-Errors-And-Fixes.md`)
     * 📄 [01-99. QA & SDET Interview Q&A, Скрити Капани & Debugging Techniques](../01-Theory-Notes/05-QA-And-Test-Automation/01-QA-Automation/01-99-Interview-QA-Traps-And-Debugging.md) (`01-99-Interview-QA-Traps-And-Debugging.md`)
-* 🌐 **️ 06. Облачна Инфраструктура, DevOps и Системна Архитектура** (`06-Cloud-DevOps-And-Architecture/`) — *0 урока*
+* 🌐 **06. Облачна Инфраструктура, DevOps и Системна Архитектура** (`06-Cloud-DevOps-And-Architecture/`) — *0 урока*
   * 📦 **Системен Дизайн и Софтуерна Архитектура (System Design & Architecture)** (`System-Design-And-Software-Architecture/`) — *9 урока*
     * 📄 [01-01. Архитектурни стилове и софтуерни шаблони (Patterns)](../01-Theory-Notes/06-Cloud-DevOps-And-Architecture/System-Design-And-Software-Architecture/01-01-Architectural-Styles-And-Patterns.md) (`01-01-Architectural-Styles-And-Patterns.md`)
     * 📄 [01-02. Ключови концепции за мащабируемост и балансиране на натоварването](../01-Theory-Notes/06-Cloud-DevOps-And-Architecture/System-Design-And-Software-Architecture/01-02-Scalability-And-Load-Balancing.md) (`01-02-Scalability-And-Load-Balancing.md`)
@@ -502,4 +504,19 @@
   * 📦 **Technical SEO, GEO & Core Web Vitals (`Technical-SEO-And-Web-Vitals`)** (`Technical-SEO-And-Web-Vitals/`) — *2 урока*
     * 📄 [03-01-00. Техническо SEO, Семантично индексиране и Core Web Vitals](../01-Theory-Notes/06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-00-Technical-SEO-And-Meta-Tags.md) (`03-01-00-Technical-SEO-And-Meta-Tags.md`)
     * 📄 [03-01-01. Syntax-From-Scratch & SEO Audit Checklist + Cheat Sheet](../01-Theory-Notes/06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-01-Syntax-SEO.md) (`03-01-01-Syntax-SEO.md`)
-* 🌐 **07-Game-Development** (`07-Game-Development/`) — *0 урока*
+* 🌐 **Инженерна Библиотека и Технологичен Архив (`01-Theory-Notes`)** (`07-Game-Development/`) — *0 урока*
+* 🌐 **Architecture & Cross-Stack — Фундаментален Архитектурен Атлас** (`Architecture-And-Cross-Stack/`) — *9 урока*
+  * 📄 [01-00. Архитектура на езиците и Управление на паметта (Кратък справочник)](../01-Theory-Notes/Architecture-And-Cross-Stack/01-00-ARCHITECTURE-AND-MEMORY-INTRO.md) (`01-00-ARCHITECTURE-AND-MEMORY-INTRO.md`)
+  * 📄 [01-01. Cross-Stack Карта: SQL ➔ C# ➔ JS / TypeScript ➔ Python](../01-Theory-Notes/Architecture-And-Cross-Stack/01-01-Cross-Stack-Types-And-Ecosystem.md) (`01-01-Cross-Stack-Types-And-Ecosystem.md`)
+  * 📄 [01-02. Дълбоко гмуркане в паметта: Stack срещу Heap](../01-Theory-Notes/Architecture-And-Cross-Stack/01-02-Stack-Vs-Heap-Memory-Deep-Dive.md) (`01-02-Stack-Vs-Heap-Memory-Deep-Dive.md`)
+  * 📄 [01-03. Сравнение на бекенд платформи: .NET срещу JVM срещу Node.js](../01-Theory-Notes/Architecture-And-Cross-Stack/01-03-Ecosystems-Comparison-DotNet-JVM-Node.md) (`01-03-Ecosystems-Comparison-DotNet-JVM-Node.md`)
+  * 📄 [01-04. Компилатори, Интерпретатори и Рънтайм среди (Runtime)](../01-Theory-Notes/Architecture-And-Cross-Stack/01-04-Compilers-Interpreters-And-Runtime.md) (`01-04-Compilers-Interpreters-And-Runtime.md`)
+  * 📄 [02-00. Софтуерни архитектури и Бази данни (Кратък справочник)](../01-Theory-Notes/Architecture-And-Cross-Stack/02-00-SOFTWARE-ARCHITECTURE-OVERVIEW.md) (`02-00-SOFTWARE-ARCHITECTURE-OVERVIEW.md`)
+  * 📄 [02-01. Архитектурни стилове: Монолит, Микроуслуги и Serverless](../01-Theory-Notes/Architecture-And-Cross-Stack/02-01-Architectural-Styles-Monolith-Microservices-Serverless.md) (`02-01-Architectural-Styles-Monolith-Microservices-Serverless.md`)
+  * 📄 [02-02. SQL срещу NoSQL: Cross-Stack Сравнение на Концепциите](../01-Theory-Notes/Architecture-And-Cross-Stack/02-02-SQL-Vs-NoSQL-Cross-Stack-Comparison.md) (`02-02-SQL-Vs-NoSQL-Cross-Stack-Comparison.md`)
+  * 📄 [02-03. Сравнение на Бази Данни: SQL срещу NoSQL (Бърз справочник)](../01-Theory-Notes/Architecture-And-Cross-Stack/02-03-SQL-Vs-NoSQL-Interview-CheatSheet.md) (`02-03-SQL-Vs-NoSQL-Interview-CheatSheet.md`)
+* 🌐 **Web-Development** (`Web-Development/`) — *4 урока*
+  * 📄 [Глава 6: Архитектура на ASP.NET Core MVC (Пълен Учебник)](../01-Theory-Notes/Web-Development/2026-11-03_ASP-NET-Core-MVC-Architecture.md) (`2026-11-03_ASP-NET-Core-MVC-Architecture.md`)
+  * 📄 [Глава 6: Жизнен цикъл и Архитектура на ASP.NET Core MVC](../01-Theory-Notes/Web-Development/2026-11-03_ASP-NET-Core-MVC-Complete-Map.md) (`2026-11-03_ASP-NET-Core-MVC-Complete-Map.md`)
+  * 📄 [asp-net-core-mvc.md](../01-Theory-Notes/Web-Development/asp-net-core-mvc.md) (`asp-net-core-mvc.md`)
+  * 📄 [asp-net.md](../01-Theory-Notes/Web-Development/asp-net.md) (`asp-net.md`)
