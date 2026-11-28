@@ -1,4 +1,4 @@
-[⬅️ Назад към Databases & EF Core](README.md) | [📂 Текуща папка: Databases & EF Core](README.md) | [🏠 Начало](../../../README.md) | [➡️ 04-96. Performance & Optimizations](04-96-Performance-And-Optimizations.md)
+[⬅️ Назад към Databases & EF Core](README.md) | [📂 Текуща папка: Databases & EF Core](README.md) | [🏠 Начало](../../../README.md) | [➡️ 04-96. Performance & Optimizations](../../03-Backend-Ecosystems/Java-Ecosystem/04-96-Performance-And-Optimizations.md)
 
 ---
 
@@ -142,6 +142,6 @@ dotnet ef database update
 
 ---
 
-[⬅️ Назад към Databases & EF Core](README.md) | [📂 Текуща папка: Databases & EF Core](README.md) | [🏠 Начало](../../../README.md) | [➡️ 04-96. Performance & Optimizations](04-96-Performance-And-Optimizations.md)
+[⬅️ Назад към Databases & EF Core](README.md) | [📂 Текуща папка: Databases & EF Core](README.md) | [🏠 Начало](../../../README.md) | [➡️ 04-96. Performance & Optimizations](../../03-Backend-Ecosystems/Java-Ecosystem/04-96-Performance-And-Optimizations.md)
 
 © 2026 Dev-Library / 04-95. EF Core Project Workflow: Карта Стъпка по Стъпка

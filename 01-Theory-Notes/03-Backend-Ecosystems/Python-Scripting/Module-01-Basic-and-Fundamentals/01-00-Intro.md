@@ -1,4 +1,4 @@
-[⬅️ Назад към Индекса](README.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-01. Basic Syntax](01-01-Basic-Syntax-Conditional-Statements-And-Loops.md)
+[⬅️ Назад към Индекса](README.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-01. Basic Syntax](01-01-00-Basic-Syntax-Conditional-Statements-And-Loops.md)
 
 ---
 
@@ -102,4 +102,4 @@ print(output)
 *   **Точен Senior отговор:** **Не! Python е силно типизиран (Strongly Typed) език.** Динамичен означава, че типът се определя по време на изпълнение (Runtime). Силен означава, че Python **няма да направи скрито, автоматично преобразуване на несъвместими типове**. В JavaScript изразът `"5" + 2` връща `"52"`. В Python опитът да събереш `"5" + 2` веднага хвърля критична грешка `TypeError: can only concatenate str (not "int") to str`.
 
 ---
-[⬅️ Назад към Индекса](README.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-01. Basic Syntax](01-01-Basic-Syntax-Conditional-Statements-And-Loops.md)
+[⬅️ Назад към Индекса](README.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-01. Basic Syntax](01-01-00-Basic-Syntax-Conditional-Statements-And-Loops.md)

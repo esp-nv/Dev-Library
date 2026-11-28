@@ -1,4 +1,4 @@
-[⬅️ 00-00. Intro](00-00-Intro.md) |[📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course-Intro-And-Setup](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: Git-And-GitHub](../Git-And-GitHub/README.md) | [➡️ 00-01-01. Syntax & Configuration Cheat Sheet](00-01-01-Syntax-And-Config-CheatSheet.md)
+[⬅️ 00-00. Intro](00-00-Intro.md) |[📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course-Intro-And-Setup](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Git-And-GitHub](../Git-And-GitHub/README.md) | [➡️ 00-01-01. Syntax & Configuration Cheat Sheet](00-01-00-Web-Ecosystem-And-IDEs.md)
 
 
 ---
@@ -116,7 +116,7 @@
 * **Как да го избегнеш (Инженерно решение):** Ако хардуерът ти е ограничен, спазвай **декуплиран изпитен режим**: пиши HTML/CSS и фронтенд единствено в лекия VS Code, а тежките среди като Visual Studio или Rider ги пускай само тогава, когато се налага да правиш EF Core миграции или дебъгване на базата данни.
 
 ---
-[⬅️ 00-00. Intro](00-00-Intro.md) |[📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course-Intro-And-Setup](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: Git-And-GitHub](../Git-And-GitHub/README.md) | [➡️ 00-01-01. Syntax & Configuration Cheat Sheet](00-01-01-Syntax-And-Config-CheatSheet.md)
+[⬅️ 00-00. Intro](00-00-Intro.md) |[📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course-Intro-And-Setup](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Git-And-GitHub](../Git-And-GitHub/README.md) | [➡️ 00-01-01. Syntax & Configuration Cheat Sheet](00-01-00-Web-Ecosystem-And-IDEs.md)
 
 ---
 © 2026 Dev-Library / 00-01-00. Увод в уеб екосистемата и Сравнение на 10-те IDE среди

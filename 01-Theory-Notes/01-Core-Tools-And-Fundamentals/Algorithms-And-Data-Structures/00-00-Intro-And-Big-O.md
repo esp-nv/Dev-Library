@@ -1,4 +1,4 @@
-[⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [▶️  00-01. Recursion & Backtracking](00-01-00-Recursion-And-Backtracking.md)
+[⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [▶️  00-01. Recursion & Backtracking](00-01-00-Recursion-And-Backtracking.md)
 
 ---
 
@@ -108,6 +108,6 @@ def has_duplicates_fast(nums: list[int]) -> bool:
 
 ---
 
-[⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [▶️  00-01. Recursion & Backtracking](00-01-00-Recursion-And-Backtracking.md)
+[⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [▶️  00-01. Recursion & Backtracking](00-01-00-Recursion-And-Backtracking.md)
 
 © 2026 Dev-Library / 00-00. Intro & Big O Notation (Анализ на сложността по време и памет)

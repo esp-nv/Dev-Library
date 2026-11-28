@@ -1,4 +1,4 @@
-[⬅️ 00-01-01. Python Implementation](00-01-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-01-03. JavaScript Implementation](00-01-03-JavaScript-Implementation.md)
+[⬅️ 00-01-01. Python Implementation](00-01-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-01-03. JavaScript Implementation](00-01-03-JavaScript-Implementation.md)
 
 ---
 
@@ -130,6 +130,6 @@ public class BitVectors
 | **Защита при дълбока рекурсия** | Пренаписване с `Stack<T>` | В C# `StackOverflowException` не се лови с `try/catch`! |
 
 ---
-[⬅️ 00-01-01. Python Implementation](00-01-01-Python-Implementation.md) | [Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-01-03. JavaScript Implementation](00-01-03-JavaScript-Implementation.md)
+[⬅️ 00-01-01. Python Implementation](00-01-01-Python-Implementation.md) | [Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-01-03. JavaScript Implementation](00-01-03-JavaScript-Implementation.md)
 
 © 2026 Dev-Library / 00-01-02. Recursion & Backtracking: C# (.NET) Имплементация & Cheat Sheet

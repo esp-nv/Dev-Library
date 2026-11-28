@@ -1,4 +1,4 @@
-[📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06 Django Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от Теория, `AbstractUser` vs `AbstractBaseUser`, Сигнали & Капани](06-02-00-User-Model-And-Signals.md)
+[📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06 Django Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от 06-00. Intro: Въведение в Django Advanced & Enterprise Архитектура](06-00-Intro.md)
 
 ---
 
@@ -33,6 +33,6 @@
 
 ---
 
-[📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06 Django Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от Теория, `AbstractUser` vs `AbstractBaseUser`, Сигнали & Капани](06-02-00-User-Model-And-Signals.md)
+[📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06 Django Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от 06-00. Intro: Въведение в Django Advanced & Enterprise Архитектура](06-00-Intro.md)
 
 © 2026 Dev-Library / Module 06 Django Advanced & Architecture

@@ -1,4 +1,4 @@
-[🌐 Домейн: 05. QA & Test Automation](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01 QA Automation](README.md) | [🌐 Следващ домейн: 06. Cloud, DevOps & Architecture](../../06-Cloud-DevOps-And-Architecture/README.md) | [▶️ Започни от `-00` Теория & Капани](01-04-00-Selenium-WebDriver-And-POM.md)
+[🌐 Домейн: 05. QA & Test Automation](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01 QA Automation](README.md) | [🌐 Следващ домейн: 06. Cloud, DevOps & Architecture](../../06-Cloud-DevOps-And-Architecture/README.md) | [▶️ Започни от 01-00. Intro to QA Engineering, Testing Pyramid & Roadmap](01-00-Intro-To-QA-Engineering.md)
 
 ---
 
@@ -36,6 +36,6 @@
 
 ---
 
-[🌐 Домейн: 05. QA & Test Automation](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01 QA Automation](README.md) | [🌐 Следващ домейн: 06. Cloud, DevOps & Architecture](../../06-Cloud-DevOps-And-Architecture/README.md) | [▶️ Започни от `-00` Теория & Капани](01-04-00-Selenium-WebDriver-And-POM.md)
+[🌐 Домейн: 05. QA & Test Automation](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01 QA Automation](README.md) | [🌐 Следващ домейн: 06. Cloud, DevOps & Architecture](../../06-Cloud-DevOps-And-Architecture/README.md) | [▶️ Започни от 01-00. Intro to QA Engineering, Testing Pyramid & Roadmap](01-00-Intro-To-QA-Engineering.md)
 
 © 2026 Dev-Library / 01 QA Automation & Architecture

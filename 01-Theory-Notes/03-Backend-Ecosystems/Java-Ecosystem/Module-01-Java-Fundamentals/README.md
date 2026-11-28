@@ -1,4 +1,4 @@
-[📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01 Java Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [▶️ Започни от Теория, Памет & Интервю Капани](01-03-00-Arrays.md)
+[📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01 Java Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [▶️ Започни от 01-00. Intro: Въведение в Java, JVM Архитектура & Сравнение с C#](01-00-Intro-And-JVM.md)
 
 ---
 
@@ -42,6 +42,6 @@
 
 ---
 
-[📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01 Java Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [▶️ Започни от Теория, Памет & Интервю Капани](01-03-00-Arrays.md)
+[📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01 Java Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [▶️ Започни от 01-00. Intro: Въведение в Java, JVM Архитектура & Сравнение с C#](01-00-Intro-And-JVM.md)
 
 © 2026 Dev-Library / Module 01 Java Fundamentals & Architecture

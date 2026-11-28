@@ -1,4 +1,4 @@
-[⬅️ 00-04. Greedy Algorithms](00-04-00-Greedy-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-05-01. Python Implementation](00-05-01-Python-Implementation.md)
+[⬅️ 00-04. Greedy Algorithms](00-04-00-Greedy-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-05-01. Python Implementation](00-05-01-Python-Implementation.md)
 
 ---
 
@@ -135,7 +135,7 @@ def bfs_shortest_path(graph: dict[int, list[int]], start: int, target: int) -> i
         *   Има цикъл **само ако попаднем на връх със състояние `1` (Gray)**!
 
 ---
-[⬅️ 00-04. Greedy Algorithms](00-04-00-Greedy-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-05-01. Python Implementation](00-05-01-Python-Implementation.md)
+[⬅️ 00-04. Greedy Algorithms](00-04-00-Greedy-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-05-01. Python Implementation](00-05-01-Python-Implementation.md)
 
 
 © 2026 Dev-Library / 00-05-00. Graphs and Traversal (Теория, BFS, DFS, Топологично сортиране & Капани)

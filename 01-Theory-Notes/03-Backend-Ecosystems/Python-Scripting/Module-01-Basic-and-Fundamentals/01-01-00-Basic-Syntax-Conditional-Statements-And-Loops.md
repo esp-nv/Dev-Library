@@ -1,4 +1,4 @@
-[⬅️ 01-00. Intro & Roadmap](01-00-Intro.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-02. Data Types](01-02-Data-Types-And-Variables.md)
+[⬅️ 01-00. Intro & Roadmap](01-00-Intro.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-02. Data Types](01-02-00-Data-Types-And-Variables.md)
 
 ---
 
@@ -124,4 +124,4 @@ else:
     3.  **`pass`**: Това е **празна операция (Null Operation / Placeholder)**. Тя не прави абсолютно нищо и не прескача нищо — кодът продължава да се изпълнява на следващия ред веднага след `pass`. Използва се единствено за запълване на празни блокове код (напр. празна функция или `if` блок), за да не хвърли компилаторът `IndentationError`, докато разработчикът все още пише архитектурата.
 
 ---
-[⬅️ 01-00. Intro & Roadmap](01-00-Intro.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-02. Data Types](01-02-Data-Types-And-Variables.md)
+[⬅️ 01-00. Intro & Roadmap](01-00-Intro.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-02. Data Types](01-02-00-Data-Types-And-Variables.md)

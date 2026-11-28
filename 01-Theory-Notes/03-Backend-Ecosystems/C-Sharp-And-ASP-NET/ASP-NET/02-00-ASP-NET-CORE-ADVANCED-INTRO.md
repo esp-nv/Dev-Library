@@ -2,7 +2,7 @@
 
 ---
 
-[⏪ Глава 01-08. Глобален Пищов (Cheat-Sheet)](../ASP-NET-Core-Fundamentals/01-08-ASP-NET-Core-Fundamentals-CheatSheet.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-01. Custom Middleware и Филтри](02-01-Application-Flow-And-Custom-Middleware.md)
+[⏪ Глава 01-08. Глобален Пищов (Cheat-Sheet)](01-08-ASP-NET-Core-Fundamentals-CheatSheet.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-01. Custom Middleware и Филтри](02-01-Application-Flow-And-Custom-Middleware.md)
 
 ---
 
@@ -68,7 +68,7 @@
 
 
 ---
-[⏪ Глава 01-08. Глобален Пищов (Cheat-Sheet)](../ASP-NET-Core-Fundamentals/01-08-ASP-NET-Core-Fundamentals-CheatSheet.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-01. Custom Middleware и Филтри](02-01-Application-Flow-And-Custom-Middleware.md)
+[⏪ Глава 01-08. Глобален Пищов (Cheat-Sheet)](01-08-ASP-NET-Core-Fundamentals-CheatSheet.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-01. Custom Middleware и Филтри](02-01-Application-Flow-And-Custom-Middleware.md)
 
 ---
 

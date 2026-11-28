@@ -1,4 +1,4 @@
-[⬅️ 01-02-00. CSS Box Model и Типография](01-02-00-CSS-Box-Model-And-Typography.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-03-00. CSS Layout — Flexbox Архитектура](01-03-00-CSS-Layout-Flexbox.md)
+[⬅️ 01-02-00. CSS Box Model и Типография](01-02-00-CSS-Box-Model-And-Typography.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-03-00. CSS Layout — Flexbox Архитектура](01-03-00-CSS-Layout-Flexbox.md)
 
 ---
 
@@ -169,7 +169,7 @@
 
 
 ---
-[⬅️ 01-02-00. CSS Box Model и Типография](01-02-00-CSS-Box-Model-And-Typography.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-03-00. CSS Layout — Flexbox Архитектура](01-03-00-CSS-Layout-Flexbox.md)
+[⬅️ 01-02-00. CSS Box Model и Типография](01-02-00-CSS-Box-Model-And-Typography.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-03-00. CSS Layout — Flexbox Архитектура](01-03-00-CSS-Layout-Flexbox.md)
 
 
 © 2026 Dev-Library / 01-02-01. Syntax-From-Scratch & UI Card Snippets (CSS Box Model и Типография)

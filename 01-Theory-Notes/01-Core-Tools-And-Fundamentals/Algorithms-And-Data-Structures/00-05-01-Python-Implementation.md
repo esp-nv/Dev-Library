@@ -1,4 +1,4 @@
-[⬅️ 00-05-00. Теория & Капани](00-05-00-Graphs-And-Traversal.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-05-02. C# Implementation](00-05-02-CSharp-Implementation.md)
+[⬅️ 00-05-00. Теория & Капани](00-05-00-Graphs-And-Traversal.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-05-02. C# Implementation](00-05-02-CSharp-Implementation.md)
 
 ---
 
@@ -135,7 +135,7 @@ print(topological_sort(4, [(0, 1), (0, 2), (1, 3), (2, 3)]))  # Изход: [0, 
 | **Проверка за посетен връх** | `if node not in visited: visited.add(node)` | $O(1)$ |
 
 ---
-[⬅️ 00-05-00. Теория & Капани](00-05-00-Graphs-And-Traversal.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-05-02. C# Implementation](00-05-02-CSharp-Implementation.md)
+[⬅️ 00-05-00. Теория & Капани](00-05-00-Graphs-And-Traversal.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-05-02. C# Implementation](00-05-02-CSharp-Implementation.md)
 
 
 © 2026 Dev-Library / 00-05-01. Graphs and Traversal: Python Имплементация & Cheat Sheet

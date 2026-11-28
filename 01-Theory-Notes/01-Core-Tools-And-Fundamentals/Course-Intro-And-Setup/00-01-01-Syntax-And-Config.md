@@ -1,4 +1,4 @@
-[⬅️ 00-01-00. Уеб Екосистема & IDE](00-01-00-Web-Ecosystem-And-IDEs.md) |[📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course-Intro-And-Setup](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: Git-And-GitHub](../Git-And-GitHub/README.md) | [➡️ 00-02-00. Браузърна диагностика & Мрежа](00-02-00-Browser-Diagnostics-And-Network.md)
+[⬅️ 00-01-00. Уеб Екосистема & IDE](00-01-00-Web-Ecosystem-And-IDEs.md) |[📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course-Intro-And-Setup](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Git-And-GitHub](../Git-And-GitHub/README.md) | [➡️ 00-02-00. Браузърна диагностика & Мрежа](00-02-00-Browser-Diagnostics-And-Network.md)
 
 
 ---
@@ -113,7 +113,7 @@ Emmet е вграден инструмент, който ти позволява
 * **Как да го поправиш:** Винаги първо записвай файла с име и разширение (напр. `index.html`), преди да използваш Emmet или Custom Snippets.
 
 ---
-[⬅️ 00-01-00. Уеб Екосистема & IDE](00-01-00-Web-Ecosystem-And-IDEs.md) |[📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course-Intro-And-Setup](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: Git-And-GitHub](../Git-And-GitHub/README.md) | [➡️ 00-02-00. Браузърна диагностика & Мрежа](00-02-00-Browser-Diagnostics-And-Network.md)
+[⬅️ 00-01-00. Уеб Екосистема & IDE](00-01-00-Web-Ecosystem-And-IDEs.md) |[📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course-Intro-And-Setup](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Git-And-GitHub](../Git-And-GitHub/README.md) | [➡️ 00-02-00. Браузърна диагностика & Мрежа](00-02-00-Browser-Diagnostics-And-Network.md)
 
 ---
 © 2026 Dev-Library / 00-01-01. Syntax & Config From Scratch (VS Code Сеньор конфигурация, Бързи клавиши и Custom Снипети)

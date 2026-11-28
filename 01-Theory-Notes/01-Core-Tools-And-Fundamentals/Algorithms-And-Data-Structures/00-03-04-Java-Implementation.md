@@ -1,4 +1,4 @@
-[⬅️ 00-03-03. JavaScript Implementation](00-03-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-04-00. Greedy Algorithms](00-04-00-Greedy-Algorithms.md)
+[⬅️ 00-03-03. JavaScript Implementation](00-03-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-04-00. Greedy Algorithms](00-04-00-Greedy-Algorithms.md)
 
 ---
 
@@ -122,6 +122,6 @@ public class JavaSorting {
 | **Многокритериално сортиране** | `Comparator.comparing(X::a).thenComparing(X::b)` | Еквивалент на C# `OrderBy().ThenBy()` |
 
 ---
-[⬅️ 00-03-03. JavaScript Implementation](00-03-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-04-00. Greedy Algorithms](00-04-00-Greedy-Algorithms.md)
+[⬅️ 00-03-03. JavaScript Implementation](00-03-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-04-00. Greedy Algorithms](00-04-00-Greedy-Algorithms.md)
 
  © 2026 Dev-Library / 00-03-04. Sorting Algorithms: Java Имплементация & Cheat Sheet

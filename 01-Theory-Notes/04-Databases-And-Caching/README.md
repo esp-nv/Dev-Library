@@ -1,4 +1,4 @@
-[⬅️ Назад към Инженерната Библиотека (01-Theory-Notes)](../README.md) | [📂 Предишен домейн: 03. Backend Ecosystems](../03-Backend-Ecosystems/README.md) | [🏠 Начало](../../README.md) | [📂 Следващ домейн: 05. QA & Test Automation](../05-QA-And-Test-Automation/README.md) | [▶️ Започни от SQL & NoSQL](Databases-SQL-And-NoSQL/README.md)
+[⬅️ Назад към Инженерната Библиотека (01-Theory-Notes)](../README.md) | [📂 Предишен домейн: 03. Backend Ecosystems](../03-Backend-Ecosystems/README.md) | [🏠 Начало](../../README.md) | [🌐 Следващ домейн: 05. QA & Test Automation](../05-QA-And-Test-Automation/README.md) | [▶️ Започни от SQL & NoSQL](Databases-SQL-And-NoSQL/README.md)
 
 ---
 
@@ -29,6 +29,6 @@
 
 ---
 
-[⬅️ Назад към Инженерната Библиотека (01-Theory-Notes)](../README.md) | [📂 Предишен домейн: 03. Backend Ecosystems](../03-Backend-Ecosystems/README.md) | [🏠 Начало](../../README.md) | [📂 Следващ домейн: 05. QA & Test Automation](../05-QA-And-Test-Automation/README.md) | [▶️ Започни от SQL & NoSQL](Databases-SQL-And-NoSQL/README.md)
+[⬅️ Назад към Инженерната Библиотека (01-Theory-Notes)](../README.md) | [📂 Предишен домейн: 03. Backend Ecosystems](../03-Backend-Ecosystems/README.md) | [🏠 Начало](../../README.md) | [🌐 Следващ домейн: 05. QA & Test Automation](../05-QA-And-Test-Automation/README.md) | [▶️ Започни от SQL & NoSQL](Databases-SQL-And-NoSQL/README.md)
 
 © 2026 Dev-Library / 04. Бази Данни, ORM Системи и Кеширане

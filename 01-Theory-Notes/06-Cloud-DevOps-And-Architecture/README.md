@@ -1,4 +1,4 @@
-[⬅️ Назад към Инженерната Библиотека (01-Theory-Notes)](../README.md) | [📂 Предишен домейн: 05. QA & Test Automation](../05-QA-And-Test-Automation/README.md) | [🏠 Начало](../../README.md) | [📂 Следващ домейн: 07. Game Development](../07-Game-Development/README.md) | [▶️ Започни от System Design](System-Design-And-Software-Architecture/README.md)
+[⬅️ Назад към Инженерната Библиотека (01-Theory-Notes)](../README.md) | [📂 Предишен домейн: 05. QA & Test Automation](../05-QA-And-Test-Automation/README.md) | [🏠 Начало](../../README.md) | [🌐 Следващ домейн: 07. Game Development](../07-Game-Development/README.md) | [▶️ Започни от System Design](System-Design-And-Software-Architecture/README.md)
 
 ---
 
@@ -31,6 +31,6 @@
 
 ---
 
-[⬅️ Назад към Инженерната Библиотека (01-Theory-Notes)](../README.md) | [📂 Предишен домейн: 05. QA & Test Automation](../05-QA-And-Test-Automation/README.md) | [🏠 Начало](../../README.md) | [📂 Следващ домейн: 07. Game Development](../07-Game-Development/README.md) | [▶️ Започни от System Design](System-Design-And-Software-Architecture/README.md)
+[⬅️ Назад към Инженерната Библиотека (01-Theory-Notes)](../README.md) | [📂 Предишен домейн: 05. QA & Test Automation](../05-QA-And-Test-Automation/README.md) | [🏠 Начало](../../README.md) | [🌐 Следващ домейн: 07. Game Development](../07-Game-Development/README.md) | [▶️ Започни от System Design](System-Design-And-Software-Architecture/README.md)
 
 © 2026 Dev-Library / 06. Облачна Инфраструктура, DevOps и Системна Архитектура

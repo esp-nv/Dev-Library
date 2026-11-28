@@ -1,4 +1,4 @@
-[🏠 Главен Портал (Dev-Library)](../../README.md) | [📚 Инженерна Библиотека (01-Theory-Notes)](../README.md) | [🏠 Начало (00-Learning-Roadmaps)](README.md)
+[🏛️ Главен Портал (Dev-Library)](../../README.md) | [📚 Инженерна Библиотека (01-Theory-Notes)](../README.md) | [🏠 Начало (00-Learning-Roadmaps)](README.md)
 
 ---
 
@@ -223,7 +223,7 @@
 *   **Употреба:** Свръхбърз разпределен брокер за събития. Позволява пренос на милиони пакети съобщения в секунда в Event-Driven среди, гарантирайки хоризонталнаCloud устойчивост.
 
 ---
-[🏠 Главен Портал (Dev-Library)](../../README.md) | [📚 Инженерна Библиотека (01-Theory-Notes)](../README.md) | [🏠 Начало (00-Learning-Roadmaps)](README.md)
+[🏛️ Главен Портал (Dev-Library)](../../README.md) | [📚 Инженерна Библиотека (01-Theory-Notes)](../README.md) | [🏠 Начало (00-Learning-Roadmaps)](README.md)
 
 ---
 

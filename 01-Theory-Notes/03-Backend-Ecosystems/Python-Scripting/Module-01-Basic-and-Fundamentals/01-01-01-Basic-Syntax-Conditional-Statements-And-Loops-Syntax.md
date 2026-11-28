@@ -1,4 +1,4 @@
-[⬅️ Назад към Индекса](README.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-01. Basic Syntax](01-01-Basic-Syntax-Conditional-Statements-And-Loops.md)
+[⬅️ Назад към Индекса](README.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-01. Basic Syntax](01-01-00-Basic-Syntax-Conditional-Statements-And-Loops.md)
 
 ---
 
@@ -177,4 +177,4 @@ for row in range(1, 3):          # Външен цикъл (Редове 1 и 2)
 | **Вложени блокове** | `+4 интервала` за всяко ниво | Ниво 1: `4`, Ниво 2: `8` интервала |
 
 ---
-[⬅️ Назад към Индекса](README.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-01. Basic Syntax](01-01-Basic-Syntax-Conditional-Statements-And-Loops.md)
+[⬅️ Назад към Индекса](README.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-01. Basic Syntax](01-01-00-Basic-Syntax-Conditional-Statements-And-Loops.md)

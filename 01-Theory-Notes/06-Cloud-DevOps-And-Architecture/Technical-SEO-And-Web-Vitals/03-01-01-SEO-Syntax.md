@@ -1,4 +1,4 @@
-[⬅️ 03-01-00. Техническо SEO, Семантично индексиране и Core Web Vitals](03-01-00-Technical-SEO-And-Meta-Tags.md) | [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [📂 Текуща папка: 03. Technical SEO & Redis Caching](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md) | [➡️ 03-02-00. Redis Caching Архитектура и Структури от данни](03-02-00-Redis-Caching-Architecture.md)
+[⬅️ 03-01-00. Техническо SEO, Семантично индексиране и Core Web Vitals](03-01-00-Technical-SEO-And-Meta-Tags.md) | [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [📂 Текуща папка: 03. Technical SEO & Redis Caching](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md) | [➡️ 03-02-00. Redis Caching Архитектура и Структури от данни](../../04-Databases-And-Caching/Redis-Caching/03-02-00-Redis-Caching-Architecture.md)
 
 ---
 
@@ -150,6 +150,6 @@
 
 
 ---
-[⬅️ 03-01-00. Техническо SEO, Семантично индексиране и Core Web Vitals](03-01-00-Technical-SEO-And-Meta-Tags.md) | [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [📂 Текуща папка: 03. Technical SEO & Redis Caching](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md) | [➡️ 03-02-00. Redis Caching Архитектура и Структури от данни](03-02-00-Redis-Caching-Architecture.md)
+[⬅️ 03-01-00. Техническо SEO, Семантично индексиране и Core Web Vitals](03-01-00-Technical-SEO-And-Meta-Tags.md) | [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [📂 Текуща папка: 03. Technical SEO & Redis Caching](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md) | [➡️ 03-02-00. Redis Caching Архитектура и Структури от данни](../../04-Databases-And-Caching/Redis-Caching/03-02-00-Redis-Caching-Architecture.md)
 ---
 © 2026 Dev-Library / 03-01-01. Syntax-From-Scratch & SEO Audit Checklist + Cheat Sheet

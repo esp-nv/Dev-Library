@@ -1,4 +1,4 @@
-[🏠 Главен Портал (Dev-Library)](../README.md) | [🧭 Пътеводител за Учене (00-Learning-Roadmaps)](00-Learning-Roadmaps/README.md) | [▶️ Започни от Git & GitHub](01-Core-Tools-And-Fundamentals/Git-And-GitHub/README.md)
+[🏛️ Главен Портал (Dev-Library)](../README.md) | [🧭 Пътеводител за Учене (00-Learning-Roadmaps)](00-Learning-Roadmaps/README.md) | [▶️ Започни от 03-00. Intro: Въведение в Python OOP & Архитектурен Roadmap](Python-Scripting/Module-03-OOP/03-00-Intro.md)
 
 ---
 
@@ -69,6 +69,6 @@
 
 ---
 
-[🏠 Главен Портал (Dev-Library)](../README.md) | [🧭 Пътеводител за Учене (00-Learning-Roadmaps)](00-Learning-Roadmaps/README.md) | [▶️ Започни от Git & GitHub](01-Core-Tools-And-Fundamentals/Git-And-GitHub/README.md)
+[🏛️ Главен Портал (Dev-Library)](../README.md) | [🧭 Пътеводител за Учене (00-Learning-Roadmaps)](00-Learning-Roadmaps/README.md) | [▶️ Започни от 03-00. Intro: Въведение в Python OOP & Архитектурен Roadmap](Python-Scripting/Module-03-OOP/03-00-Intro.md)
 
 © 2026 Dev-Library / Инженерна Библиотека и Технологичен Архив

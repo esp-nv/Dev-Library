@@ -109,7 +109,7 @@
   * 📄 [01-03. QA Cheat Sheet And Reference Guide](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/01-QA-Automation/01-03-QA-Cheat-Sheet-And-Reference-Guide.md)
 * **02. TypeScript Language**
   * 📂 **[Индекс на 02-TypeScript-Language](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/README.md)**
-  * 📄 [02-00. TypeScript vs JavaScript](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/02-00-TypeScript-vs-JavaScript.md)
+  * 📄 [02-00. TypeScript vs JavaScript](../02-Frontend-And-UI-UX/TypeScript-Language/02-00-TypeScript-vs-JavaScript.md)
   * 📄 [02-01. Introduction to TypeScript](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/02-01-Introduction-to-TypeScript.md)
   * 📄 [02-02. Advanced Data Types](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/02-02-Advanced-Data-Types.md)
   * 📄 [02-03. OOP in TypeScript](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/02-03-OOP-in-TypeScript.md)

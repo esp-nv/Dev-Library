@@ -1,4 +1,4 @@
-[⬅️ 03-01-01. Syntax-From-Scratch & SEO Audit Checklist](03-01-01-Syntax.md) | [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [📂 Текуща папка: 03. Technical SEO & Redis Caching](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md) | [➡️ 03-02-01. Syntax-From-Scratch & Redis CLI Cheat Sheet](03-02-01-Syntax.md)
+[⬅️ 03-01-01. Syntax-From-Scratch & SEO Audit Checklist](03-01-01-Syntax.md) | [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [📂 Текуща папка: 03. Technical SEO & Redis Caching](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md) | [➡️ 03-02-01. Syntax-From-Scratch & Redis CLI Cheat Sheet](03-02-00-Redis-Caching-Architecture.md)
 
 ---
 
@@ -78,6 +78,6 @@ Redis не съхранява просто текстови низове — т�
 
 
 ---
-[⬅️ 03-01-01. Syntax-From-Scratch & SEO Audit Checklist](03-01-01-Syntax.md) | [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [📂 Текуща папка: 03. Technical SEO & Redis Caching](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md) | [➡️ 03-02-01. Syntax-From-Scratch & Redis CLI Cheat Sheet](03-02-01-Syntax.md)
+[⬅️ 03-01-01. Syntax-From-Scratch & SEO Audit Checklist](03-01-01-Syntax.md) | [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [📂 Текуща папка: 03. Technical SEO & Redis Caching](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md) | [➡️ 03-02-01. Syntax-From-Scratch & Redis CLI Cheat Sheet](03-02-00-Redis-Caching-Architecture.md)
 ---
 © 2026 Dev-Library / 03-02-00. Redis Caching Архитектура и Структури от данни (Теория, Cache-Aside и Капани)

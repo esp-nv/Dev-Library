@@ -1,4 +1,4 @@
-[⬅️ 03-00. Intro to Web Visibility & In-Memory Caching](03-00-Intro.md) | [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [📂 Текуща папка: 03. Technical SEO & Redis Caching](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md) | [➡️ 03-01-01. Syntax-From-Scratch & SEO Audit Checklist](03-01-01-Syntax.md)
+[⬅️ 03-00. Intro to Web Visibility & In-Memory Caching](03-00-Intro.md) | [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [📂 Текуща папка: 03. Technical SEO & Redis Caching](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md) | [➡️ 03-01-01. Syntax-From-Scratch & SEO Audit Checklist](03-01-00-Technical-SEO-And-Meta-Tags.md)
 
 ---
 
@@ -85,6 +85,6 @@ Google измерва реалното потребителско изживяв
 
 
 ---
-[⬅️ 03-00. Intro to Web Visibility & In-Memory Caching](03-00-Intro.md) | [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [📂 Текуща папка: 03. Technical SEO & Redis Caching](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md) | [➡️ 03-01-01. Syntax-From-Scratch & SEO Audit Checklist](03-01-01-Syntax.md)
+[⬅️ 03-00. Intro to Web Visibility & In-Memory Caching](03-00-Intro.md) | [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [📂 Текуща папка: 03. Technical SEO & Redis Caching](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md) | [➡️ 03-01-01. Syntax-From-Scratch & SEO Audit Checklist](03-01-00-Technical-SEO-And-Meta-Tags.md)
 ---
 © 2026 Dev-Library / 03-01-00. Техническо SEO, Семантично индексиране и Core Web Vitals

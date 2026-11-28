@@ -1,4 +1,4 @@
-[⬅️ 01-02-00. Теория & Капани](01-02-00-Methods-Lists-Streams.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-03-00. Objects, Classes & Maps](01-03-00-Objects-Classes-Maps.md)
+[⬅️ 01-02-00. Теория & Капани](01-02-00-Data-Types-And-Variables.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-03-00. Objects, Classes & Maps](01-03-00-Arrays.md)
 
 ---
 
@@ -139,4 +139,4 @@ int max = values.stream().mapToInt(Integer::intValue).max().orElse(0);
 | **Проверка за поне 1 / всички** | `.anyMatch(...)` / `.allMatch(...)` | `.Any(...)` / `.All(...)` |
 
 ---
-[⬅️ 01-02-00. Теория & Капани](01-02-00-Methods-Lists-Streams.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-03-00. Objects, Classes & Maps](01-03-00-Objects-Classes-Maps.md)
+[⬅️ 01-02-00. Теория & Капани](01-02-00-Data-Types-And-Variables.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-03-00. Objects, Classes & Maps](01-03-00-Arrays.md)

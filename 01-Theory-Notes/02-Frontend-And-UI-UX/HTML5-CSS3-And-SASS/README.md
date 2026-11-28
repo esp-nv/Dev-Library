@@ -1,4 +1,4 @@
-[🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: HTML5 CSS3 And SASS](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [▶️ Започни от Теория, Каскадност, Капани & Детайлни подмодули (01-01 до 01-05)](01-01-00-HTML5-And-CSS3-Basics.md)
+[🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: HTML5 CSS3 And SASS](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [▶️ Започни от 01-00. Intro to HTML5 & CSS3 Architecture](01-00-Intro.md)
 
 ---
 
@@ -32,6 +32,6 @@
 
 ---
 
-[🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: HTML5 CSS3 And SASS](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [▶️ Започни от Теория, Каскадност, Капани & Детайлни подмодули (01-01 до 01-05)](01-01-00-HTML5-And-CSS3-Basics.md)
+[🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: HTML5 CSS3 And SASS](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [▶️ Започни от 01-00. Intro to HTML5 & CSS3 Architecture](01-00-Intro.md)
 
 © 2026 Dev-Library / HTML5 CSS3 And SASS & Architecture

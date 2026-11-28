@@ -1,4 +1,4 @@
-[⬅️ Назад към Инженерната Библиотека (01-Theory-Notes)](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текущa папка: 02-Frontend-And-UI-UX](README.md) [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [▶️ Започни от HTML5 & CSS3](HTML5-CSS3-And-SASS/README.md)
+[⬅️ Назад към Инженерната Библиотека (01-Theory-Notes)](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текущa папка: 02-Frontend-And-UI-UX](README.md) [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [▶️ Започни от 01-00. Intro to HTML5 & CSS3 Architecture](HTML5-CSS3-And-SASS/01-00-Intro.md)
 
 ---
 
@@ -28,7 +28,7 @@
 * **[03. TypeScript Language (`TypeScript-Language/`)](TypeScript-Language/README.md)**
   * *Обхваща:* Статична типова система, Structural Typing, Type Narrowing и Type Guards (`val is T`), Utility Types, обектно-ориентиран TypeScript, Generics с ограничения (`extends`) и декоратори.
   1. **[02-00. TypeScript срещу JavaScript (Архитектурно сравнение)](TypeScript-Language/02-00-TypeScript-vs-JavaScript.md):** Компилатор `tsc`, Type Erasure, `tsconfig.json` и кодов одит.    
-        * **[02-00-TypeScript-vs-JavaScript](02-00-TypeScript-vs-JavaScript.md)**
+        * **[02-00-TypeScript-vs-JavaScript](TypeScript-Language/02-00-TypeScript-vs-JavaScript.md)**
   2. **[02-01. Basic Types, Interfaces & Type Aliases](TypeScript-Language/02-01-00-Basic-Types-And-Interfaces.md):** Примитиви, `unknown` срещу `any`, `never` и `interface` срещу `type`.
   3. **[02-02. Advanced Types, Guards & Utility Types](TypeScript-Language/02-02-00-Advanced-Types-And-Guards.md):** Unions, Intersections, `satisfies`, `as const`, `Partial`, `Pick` и `Omit`.
   4. **[02-03. OOP in TypeScript & SOLID](TypeScript-Language/02-03-00-OOP-In-TypeScript.md):** Класове, `#private` полета, `abstract`, `override` и Structural Typing.
@@ -43,6 +43,6 @@
 
 ---
 
-[⬅️ Назад към Инженерната Библиотека (01-Theory-Notes)](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текущa папка: 02-Frontend-And-UI-UX](README.md) [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [▶️ Започни от HTML5 & CSS3](HTML5-CSS3-And-SASS/README.md)
+[⬅️ Назад към Инженерната Библиотека (01-Theory-Notes)](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текущa папка: 02-Frontend-And-UI-UX](README.md) [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [▶️ Започни от 01-00. Intro to HTML5 & CSS3 Architecture](HTML5-CSS3-And-SASS/01-00-Intro.md)
 
 © 2026 Dev-Library / 02. Фронтенд и UI/UX Дизайн

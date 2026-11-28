@@ -1,4 +1,4 @@
-[📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Spring Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от Теория, REST Принципи, RFC 9457 ProblemDetail & Капани](05-01-00-REST-And-Error-Handling.md)
+[📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Spring Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от 05-00. Intro: Въведение в Spring Advanced & Enterprise Архитектура](05-00-Intro.md)
 
 ---
 
@@ -27,6 +27,6 @@
 
 ---
 
-[📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Spring Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от Теория, REST Принципи, RFC 9457 ProblemDetail & Капани](05-01-00-REST-And-Error-Handling.md)
+[📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Spring Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от 05-00. Intro: Въведение в Spring Advanced & Enterprise Архитектура](05-00-Intro.md)
 
 © 2026 Dev-Library / Module 05 Spring Advanced & Architecture

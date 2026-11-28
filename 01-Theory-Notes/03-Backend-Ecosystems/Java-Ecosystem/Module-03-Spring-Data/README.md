@@ -1,4 +1,4 @@
-[📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03 Spring Data](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [▶️ Започни от Теория, `JOIN FETCH`, Projections, Pagination & Капани](03-05-00-Advanced-Querying.md)
+[📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03 Spring Data](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [▶️ Започни от 03-00. Intro: Въведение в Spring Data, Hibernate & Архитектурен Roadmap](03-00-Intro.md)
 
 ---
 
@@ -33,6 +33,6 @@
 
 ---
 
-[📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03 Spring Data](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [▶️ Започни от Теория, `JOIN FETCH`, Projections, Pagination & Капани](03-05-00-Advanced-Querying.md)
+[📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03 Spring Data](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [▶️ Започни от 03-00. Intro: Въведение в Spring Data, Hibernate & Архитектурен Roadmap](03-00-Intro.md)
 
 © 2026 Dev-Library / Module 03 Spring Data & Architecture

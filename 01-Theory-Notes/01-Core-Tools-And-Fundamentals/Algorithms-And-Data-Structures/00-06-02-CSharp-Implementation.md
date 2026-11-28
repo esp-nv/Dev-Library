@@ -1,4 +1,4 @@
-[⬅️ 00-06-01. Python Implementation](00-06-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-06-03. JavaScript Implementation](00-06-03-JavaScript-Implementation.md)
+[⬅️ 00-06-01. Python Implementation](00-06-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-06-03. JavaScript Implementation](00-06-03-JavaScript-Implementation.md)
 
 ---
 
@@ -108,7 +108,7 @@ public class Knapsack01
 | **2D таблица** | `int[,] dp = new int[rows, cols];` | По-компактна в паметта от jagged масив `int[][]` |
 
 ---
-[⬅️ 00-06-01. Python Implementation](00-06-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-06-03. JavaScript Implementation](00-06-03-JavaScript-Implementation.md)
+[⬅️ 00-06-01. Python Implementation](00-06-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-06-03. JavaScript Implementation](00-06-03-JavaScript-Implementation.md)
 
 
 © 2026 Dev-Library / 00-06-02. Dynamic Programming: C# (.NET) Имплементация & Cheat Sheet

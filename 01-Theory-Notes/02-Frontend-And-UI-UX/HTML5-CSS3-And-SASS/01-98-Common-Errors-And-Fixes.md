@@ -1,4 +1,4 @@
-[⬅️ 01-97. Category Cheat Sheet](01-97-Category-Cheat-Sheet.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-99. Interview Q&A, Traps & Debugging](01-99-Interview-QA-Traps-And-Debugging.md)
+[⬅️ 01-97. Category Cheat Sheet](01-97-Category-Cheat-Sheet.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-99. Interview Q&A, Traps & Debugging](01-99-Interview-QA-Traps-And-Debugging.md)
 
 ---
 
@@ -76,7 +76,7 @@
 * **[01-99. Interview Q&A, Traps & Debugging](01-99-Interview-QA-Traps-And-Debugging.md)** — Финалният инженерен файл за Ниво 1: Senior интервю въпроси с отговори, скрити капани и техники за дебъгване с Chrome DevTools, Lighthouse и Redis CLI.
 
 ---
-[⬅️ 01-97. Category Cheat Sheet](01-97-Category-Cheat-Sheet.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [📂 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📂 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-99. Interview Q&A, Traps & Debugging](01-99-Interview-QA-Traps-And-Debugging.md)
+[⬅️ 01-97. Category Cheat Sheet](01-97-Category-Cheat-Sheet.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-99. Interview Q&A, Traps & Debugging](01-99-Interview-QA-Traps-And-Debugging.md)
 
 
 © 2026 Dev-Library / 01-98. Common Errors & Fixes (Каталог на Грешките, Edge Cases и Решения)

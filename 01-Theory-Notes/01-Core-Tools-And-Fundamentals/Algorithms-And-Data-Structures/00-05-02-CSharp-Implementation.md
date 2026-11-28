@@ -1,4 +1,4 @@
-[⬅️ 00-05-01. Python Implementation](00-05-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-05-03. JavaScript Implementation](00-05-03-JavaScript-Implementation.md)
+[⬅️ 00-05-01. Python Implementation](00-05-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-05-03. JavaScript Implementation](00-05-03-JavaScript-Implementation.md)
 
 ---
 
@@ -139,7 +139,7 @@ public class TopologicalSorter
 | **Претеглен граф (Dijkstra)** | `var pq = new PriorityQueue<int, int>();` | Сортира автоматично по най-малко разстояние |
 
 ---
-[⬅️ 00-05-01. Python Implementation](00-05-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-05-03. JavaScript Implementation](00-05-03-JavaScript-Implementation.md)
+[⬅️ 00-05-01. Python Implementation](00-05-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-05-03. JavaScript Implementation](00-05-03-JavaScript-Implementation.md)
 
 
 © 2026 Dev-Library / 00-05-02. Graphs and Traversal: C# (.NET) Имплементация & Cheat Sheet

@@ -1,4 +1,4 @@
-[⬅️ 00-03-00. Теория & Капани](00-03-00-Sorting-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-03-02. C# Implementation](00-03-02-CSharp-Implementation.md)
+[⬅️ 00-03-00. Теория & Капани](00-03-00-Sorting-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-03-02. C# Implementation](00-03-02-CSharp-Implementation.md)
 
 ---
 
@@ -133,6 +133,6 @@ print(ranked)
 | **Размяна на два елемента** | `arr[i], arr[j] = arr[j], arr[i]` | Без временна променлива `temp` |
 
 ---
-[⬅️ 00-03-00. Теория & Капани](00-03-00-Sorting-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏠 Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [📂 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📂 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-03-02. C# Implementation](00-03-02-CSharp-Implementation.md)
+[⬅️ 00-03-00. Теория & Капани](00-03-00-Sorting-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-03-02. C# Implementation](00-03-02-CSharp-Implementation.md)
 
 © 2026 Dev-Library /  00-03-01. Sorting Algorithms: Python Имплементация & Cheat Sheet

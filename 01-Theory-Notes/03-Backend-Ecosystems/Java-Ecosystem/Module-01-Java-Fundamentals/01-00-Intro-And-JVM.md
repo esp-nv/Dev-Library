@@ -1,4 +1,4 @@
-[⬅️ Назад към Java Хъба](../README.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-01. Basic Syntax & Data Types](01-01-00-Syntax-And-Types.md)
+[⬅️ Назад към Java Хъба](../README.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-01. Basic Syntax & Data Types](01-01-00-Basic-Syntax-And-Loops.md)
 
 ---
 
@@ -134,4 +134,4 @@ public class Main {
 2.  **Активиране на Lombok (за Spring):** Отвори `Settings -> Build, Execution, Deployment -> Compiler -> Annotation Processors` и сложи отметка на **`Enable annotation processing`**.
 
 ---
-[⬅️ Назад към Java Хъба](../README.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-01. Basic Syntax & Data Types](01-01-00-Syntax-And-Types.md)
+[⬅️ Назад към Java Хъба](../README.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-01. Basic Syntax & Data Types](01-01-00-Basic-Syntax-And-Loops.md)
