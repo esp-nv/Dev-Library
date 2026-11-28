@@ -1,4 +1,4 @@
-[⬅️ 01-05. Lists](01-05-00-Lists.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-06-01. Syntax From Scratch](01-06-01-Syntax-Objects-And-Classes.md)
+[⬅️ 01-05-01. Lists (`ArrayList` & `LinkedList`): Синтак...](01-05-01-Syntax-Lists.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-06-01. Objects, Classes and Records: Синтаксис от...](01-06-01-Syntax-Objects-And-Classes.md)
 
 ---
 
@@ -136,5 +136,14 @@ public class Book {
     1.  **Договорът гласи:** Ако два обекта са равни според `a.equals(b) == true`, те **ЗАДЪЛЖИТЕЛНО** трябва да връщат едно и също цяло число от `a.hashCode() == b.hashCode()`. (Обратното не е задължително — два различни обекта могат да имат еднакъв хеш код, което се нарича *Hash Collision*).
     2.  **Какво се чупи, ако забравиш `hashCode()`:** Колекциите `HashMap` и `HashSet` първо изчисляват `hashCode()`, за да намерят в коя „кофа“ (Bucket) да търсят обекта, и **чак след това** викат `equals()`. Ако пренапишеш само `equals()`, две еднакви книги `new Book("Dune")` ще наследят различните адреси в паметта от `Object.hashCode()`, ще попаднат в **различни кофи** и `hashSet.contains(book2)` ще върне **`false`**, въпреки че `book1.equals(book2)` е `true`!
 
+
+
+
+
+
+
 ---
-[⬅️ 01-05. Lists](01-05-00-Lists.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-06-01. Syntax From Scratch](01-06-01-Syntax-Objects-And-Classes.md)
+
+[⬅️ 01-05-01. Lists (`ArrayList` & `LinkedList`): Синтак...](01-05-01-Syntax-Lists.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-06-01. Objects, Classes and Records: Синтаксис от...](01-06-01-Syntax-Objects-And-Classes.md)
+
+© 2026 Dev-Library / 01-06-00. Objects, Classes and Records (Теория, Конструктори, Памет & Капани)

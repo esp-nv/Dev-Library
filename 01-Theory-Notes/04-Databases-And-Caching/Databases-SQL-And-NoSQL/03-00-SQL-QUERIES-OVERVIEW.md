@@ -1,9 +1,4 @@
-[⬅️ RAM Структури и Query-First](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md) | [📂 Назад към Databases SQL And NoSQL Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: 04. Databases & Caching](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases SQL And NoSQL](README.md) | [🌐 Следващ домейн: 05. QA & Test Automation](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ INNER, LEFT, FULL, CROSS, SELF](03-01-SQL-Joins-Visual-And-Code.md)
-
----
-
-[⏪ Предишна глава (Модул 02)](02-05-Graph-TimeSeries-Vector-Modeling.md) | 📂 Глава 03 | [🏠 [Библиотека БД](README.md)  | [➡️ 03-01. Joins](03-01-SQL-Joins.md) 📂 [Глава 04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md)
-
+[⬅️ 02-05. Моделиране в Graph, Time-Series и Vector (AI)...](02-05-Graph-TimeSeries-Vector-Modeling.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 03-01. SQL Joins — Визуално и с Код](03-01-SQL-Joins-Visual-And-Code.md)
 
 ---
 
@@ -55,8 +50,14 @@
 ---
 [⏪ Предишна глава (Модул 02)](02-05-Graph-TimeSeries-Vector-Modeling.md) | 📂 Глава 03 | 🏠 [Библиотека БД](README.md)  | [➡️ 03-01. Joins](03-01-SQL-Joins.md) 📂 [Глава 04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md)
 
+
+
+
+
+
+
 ---
 
-[⬅️ RAM Структури и Query-First](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md) | [📂 Назад към Databases SQL And NoSQL Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: 04. Databases & Caching](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases SQL And NoSQL](README.md) | [🌐 Следващ домейн: 05. QA & Test Automation](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ INNER, LEFT, FULL, CROSS, SELF](03-01-SQL-Joins-Visual-And-Code.md)
+[⬅️ 02-05. Моделиране в Graph, Time-Series и Vector (AI)...](02-05-Graph-TimeSeries-Vector-Modeling.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 03-01. SQL Joins — Визуално и с Код](03-01-SQL-Joins-Visual-And-Code.md)
 
 © 2026 Dev-Library / 03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и Функции

@@ -1,4 +1,4 @@
-[⬅️ 01-07. Глобален Системен Пищов](01-07-System-Design-Global-Cheat-Sheet.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Главен Хъб на проекта](../README.md) | [➡️ 01-09. Визуални Чертежи: Архитектурни Диаграми и Системни Потоци (Blueprints)](01-09-System-Design-Visual-Blueprints.md)
+[⬅️ 01-07. Системен Дизайн и Архитектура](01-07-System-Design-Global-Cheat-Sheet.md) | [📂 Назад към Системен Дизайн и Софтуерна Архитектура Хъба](README.md) | [🌐 Домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Системен Дизайн и Софтуерна Архитектура](README.md) | [🌐 Следващ домейн: 07-Game-Development](../../07-Game-Development/README.md) | [📦 Следващ модул: Technical-SEO-And-Web-Vitals](../Technical-SEO-And-Web-Vitals/README.md) | [➡️ 01-08. Визуални Чертежи: Архитектурни Диаграми и Сис...](01-09-System-Design-Visual-Blueprints.md)
 
 ---
 
@@ -88,7 +88,14 @@
     с четен Хеш)    с нечетен Хеш)
 ```
 
+
+
+
+
+
+
 ---
-[⬅️ 01-07. Глобален Системен Пищов](01-07-System-Design-Global-Cheat-Sheet.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Главен Хъб на проекта](../README.md) | [➡️ 01-09. Визуални Чертежи: Архитектурни Диаграми и Системни Потоци (Blueprints)](01-09-System-Design-Visual-Blueprints.md)
+
+[⬅️ 01-07. Системен Дизайн и Архитектура](01-07-System-Design-Global-Cheat-Sheet.md) | [📂 Назад към Системен Дизайн и Софтуерна Архитектура Хъба](README.md) | [🌐 Домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Системен Дизайн и Софтуерна Архитектура](README.md) | [🌐 Следващ домейн: 07-Game-Development](../../07-Game-Development/README.md) | [📦 Следващ модул: Technical-SEO-And-Web-Vitals](../Technical-SEO-And-Web-Vitals/README.md) | [➡️ 01-08. Визуални Чертежи: Архитектурни Диаграми и Сис...](01-09-System-Design-Visual-Blueprints.md)
 
 © 2026 Dev-Library / 01-08. Системни чертежи: Диаграми на архитектурата и софтуерни потоци

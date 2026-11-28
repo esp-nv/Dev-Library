@@ -1,4 +1,4 @@
-[⬅️ 04-96. Java & Spring Оптимизации](04-96-Performance-And-Optimizations.md) | 📂 Папка: 04-Java-Ecosystem | [🏠 Начало](../README.md) | [➡️ 04-98. Common Errors And Fixes](04-98-Common-Errors-And-Fixes.md)
+[⬅️ 04-96. Java 21+ & Spring Boot 3 Оптимизации: Кое е г...](04-96-Performance-And-Optimizations.md) | [📂 Назад към Java & Spring Boot Ecosystem Хъба](README.md) | [📦 Предишен модул: C-Sharp-And-ASP-NET](../C-Sharp-And-ASP-NET/README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Java & Spring Boot Ecosystem](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Python-Scripting](../Python-Scripting/README.md) | [➡️ 04-98. Java 21+ & Spring Boot 3 Common Errors, Edge ...](04-98-Common-Errors-And-Fixes.md)
 
 ---
 
@@ -110,5 +110,14 @@ public class ModernJavaFeatures {
 | **`Lombok`** *(по избор)* | `org.projectlombok:lombok` | `@Getter @Setter @Builder` | Намалява boilerplate кода в JPA Entity класовете *(внимание: избягвай `@Data` върху `@Entity`!)*. |
 | **`JUnit 5 + Mockito + Testcontainers`** | `spring-boot-starter-test` + `testcontainers` | `@SpringBootTest @Testcontainers`<br>`@ServiceConnection static PostgreSQLContainer<?> pg` | Писане на Unit тестове с мокове и пълни интеграционни тестове срещу реална база данни в Docker. |
 
+
+
+
+
+
+
 ---
-[⬅️ 04-96. Java & Spring Оптимизации](04-96-Performance-And-Optimizations.md) | 📂 Папка: 04-Java-Ecosystem | [🏠 Начало](../README.md) | [➡️ 04-98. Common Errors And Fixes](04-98-Common-Errors-And-Fixes.md)
+
+[⬅️ 04-96. Java 21+ & Spring Boot 3 Оптимизации: Кое е г...](04-96-Performance-And-Optimizations.md) | [📂 Назад към Java & Spring Boot Ecosystem Хъба](README.md) | [📦 Предишен модул: C-Sharp-And-ASP-NET](../C-Sharp-And-ASP-NET/README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Java & Spring Boot Ecosystem](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Python-Scripting](../Python-Scripting/README.md) | [➡️ 04-98. Java 21+ & Spring Boot 3 Common Errors, Edge ...](04-98-Common-Errors-And-Fixes.md)
+
+© 2026 Dev-Library / 04-97. Java 21+ & Spring Boot 3 Category Cheat Sheet: Пълно обобщение & Библиотеки

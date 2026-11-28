@@ -1,4 +1,4 @@
-[⬅️ 01-01. Basic Syntax & Loops](01-01-00-Basic-Syntax-And-Loops.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-02-01. Syntax From Scratch](01-02-01-Syntax-Data-Types-And-Variables.md)
+[⬅️ 01-01-01. Basic Syntax, Conditionals & Loops: Синтак...](01-01-01-Syntax-Basic-Syntax-And-Loops.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-02-01. Methods, Lists & Stream API: Синтаксис от ...](01-02-01-Syntax-Data-Types-And-Variables.md)
 
 ---
 
@@ -117,5 +117,14 @@ public class PrecisionDemo {
 *   **Уловката:** Кандидатите мислят, че `10 + 20 = 30` се побира в `byte` (до 127), така че кодът трябва да се компилира без проблем!
 *   **Точен Senior отговор:** Кодът **няма да се компилира** (`Incompatible types: possible lossy conversion from int to byte`). Причината е правилото **Numeric Promotion (Повишаване на типовете)** в спецификацията на Java: при всяка аритметична операция (`+`, `-`, `*`, `/`) върху типове, по-малки от `int` (`byte`, `short`, `char`), JVM автоматично ги превръща в **`int`** преди сметката! Затова резултатът от `a + b` е от тип `int` и изисква изричен каст: `byte c = (byte) (a + b);` (същото правило важи и в C#!).
 
+
+
+
+
+
+
 ---
-[⬅️ 01-01. Basic Syntax & Loops](01-01-00-Basic-Syntax-And-Loops.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-02-01. Syntax From Scratch](01-02-01-Syntax-Data-Types-And-Variables.md)
+
+[⬅️ 01-01-01. Basic Syntax, Conditionals & Loops: Синтак...](01-01-01-Syntax-Basic-Syntax-And-Loops.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-02-01. Methods, Lists & Stream API: Синтаксис от ...](01-02-01-Syntax-Data-Types-And-Variables.md)
+
+© 2026 Dev-Library / 01-02-00. Data Types and Variables (Теория, Stack/Heap, BigDecimal & Капани)

@@ -1,4 +1,4 @@
-[📦 Предишен модул: System-Design-And-Software-Architecture](../System-Design-And-Software-Architecture/README.md) | [🌐 Домейн: 06. Cloud, DevOps & Architecture](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Technical SEO And Web Vitals](README.md) | [🌐 Следващ домейн: 07. Game Development](../../07-Game-Development/README.md)
+[📦 Предишен модул: System-Design-And-Software-Architecture](../System-Design-And-Software-Architecture/README.md) | [🌐 Домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Technical SEO, GEO & Core Web Vitals](README.md) | [🌐 Следващ домейн: 07-Game-Development](../../07-Game-Development/README.md) | [▶️ Започни от 03-01-00. Техническо SEO, Семантично индексиране и C...](03-01-00-Technical-SEO-And-Meta-Tags.md)
 
 ---
 
@@ -12,8 +12,14 @@
   * 📄 [03-01-00. Теория: Crawling & Indexing, Canonical URLs, JSON-LD, GEO & Core Web Vitals (LCP, INP, CLS)](03-01-00-Technical-SEO-And-Meta-Tags.md)
   * 🛠️ [03-01-01. Практика от Нулата: Meta Tags, OpenGraph, Schema.org, `robots.txt` & `sitemap.xml` Cheat Sheet](03-01-01-Syntax-SEO.md)
 
+
+
+
+
+
+
 ---
 
-[📦 Предишен модул: System-Design-And-Software-Architecture](../System-Design-And-Software-Architecture/README.md) | [🌐 Домейн: 06. Cloud, DevOps & Architecture](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Technical SEO And Web Vitals](README.md) | [🌐 Следващ домейн: 07. Game Development](../../07-Game-Development/README.md)
+[📦 Предишен модул: System-Design-And-Software-Architecture](../System-Design-And-Software-Architecture/README.md) | [🌐 Домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Technical SEO, GEO & Core Web Vitals](README.md) | [🌐 Следващ домейн: 07-Game-Development](../../07-Game-Development/README.md) | [▶️ Започни от 03-01-00. Техническо SEO, Семантично индексиране и C...](03-01-00-Technical-SEO-And-Meta-Tags.md)
 
 © 2026 Dev-Library / Technical SEO, GEO & Core Web Vitals (`Technical-SEO-And-Web-Vitals`)

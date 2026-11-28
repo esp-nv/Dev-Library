@@ -1,4 +1,4 @@
-[⬅️ 01-01. Релации и типове данни](01-01-SQL-Server-Relations-And-Data-Types.md) | [📂 Глава 01. Основи на SQL Server, релации и T-SQL](01-00-SQL-SERVER-AND-RELATIONS-INTRO.md) | 
+[⬅️ 01-01. Проектиране на релации и физическо заемане на...](01-01-SQL-Server-Relations-And-Data-Types.md) | [📂 Назад към Databases & Entity Framework Core — Пълен Архитектур... Хъба](README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases & Entity Framework Core — Пълен Архитектур...](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [➡️ 02-00. Основи на Entity Framework Core и Code-First ...](02-00-EF-CORE-AND-CODE-FIRST-INTRO.md)
 
 ---
 
@@ -105,7 +105,14 @@ ROLLBACK; -- Данните се възстановяват мигновено �
 * **Какво се случва:** Пишеш бързо `UPDATE Students SET Grade = 6;` с цел да промениш оценката на Иван. Понеже си изпуснала `WHERE Id = 5`, базата данни мигновено записва пълни шестици на абсолютно всички студенти в училището.
 * **Как да избегнеш:** Винаги първо пиши `SELECT * FROM Students WHERE Id = 5;`, за да се увериш, че филтърът ти хваща точно тези редове, които искаш да промениш, и чак тогава трансформирай заявката в `UPDATE` или `DELETE`.
 
+
+
+
+
+
+
 ---
-[⬅️ 01-01. Релации и типове данни](01-01-SQL-Server-Relations-And-Data-Types.md) | [📂 Глава 01. Основи на SQL Server, релации и T-SQL](01-00-SQL-SERVER-AND-RELATIONS-INTRO.md) | 
+
+[⬅️ 01-01. Проектиране на релации и физическо заемане на...](01-01-SQL-Server-Relations-And-Data-Types.md) | [📂 Назад към Databases & Entity Framework Core — Пълен Архитектур... Хъба](README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases & Entity Framework Core — Пълен Архитектур...](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [➡️ 02-00. Основи на Entity Framework Core и Code-First ...](02-00-EF-CORE-AND-CODE-FIRST-INTRO.md)
 
 © 2026 Dev-Library / 01-02. Дълбоко гмуркане в SQL Joins и сигурност при промени

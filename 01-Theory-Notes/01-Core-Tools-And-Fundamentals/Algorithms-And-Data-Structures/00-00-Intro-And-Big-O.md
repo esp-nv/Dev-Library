@@ -1,4 +1,4 @@
-[⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [▶️  00-01. Recursion & Backtracking](00-01-00-Recursion-And-Backtracking.md)
+[📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-01-00. Recursion and Backtracking](00-01-00-Recursion-And-Backtracking.md)
 
 ---
 
@@ -106,8 +106,14 @@ def has_duplicates_fast(nums: list[int]) -> bool:
 *   **Точен Senior отговор:** В Python, C# и JavaScript стринговете са **неизменяеми (Immutable)** в RAM паметта. При всяка итерация `s += char` компютърът не добавя буквата в края, а заделя изцяло нов блок памет и **копира целия натрупан до момента стринг** буква по буква ($1 + 2 + 3 + \dots + N = \frac{N(N+1)}{2} \rightarrow O(n^2)$)!
     *   **Правилен фикс ($O(n)$):** В Python събираме парчетата в списък и накрая викаме `"".join(parts)`; в C# ползваме **`StringBuilder`**; в JavaScript ползваме `array.push(part)` и `array.join("")`.
 
+
+
+
+
+
+
 ---
 
-[⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [▶️  00-01. Recursion & Backtracking](00-01-00-Recursion-And-Backtracking.md)
+[📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-01-00. Recursion and Backtracking](00-01-00-Recursion-And-Backtracking.md)
 
 © 2026 Dev-Library / 00-00. Intro & Big O Notation (Анализ на сложността по време и памет)

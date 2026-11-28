@@ -1,4 +1,4 @@
-[⬅️ 02-03-00. Теория & Капани](02-03-00-Multidimensional-Lists.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-04-00. Functions Advanced](02-04-00-Functions-Advanced.md)
+[⬅️ 02-03-00. Multidimensional Lists](02-03-00-Multidimensional-Lists.md) | [📂 Назад към Module 02: Python Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Python Advance](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md) | [➡️ 02-04-00. Functions Advanced](02-04-00-Functions-Advanced.md)
 
 ---
 
@@ -119,5 +119,14 @@ if is_inside(next_r, next_c, 3):
 | **Транспониране (Ред ➔ Колона)** | `[list(r) for r in zip(*m)]` | Обръща редовете и колоните |
 | **Проверка за валидни граници** | `0 <= r < rows and 0 <= c < cols` | Защита против `IndexError` |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-03-00. Теория & Капани](02-03-00-Multidimensional-Lists.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-04-00. Functions Advanced](02-04-00-Functions-Advanced.md)
+
+[⬅️ 02-03-00. Multidimensional Lists](02-03-00-Multidimensional-Lists.md) | [📂 Назад към Module 02: Python Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Python Advance](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md) | [➡️ 02-04-00. Functions Advanced](02-04-00-Functions-Advanced.md)
+
+© 2026 Dev-Library / 02-03-01. Multidimensional Lists: Синтаксис от нулата & Cheat Sheet

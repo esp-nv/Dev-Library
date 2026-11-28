@@ -1,4 +1,4 @@
-[⬅️ 05-06-00. Теория & Капани](05-06-00-Django-Admin.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ Модул 06: Django Advanced](../Module-06-Django-Advanced/README.md)
+[⬅️ 05-06-00. Django Admin Customization](05-06-00-Django-Admin.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [📦 Към следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md)
 
 ---
 
@@ -125,5 +125,14 @@ class BookCustomAdmin(admin.ModelAdmin):
 | **`inlines = [ChildInline]`** | Вгражда форма за децата вътре в страницата на родителя |
 | **`@admin.action(...)`** | Добавя групова операция за избраните редове |
 
+
+
+
+
+
+
 ---
-[⬅️ 05-06-00. Теория & Капани](05-06-00-Django-Admin.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ Модул 06: Django Advanced](../Module-06-Django-Advanced/README.md)
+
+[⬅️ 05-06-00. Django Admin Customization](05-06-00-Django-Admin.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [📦 Към следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md)
+
+© 2026 Dev-Library / 05-06-01. Django Admin: Синтаксис от нулата & Cheat Sheet

@@ -1,4 +1,4 @@
-[⬅️ 04-05. Query Optimization](04-05-00-Optimization-And-N-Plus-1.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-06-01. Django ORM Syntax](04-06-01-Syntax-Django-ORM.md)
+[⬅️ 04-05-02. SQLAlchemy 2.0 Optimization: Синтаксис от ...](04-05-02-Syntax-SQLAlchemy.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-06-01. Django ORM Transactions, Raw SQL & Async: ...](04-06-01-Syntax-Django-ORM.md)
 
 ---
 
@@ -135,5 +135,14 @@ def transfer_funds(from_account_id: int, to_account_id: int, amount: Decimal) ->
     *   **Как възниква:** Потребител А праща пари на Потребител Б (Трансакция 1 заключва ред `ID=1` и чака да заключи ред `ID=2`). В същата милисекунда Потребител Б праща пари на Потребител А (Трансакция 2 заключва ред `ID=2` и чака да заключи ред `ID=1`). Двете трансакции чакат безкрайно една друга, докато базата данни не убие едната с грешка **`DeadlockDetected`**.
     *   **Как се решава (Lock Ordering):** Всички трансакции в системата трябва да заключват ресурсите в **строго еднакъв, сортиран ред** (напр. винаги първо по-малкото ID: `sorted([id_a, id_b])`). Така и двете трансакции първо ще поискат ключ `ID=1` — едната ще го вземе, а другата ще изчака спокойно на опашката, без никога да се стигне до взаимно блокиране!
 
+
+
+
+
+
+
 ---
-[⬅️ 04-05. Query Optimization](04-05-00-Optimization-And-N-Plus-1.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-06-01. Django ORM Syntax](04-06-01-Syntax-Django-ORM.md)
+
+[⬅️ 04-05-02. SQLAlchemy 2.0 Optimization: Синтаксис от ...](04-05-02-Syntax-SQLAlchemy.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-06-01. Django ORM Transactions, Raw SQL & Async: ...](04-06-01-Syntax-Django-ORM.md)
+
+© 2026 Dev-Library / 04-06-00. Transactions, Raw SQL and Async ORM (Теория, ACID, Deadlocks & Капани)

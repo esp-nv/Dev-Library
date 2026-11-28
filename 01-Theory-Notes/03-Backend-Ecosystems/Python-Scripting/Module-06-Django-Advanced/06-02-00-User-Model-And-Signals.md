@@ -1,4 +1,4 @@
-[📂 Назад към Module 06 Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06 Django Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Теория, Onion Архитектура, Cookies vs Sessions & Капани](06-03-00-Middlewares-And-Sessions.md)
+[⬅️ 06-01-01. Django Auth & Authorization: Синтаксис от ...](06-01-01-Syntax-Auth-And-Authorization.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-02-01. Extending User Model & Signals: Синтаксис ...](06-02-01-Syntax-User-Model-And-Signals.md)
 
 ---
 
@@ -136,8 +136,14 @@ class AccountsConfig(AppConfig):
     3.  **`Model.objects.bulk_update([...], fields=[...])`** (масов SQL `UPDATE`).
     *   *Решение:* Ако ти трябва гарантирана реакция на ниво база данни при всяка промяна, използвай SQL тригери или сервизен слой (Service Layer), през който минават всички записи.
 
+
+
+
+
+
+
 ---
 
-[📂 Назад към Module 06 Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06 Django Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Теория, Onion Архитектура, Cookies vs Sessions & Капани](06-03-00-Middlewares-And-Sessions.md)
+[⬅️ 06-01-01. Django Auth & Authorization: Синтаксис от ...](06-01-01-Syntax-Auth-And-Authorization.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-02-01. Extending User Model & Signals: Синтаксис ...](06-02-01-Syntax-User-Model-And-Signals.md)
 
 © 2026 Dev-Library / 06-02-00. Extending User Model and Django Signals (Теория, `AbstractUser`, Сигнали & Капани)

@@ -1,4 +1,4 @@
-[📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Django Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [▶️ Започни от 05-00. Intro to Django Fundamentals & MTV Architecture](05-00-Intro.md)
+[📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от 05-00. Intro to Django Fundamentals & MTV Architecture](05-00-Intro.md)
 
 ---
 
@@ -28,8 +28,14 @@
     *   📄 [Теория, `ModelAdmin`, Филтри, Търсене & Капани](05-06-00-Django-Admin.md)
     *   🛠️ [Syntax-From-Scratch & Cheat Sheet](05-06-01-Syntax-Django-Admin.md)
 
+
+
+
+
+
+
 ---
 
-[📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Django Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [▶️ Започни от 05-00. Intro to Django Fundamentals & MTV Architecture](05-00-Intro.md)
+[📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от 05-00. Intro to Django Fundamentals & MTV Architecture](05-00-Intro.md)
 
 © 2026 Dev-Library / Module 05: Django Fundamentals (Django Basics)

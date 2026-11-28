@@ -1,4 +1,4 @@
-[⬅️ 01-01-01. Шаблони & Cheat Sheet](01-01-01-Syntax-SDLC-STLC-And-Testing-Types.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-02-01. JQL, Automation, CI/CD & Cheat Sheet](01-02-01-Syntax-Test-Design-Jira-And-MS-Project.md)
+[⬅️ 01-01-01. Шаблони & Cheat Sheet](01-01-01-Syntax-SDLC-STLC-And-Testing-Types.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-02-01. JQL, Jira Automation, CI/CD & Cheat Sheet](01-02-01-Syntax-Test-Design-Jira-And-MS-Project.md)
 
 ---
 
@@ -120,9 +120,14 @@
 * **Въпрос 2:** *„Каква е разликата между **Lead Time** и **Cycle Time** на една Kanban дъска в Jira?“*
   * **Отговор:** **Lead Time** измерва общото време от момента, в който клиентът/бизнесът създаде заявката в Backlog-а, до момента, в който тя е доставена в продукция. **Cycle Time** измерва само активното време за работа — от момента, в който разработчикът премести задачата в колона `In Progress`, до момента, в който тя влезе в `Done`.
 
+
+
+
+
+
+
 ---
 
-[⬅️ 01-01-01. Шаблони & Cheat Sheet](01-01-01-Syntax-SDLC-STLC-And-Testing-Types.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-02-01. JQL, Automation, CI/CD & Cheat Sheet](01-02-01-Syntax-Test-Design-Jira-And-MS-Project.md)
+[⬅️ 01-01-01. Шаблони & Cheat Sheet](01-01-01-Syntax-SDLC-STLC-And-Testing-Types.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-02-01. JQL, Jira Automation, CI/CD & Cheat Sheet](01-02-01-Syntax-Test-Design-Jira-And-MS-Project.md)
 
 © 2026 Dev-Library / 01-02-00. Test Design Техники, Jira, CI/CD и Microsoft Project (Теория & Капани)
-

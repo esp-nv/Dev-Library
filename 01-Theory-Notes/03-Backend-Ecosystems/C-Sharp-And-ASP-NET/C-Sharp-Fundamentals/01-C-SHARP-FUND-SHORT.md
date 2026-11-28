@@ -1,4 +1,4 @@
-[📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](01-01-TYPES-CONDITIONALS-LOOPS.md)
+[⬅️ Справочник: Стар срещу Нов C# Синтаксис](01-02-Old-vs-New-CSharp-Syntax.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 2: ООП Основи, Ключови думи и Памет в C#](02-OOP-Concepts-And-Keywords.md)
 
 ---
 
@@ -128,8 +128,14 @@
   * Когато стигне до `await`, ако задачата не е завършила, нишката се освобождава веднага, за да обслужва други потребители, вместо да чака празна. 
   * Когато операцията приключи (напр. базата данни върне записите), държавният автомат възстановява контекста на изпълнение и продължава от следващия ред.
 
+
+
+
+
+
+
 ---
 
-[📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](01-01-TYPES-CONDITIONALS-LOOPS.md)
+[⬅️ Справочник: Стар срещу Нов C# Синтаксис](01-02-Old-vs-New-CSharp-Syntax.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 2: ООП Основи, Ключови думи и Памет в C#](02-OOP-Concepts-And-Keywords.md)
 
 © 2026 Dev-Library / Глава 1: C# Fundamentals — Архитектурен Справочник (Част 1)

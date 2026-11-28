@@ -1,4 +1,4 @@
-[⬅️ 00-03. Sorting Algorithms](00-03-00-Sorting-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-04-01. Python Implementation](00-04-01-Python-Implementation.md)
+[⬅️ 00-03-04. Sorting Algorithms: Java Имплементация & C...](00-03-04-Java-Implementation.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-04-01. Greedy Algorithms: Python Имплементация & ...](00-04-01-Python-Implementation.md)
 
 ---
 
@@ -119,9 +119,14 @@ def select_max_activities(activities: list[tuple[int, int]]) -> list[tuple[int, 
     *   **Истинският оптимум** е **`3 + 3` (общо 2 монети)**!
     *   *Извод:* При произволни номинали на монетите или при **0/1 Knapsack** (където предметите не могат да се режат на части), Greedy се проваля и **задължително** се използва **Dynamic Programming (Динамично оптимиране)**.
 
+
+
+
+
+
+
 ---
-[⬅️ 00-03. Sorting Algorithms](00-03-00-Sorting-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-04-01. Python Implementation](00-04-01-Python-Implementation.md)
 
-
+[⬅️ 00-03-04. Sorting Algorithms: Java Имплементация & C...](00-03-04-Java-Implementation.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-04-01. Greedy Algorithms: Python Имплементация & ...](00-04-01-Python-Implementation.md)
 
 © 2026 Dev-Library / 00-04-00. Greedy Algorithms (Теория, Локален vs Глобален Оптимум & Капани)

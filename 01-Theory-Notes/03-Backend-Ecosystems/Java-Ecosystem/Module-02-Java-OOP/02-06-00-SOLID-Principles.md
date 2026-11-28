@@ -1,4 +1,4 @@
-[⬅️ 02-05. Polymorphism](02-05-00-Polymorphism.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-06-01. Syntax From Scratch](02-06-01-Syntax-SOLID-Principles.md)
+[⬅️ 02-05-01. Polymorphism: Синтаксис от нулата & Cheat ...](02-05-01-Syntax-Polymorphism.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-06-01. SOLID Principles in Java: Синтаксис от нул...](02-06-01-Syntax-SOLID-Principles.md)
 
 ---
 
@@ -132,5 +132,14 @@ public class CheckoutService {
 | **Нарушение на LSP в стандартното API** | `List.of(1, 2).add(3)` хвърля `UnsupportedOperationException` | `Array` имплементира `IList<T>`, но `arr.Add(3)` хвърля `NotSupportedException` |
 | **Вградени функционални интерфейси (ISP)** | `Predicate<T>`, `Function<T,R>`, `Consumer<T>`, `Supplier<T>` | `Predicate<T>`, `Func<T,R>`, `Action<T>` |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-05. Polymorphism](02-05-00-Polymorphism.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-06-01. Syntax From Scratch](02-06-01-Syntax-SOLID-Principles.md)
+
+[⬅️ 02-05-01. Polymorphism: Синтаксис от нулата & Cheat ...](02-05-01-Syntax-Polymorphism.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-06-01. SOLID Principles in Java: Синтаксис от нул...](02-06-01-Syntax-SOLID-Principles.md)
+
+© 2026 Dev-Library / 02-06-00. SOLID Principles in Java (Теория, Архитектура, Анти-патърни & Капани)

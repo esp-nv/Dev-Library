@@ -188,3 +188,14 @@ public class WatchWindowDanger
 // -> Shift + F11 (Step Out) за бързо изплуване нагоре.
 // ============================================================
 // © 2026 Dev-Library / Архитектурно ядро
+
+
+
+
+
+
+---
+
+[⬅️ csharp](csharp.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Учебник: Шаблони за проектиране (Design Patterns) в ...](design-patterns-oop-csharp.md)
+
+© 2026 Dev-Library / debugging-techniques-csharp

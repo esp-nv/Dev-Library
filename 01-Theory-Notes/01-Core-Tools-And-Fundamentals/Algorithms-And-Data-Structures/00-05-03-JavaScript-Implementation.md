@@ -1,4 +1,4 @@
-[⬅️ 00-05-02. C# Implementation](00-05-02-CSharp-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-05-04-Java-Implementation.md](00-05-04-Java-Implementation.md)
+[⬅️ 00-05-02. Graphs and Traversal: C# (.NET) Имплемента...](00-05-02-CSharp-Implementation.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-05-04. Graphs and Traversal: Java Имплементация &...](00-05-04-Java-Implementation.md)
 
 ---
 
@@ -123,8 +123,14 @@ console.log(topologicalSort(4, [[0, 1], [0, 2], [1, 3], [2, 3]])); // [0, 1, 2, 
 | **Бърза BFS опашка** | `const q = [start]; let head = 0; q[head++]` | Избягва бавното $O(n)$ на `q.shift()` |
 | **DFS Стек** | `stack.push(x)` / `stack.pop()` | Бързи $O(1)$ операции в края на масива |
 
----
-[⬅️ 00-05-02. C# Implementation](00-05-02-CSharp-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-05-04-Java-Implementation.md](00-05-04-Java-Implementation.md)
 
+
+
+
+
+
+---
+
+[⬅️ 00-05-02. Graphs and Traversal: C# (.NET) Имплемента...](00-05-02-CSharp-Implementation.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-05-04. Graphs and Traversal: Java Имплементация &...](00-05-04-Java-Implementation.md)
 
 © 2026 Dev-Library / 00-05-03. Graphs and Traversal: JavaScript (ES6+) Имплементация & Cheat Sheet

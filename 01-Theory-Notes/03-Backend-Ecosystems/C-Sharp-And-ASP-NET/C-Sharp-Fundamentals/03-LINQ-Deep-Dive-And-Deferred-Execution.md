@@ -1,3 +1,7 @@
+[⬅️ Глава 2: ООП Основи, Ключови думи и Памет в C#](02-OOP-Concepts-And-Keywords.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Cheat Sheet: Колекции и Структури от данни в C#](04-01-Collections-Cheat-Sheet.md)
+
+---
+
 # 📘 Глава 3: Свещеният граал на LINQ и Отложено Изпълнение
 **Статус:** Актуализиран учебен материал | **Цел:** Дълбоко разбиране на заявките, пагинация, групиране и избягване на капани
 
@@ -141,3 +145,14 @@ var pageResults = totalData
 *   **Капан №5 (`Reverse` не е Сортиране):** `Reverse()` просто обръща списъка огледално огледално отзад напред (`10, 20, 5 -> 5, 20, 10`). Той **НЕ сортира** от голямо към малко, за това се използва `OrderByDescending()`.
 *   **Капан №6 (`Take` и `Skip` поредност):** Те винаги работят върху това, което им е подадено от предходната операция. Смяната на местата им променя тотално резултата!
 *   **Капан №7 (`Count` не е списък):** Методът `Count()` връща само едно обикновено число (бройката), а не самите филтрирани обекти.
+
+
+
+
+
+
+---
+
+[⬅️ Глава 2: ООП Основи, Ключови думи и Памет в C#](02-OOP-Concepts-And-Keywords.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Cheat Sheet: Колекции и Структури от данни в C#](04-01-Collections-Cheat-Sheet.md)
+
+© 2026 Dev-Library / Глава 3: Свещеният граал на LINQ и Отложено Изпълнение

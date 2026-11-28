@@ -1,4 +1,4 @@
-[⬅️ 02-06-00. Теория & Капани](02-06-00-File-Handling.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ Модул 03: OOP](../Module-03-OOP/README.md)
+[⬅️ 02-06-00. File Handling](02-06-00-File-Handling.md) | [📂 Назад към Module 02: Python Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Python Advance](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md) | [📦 Към следващ модул: Module-03-OOP](../Module-03-OOP/README.md)
 
 ---
 
@@ -106,5 +106,14 @@ with open("profile.json", "r", encoding="utf-8") as f:
 | **Изтриване на файл** | `os.remove("f.txt")` или `Path("f.txt").unlink()` | Изтрива файла от диска |
 | **Запис / Четене на JSON** | `json.dump(obj, f)` / `json.load(f)` | Конвертира `dict <-> JSON` файл |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-06-00. Теория & Капани](02-06-00-File-Handling.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ Модул 03: OOP](../Module-03-OOP/README.md)
+
+[⬅️ 02-06-00. File Handling](02-06-00-File-Handling.md) | [📂 Назад към Module 02: Python Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Python Advance](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md) | [📦 Към следващ модул: Module-03-OOP](../Module-03-OOP/README.md)
+
+© 2026 Dev-Library / 02-06-01. File Handling: Синтаксис от нулата & Cheat Sheet

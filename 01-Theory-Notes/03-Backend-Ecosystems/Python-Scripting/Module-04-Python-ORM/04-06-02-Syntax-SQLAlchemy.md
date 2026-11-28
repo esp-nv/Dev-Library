@@ -1,4 +1,4 @@
-[⬅️ 04-06-01. Django ORM Syntax](04-06-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [🏠 Към Главния Хъб на Ниво 2](../../README.md)
+[⬅️ 04-06-01. Django ORM Transactions, Raw SQL & Async: ...](04-06-01-Syntax-Django-ORM.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📦 Към следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md)
 
 ---
 
@@ -115,5 +115,14 @@ with r.pipeline(transaction=True) as pipe:
 | **Асинхронно изпълнение** | `await session.scalars(select(Model))` |
 | **NoSQL Атомарност (Redis)** | `with r.pipeline(transaction=True) as pipe: ... pipe.execute()` |
 
+
+
+
+
+
+
 ---
-[⬅️ 04-06-01. Django ORM Syntax](04-06-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [🏠 Към Главния Хъб на Ниво 2](../../README.md)
+
+[⬅️ 04-06-01. Django ORM Transactions, Raw SQL & Async: ...](04-06-01-Syntax-Django-ORM.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📦 Към следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md)
+
+© 2026 Dev-Library / 04-06-02. SQLAlchemy 2.0 Transactions, Raw SQL & Async: Синтаксис от нулата & Cheat Sheet

@@ -1,4 +1,4 @@
-[🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: HTML5 CSS3 And SASS](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [▶️ Започни от 01-00. Intro to HTML5 & CSS3 Architecture](01-00-Intro.md)
+[🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [▶️ Започни от 01-00. Intro to HTML5 & CSS3 Architecture](01-00-Intro.md)
 
 ---
 
@@ -30,8 +30,14 @@
   
 * **[01-05. Архитектурно и Хардуерно Сравнение на Стиловете (CSS3, SCSS, Tailwind, Bootstrap 5, CSS-in-JS)](01-05-CSS-Methodologies-And-Frameworks-Comparison.md)** — Сравнителна таблица по категории, прилики и разлики, натоварване на RAM/CPU и матрица за избор.
 
+
+
+
+
+
+
 ---
 
-[🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: HTML5 CSS3 And SASS](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [▶️ Започни от 01-00. Intro to HTML5 & CSS3 Architecture](01-00-Intro.md)
+[🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [▶️ Започни от 01-00. Intro to HTML5 & CSS3 Architecture](01-00-Intro.md)
 
 © 2026 Dev-Library / 01. HTML5 & CSS3 Foundations

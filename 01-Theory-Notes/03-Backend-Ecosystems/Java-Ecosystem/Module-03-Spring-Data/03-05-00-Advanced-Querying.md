@@ -1,4 +1,4 @@
-[📂 Назад към Module 03 Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03 Spring Data](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ Теория, Сериализация, Безкрайна рекурсия при релации & Капани](03-07-00-JSON-And-XML-Processing.md)
+[⬅️ 03-04-01. Spring Data Intro & Repositories: Синтакси...](03-04-01-Syntax-Spring-Data-Repositories.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-05-01. Spring Data Advanced Querying: Синтаксис о...](03-05-01-Syntax-Advanced-Querying.md)
 
 ---
 
@@ -132,8 +132,14 @@ public interface OrderRepository extends JpaRepository<Order, Long> {
 | **Глобален филтър (напр. Soft Delete `deleted = false`)** | Hibernate `@SQLRestriction("deleted = false")` (от Hibernate 6.3+) | `modelBuilder.Entity<User>().HasQueryFilter(u => !u.Deleted)` |
 | **Проекции (Partial Select)** | Interface Projections или ``SELECT new RecordDto(...)`` | Анонимни типове .``Select(x => new { x.Id, x.Name })`` или DTO класове |
 
+
+
+
+
+
+
 ---
 
-[📂 Назад към Module 03 Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03 Spring Data](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ Теория, Сериализация, Безкрайна рекурсия при релации & Капани](03-07-00-JSON-And-XML-Processing.md)
+[⬅️ 03-04-01. Spring Data Intro & Repositories: Синтакси...](03-04-01-Syntax-Spring-Data-Repositories.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-05-01. Spring Data Advanced Querying: Синтаксис о...](03-05-01-Syntax-Advanced-Querying.md)
 
 © 2026 Dev-Library / 03-05-00. Spring Data Advanced Querying (Теория, `JPQL`, `@Query`, Projections & N+1 Капани)

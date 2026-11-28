@@ -1,4 +1,4 @@
-⬅️ [02-04. Моделиране в Key-Value и Wide-Column (Redis & Cassandra)](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [03-00. Начало на Модул 03 (SQL Заявки)](03-00-SQL-QUERIES-OVERVIEW.md)
+[⬅️ 02-04. Моделиране в Key-Value (Redis) и Wide-Column](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и...](03-00-SQL-QUERIES-OVERVIEW.md)
 
 ---
 
@@ -116,7 +116,14 @@ LIMIT 3;
 * **Какво се случва:** Качваш всички фирмени документи (включително заплатите на мениджърите) във векторната база без колона за права (`role` / `department`). Обикновен служител пита AI бота *„Колко е бонусът на директора?“* и ботът намира документа по смисъл и го цитира!
 * **Как да избегнеш:** Винаги моделирай векторните записи с **Metadata колони** (`allowed_roles`, `tenant_id`, `user_id`) и задължително прилагай `WHERE` филтър преди векторното сравнение.
 
+
+
+
+
+
+
 ---
-⬅️ [02-04. Моделиране в Key-Value и Wide-Column (Redis & Cassandra)](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [03-00. Начало на Модул 03 (SQL Заявки)](03-00-SQL-QUERIES-OVERVIEW.md)
+
+[⬅️ 02-04. Моделиране в Key-Value (Redis) и Wide-Column](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и...](03-00-SQL-QUERIES-OVERVIEW.md)
 
 © 2026 Dev-Library / 02-05. Моделиране в Graph, Time-Series и Vector (AI) Бази данни

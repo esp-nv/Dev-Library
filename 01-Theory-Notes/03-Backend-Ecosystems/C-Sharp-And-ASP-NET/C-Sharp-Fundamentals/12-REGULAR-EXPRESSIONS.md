@@ -1,4 +1,4 @@
-[⬅️ Кратък справочник](11-STRING-TEXT-PROCESSING.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](13-STREAMS-FILES-DIRECTORIES.md)
+[⬅️ Cheat Sheet: Регулярни изрази (Regex) в C#](12-01-Regex-Cheat-Sheet.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 13: Потоци (Streams / I/O), Файлове и Директор...](13-STREAMS-FILES-DIRECTORIES.md)
 
 ---
 
@@ -96,8 +96,14 @@ if (match.Success)
 * **Причина:** Без `^` и `$`, Regex връща `true`, стига *някъде* в текста да има поне една цифра.
 * **Решение:** При валидация на цял вход винаги ограждай шаблона: `^\d+$`.
 
+
+
+
+
+
+
 ---
 
-[⬅️ Кратък справочник](11-STRING-TEXT-PROCESSING.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](13-STREAMS-FILES-DIRECTORIES.md)
+[⬅️ Cheat Sheet: Регулярни изрази (Regex) в C#](12-01-Regex-Cheat-Sheet.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 13: Потоци (Streams / I/O), Файлове и Директор...](13-STREAMS-FILES-DIRECTORIES.md)
 
 © 2026 Dev-Library / Глава 12: Регулярни изрази (Regular Expressions / Regex)

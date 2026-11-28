@@ -1,4 +1,4 @@
-[⬅️ 01-03-00. Теория & Капани](01-03-00-List-Basics.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-04-00. Functions](01-04-00-Functions.md)
+[⬅️ 01-03-00. List Basics](01-03-00-List-Basics.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-04-00. Functions (Теория, Обхват (Scope) & Интерв...](01-04-00-Functions.md)
 
 ---
 
@@ -110,5 +110,14 @@ for index, grade in enumerate(grades):
 | **Текст ➔ Списък** | `text.split(" ")` | Разделя текста по интервал |
 | **Списък ➔ Текст** | `", ".join(arr)` | Слепва списък от `str` в един текст |
 
+
+
+
+
+
+
 ---
-[⬅️ 01-03-00. Теория & Капани](01-03-00-List-Basics.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-04-00. Functions](01-04-00-Functions.md)
+
+[⬅️ 01-03-00. List Basics](01-03-00-List-Basics.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-04-00. Functions (Теория, Обхват (Scope) & Интерв...](01-04-00-Functions.md)
+
+© 2026 Dev-Library / 01-03-01. List Basics: Синтаксис от нулата & Cheat Sheet

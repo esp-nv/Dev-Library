@@ -1,4 +1,4 @@
-[⬅️ 02-01-01. Basic Types & Interfaces Cheat Sheet](02-01-01-Syntax-Basic-Types-And-Interfaces.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-02-01. Advanced Types & Utility Cheat Sheet](02-02-01-Syntax-Advanced-Types-And-Guards.md)
+[⬅️ 02-01-01. Basic Types & Interfaces: Синтаксис от Нул...](02-01-01-Syntax-Basic-Types-And-Interfaces.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-02-01. Advanced Types & Utility Cheat Sheet](02-02-01-Syntax-Advanced-Types-And-Guards.md)
 
 ---
 
@@ -141,8 +141,14 @@ console.log(`Статус: ${isAuthorized} | Съобщение: ${message}`);
 * **Въпрос 2:** *„Какво представляват **Discriminated Unions** и как се използва `never` за изчерпателна проверка?“*
   * **Отговор:** Discriminated Union е обединение от обектни типове, които споделят едно общо поле-дискриминатор с уникална литерална стойност (напр. `status: "loading" | "success" | "error"`). В `default:` клона на `switch (state.status)` присвояваме променливата на тип `never` (`const _exhaustive: never = state;`). Ако в бъдеще някой добави четвърто състояние `"timeout"` и забрави да добави `case "timeout":`, TypeScript моментално спира билда с компилационна грешка!
 
+
+
+
+
+
+
 ---
 
-[⬅️ 02-01-01. Basic Types & Interfaces Cheat Sheet](02-01-01-Syntax-Basic-Types-And-Interfaces.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-02-01. Advanced Types & Utility Cheat Sheet](02-02-01-Syntax-Advanced-Types-And-Guards.md)
+[⬅️ 02-01-01. Basic Types & Interfaces: Синтаксис от Нул...](02-01-01-Syntax-Basic-Types-And-Interfaces.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-02-01. Advanced Types & Utility Cheat Sheet](02-02-01-Syntax-Advanced-Types-And-Guards.md)
 
 © 2026 Dev-Library / 02-02-00. Advanced Types: Обединения, Type Guards, Трансформации & Utility Types

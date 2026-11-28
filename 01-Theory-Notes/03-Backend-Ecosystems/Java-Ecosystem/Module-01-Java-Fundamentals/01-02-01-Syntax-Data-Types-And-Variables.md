@@ -1,4 +1,4 @@
-[⬅️ 01-02-00. Теория & Капани](01-02-00-Data-Types-And-Variables.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-03-00. Objects, Classes & Maps](01-03-00-Arrays.md)
+[⬅️ 01-02-00. Data Types and Variables](01-02-00-Data-Types-And-Variables.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-03-00. Arrays](01-03-00-Arrays.md)
 
 ---
 
@@ -138,5 +138,14 @@ int max = values.stream().mapToInt(Integer::intValue).max().orElse(0);
 | **Пропускане / Взимане (`Skip`/`Take`)** | `.skip(5).limit(10)` | `.Skip(5).Take(10)` |
 | **Проверка за поне 1 / всички** | `.anyMatch(...)` / `.allMatch(...)` | `.Any(...)` / `.All(...)` |
 
+
+
+
+
+
+
 ---
-[⬅️ 01-02-00. Теория & Капани](01-02-00-Data-Types-And-Variables.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-03-00. Objects, Classes & Maps](01-03-00-Arrays.md)
+
+[⬅️ 01-02-00. Data Types and Variables](01-02-00-Data-Types-And-Variables.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-03-00. Arrays](01-03-00-Arrays.md)
+
+© 2026 Dev-Library / 01-02-01. Methods, Lists & Stream API: Синтаксис от нулата & Cheat Sheet

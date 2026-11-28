@@ -1,3 +1,7 @@
+[⬅️ solid-principles-csharp](solid-principles-csharp.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Учебник: Текстообработка, String Immutability, Strin...](string-text-processing-csharp.md)
+
+---
+
 # 📘 Учебник: Потоци (Streams / I/O), Буфери в RAM, Файлове и Директории в C#
 
 **Файл:** `streams-files-directories-csharp.md` | **Ниво:** Архитектурно ядро / C# Internals  
@@ -204,5 +208,14 @@ public class MemoryStreamAndDisposableDemo
 4. **При `FileStream.Read` винаги ползвай върнатия брой прочетени байтове (`bytesRead`):** Никога не приемай, че буферът се е напълнил на 100% до края на файла.
 5. **Задавай изрично `Encoding.UTF8`**, когато четеш или пишеш текстови файлове на кирилица.
 
+
+
+
+
+
+
 ---
+
+[⬅️ solid-principles-csharp](solid-principles-csharp.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Учебник: Текстообработка, String Immutability, Strin...](string-text-processing-csharp.md)
+
 © 2026 Dev-Library / Учебник: Потоци (Streams / I/O), Буфери в RAM, Файлове и Директории в C#

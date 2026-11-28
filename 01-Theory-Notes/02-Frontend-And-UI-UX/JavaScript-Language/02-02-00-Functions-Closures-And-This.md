@@ -1,4 +1,4 @@
-[⬅️ 02-01-01. Variables, Types & Operators — Syntax](02-01-00-Variables-Types-And-Coercion.md) | [📂 Назад към JavaScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-02-01. Functions, Closures & `this` — Syntax](02-02-01-Syntax-Functions-Closures-And-This.md)
+[⬅️ 02-01-00. Variables, Data Types & Type Coercion](02-01-00-Variables-Types-And-Coercion.md) | [📂 Назад към JavaScript Language & Architecture Хъба](README.md) | [📦 Предишен модул: HTML5-CSS3-And-SASS](../HTML5-CSS3-And-SASS/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language & Architecture](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-02-01. Functions, Closures & Array Methods — Synt...](02-02-01-Syntax-Functions-Closures-And-This.md)
 
 ---
 
@@ -83,8 +83,14 @@ Global Scope (const taxRate = 0.20)
 3. **Класическият Closure капан с `var` в цикъл:**
    * `for (var i = 0; i < 3; i++) { setTimeout(() => console.log(i), 0); }` отпечатва `3, 3, 3`, защото `var` има само една споделена инстанция за цялата функция. С `let` на всяка итерация се създава нов лексикален обхват и отпечатва `0, 1, 2`.
 
+
+
+
+
+
+
 ---
 
-[⬅️ 02-01-01. Variables, Types & Operators — Syntax](02-01-00-Variables-Types-And-Coercion.md) | [📂 Назад към JavaScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-02-01. Functions, Closures & `this` — Syntax](02-02-01-Syntax-Functions-Closures-And-This.md)
+[⬅️ 02-01-00. Variables, Data Types & Type Coercion](02-01-00-Variables-Types-And-Coercion.md) | [📂 Назад към JavaScript Language & Architecture Хъба](README.md) | [📦 Предишен модул: HTML5-CSS3-And-SASS](../HTML5-CSS3-And-SASS/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language & Architecture](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-02-01. Functions, Closures & Array Methods — Synt...](02-02-01-Syntax-Functions-Closures-And-This.md)
 
 © 2026 Dev-Library / 02-02-00. Functions, Lexical Scope, Closures & `this` Binding

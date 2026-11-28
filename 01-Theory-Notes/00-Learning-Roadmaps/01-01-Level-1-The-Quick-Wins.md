@@ -202,6 +202,6 @@ EXISTS user:1001
 
 ---
 
-[⬅️ Назад към Примерни Пътеки за Учене и Инженерни Сравнения (00-Learning-Roadmaps)](README.md) | [🗺️ 01-00. Глобален уеб атлас и Път за учене (Roadmap) за C# разработчици)](00-Full-Stack-And-QA-Automation-Roadmap.md) | [🏠 Начало (01-Theory-Notes)](../README.md) | [➡️ 02-01. Ниво 2: Естествени разширения](02-01-Level-2-Natural-Extensions.md)
+[⬅️ 01-00. Глобален уеб атлас и Път за учене (Roadmap) з...](00-Full-Stack-And-QA-Automation-Roadmap.md) | [📂 Назад към Примерни Пътеки за Учене и Инженерни Сравнения Хъба](README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../README.md) | [🏛️ Начало Dev-Library](../../README.md) | [📂 Текуща папка: Примерни Пътеки за Учене и Инженерни Сравнения](README.md) | [🌐 Следващ домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../01-Core-Tools-And-Fundamentals/README.md) | [📦 Следващ модул: 01-Core-Tools-And-Fundamentals](../01-Core-Tools-And-Fundamentals/README.md) | [➡️ 02-01. Ниво 2: Естествени разширения](02-01-Level-2-Natural-Extensions.md)
 
-© 2026 Dev-Library / Ниво 1: Бързите победи (HTML5, CSS3, Bootstrap, Tailwind, SEO, Redis)
+© 2026 Dev-Library / 01-01-Level-1-The-Quick-Wins

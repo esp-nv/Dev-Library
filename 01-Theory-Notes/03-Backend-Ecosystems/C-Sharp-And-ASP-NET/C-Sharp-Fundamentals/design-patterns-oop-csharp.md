@@ -1,3 +1,7 @@
+[⬅️ debugging-techniques-csharp](debugging-techniques-csharp.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ LINQ Справочник: Операции, Логика и Оптимизация](LINQ-Operations-Cheat-Sheet.md)
+
+---
+
 # 📘 Учебник: Шаблони за проектиране (Design Patterns) в C# OOP (.NET 8)
 
 **Файл:** `design-patterns-oop-csharp.md` | **Ниво:** Архитектурно ядро / C# Advanced OOP  
@@ -300,7 +304,14 @@ public class EnrollCommand : ICommand
 * **[uml-diagram-for-csharp-design-pattern-examples](https://github.com)** *(от takaakit)*: Най-доброто за **визуалната архитектура** — показва всички 23 класически GoF шаблона чрез интерактивни UML диаграми на класовете и връзките между тях.
 * **[design-patterns-csharp](https://github.com)** *(от RefactoringGuru)*: Най-доброто за **модерен .NET 8 код и структура** — всеки шаблон е разделен в самостоятелен проект с подробни концептуални коментари и примери от реалния свят.
 
+
+
+
+
+
+
 ---
+
+[⬅️ debugging-techniques-csharp](debugging-techniques-csharp.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ LINQ Справочник: Операции, Логика и Оптимизация](LINQ-Operations-Cheat-Sheet.md)
+
 © 2026 Dev-Library / Учебник: Шаблони за проектиране (Design Patterns) в C# OOP (.NET 8)
-
-

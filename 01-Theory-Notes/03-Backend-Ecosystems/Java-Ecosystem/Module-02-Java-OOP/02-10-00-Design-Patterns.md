@@ -1,4 +1,4 @@
-[⬅️ 02-09. Unit Testing (JUnit 5 & Mockito)](02-09-00-Unit-Testing.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-10-01. Syntax From Scratch](02-10-01-Syntax-Design-Patterns.md)
+[⬅️ 02-09-01. Unit Testing (JUnit 5 & Mockito): Синтакси...](02-09-01-Syntax-Unit-Testing.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-10-01. Design Patterns in Java: Синтаксис от нула...](02-10-01-Syntax-Design-Patterns.md)
 
 ---
 
@@ -140,5 +140,14 @@ enum AppConfig {
 | **Dynamic Proxy (AOP)** | JDK Dynamic Proxy (за интерфейси) и **CGLIB** (за класове) | `DispatchProxy` или библиотеката **Castle DynamicProxy** |
 | **Factory в DI контейнера** | `@Bean` методи вътре в `@Configuration` клас | `services.AddScoped<IService>(sp => new Service(...))` |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-09. Unit Testing (JUnit 5 & Mockito)](02-09-00-Unit-Testing.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-10-01. Syntax From Scratch](02-10-01-Syntax-Design-Patterns.md)
+
+[⬅️ 02-09-01. Unit Testing (JUnit 5 & Mockito): Синтакси...](02-09-01-Syntax-Unit-Testing.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-10-01. Design Patterns in Java: Синтаксис от нула...](02-10-01-Syntax-Design-Patterns.md)
+
+© 2026 Dev-Library / 02-10-00. Design Patterns in Java (Теория, GoF Класификация, Spring Приложения & Капани)

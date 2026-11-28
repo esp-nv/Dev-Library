@@ -1,3 +1,7 @@
+[⬅️ Глава 10: Методи, Делегати, Func/Action и Ламбда изрази](10-METHODS-DELEGATES-LAMBDA.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 11: Текстообработка, String Immutability и Str...](11-STRING-TEXT-PROCESSING.md)
+
+---
+
 # 📋 Cheat Sheet: Текстообработка, StringBuilder и Форматиране в C#
 
 **Файл:** `11-01-String-Cheat-Sheet.md` | **Цел:** Бърза изпитна таблица за методи на `string`, `StringBuilder`, `char` и спецификатори за форматиране
@@ -73,5 +77,14 @@
 * `@"C:\Temp\file.txt"` — **Verbatim string** (игнорира escape символите `\`, полезен за пътища и Regex).
 * `"""..."""` — **Raw string literal (C# 11+)** (позволява многоредов текст и кавички без никакво екраниране).
 
+
+
+
+
+
+
 ---
+
+[⬅️ Глава 10: Методи, Делегати, Func/Action и Ламбда изрази](10-METHODS-DELEGATES-LAMBDA.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 11: Текстообработка, String Immutability и Str...](11-STRING-TEXT-PROCESSING.md)
+
 © 2026 Dev-Library / Cheat Sheet: Текстообработка, StringBuilder и Форматиране в C#

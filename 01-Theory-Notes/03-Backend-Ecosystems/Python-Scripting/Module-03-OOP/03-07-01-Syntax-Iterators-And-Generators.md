@@ -1,4 +1,4 @@
-[⬅️ 03-07-00. Теория & Капани](03-07-00-Iterators-And-Generators.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-08-00. Decorators](03-08-00-Decorators.md)
+[⬅️ 03-07-00. Iterators and Generators](03-07-00-Iterators-And-Generators.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-08-00. Decorators](03-08-00-Decorators.md)
 
 ---
 
@@ -104,5 +104,14 @@ print(list(combined_stream()))  # Изход: [10, 20, 30, 31, 32]
 | **Класов итератор** | `__iter__` + `__next__` | Позволява `for x in my_obj:` |
 | **Делегиране на поток** | `yield from sub_gen()` | Препраща всички стойности от друг итератор |
 
+
+
+
+
+
+
 ---
-[⬅️ 03-07-00. Теория & Капани](03-07-00-Iterators-And-Generators.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-08-00. Decorators](03-08-00-Decorators.md)
+
+[⬅️ 03-07-00. Iterators and Generators](03-07-00-Iterators-And-Generators.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-08-00. Decorators](03-08-00-Decorators.md)
+
+© 2026 Dev-Library / 03-07-01. Iterators and Generators: Синтаксис от нулата & Cheat Sheet

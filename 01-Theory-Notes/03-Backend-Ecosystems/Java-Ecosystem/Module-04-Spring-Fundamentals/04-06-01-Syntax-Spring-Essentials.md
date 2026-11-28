@@ -1,5 +1,4 @@
-
-[⬅️ 04-06-00. Теория & Капани](04-06-00-Spring-Essentials.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ Module 05: Spring Advanced (Security & REST APIs)](../Module-05-Spring-Advanced/05-00-Intro.md)
+[⬅️ 04-06-00. Spring Essentials](04-06-00-Spring-Essentials.md) | [📂 Назад към Module 04: Spring Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [📦 Към следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md)
 
 ---
 
@@ -159,6 +158,14 @@ public class CountryCatalogService {
 | **`@Cacheable("cacheName")`** | Връща кеширан резултат, ако ключът съществува | `key = "#id"`, `unless = "#result == null"` |
 | **`@CacheEvict("cacheName")`** | Изтрива остарели данни от кеша | `allEntries = true` (изчиства целия кеш) |
 
----
-[⬅️ 04-06-00. Теория & Капани](04-06-00-Spring-Essentials.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ Module 05: Spring Advanced (Security & REST APIs)](../Module-05-Spring-Advanced/05-00-Intro.md)
 
+
+
+
+
+
+---
+
+[⬅️ 04-06-00. Spring Essentials](04-06-00-Spring-Essentials.md) | [📂 Назад към Module 04: Spring Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [📦 Към следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md)
+
+© 2026 Dev-Library / 04-06-01. Spring Essentials (Events, Scheduling & Caching): Синтаксис от нулата & Cheat Sheet

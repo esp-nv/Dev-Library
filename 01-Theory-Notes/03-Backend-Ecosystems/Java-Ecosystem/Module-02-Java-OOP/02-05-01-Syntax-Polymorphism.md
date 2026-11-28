@@ -1,4 +1,4 @@
-[⬅️ 02-05-00. Теория & Капани](02-05-00-Polymorphism.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-06-00. SOLID Principles](02-06-00-SOLID-Principles.md)
+[⬅️ 02-05-00. Polymorphism](02-05-00-Polymorphism.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-06-00. SOLID Principles in Java](02-06-00-SOLID-Principles.md)
 
 ---
 
@@ -115,5 +115,14 @@ public non-sealed class Truck extends Vehicle {} // Всеки клас вече
 | **Допълнително условие в `switch`** | `case Integer i when i > 0 -> ...` | Нарича се *Guarded Pattern* |
 | **Запечатан клас (`sealed`)** | `sealed class A permits B, C` | Наследниците трябва да са `final`, `sealed` или `non-sealed` |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-05-00. Теория & Капани](02-05-00-Polymorphism.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-06-00. SOLID Principles](02-06-00-SOLID-Principles.md)
+
+[⬅️ 02-05-00. Polymorphism](02-05-00-Polymorphism.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-06-00. SOLID Principles in Java](02-06-00-SOLID-Principles.md)
+
+© 2026 Dev-Library / 02-05-01. Polymorphism: Синтаксис от нулата & Cheat Sheet

@@ -1,4 +1,4 @@
-[⬅️ 01-06-00. REST API, GraphQL & Performance Testing](01-06-00-API-And-Performance-Testing.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-96. Performance & Optimizations](01-96-Performance-And-Optimizations.md)
+[⬅️ 01-06-00. REST API, GraphQL, Contract & Load Testing](01-06-00-API-And-Performance-Testing.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-96. QA Automation Оптимизации: Кое е грешно, защо...](01-96-Performance-And-Optimizations.md)
 
 ---
 
@@ -165,8 +165,14 @@ export default function () {
 | **K6 Стартиране** | `k6 run --vus 100 --duration 30s test.js` | Изпълнява нагрузочен тест със 100 едновременни виртуални потребители. |
 | **JMeter Non-GUI (CI/CD)** | `jmeter -n -t plan.jmx -l results.jtl -e -o report/` | Винаги пускай JMeter в конзолен режим (`-n`) при реални тестове (никога в GUI!). |
 
+
+
+
+
+
+
 ---
 
-[⬅️ 01-06-00. REST API, GraphQL & Performance Testing](01-06-00-API-And-Performance-Testing.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-96. Performance & Optimizations](01-96-Performance-And-Optimizations.md)
+[⬅️ 01-06-00. REST API, GraphQL, Contract & Load Testing](01-06-00-API-And-Performance-Testing.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-96. QA Automation Оптимизации: Кое е грешно, защо...](01-96-Performance-And-Optimizations.md)
 
 © 2026 Dev-Library / 01-06-01. Postman, RestSharp, REST Assured & K6: Синтаксис от Нулата & Cheat Sheet

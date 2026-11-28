@@ -1,4 +1,4 @@
-[⬅️ 01-01-00. SDLC, STLC, Нива и Видове Тестване](01-01-00-SDLC-STLC-And-Testing-Types.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-02-00. Test Design Техники, Jira, JQL & MS Project](01-02-00-Test-Design-Jira-And-MS-Project.md)
+[⬅️ 01-01-00. SDLC, STLC, Нива и Видове Тестване](01-01-00-SDLC-STLC-And-Testing-Types.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-02-00. Test Design Техники, Jira, CI/CD и Microso...](01-02-00-Test-Design-Jira-And-MS-Project.md)
 
 ---
 
@@ -93,8 +93,14 @@
 | **RTM (Traceability Matrix)** | Таблица за връзка между бизнес изискванията и тестовете | Гарантира 100% покритие на изискванията и проследимост на бъговете. |
 | **Bug Report (Златно правило)** | Всяка грешка се описва така, че да се възпроизведе от първия път | Задължително съдържа **Environment**, **Steps**, **Expected** и **Actual Result**. |
 
+
+
+
+
+
+
 ---
 
-[⬅️ 01-01-00. SDLC, STLC, Нива и Видове Тестване](01-01-00-SDLC-STLC-And-Testing-Types.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-02-00. Test Design Техники, Jira, JQL & MS Project](01-02-00-Test-Design-Jira-And-MS-Project.md)
+[⬅️ 01-01-00. SDLC, STLC, Нива и Видове Тестване](01-01-00-SDLC-STLC-And-Testing-Types.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-02-00. Test Design Техники, Jira, CI/CD и Microso...](01-02-00-Test-Design-Jira-And-MS-Project.md)
 
 © 2026 Dev-Library / 01-01-01. Шаблони & Cheat Sheet (Test Plan, Test Case, RTM & Bug Lifecycle)

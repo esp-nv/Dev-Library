@@ -1,4 +1,4 @@
-[⬅️ 03-10-00. Теория & Капани](03-10-00-Design-Patterns.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [🏠 Към Главния Хъб на Ниво 2](../../README.md)
+[⬅️ 03-10-00. Design Patterns](03-10-00-Design-Patterns.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📦 Към следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md)
 
 ---
 
@@ -145,5 +145,14 @@ print(adapter.get_json())   # Изход: {'user': 'Elizabeth'}
 | **Observer** | Behavioral | Когато много обекти чакат събитие от 1 източник | Списък от функции и цикъл при събитие |
 | **Strategy** | Behavioral | Когато сменяш алгоритъма динамично при работа | Подаване на функция като аргумент (`Callable`) |
 
+
+
+
+
+
+
 ---
-[⬅️ 03-10-00. Теория & Капани](03-10-00-Design-Patterns.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [🏠 Към Главния Хъб на Ниво 2](../../README.md)
+
+[⬅️ 03-10-00. Design Patterns](03-10-00-Design-Patterns.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📦 Към следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md)
+
+© 2026 Dev-Library / 03-10-01. Design Patterns: Синтаксис от нулата & Cheat Sheet

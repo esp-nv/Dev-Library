@@ -1,4 +1,4 @@
-[⬅️ 03-01. DB Apps Introduction (JDBC)](03-01-00-JDBC-Introduction.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-02-01. Syntax From Scratch](03-02-01-Syntax-Hibernate-Intro.md)
+[⬅️ 03-01-01. DB Apps Introduction (JDBC): Синтаксис от ...](03-01-01-Syntax-JDBC-Introduction.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-02-01. Introduction to Hibernate & Entity Lifecyc...](03-02-01-Syntax-Hibernate-Intro.md)
 
 ---
 
@@ -171,5 +171,14 @@ public class Product {
 | **Запис на Enum в колона** | `@Enumerated(EnumType.STRING)` (иначе по подразбиране пази число `0, 1, 2`!) | По подразбиране пази `int`, или `.HasConversion<string>()` в Fluent API |
 | **Автоматични дати (`CreatedAt` / `UpdatedAt`)** | `@CreationTimestamp` / `@UpdateTimestamp` или Spring Data `@CreatedDate` | Пренаписване на `SaveChangesAsync()` или Interceptors |
 
+
+
+
+
+
+
 ---
-[⬅️ 03-01. DB Apps Introduction (JDBC)](03-01-00-JDBC-Introduction.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-02-01. Syntax From Scratch](03-02-01-Syntax-Hibernate-Intro.md)
+
+[⬅️ 03-01-01. DB Apps Introduction (JDBC): Синтаксис от ...](03-01-01-Syntax-JDBC-Introduction.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-02-01. Introduction to Hibernate & Entity Lifecyc...](03-02-01-Syntax-Hibernate-Intro.md)
+
+© 2026 Dev-Library / 03-02-00. Introduction to Hibernate & Entity Lifecycle (Теория, Persistence Context & Капани)

@@ -1,4 +1,4 @@
-[⬅️ 05-03. Stateless Security with JWT](05-03-00-JWT-Authentication.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-04-01. Syntax From Scratch](05-04-01-Syntax-Spring-AOP.md)
+[⬅️ 05-03-01. Stateless Security with JWT & Refresh Toke...](05-03-01-Syntax-JWT-Authentication.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 05-04-01. Spring AOP (Aspect-Oriented Programming) &...](05-04-01-Syntax-Spring-AOP.md)
 
 ---
 
@@ -140,5 +140,14 @@ public class PerformanceAspect {
 | **Прехващане на SQL заявки към базата** | Hibernate `StatementInspector` / P6Spy | EF Core **`DbCommandInterceptor`** |
 | **Ограничение за `final` / `sealed` класове** | CGLIB не може да обвие `final` клас или `final` метод | Decorators по интерфейс работят дори върху `sealed` класове |
 
+
+
+
+
+
+
 ---
-[⬅️ 05-03. Stateless Security with JWT](05-03-00-JWT-Authentication.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-04-01. Syntax From Scratch](05-04-01-Syntax-Spring-AOP.md)
+
+[⬅️ 05-03-01. Stateless Security with JWT & Refresh Toke...](05-03-01-Syntax-JWT-Authentication.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 05-04-01. Spring AOP (Aspect-Oriented Programming) &...](05-04-01-Syntax-Spring-AOP.md)
+
+© 2026 Dev-Library / 05-04-00. Spring AOP (Aspect-Oriented Programming) & Interceptors (Теория & Капани)

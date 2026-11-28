@@ -1,4 +1,4 @@
-[⬅️ Назад към Python Хъба](README.md) | 📂 Папка: 03-Python-Scripting | [🏠 Начало](../README.md) | [➡️ 03-97. Category Cheat Sheet](03-97-Category-Cheat-Sheet.md)
+[📦 Към предишен модул: Java-Ecosystem](../Java-Ecosystem/README.md) | [📂 Назад към Python Scripting & Software Engineering Хъба](README.md) | [📦 Предишен модул: Java-Ecosystem](../Java-Ecosystem/README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Python Scripting & Software Engineering](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../04-Databases-And-Caching/README.md) | [➡️ 03-97. Python Category Cheat Sheet: Пълно обобщение ...](03-97-Category-Cheat-Sheet.md)
 
 ---
 
@@ -143,5 +143,14 @@ class TelemetryPointOptimized:
 | **Django / SQLAlchemy N+1 заявки** | Достъп до релации в `for` цикъл | `.select_related()` / `.prefetch_related()` | От $N+1$ SQL заявки на 1–2 заявки |
 | **Използване на локални променливи** | Многократно четене на `math.sin` в цикъл | Локална референция `sin = math.sin` преди цикъла | Избягва глобално търсене в речника на модула |
 
+
+
+
+
+
+
 ---
-[⬅️ Назад към Python Хъба](README.md) | 📂 Папка: 03-Python-Scripting | [🏠 Начало](../README.md) | [➡️ 03-97. Category Cheat Sheet](03-97-Category-Cheat-Sheet.md)
+
+[📦 Към предишен модул: Java-Ecosystem](../Java-Ecosystem/README.md) | [📂 Назад към Python Scripting & Software Engineering Хъба](README.md) | [📦 Предишен модул: Java-Ecosystem](../Java-Ecosystem/README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Python Scripting & Software Engineering](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../04-Databases-And-Caching/README.md) | [➡️ 03-97. Python Category Cheat Sheet: Пълно обобщение ...](03-97-Category-Cheat-Sheet.md)
+
+© 2026 Dev-Library / 03-96. Python Оптимизации: Кое е грешно, защо и как е по-добре (с Блок-схеми)

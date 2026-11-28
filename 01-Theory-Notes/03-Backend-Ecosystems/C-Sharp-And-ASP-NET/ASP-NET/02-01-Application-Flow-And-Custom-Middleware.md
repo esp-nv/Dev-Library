@@ -1,4 +1,4 @@
-[⬅️ 02-00. Кратък справочник](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-02. Web API и Асинхронност](02-02-Web-API-And-Asynchronous-Processing.md)
+[⬅️ 02-00. ASP.NET Core Advanced](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 02-02. Web API проектиране и Напреднала асинхронна о...](02-02-Web-API-And-Asynchronous-Processing.md)
 
 ---
 
@@ -194,7 +194,14 @@ public class SecurityMiddleware
 }
 ```
 
+
+
+
+
+
+
 ---
-[⬅️ 02-00. Кратък справочник](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-02. Web API и Асинхронност](02-02-Web-API-And-Asynchronous-Processing.md)
+
+[⬅️ 02-00. ASP.NET Core Advanced](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 02-02. Web API проектиране и Напреднала асинхронна о...](02-02-Web-API-And-Asynchronous-Processing.md)
 
 © 2026 Dev-Library / 02-01. Разширен уеб поток и Custom Middleware конвейер

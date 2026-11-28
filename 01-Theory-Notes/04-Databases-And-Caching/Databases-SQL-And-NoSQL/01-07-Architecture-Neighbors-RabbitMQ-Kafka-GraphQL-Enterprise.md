@@ -1,4 +1,4 @@
-⬅️ [01-06. Формати: JSON и XML](01-06-Data-Formats-JSON-And-XML.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) |🏠 [Библиотека БД](README.md)  | ➡️ [01-08. Специализирани БД (Vector, Search, Graph)](01-08-Specialized-Databases-Vector-Search-Graph.md)
+[⬅️ 01-06. Формати за данни: JSON и XML](01-06-Data-Formats-JSON-And-XML.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 01-08. Специализирани Бази данни: Vector (AI), Searc...](01-08-Specialized-Databases-Vector-Search-Graph.md)
 
 ---
 
@@ -85,7 +85,14 @@ query {
 2. **SAP:**
    * Централният бизнес софтуер на фирмата. Когато клиент купи стока от уеб сайта (написан на C# + SQL), бекендът изпраща JSON/XML съобщение към **SAP**, за да се извади стоката от склада и да се издаде счетоводна фактура.
 
+
+
+
+
+
+
 ---
-⬅️ [01-06. Формати: JSON и XML](01-06-Data-Formats-JSON-And-XML.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [01-08. Специализирани БД (Vector, Search, Graph)](01-08-Specialized-Databases-Vector-Search-Graph.md)
+
+[⬅️ 01-06. Формати за данни: JSON и XML](01-06-Data-Formats-JSON-And-XML.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 01-08. Специализирани Бази данни: Vector (AI), Searc...](01-08-Specialized-Databases-Vector-Search-Graph.md)
 
 © 2026 Dev-Library / 01-07. Съседи на Базата данни: RabbitMQ, Kafka, GraphQL, Mobile, AD и SAP

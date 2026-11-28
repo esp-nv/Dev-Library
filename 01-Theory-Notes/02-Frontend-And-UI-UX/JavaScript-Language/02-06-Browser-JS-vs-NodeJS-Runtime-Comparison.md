@@ -1,4 +1,4 @@
-[⬅️ 02-05-01. DOM, Events & Browser Storage — Syntax](02-05-01-Syntax-DOM-Events-And-Browser-Storage.md) | [📂 Назад към JavaScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-96. Performance & Optimizations](../TypeScript-Language/02-96-Performance-And-Optimizations.md)
+[⬅️ 02-05-01. DOM Manipulation & Event Delegation — Synt...](02-05-01-Syntax-DOM-Events-And-Browser-Storage.md) | [📂 Назад към JavaScript Language & Architecture Хъба](README.md) | [📦 Предишен модул: HTML5-CSS3-And-SASS](../HTML5-CSS3-And-SASS/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language & Architecture](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-07-00. Remote Data, Authentication & Modular SPA ...](02-07-00-Remote-Data-Auth-And-SPA-Architecture.md)
 
 ---
 
@@ -78,8 +78,14 @@ BROWSER RUNTIME                              NODE.JS RUNTIME
 
 > **🔗 Връзка със следващия домейн:** За дълбоко гмуркане в сървърния JavaScript, архитектурата на Libuv, Express и NestJS, виж модул **[📦 Node.js, Express & NestJS](../../03-Backend-Ecosystems/Node-Express-And-NestJS/README.md)** в Домейн 03.
 
+
+
+
+
+
+
 ---
 
-[⬅️ 02-05-01. DOM, Events & Browser Storage — Syntax](02-05-01-Syntax-DOM-Events-And-Browser-Storage.md) | [📂 Назад към JavaScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-96. Performance & Optimizations](../TypeScript-Language/02-96-Performance-And-Optimizations.md)
+[⬅️ 02-05-01. DOM Manipulation & Event Delegation — Synt...](02-05-01-Syntax-DOM-Events-And-Browser-Storage.md) | [📂 Назад към JavaScript Language & Architecture Хъба](README.md) | [📦 Предишен модул: HTML5-CSS3-And-SASS](../HTML5-CSS3-And-SASS/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language & Architecture](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-07-00. Remote Data, Authentication & Modular SPA ...](02-07-00-Remote-Data-Auth-And-SPA-Architecture.md)
 
 © 2026 Dev-Library / 02-06. Browser JavaScript vs Node.js Runtime Comparison

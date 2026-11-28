@@ -1,4 +1,4 @@
-[⬅️ 02-02-01. Functions, Closures & Array Methods — Syntax](02-02-01-Syntax-Functions-Closures-And-This.md) | [📂 Назад към JavaScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-03-01. Prototypes, OOP & Classes — Syntax](02-03-01-Syntax-Prototypes-OOP-And-Classes.md)
+[⬅️ 02-02-01. Functions, Closures & Array Methods — Synt...](02-02-01-Syntax-Functions-Closures-And-This.md) | [📂 Назад към JavaScript Language & Architecture Хъба](README.md) | [📦 Предишен модул: HTML5-CSS3-And-SASS](../HTML5-CSS3-And-SASS/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language & Architecture](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-03-01. Classes, Inheritance & Prototypes — Syntax...](02-03-01-Syntax-Prototypes-OOP-And-Classes.md)
 
 ---
 
@@ -87,8 +87,14 @@
 2. **Класовете НЕ се hoist-ват като функции:** За разлика от `function Foo() {}`, декларацията `class Foo {}` остава в **Temporal Dead Zone (TDZ)** до реда на дефиниция.
 3. **Стрелкови функции като методи в клас (`method = () => {}`):** Създават отделно копие на функцията за **всяка една инстанция** (хабят повече RAM), вместо да споделят един метод в `prototype`, но гарантират заключен `this` при подаване като Event Handler.
 
+
+
+
+
+
+
 ---
 
-[⬅️ 02-02-01. Functions, Closures & Array Methods — Syntax](02-02-01-Syntax-Functions-Closures-And-This.md) | [📂 Назад към JavaScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-03-01. Prototypes, OOP & Classes — Syntax](02-03-01-Syntax-Prototypes-OOP-And-Classes.md)
+[⬅️ 02-02-01. Functions, Closures & Array Methods — Synt...](02-02-01-Syntax-Functions-Closures-And-This.md) | [📂 Назад към JavaScript Language & Architecture Хъба](README.md) | [📦 Предишен модул: HTML5-CSS3-And-SASS](../HTML5-CSS3-And-SASS/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language & Architecture](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-03-01. Classes, Inheritance & Prototypes — Syntax...](02-03-01-Syntax-Prototypes-OOP-And-Classes.md)
 
 © 2026 Dev-Library / 02-03-00. Prototypes, Prototype Chain & Modern ES6+ Classes

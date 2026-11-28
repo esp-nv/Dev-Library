@@ -1,4 +1,4 @@
-[⬅️ 01-01. Ниво 1: Бързите победи](01-01-Level-1-The-Quick-Wins.md) | [🗺️ Пълен Атлас (00)](00-Full-Stack-And-QA-Automation-Roadmap.md) | [🏠 Начало (01-Theory-Notes)](../README.md) | [➡️ 03-01. Ниво 3: Промяна на мисленето](03-01-Level-3-Mindset-Shift.md)
+[⬅️ 01-01-Level-1-The-Quick-Wins](01-01-Level-1-The-Quick-Wins.md) | [📂 Назад към Примерни Пътеки за Учене и Инженерни Сравнения Хъба](README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../README.md) | [🏛️ Начало Dev-Library](../../README.md) | [📂 Текуща папка: Примерни Пътеки за Учене и Инженерни Сравнения](README.md) | [🌐 Следващ домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../01-Core-Tools-And-Fundamentals/README.md) | [📦 Следващ модул: 01-Core-Tools-And-Fundamentals](../01-Core-Tools-And-Fundamentals/README.md) | [➡️ Инженерен Наръчник: Как да изберем правилния Език, Т...](FRAMEWORK-AND-TECH-SELECTION-GUIDE.md)
 
 ---
 
@@ -132,7 +132,7 @@
   * 📂 [Module 05: Spring Advanced (REST APIs, Security, JWT & Docker)](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/04-Java-Ecosystem/Module-05-Spring-Advanced/README.md)
 
 ---
-[⬅️ 01-01. Ниво 1: Бързите победи](01-01-Level-1-The-Quick-Wins.md) | [🗺️ Пълен Атлас (00)](00-Full-Stack-And-QA-Automation-Roadmap.md) | [🏠 Начало (01-Theory-Notes)](../README.md) | [➡️ 03-01. Ниво 3: Промяна на мисленето](03-01-Level-3-Mindset-Shift.md)
+[⬅️ 01-01-Level-1-The-Quick-Wins](01-01-Level-1-The-Quick-Wins.md) | [📂 Назад към Примерни Пътеки за Учене и Инженерни Сравнения Хъба](README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../README.md) | [🏛️ Начало Dev-Library](../../README.md) | [📂 Текуща папка: Примерни Пътеки за Учене и Инженерни Сравнения](README.md) | [🌐 Следващ домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../01-Core-Tools-And-Fundamentals/README.md) | [📦 Следващ модул: 01-Core-Tools-And-Fundamentals](../01-Core-Tools-And-Fundamentals/README.md) | [➡️ Инженерен Наръчник: Как да изберем правилния Език, Т...](FRAMEWORK-AND-TECH-SELECTION-GUIDE.md)
 
 
 © 2026 Dev-Library / 02-01. Ниво 2: Естествени разширения (QA Automation, TypeScript, Python, Java & Spring Boot)

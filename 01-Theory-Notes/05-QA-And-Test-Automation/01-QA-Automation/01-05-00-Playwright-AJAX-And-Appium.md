@@ -1,4 +1,4 @@
-[⬅️ 01-04-01. Selenium & Locators Cheat Sheet](01-04-01-Syntax-Selenium-WebDriver-And-POM.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-05-01. Playwright & Appium Cheat Sheet](01-05-01-Syntax-Playwright-AJAX-And-Appium.md)
+[⬅️ 01-04-01. Selenium & Locators Cheat Sheet](01-04-01-Syntax-Selenium-WebDriver-And-POM.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-05-01. Playwright & Appium Cheat Sheet](01-05-01-Syntax-Playwright-AJAX-And-Appium.md)
 
 ---
 
@@ -123,8 +123,14 @@ test('Add product to cart updates badge immediately', async ({ page }) => {
 * **Въпрос 2:** *„Как превключваме между нативни екрани и уеб съдържание при тестване на **Hybrid мобилно приложение** в Appium?“*
   * **Отговор:** Извличаме наличните контексти чрез `driver.Contexts` (връща например `["NATIVE_APP", "WEBVIEW_com.company.app"]`) и извикваме `driver.Context = "WEBVIEW_com.company.app"`, за да можем да ползваме стандартни CSS селектори; след приключване се връщаме обратно към `"NATIVE_APP"`.
 
+
+
+
+
+
+
 ---
 
-[⬅️ 01-04-01. Selenium & Locators Cheat Sheet](01-04-01-Syntax-Selenium-WebDriver-And-POM.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-05-01. Playwright & Appium Cheat Sheet](01-05-01-Syntax-Playwright-AJAX-And-Appium.md)
+[⬅️ 01-04-01. Selenium & Locators Cheat Sheet](01-04-01-Syntax-Selenium-WebDriver-And-POM.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-05-01. Playwright & Appium Cheat Sheet](01-05-01-Syntax-Playwright-AJAX-And-Appium.md)
 
 © 2026 Dev-Library / 01-05-00. Playwright (Auto-Waiting), AJAX/jQuery & Mobile Appium

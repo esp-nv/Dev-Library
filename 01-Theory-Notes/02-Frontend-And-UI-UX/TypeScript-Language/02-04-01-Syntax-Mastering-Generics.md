@@ -1,4 +1,4 @@
-[⬅️ 02-04-00. Mastering Generics & Constraints](02-04-00-Mastering-Generics.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-05-00. Decorators, Modules & Async TypeScript](02-05-00-Decorators-Modules-And-Async.md)
+[⬅️ 02-04-00. Овладяване на Дженерици](02-04-00-Mastering-Generics.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-05-00. Decorators, ES Modules & Async TypeScript](02-05-00-Decorators-Modules-And-Async.md)
 
 ---
 
@@ -146,8 +146,14 @@ runProductionDiagnosticPipeline();
 | **Conditional Type** | `T extends U ? TrueType : FalseType` | Условна логика на ниво типове при компилация. |
 | **Филтриране с `never`** | `{ [K in keyof T]: T[K] extends V ? K : never }[keyof T]` | Извлича само ключовете, чиито стойности отговарят на тип `V`. |
 
+
+
+
+
+
+
 ---
 
-[⬅️ 02-04-00. Mastering Generics & Constraints](02-04-00-Mastering-Generics.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-05-00. Decorators, Modules & Async TypeScript](02-05-00-Decorators-Modules-And-Async.md)
+[⬅️ 02-04-00. Овладяване на Дженерици](02-04-00-Mastering-Generics.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-05-00. Decorators, ES Modules & Async TypeScript](02-05-00-Decorators-Modules-And-Async.md)
 
 © 2026 Dev-Library / 02-04-01. Generics & Conditional Types: Синтаксис от Нулата & Cheat Sheet

@@ -1,4 +1,4 @@
-[⬅️ 03-06. SOLID Principles](03-06-00-SOLID.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-07-01. Syntax From Scratch](03-07-01-Syntax-Iterators-And-Generators.md)
+[⬅️ 03-06-01. SOLID Principles: Синтаксис от нулата & Ch...](03-06-01-Syntax-SOLID.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-07-01. Iterators and Generators: Синтаксис от нул...](03-07-01-Syntax-Iterators-And-Generators.md)
 
 ---
 
@@ -130,5 +130,14 @@ print(f"Сума от генераторен израз: {total_sum}")
     1.  **Iterable (напр. `list`, `str`, `dict`):** Обект, върху който можеш да пуснеш `for` цикъл. Той имплементира само метода **`__iter__()`**, който създава и връща нов итератор. Списъкът *не* помни докъде си стигнал при четенето.
     2.  **Iterator (напр. обект от `iter(list)` или генератор):** Работникът, който реално обикаля данните и **помни текущата си позиция** в паметта. Той имплементира **и двата метода** — **`__iter__()`** (връща `self`) и **`__next__()`** (връща следващия елемент или хвърля `StopIteration`). Затова `next([1, 2, 3])` гърми с `TypeError: 'list' object is not an iterator`!
 
+
+
+
+
+
+
 ---
-[⬅️ 03-06. SOLID Principles](03-06-00-SOLID.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-07-01. Syntax From Scratch](03-07-01-Syntax-Iterators-And-Generators.md)
+
+[⬅️ 03-06-01. SOLID Principles: Синтаксис от нулата & Ch...](03-06-01-Syntax-SOLID.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-07-01. Iterators and Generators: Синтаксис от нул...](03-07-01-Syntax-Iterators-And-Generators.md)
+
+© 2026 Dev-Library / 03-07-00. Iterators and Generators (Теория, `yield`, Lazy Evaluation & Капани)

@@ -1,4 +1,4 @@
-[🌐 Домейн: 01. Core Tools & Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms And Data Structures](README.md) | [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [▶️ Започни от 00-00. Intro & Big O Notation (Анализ на сложността по време и памет)](00-00-Intro-And-Big-O.md)
+[🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [▶️ Започни от 00-00. Intro & Big O Notation](00-00-Intro-And-Big-O.md)
 
 ---
 
@@ -46,8 +46,14 @@
     *   🟡 [JavaScript Имплементация & Cheat Sheet](00-06-03-JavaScript-Implementation.md)
     *   ☕ [Java Имплементация & Cheat Sheet](00-06-04-Java-Implementation.md)
 
+
+
+
+
+
+
 ---
 
-[🌐 Домейн: 01. Core Tools & Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms And Data Structures](README.md) | [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [▶️ Започни от 00-00. Intro & Big O Notation (Анализ на сложността по време и памет)](00-00-Intro-And-Big-O.md)
+[🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [▶️ Започни от 00-00. Intro & Big O Notation](00-00-Intro-And-Big-O.md)
 
 © 2026 Dev-Library / Module 02: Algorithms Introduction (Python, C#, JavaScript & Java Multi-Language Atlas)

@@ -1,4 +1,4 @@
-[⬅️ 00-04. Greedy Algorithms](00-04-00-Greedy-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-05-01. Python Implementation](00-05-01-Python-Implementation.md)
+[⬅️ 00-04-04. Greedy Algorithms: Java Имплементация & Ch...](00-04-04-Java-Implementation.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-05-01. Graphs and Traversal: Python Имплементация...](00-05-01-Python-Implementation.md)
 
 ---
 
@@ -134,8 +134,14 @@ def bfs_shortest_path(graph: dict[int, list[int]], start: int, target: int) -> i
         *   `2` (Напълно обходен и безопасен / Black)
         *   Има цикъл **само ако попаднем на връх със състояние `1` (Gray)**!
 
----
-[⬅️ 00-04. Greedy Algorithms](00-04-00-Greedy-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-05-01. Python Implementation](00-05-01-Python-Implementation.md)
 
+
+
+
+
+
+---
+
+[⬅️ 00-04-04. Greedy Algorithms: Java Имплементация & Ch...](00-04-04-Java-Implementation.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-05-01. Graphs and Traversal: Python Имплементация...](00-05-01-Python-Implementation.md)
 
 © 2026 Dev-Library / 00-05-00. Graphs and Traversal (Теория, BFS, DFS, Топологично сортиране & Капани)

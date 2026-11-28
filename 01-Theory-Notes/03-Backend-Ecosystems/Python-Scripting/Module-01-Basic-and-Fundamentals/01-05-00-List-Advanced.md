@@ -1,4 +1,4 @@
-[⬅️ 01-04. Functions](01-04-00-Functions.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-05-01. Syntax From Scratch](01-05-01-Syntax-List-Advanced.md)
+[⬅️ 01-04-01. Functions: Синтаксис от нулата & Cheat Sheet](01-04-01-Syntax-Functions.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-05-01. List Advanced: Синтаксис от нулата & Cheat...](01-05-01-Syntax-List-Advanced.md)
 
 ---
 
@@ -125,5 +125,14 @@ print(f"Топ 3 резултата: {top_three}")
     *   **Shallow Copy (Повърхностно копие):** Създава нов външен списък, но **вътрешните вложени списъци продължават да сочат към абсолютно същите адреси в паметта**. Ако промениш `copy_matrix[0][0] = 999`, ще се промени и оригиналната матрица!
     *   **Deep Copy (Дълбоко копие):** Импортира се от вградения модул `import copy` (`copy.deepcopy(matrix)`). То обхожда рекурсивно цялото дърво и създава напълно нови, независими копия на всеки един вложен обект в RAM паметта.
 
+
+
+
+
+
+
 ---
-[⬅️ 01-04. Functions](01-04-00-Functions.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-05-01. Syntax From Scratch](01-05-01-Syntax-List-Advanced.md)
+
+[⬅️ 01-04-01. Functions: Синтаксис от нулата & Cheat Sheet](01-04-01-Syntax-Functions.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-05-01. List Advanced: Синтаксис от нулата & Cheat...](01-05-01-Syntax-List-Advanced.md)
+
+© 2026 Dev-Library / 01-05-00. List Advanced (Теория, Comprehensions & Интервю Капани)

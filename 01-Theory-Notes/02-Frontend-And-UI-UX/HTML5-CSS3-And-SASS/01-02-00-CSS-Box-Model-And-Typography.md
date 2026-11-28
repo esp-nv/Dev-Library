@@ -1,4 +1,4 @@
-[⬅️ 01-01-01. Syntax-From-Scratch & Semantic Cheat Sheet](01-01-01-Syntax-HTML5-And-CSS3-Basics.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-02-01. Syntax-From-Scratch & UI Card Snippets](01-02-01-Syntax-CSS-Box-Model-And-Typography.md)
+[⬅️ 01-01-01. Syntax-From-Scratch & Semantic Cheat Sheet](01-01-01-Syntax-HTML5-And-CSS3-Basics.md) | [📂 Назад към 01. HTML5 & CSS3 Foundations Хъба](README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [➡️ 01-02-01. Syntax-From-Scratch & UI Card Snippets](01-02-01-Syntax-CSS-Box-Model-And-Typography.md)
 
 ---
 
@@ -84,8 +84,14 @@ $$\text{Total Width} = 300\text{px} + 20\text{px} + 20\text{px} + 5\text{px} + 5
 * **Как да го избегнеш:** Ако ти трябва абсолютно гарантирано и точно пикселно разстояние без пропадания, премини от външен `margin` към вътрешно отстояние (`padding`) над родителския контейнер.
 
 
----
-[⬅️ 01-01-01. Syntax-From-Scratch & Semantic Cheat Sheet](01-01-01-Syntax-HTML5-And-CSS3-Basics.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-02-01. Syntax-From-Scratch & UI Card Snippets](01-02-01-Syntax-CSS-Box-Model-And-Typography.md)
 
+
+
+
+
+
+---
+
+[⬅️ 01-01-01. Syntax-From-Scratch & Semantic Cheat Sheet](01-01-01-Syntax-HTML5-And-CSS3-Basics.md) | [📂 Назад към 01. HTML5 & CSS3 Foundations Хъба](README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [➡️ 01-02-01. Syntax-From-Scratch & UI Card Snippets](01-02-01-Syntax-CSS-Box-Model-And-Typography.md)
 
 © 2026 Dev-Library / 01-02-00. CSS Box Model и Типография (Теория, Упражнения и Диагностика)

@@ -1,4 +1,4 @@
-[⬅️ 02-04-01. Event Loop & Asynchronous JS — Syntax](02-04-01-Syntax-Event-Loop-And-Asynchronous-JS.md) | [📂 Назад към JavaScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-05-01. DOM, Events & Browser Storage — Syntax](02-05-01-Syntax-DOM-Events-And-Browser-Storage.md)
+[⬅️ 02-04-01. Promises, Async/Await & Fetch API — Syntax...](02-04-01-Syntax-Event-Loop-And-Asynchronous-JS.md) | [📂 Назад към JavaScript Language & Architecture Хъба](README.md) | [📦 Предишен модул: HTML5-CSS3-And-SASS](../HTML5-CSS3-And-SASS/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language & Architecture](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-05-01. DOM Manipulation & Event Delegation — Synt...](02-05-01-Syntax-DOM-Events-And-Browser-Storage.md)
 
 ---
 
@@ -83,8 +83,14 @@ CSS парсване  ──► CSSOM Tree ─┘
 2. **Кликане върху вложен елемент при Event Delegation:** Ако бутонът съдържа `<button data-key="7"><span>7</span></button>`, при клик върху цифрата `event.target` е `<span>`, а не `<button>`. Винаги използвайте `const btn = event.target.closest("button")` вместо `event.target.matches("button")`.
 3. **Съхраняване на чувствителни токени в `localStorage`:** `localStorage` е достъпен за всеки JavaScript скрипт на страницата (вкл. компрометирани външни библиотеки). За автентикационни JWT токени в продукция се предпочитат **`HttpOnly; Secure; SameSite=Strict` Cookies**.
 
+
+
+
+
+
+
 ---
 
-[⬅️ 02-04-01. Event Loop & Asynchronous JS — Syntax](02-04-01-Syntax-Event-Loop-And-Asynchronous-JS.md) | [📂 Назад към JavaScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-05-01. DOM, Events & Browser Storage — Syntax](02-05-01-Syntax-DOM-Events-And-Browser-Storage.md)
+[⬅️ 02-04-01. Promises, Async/Await & Fetch API — Syntax...](02-04-01-Syntax-Event-Loop-And-Asynchronous-JS.md) | [📂 Назад към JavaScript Language & Architecture Хъба](README.md) | [📦 Предишен модул: HTML5-CSS3-And-SASS](../HTML5-CSS3-And-SASS/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language & Architecture](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-05-01. DOM Manipulation & Event Delegation — Synt...](02-05-01-Syntax-DOM-Events-And-Browser-Storage.md)
 
 © 2026 Dev-Library / 02-05-00. DOM Manipulation, Event Delegation & Web Storage API

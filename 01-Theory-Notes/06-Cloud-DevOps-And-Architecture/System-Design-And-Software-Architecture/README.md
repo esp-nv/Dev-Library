@@ -1,8 +1,4 @@
-[🌐 Домейн: 06. Cloud, DevOps & Architecture](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: System Design And Software Architecture](README.md) | [🌐 Следващ домейн: 07. Game Development](../../07-Game-Development/README.md) | [📦 Следващ модул: Technical-SEO-And-Web-Vitals](../Technical-SEO-And-Web-Vitals/README.md)
-
----
-
-[🏠 Главен Хъб на проекта](../../README.md) | [📂 Отиди в папка ASP-NET](../ASP-NET/) | [▶️ Започни от 01-01](01-01-Architectural-Styles-And-Patterns.md)
+[🌐 Домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Системен Дизайн и Софтуерна Архитектура](README.md) | [📦 Следващ модул: Technical-SEO-And-Web-Vitals](../Technical-SEO-And-Web-Vitals/README.md) | [🌐 Следващ домейн: 07-Game-Development](../../07-Game-Development/README.md) | [▶️ Започни от 01-01. Архитектурни стилове и софтуерни шаблони](01-01-Architectural-Styles-And-Patterns.md)
 
 ---
 
@@ -30,8 +26,14 @@
 *   **[01-09. Визуални Чертежи: Архитектурни Диаграми и Системни Потоци (Blueprints)](01-09-System-Design-Visual-Blueprints.md)**
     *   *Обхваща:* Пълна графична спецификация на високонатоварени софтуерни системи — хоризонтални Nginx клъстери, Redis Cache Hit/Miss потоци, gRPC бинарна синхронизация, RabbitMQ асинхронни опашки и Master-Slave шардирани топологии.
 
+
+
+
+
+
+
 ---
 
-[🌐 Домейн: 06. Cloud, DevOps & Architecture](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: System Design And Software Architecture](README.md) | [🌐 Следващ домейн: 07. Game Development](../../07-Game-Development/README.md) | [📦 Следващ модул: Technical-SEO-And-Web-Vitals](../Technical-SEO-And-Web-Vitals/README.md)
+[🌐 Домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Системен Дизайн и Софтуерна Архитектура](README.md) | [📦 Следващ модул: Technical-SEO-And-Web-Vitals](../Technical-SEO-And-Web-Vitals/README.md) | [🌐 Следващ домейн: 07-Game-Development](../../07-Game-Development/README.md) | [▶️ Започни от 01-01. Архитектурни стилове и софтуерни шаблони](01-01-Architectural-Styles-And-Patterns.md)
 
 © 2026 Dev-Library / Системен Дизайн и Софтуерна Архитектура (System Design & Architecture)

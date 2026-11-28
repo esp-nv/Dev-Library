@@ -1,4 +1,4 @@
-⬅️ [04-03. Транзакции и ACID](04-03-Transactions-ACID-And-Isolation-Levels.md) | 📂 [04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-05. C# Data Access (ADO.NET и Dapper)](04-05-CSharp-Data-Access-ADONET-Dapper-Intro.md)
+[⬅️ 04-03. Транзакции, ACID свойства и Нива на изолация](04-03-Transactions-ACID-And-Isolation-Levels.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 04-05. Достъп до данни в C#: ADO.NET ➔ Dapper ➔ EF Core](04-05-CSharp-Data-Access-ADONET-Dapper-Intro.md)
 
 ---
 
@@ -186,5 +186,14 @@ END;
 ---
 ⬅️ [04-03. Транзакции и ACID](04-03-Transactions-ACID-And-Isolation-Levels.md) | 📂 [04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-05. C# Data Access (ADO.NET и Dapper)](04-05-CSharp-Data-Access-ADONET-Dapper-Intro.md)
 
+
+
+
+
+
+
 ---
+
+[⬅️ 04-03. Транзакции, ACID свойства и Нива на изолация](04-03-Transactions-ACID-And-Isolation-Levels.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 04-05. Достъп до данни в C#: ADO.NET ➔ Dapper ➔ EF Core](04-05-CSharp-Data-Access-ADONET-Dapper-Intro.md)
+
 © 2026 Dev-Library / 04-04. Views, Functions, Stored Procedures и Triggers

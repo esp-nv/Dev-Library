@@ -1,4 +1,4 @@
-[⬅️ Назад към 04. Exam Preparation & Judge Simulations](README.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-96. Performance & Optimizations](../01-96-Performance-And-Optimizations.md)
+[⬅️ 01-05. Архитектурно и Хардуерно Сравнение на Стиловете](01-05-CSS-Methodologies-And-Frameworks-Comparison.md) | [📂 Назад към 01. HTML5 & CSS3 Foundations Хъба](README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [➡️ 01-96. Performance & Optimizations](01-96-Performance-And-Optimizations.md)
 
 ---
 
@@ -215,9 +215,14 @@ a {
 * **[01-98. Common Errors & Fixes](../01-98-Common-Errors-And-Fixes.md)** — Каталог на грешките (вход / грешен изход / причина / решение).
 * **[01-99. Interview Q&A, Traps & Debugging](../01-99-Interview-QA-Traps-And-Debugging.md)** — Senior интервю въпроси с отговори, скрити капани и техники за дебъгване.
 
----
-[⬅️ Назад към 04. Exam Preparation & Judge Simulations](README.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-96. Performance & Optimizations](../01-96-Performance-And-Optimizations.md)
 
+
+
+
+
+
+---
+
+[⬅️ 01-05. Архитектурно и Хардуерно Сравнение на Стиловете](01-05-CSS-Methodologies-And-Frameworks-Comparison.md) | [📂 Назад към 01. HTML5 & CSS3 Foundations Хъба](README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [➡️ 01-96. Performance & Optimizations](01-96-Performance-And-Optimizations.md)
 
 © 2026 Dev-Library / 04-00. Пълен Изпитен Наръчник, Стратегия за Judge & Готови Шаблони
-

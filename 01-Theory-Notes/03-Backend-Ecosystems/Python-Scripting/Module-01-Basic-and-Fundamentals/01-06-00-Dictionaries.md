@@ -1,4 +1,4 @@
-[⬅️ 01-05. List Advanced](01-05-00-List-Advanced.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-06-01. Syntax From Scratch](01-06-01-Syntax-Dictionaries.md)
+[⬅️ 01-05-01. List Advanced: Синтаксис от нулата & Cheat...](01-05-01-Syntax-List-Advanced.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-06-01. Dictionaries: Синтаксис от нулата & Cheat ...](01-06-01-Syntax-Dictionaries.md)
 
 ---
 
@@ -115,5 +115,14 @@ for key, value in user_cache.items():
 *   **Уловката:** Кандидатите често отговарят „защото списъкът е по-бавен“, което е грешно.
 *   **Точен Senior отговор:** За да бъде един обект ключ в хеш таблица, той трябва да бъде **Hashable** — неговият хеш код (`hash(key)`) никога да не се променя през целия му живот в паметта. Тъй като списъкът е **изменяем (Mutable)**, ако го сложиш като ключ и после добавиш нов елемент в него с `.append()`, неговият хеш би се променил и Python никога повече няма да може да намери слота му в таблицата. Кортежът (`tuple`) е **неизменяем (Immutable)**, затова неговият хеш е константа и той е напълно валиден ключ (освен ако вътре в самия кортеж не си скрил списък!).
 
+
+
+
+
+
+
 ---
-[⬅️ 01-05. List Advanced](01-05-00-List-Advanced.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-06-01. Syntax From Scratch](01-06-01-Syntax-Dictionaries.md)
+
+[⬅️ 01-05-01. List Advanced: Синтаксис от нулата & Cheat...](01-05-01-Syntax-List-Advanced.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-06-01. Dictionaries: Синтаксис от нулата & Cheat ...](01-06-01-Syntax-Dictionaries.md)
+
+© 2026 Dev-Library / 01-06-00. Dictionaries (Теория, Хеш таблици & Интервю Капани)

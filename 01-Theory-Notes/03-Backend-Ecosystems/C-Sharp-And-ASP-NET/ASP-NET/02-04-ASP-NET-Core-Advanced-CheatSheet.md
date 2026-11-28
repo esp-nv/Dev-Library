@@ -1,4 +1,4 @@
-[⬅️ 02-03. Кеширане, Логване и Сигнали](02-03-Caching-Logging-And-Advanced-Topics.md) | [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)| [🏠 Начало (ASP.NET)](README.md)d)
+[⬅️ 02-03. Кеширане, Логване на заявки и Облачен деплой](02-03-Caching-Logging-And-Advanced-Topics.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 02-05. Архитектурен контраст: Razor Pages срещу ASP....](02-05-Razor-Pages-Vs-MVC-Architectural-Contrast.md)
 
 ---
 
@@ -144,7 +144,14 @@ public async Task<List<ProductDto>> GetCatalogAsync()
 | `SecurityTokenInvalidSignatureException: Signature validation failed.` | Подписът на JWT токена е подправен или Secret Key в `Program.cs` не съвпада с ключа на генериране. | Подсигури, че симетричният криптографски ключ в секция Jwt на `appsettings.json` е еднакъв навсякъде. |
 | `System.Text.Json.JsonException: A possible object cycle was detected.` | Изпратила си суров Entity модел с двойна релация към браузъра (Безкраен релационен цикъл при сериализация). | Наложи използването на плоски `DTO` кутии и AutoMapper Профили, изключвайки навигационните обекти от уеб отговора. |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-03. Кеширане, Логване и Сигнали](02-03-Caching-Logging-And-Advanced-Topics.md) | [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)| [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-05. Архитектурен контраст: Razor Pages срещу ASP.NET Core MVC](02-05-Razor-Pages-Vs-MVC-Architectural-Contrast.md)
+
+[⬅️ 02-03. Кеширане, Логване на заявки и Облачен деплой](02-03-Caching-Logging-And-Advanced-Topics.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 02-05. Архитектурен контраст: Razor Pages срещу ASP....](02-05-Razor-Pages-Vs-MVC-Architectural-Contrast.md)
 
 © 2026 Dev-Library / 02-04. ASP.NET Core Advanced (Глобален Напреднал Пищов)

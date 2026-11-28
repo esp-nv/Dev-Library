@@ -1,4 +1,4 @@
-⬅️ [04-01. Индекси и Execution Plans](04-01-Indices-And-Execution-Plans.md) | 📂 [04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-03. Транзакции, ACID и Isolation Levels](04-03-Transactions-ACID-And-Isolation-Levels.md)
+[⬅️ 04-01. Индекси (B-Tree) и Четене на Execution Plans](04-01-Indices-And-Execution-Plans.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 04-03. Транзакции, ACID свойства и Нива на изолация](04-03-Transactions-ACID-And-Isolation-Levels.md)
 
 ---
 
@@ -142,7 +142,14 @@ var orders = await _db.Orders
   OPTION (RECOMPILE);
   ```
 
+
+
+
+
+
+
 ---
-⬅️ [04-01. Индекси и Execution Plans](04-01-Indices-And-Execution-Plans.md) | 📂 [04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-03. Транзакции, ACID и Isolation Levels](04-03-Transactions-ACID-And-Isolation-Levels.md)
+
+[⬅️ 04-01. Индекси (B-Tree) и Четене на Execution Plans](04-01-Indices-And-Execution-Plans.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 04-03. Транзакции, ACID свойства и Нива на изолация](04-03-Transactions-ACID-And-Isolation-Levels.md)
 
 © 2026 Dev-Library / 04-02. Оптимизация на заявки, таблици и архитектура (Performance Tuning)

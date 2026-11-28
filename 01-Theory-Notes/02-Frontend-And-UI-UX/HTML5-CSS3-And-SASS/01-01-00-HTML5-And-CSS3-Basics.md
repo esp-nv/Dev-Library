@@ -1,4 +1,4 @@
-[📂 Назад към HTML5 CSS3 And SASS Хъба](README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: HTML5 CSS3 And SASS](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md)
+[⬅️ 01-00. Intro to HTML5 & CSS3 Architecture](01-00-Intro.md) | [📂 Назад към 01. HTML5 & CSS3 Foundations Хъба](README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [➡️ 01-01-01. Syntax-From-Scratch & Semantic Cheat Sheet](01-01-01-Syntax-HTML5-And-CSS3-Basics.md)
 
 ---
 
@@ -71,8 +71,14 @@
 * **Защо се случва:** Judge чете уеб файловете ти като суров байтов поток. Ако си забравила да сложиш тага `<meta charset="UTF-8">` най-отгоре в `<head>` секцията, или ако си написала буквите малки/грешни, Judge не може да разчете текстовете на Кирилица, енкодингът се чупи, паметта се фрагментира и тестовете умират.
 * **Как да го поправиш:** Винаги, преди да почнеш да пишеш дизайн, подсигурявай присъствието на `<meta charset="UTF-8">` веднага след отварящия таг `<head>`.
 
+
+
+
+
+
+
 ---
 
-[📂 Назад към HTML5 CSS3 And SASS Хъба](README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: HTML5 CSS3 And SASS](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md)
+[⬅️ 01-00. Intro to HTML5 & CSS3 Architecture](01-00-Intro.md) | [📂 Назад към 01. HTML5 & CSS3 Foundations Хъба](README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [➡️ 01-01-01. Syntax-From-Scratch & Semantic Cheat Sheet](01-01-01-Syntax-HTML5-And-CSS3-Basics.md)
 
 © 2026 Dev-Library / 01-01-00. Въведение в HTML5 и CSS3 (Теория, Упражнения и Изпитни Тактики)

@@ -1,4 +1,4 @@
-[⬅️ Кратък справочник](07-DEBUGGING-TECHNIQUES.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](09-TDD-MOCKING-ADVANCED.md)
+[⬅️ Глава 7: Техники за Дебъгване и Диагностика на Кода](07-DEBUGGING-TECHNIQUES.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Справочник: NUnit срещу xUnit срещу MSTest в .NET](09-01-NUnit-xUnit-MSTest.md)
 
 ---
 
@@ -59,8 +59,14 @@
 * **Причина:** Тъй като тестовете се изпълнява в произволен ред от нишките (често и паралелно), Тест №3 може да изтрие данните от статичния списък, докато Тест №1 все още ги чете. Резултатът: тестовете минават успешно сами, но се чупят на случаен принцип, когато се пуснат заедно.
 * **Решение:** Използвай само локални променливи в Arrange фазата.
 
+
+
+
+
+
+
 ---
 
-[⬅️ Кратък справочник](07-DEBUGGING-TECHNIQUES.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](09-TDD-MOCKING-ADVANCED.md)
+[⬅️ Глава 7: Техники за Дебъгване и Диагностика на Кода](07-DEBUGGING-TECHNIQUES.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Справочник: NUnit срещу xUnit срещу MSTest в .NET](09-01-NUnit-xUnit-MSTest.md)
 
 © 2026 Dev-Library / Глава 8: Автоматизирано Юнит Тестване и Изолация с Mocking

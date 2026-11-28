@@ -1,4 +1,4 @@
-[📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от Кратък справочник](01-C-SHARP-FUND-SHORT.md)
+[📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от Глава 01-01: Типове данни, Условни конструкции и Цикли](01-01-TYPES-CONDITIONALS-LOOPS.md)
 
 ---
 
@@ -90,8 +90,14 @@
   * ⚖️ [NUnit vs xUnit vs MSTest](./09-01-NUnit-xUnit-MSTest.md) | 🎯 [Изпитен чеклист (ZOMBIES)](./09-02-Unit-Testing-Exam-Checklist.md)
   * *Обхваща:* Сравнение на атрибутите между трите рамки и стратегия за 100% Code Coverage в Judge.
 
+
+
+
+
+
+
 ---
 
-[📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от Кратък справочник](01-C-SHARP-FUND-SHORT.md)
+[📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от Глава 01-01: Типове данни, Условни конструкции и Цикли](01-01-TYPES-CONDITIONALS-LOOPS.md)
 
 © 2026 Dev-Library / C# Basic, Fundamentals, Advanced & OOP – Архитектурна Библиотека

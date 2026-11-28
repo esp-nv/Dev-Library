@@ -1,4 +1,4 @@
-[⬅️ 05-05-00. Теория & Капани](05-05-00-Class-Based-Views.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-06-00. Django Admin](05-06-00-Django-Admin.md)
+[⬅️ 05-05-00. Class-Based Views](05-05-00-Class-Based-Views.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-06-00. Django Admin Customization](05-06-00-Django-Admin.md)
 
 ---
 
@@ -146,5 +146,14 @@ class SecureBookEditView(LoginRequiredMixin, UserPassesTestMixin, UpdateView):
 | **`DeleteView`** | Изтрива запис по `pk` след потвърждение | `model`, `template_name`, `success_url` |
 | **`LoginRequiredMixin`** | Пренасочва нелогнатите към Login | Слага се **най-отляво** в наследяването |
 
+
+
+
+
+
+
 ---
-[⬅️ 05-05-00. Теория & Капани](05-05-00-Class-Based-Views.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-06-00. Django Admin](05-06-00-Django-Admin.md)
+
+[⬅️ 05-05-00. Class-Based Views](05-05-00-Class-Based-Views.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-06-00. Django Admin Customization](05-06-00-Django-Admin.md)
+
+© 2026 Dev-Library / 05-05-01. Class-Based Views (CBV): Синтаксис от нулата & Cheat Sheet

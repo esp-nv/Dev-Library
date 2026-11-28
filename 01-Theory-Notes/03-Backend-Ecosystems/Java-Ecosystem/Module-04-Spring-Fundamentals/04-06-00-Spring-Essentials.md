@@ -1,4 +1,4 @@
-[⬅️ 04-05. State Management (Cookies & HttpSession)](04-05-00-State-Management.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-06-01. Syntax From Scratch](04-06-01-Syntax-Spring-Essentials.md)
+[⬅️ 04-05-01. State Management (Cookies & HttpSession): ...](04-05-01-Syntax-State-Management.md) | [📂 Назад към Module 04: Spring Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [➡️ 04-06-01. Spring Essentials (Events, Scheduling & Ca...](04-06-01-Syntax-Spring-Essentials.md)
 
 ---
 
@@ -140,5 +140,14 @@ public class OrderNotificationListener {
 | **Кеширане с Redis** | ``spring-boot-starter-data-redis`` + ``@Cacheable`` | ``Microsoft.Extensions.Caching.StackExchangeRedis`` / ``HybridCache`` (.NET 9) |
 | **Разпределено заключване на Cron задачи** | Библиотека ShedLock (``@SchedulerLock``) | **Hangfire** или Distributed Lock в Redis / PostgreSQL |
 
+
+
+
+
+
+
 ---
-[⬅️ 04-05. State Management (Cookies & HttpSession)](04-05-00-State-Management.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-06-01. Syntax From Scratch](04-06-01-Syntax-Spring-Essentials.md)
+
+[⬅️ 04-05-01. State Management (Cookies & HttpSession): ...](04-05-01-Syntax-State-Management.md) | [📂 Назад към Module 04: Spring Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [➡️ 04-06-01. Spring Essentials (Events, Scheduling & Ca...](04-06-01-Syntax-Spring-Essentials.md)
+
+© 2026 Dev-Library / 04-06-00. Spring Essentials (Events, Scheduling `@Scheduled` & Caching — Теория & Капани)

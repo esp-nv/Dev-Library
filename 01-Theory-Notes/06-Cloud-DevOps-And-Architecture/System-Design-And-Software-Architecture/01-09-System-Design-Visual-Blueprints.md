@@ -1,4 +1,4 @@
-[⬅️ 01-08. Системни чертежи: Диаграми на архитектурата и софтуерни потоци](01-08-System-Architecture-Visual-Blueprints.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Главен Хъб на проекта](../README.md)
+[⬅️ 01-08. Системни чертежи: Диаграми на архитектурата и...](01-08-System-Architecture-Visual-Blueprints.md) | [📂 Назад към Системен Дизайн и Софтуерна Архитектура Хъба](README.md) | [🌐 Домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Системен Дизайн и Софтуерна Архитектура](README.md) | [🌐 Следващ домейн: 07-Game-Development](../../07-Game-Development/README.md) | [📦 Следващ модул: Technical-SEO-And-Web-Vitals](../Technical-SEO-And-Web-Vitals/README.md) | [📦 Към следващ модул: Technical-SEO-And-Web-Vitals](../Technical-SEO-And-Web-Vitals/README.md)
 
 ---
 
@@ -101,7 +101,14 @@
          └─────────────────┘                   └─────────────────┘
 ```
 
+
+
+
+
+
+
 ---
-[⬅️ 01-08. Системни чертежи: Диаграми на архитектурата и софтуерни потоци](01-08-System-Architecture-Visual-Blueprints.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Главен Хъб на проекта](../README.md)
+
+[⬅️ 01-08. Системни чертежи: Диаграми на архитектурата и...](01-08-System-Architecture-Visual-Blueprints.md) | [📂 Назад към Системен Дизайн и Софтуерна Архитектура Хъба](README.md) | [🌐 Домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Системен Дизайн и Софтуерна Архитектура](README.md) | [🌐 Следващ домейн: 07-Game-Development](../../07-Game-Development/README.md) | [📦 Следващ модул: Technical-SEO-And-Web-Vitals](../Technical-SEO-And-Web-Vitals/README.md) | [📦 Към следващ модул: Technical-SEO-And-Web-Vitals](../Technical-SEO-And-Web-Vitals/README.md)
 
 © 2026 Dev-Library / 01-08. Визуални Чертежи: Архитектурни Диаграми и Системни Потоци (Blueprints)

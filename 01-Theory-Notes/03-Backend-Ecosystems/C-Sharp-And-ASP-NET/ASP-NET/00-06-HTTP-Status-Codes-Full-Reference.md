@@ -1,4 +1,4 @@
-[⬅️ 00-05. State Management](00-04-State-Management-And-Asynchronous-Processing.md) | 📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) | [⏩ Глава 01-00. Глава 01 Интро](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)
+[⬅️ 00-07. Архитектурни карти и софтуерни потоци на данни](00-05-System-Architecture-And-Data-Flow-Blueprints.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 00-04. Пълен диагностичен наръчник за Chrome DevTools](00-Chrome-DevTools-Full-Diagnostic-Guide.md)
 
 ---
 
@@ -124,7 +124,14 @@ public class StockController : ControllerBase
 *   **Защо е опасно:** Фронтенд библиотеки (като Axios или Angular HttpClient) проверяват само трицифрения статус. Тъй като виждат `200 OK`, те приемат операцията за напълно успешна, пропускат блоковете за грешки (`.catch()`) и се опитват да вкарат невалидните данни в уеб екрана, сривайки интерфейса на клиента.
 *   **Как да го избегнеш:** Винаги използвай `BadRequest(ModelState)` или изрични статус кодове при неуспех.
 
+
+
+
+
+
+
 ---
-[⬅️ 00-05. State Management](00-04-State-Management-And-Asynchronous-Processing.md) | 📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-00. Глава 01 Интро](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)
+
+[⬅️ 00-07. Архитектурни карти и софтуерни потоци на данни](00-05-System-Architecture-And-Data-Flow-Blueprints.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 00-04. Пълен диагностичен наръчник за Chrome DevTools](00-Chrome-DevTools-Full-Diagnostic-Guide.md)
 
 © 2026 Dev-Library / 00-06. Глобален уеб справочник за HTTP статус кодове в ASP.NET Core

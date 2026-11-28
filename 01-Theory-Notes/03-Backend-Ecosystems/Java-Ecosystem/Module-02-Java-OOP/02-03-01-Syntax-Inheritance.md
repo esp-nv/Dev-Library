@@ -1,4 +1,4 @@
-[⬅️ 02-03-00. Теория & Капани](02-03-00-Inheritance.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-04-00. Interfaces & Abstract Classes](02-04-00-Interfaces-And-Abstract-Classes.md)
+[⬅️ 02-03-00. Inheritance](02-03-00-Inheritance.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-04-00. Interfaces and Abstraction](02-04-00-Interfaces-And-Abstract-Classes.md)
 
 ---
 
@@ -110,5 +110,14 @@ class BasePayment {
 | **Забрана за наследяване** | `final class A` | Спира `extends A` |
 | **Забрана за пренаписване** | `final void run()` | Спира `@Override` на метода в наследниците |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-03-00. Теория & Капани](02-03-00-Inheritance.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-04-00. Interfaces & Abstract Classes](02-04-00-Interfaces-And-Abstract-Classes.md)
+
+[⬅️ 02-03-00. Inheritance](02-03-00-Inheritance.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-04-00. Interfaces and Abstraction](02-04-00-Interfaces-And-Abstract-Classes.md)
+
+© 2026 Dev-Library / 02-03-01. Inheritance (`extends`, `super` & `final`): Синтаксис от нулата & Cheat Sheet

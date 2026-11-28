@@ -1,4 +1,4 @@
-[⬅️ 01-01. Архитектурни стилове](01-01-Architectural-Styles-And-Patterns.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md) | [🏠 Главен Хъб на проекта](../README.md) | [➡️ 01-03. Архитектурни качества](01-03-Architectural-Attributes-And-TradeOffs.md)
+[⬅️ 01-01. Архитектурни стилове и софтуерни шаблони](01-01-Architectural-Styles-And-Patterns.md) | [📂 Назад към Системен Дизайн и Софтуерна Архитектура Хъба](README.md) | [🌐 Домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Системен Дизайн и Софтуерна Архитектура](README.md) | [🌐 Следващ домейн: 07-Game-Development](../../07-Game-Development/README.md) | [📦 Следващ модул: Technical-SEO-And-Web-Vitals](../Technical-SEO-And-Web-Vitals/README.md) | [➡️ 01-03. Архитектурни принципи, Качества и Търговски к...](01-03-Architectural-Attributes-And-TradeOffs.md)
 
 ---
 
@@ -85,7 +85,14 @@ server {
         }
         ```
 
+
+
+
+
+
+
 ---
-[01-01. Архитектурни стилове и софтуерни шаблони (Patterns)](01-01-Architectural-Styles-And-Patterns.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md)  | [🏠 Главен Хъб на проекта](../README.md) | [➡️ 01-03. Архитектурни качества](01-03-Architectural-Attributes-And-TradeOffs.md)
+
+[⬅️ 01-01. Архитектурни стилове и софтуерни шаблони](01-01-Architectural-Styles-And-Patterns.md) | [📂 Назад към Системен Дизайн и Софтуерна Архитектура Хъба](README.md) | [🌐 Домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Системен Дизайн и Софтуерна Архитектура](README.md) | [🌐 Следващ домейн: 07-Game-Development](../../07-Game-Development/README.md) | [📦 Следващ модул: Technical-SEO-And-Web-Vitals](../Technical-SEO-And-Web-Vitals/README.md) | [➡️ 01-03. Архитектурни принципи, Качества и Търговски к...](01-03-Architectural-Attributes-And-TradeOffs.md)
 
 © 2026 Dev-Library / 01-02. Ключови концепции за мащабируемост и балансиране на натоварването

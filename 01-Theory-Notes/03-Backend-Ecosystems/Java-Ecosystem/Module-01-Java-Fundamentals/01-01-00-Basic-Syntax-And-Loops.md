@@ -1,4 +1,4 @@
-[⬅️ 01-00. Intro & JVM](01-00-Intro-And-JVM.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-01-01. Syntax From Scratch](01-01-01-Syntax-Basic-Syntax-And-Loops.md)
+[⬅️ 01-00. Intro: Въведение в Java, JVM Архитектура & Ср...](01-00-Intro-And-JVM.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-01-01. Basic Syntax, Conditionals & Loops: Синтак...](01-01-01-Syntax-Basic-Syntax-And-Loops.md)
 
 ---
 
@@ -114,5 +114,14 @@ public class CleanSyntaxDemo {
     1.  **Fall-through (Пропадане):** При стария `switch (x) { case 1: ... case 2: ... }`, ако пропуснеш `break;`, кодът продължава да изпълнява и `case 2`, и `case 3`, докато не срещне `break` или края на блока.
     2.  **Модерен Switch Expression (`->`):** При синтаксиса със стрелка **`case 1 -> ...`** няма Fall-through — изпълнява се **само съответният клон** без нужда от `break`, може да се изброяват множество стойности на един ред (`case "Sat", "Sun" -> ...`) и целият `switch` връща директно резултат в променлива.
 
+
+
+
+
+
+
 ---
-[⬅️ 01-00. Intro & JVM](01-00-Intro-And-JVM.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-01-01. Syntax From Scratch](01-01-01-Syntax-Basic-Syntax-And-Loops.md)
+
+[⬅️ 01-00. Intro: Въведение в Java, JVM Архитектура & Ср...](01-00-Intro-And-JVM.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-01-01. Basic Syntax, Conditionals & Loops: Синтак...](01-01-01-Syntax-Basic-Syntax-And-Loops.md)
+
+© 2026 Dev-Library / 01-01-00. Basic Syntax, Conditional Statements & Loops (Теория, Сравнение & Капани)

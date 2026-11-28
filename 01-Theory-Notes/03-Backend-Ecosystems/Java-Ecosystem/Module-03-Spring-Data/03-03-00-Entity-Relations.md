@@ -1,4 +1,4 @@
-[⬅️ 03-02. Introduction to Hibernate](03-02-00-Hibernate-Intro.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-03-01. Syntax From Scratch](03-03-01-Syntax-Entity-Relations.md)
+[⬅️ 03-02-01. Introduction to Hibernate & Entity Lifecyc...](03-02-01-Syntax-Hibernate-Intro.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-03-01. Hibernate Code First & Entity Relations: С...](03-03-01-Syntax-Entity-Relations.md)
 
 ---
 
@@ -165,5 +165,14 @@ public class Book {
 | **Наследяване на таблици в БД** | `@Inheritance(strategy = InheritanceType.JOINED)` (поддържа `SINGLE_TABLE`, `JOINED`, `TABLE_PER_CLASS`) | **TPH** (Table-Per-Hierarchy по подразбиране), **TPT** (`UseTptMappingStrategy`), **TPC** |
 | **Синхронизация на двупосочна връзка** | Ръчни методи `addBook()` / `removeBook()` (задължително!) | EF Core **Fix-up** автоматично синхронизира навигационните свойства в паметта |
 
+
+
+
+
+
+
 ---
-[⬅️ 03-02. Introduction to Hibernate](03-02-00-Hibernate-Intro.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-03-01. Syntax From Scratch](03-03-01-Syntax-Entity-Relations.md)
+
+[⬅️ 03-02-01. Introduction to Hibernate & Entity Lifecyc...](03-02-01-Syntax-Hibernate-Intro.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-03-01. Hibernate Code First & Entity Relations: С...](03-03-01-Syntax-Entity-Relations.md)
+
+© 2026 Dev-Library / 03-03-00. Hibernate Code First & Entity Relations (Теория, `LAZY` vs `EAGER` & Капани)

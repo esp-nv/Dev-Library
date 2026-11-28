@@ -1,4 +1,4 @@
-[📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04 Python ORM](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [▶️ Започни от 04-00. Intro: Django ORM срещу SQLAlchemy & EF Core (Архитектурен Roadmap)](04-00-Intro.md)
+[📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от 04-00. Intro: Django ORM срещу SQLAlchemy & EF Core](04-00-Intro.md)
 
 ---
 
@@ -34,8 +34,14 @@
     *   🟢 [Django ORM: Синтаксис от нулата & Cheat Sheet](04-06-01-Syntax-Django-ORM.md)
     *   🔵 [SQLAlchemy: Синтаксис от нулата & Cheat Sheet](04-06-02-Syntax-SQLAlchemy.md)
 
+
+
+
+
+
+
 ---
 
-[📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04 Python ORM](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [▶️ Започни от 04-00. Intro: Django ORM срещу SQLAlchemy & EF Core (Архитектурен Roadmap)](04-00-Intro.md)
+[📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от 04-00. Intro: Django ORM срещу SQLAlchemy & EF Core](04-00-Intro.md)
 
 © 2026 Dev-Library / Module 04: Python ORM (Django ORM & SQLAlchemy — Сравнителен Атлас)

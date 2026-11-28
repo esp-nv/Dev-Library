@@ -1,4 +1,4 @@
-[⬅️ 03-06-00. Теория & Капани](03-06-00-SOLID.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-07-00. Iterators and Generators](03-07-00-Iterators-And-Generators.md)
+[⬅️ 03-06-00. SOLID Principles](03-06-00-SOLID.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-07-00. Iterators and Generators](03-07-00-Iterators-And-Generators.md)
 
 ---
 
@@ -124,5 +124,14 @@ class OfficeManager:
 | **I** | **Interface Segregation** | Много малки интерфейси > 1 гигантски | Малки `ABC` или `Protocol` класове |
 | **D** | **Dependency Inversion** | Зависи от абстракции, не от детайли | Подаване на `ABC` обекти в `__init__` |
 
+
+
+
+
+
+
 ---
-[⬅️ 03-06-00. Теория & Капани](03-06-00-SOLID.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-07-00. Iterators and Generators](03-07-00-Iterators-And-Generators.md)
+
+[⬅️ 03-06-00. SOLID Principles](03-06-00-SOLID.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-07-00. Iterators and Generators](03-07-00-Iterators-And-Generators.md)
+
+© 2026 Dev-Library / 03-06-01. SOLID Principles: Синтаксис от нулата & Cheat Sheet

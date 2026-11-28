@@ -1,4 +1,4 @@
-[⬅️ 01-03-01. Syntax-From-Scratch & Flexbox Cheat Sheet](01-03-01-Syntax-CSS-Layout-Flexbox.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet](01-04-01-Syntax-Sass-And-SCSS-Architecture.md)
+[⬅️ 01-03-01. Syntax-From-Scratch & Flexbox Cheat Sheet](01-03-01-Syntax-CSS-Layout-Flexbox.md) | [📂 Назад към 01. HTML5 & CSS3 Foundations Хъба](README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [➡️ 01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet](01-04-01-Syntax-Sass-And-SCSS-Architecture.md)
 
 ---
 
@@ -67,8 +67,14 @@
 * **[01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet](01-04-01-Syntax-Sass-And-SCSS-Architecture.md)** — Променливи, Mixins, Functions, цикли `@each`, вход/изход превод към чист CSS и табличен **Module Cheat Sheet**.
 * **[01-05. Пълно сравнение на CSS стиловете, методологиите и рамките](01-05-CSS-Methodologies-And-Frameworks-Comparison.md)** — Сравнителна таблица по категории: Pure CSS, SCSS, Tailwind CSS, Bootstrap 5 и CSS-in-JS (бързина, RAM, CPU, предимства и недостатъци).
 
----
-[⬅️ 01-03-01. Syntax-From-Scratch & Flexbox Cheat Sheet](01-03-01-Syntax-CSS-Layout-Flexbox.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet](01-04-01-Syntax-Sass-And-SCSS-Architecture.md)
 
+
+
+
+
+
+---
+
+[⬅️ 01-03-01. Syntax-From-Scratch & Flexbox Cheat Sheet](01-03-01-Syntax-CSS-Layout-Flexbox.md) | [📂 Назад към 01. HTML5 & CSS3 Foundations Хъба](README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [➡️ 01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet](01-04-01-Syntax-Sass-And-SCSS-Architecture.md)
 
 © 2026 Dev-Library / 01-04-00. Sass и SCSS Архитектура (Препроцесори, Модули и Капани)

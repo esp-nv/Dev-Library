@@ -1,3 +1,7 @@
+[⬅️ Глава 3: Свещеният граал на LINQ и Отложено Изпълнение](03-LINQ-Deep-Dive-And-Deferred-Execution.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 4: Анатомия на Колекциите и Управление на Паметта](04-COLECTIONS.md)
+
+---
+
 # 📋 Cheat Sheet: Колекции и Структури от данни в C#
 
 **Файл:** `04-01-Collections-Cheat-Sheet.md` | **Цел:** Бърз избор на структура, методи, Big-O скорост и C# 12 синтаксис
@@ -98,5 +102,14 @@ Dictionary<string, int> emptyDict = [];
 * **[LabinatorSolutions: C# Ultimate Cheatsheet](https://github.com/LabinatorSolutions/csharp-cheatsheet/blob/main/docs/ultimate-cheatsheet.md)** — Пълен справочник за целия език C# (от версия 1 до 14).
 * **[Zenn: C# Collection Expressions Cheatsheet](https://zenn.dev/inuinu/articles/84c6d5ca85c41f?locale=en)** — Примери за новия съкратен синтаксис с `[..]` в C# 12+.
 
+
+
+
+
+
+
 ---
+
+[⬅️ Глава 3: Свещеният граал на LINQ и Отложено Изпълнение](03-LINQ-Deep-Dive-And-Deferred-Execution.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 4: Анатомия на Колекциите и Управление на Паметта](04-COLECTIONS.md)
+
 © 2026 Dev-Library / Cheat Sheet: Колекции и Структури от данни в C#

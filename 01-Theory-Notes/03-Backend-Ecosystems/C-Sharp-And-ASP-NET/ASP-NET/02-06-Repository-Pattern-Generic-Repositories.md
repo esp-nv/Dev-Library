@@ -1,4 +1,4 @@
-[⬅️ 02-04. Напреднал Пищов](02-04-ASP-NET-Core-Advanced-CheatSheet.md) | 📂 Глава 02. ASP.NET Core Advanced | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-06. Глобална Софтуерна Сигурност](02-06-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md)
+[⬅️ 02-05. Архитектурен контраст: Razor Pages срещу ASP....](02-05-Razor-Pages-Vs-MVC-Architectural-Contrast.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 02-07. Глобална уеб сигурност: Защита от XSS, SQL In...](02-07-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md)
 
 ---
 
@@ -135,7 +135,14 @@ public class ProductService
 *   **Защо се случва (Капанът IEnumerable):** Както научихме в Глава 02 на EF Core модула, извикването на `.ToList()` изпраща незабавна заявка `SELECT *` към SQL Server. Ако след това твоят бизнес сервиз напише филтър `.Where(p => p.Id == 5)`, това филтриране няма да се случи на твърдия диск на базата, а C# процесорът ще бъде принуден да изтегли **абсолютно всички милиони редове по мрежата в RAM паметта** и да ги обхожда бавно ръчно, сривайки уеб сървъра Kestrel.
 *   **Как да го избегнеш:** Методът `.All()` задължително трябва да връща **`IQueryable<TEntity>`**, за да може бизнес логиката да продължи да дописва SQL кода на диска и матеріализацията да настъпи чак в самия уеб контролер.
 
+
+
+
+
+
+
 ---
-[⬅️ 02-04. Напреднал Пищов](02-04-ASP-NET-Core-Advanced-CheatSheet.md) | [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-06. Глобална Софтуерна Сигурност](02-06-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md)
+
+[⬅️ 02-05. Архитектурен контраст: Razor Pages срещу ASP....](02-05-Razor-Pages-Vs-MVC-Architectural-Contrast.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 02-07. Глобална уеб сигурност: Защита от XSS, SQL In...](02-07-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md)
 
 © 2026 Dev-Library / 02-05. Архитектурният патерн Repository и Generic Складове

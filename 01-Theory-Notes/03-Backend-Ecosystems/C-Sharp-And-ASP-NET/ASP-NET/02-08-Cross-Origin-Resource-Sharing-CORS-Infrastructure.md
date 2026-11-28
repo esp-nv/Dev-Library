@@ -1,5 +1,4 @@
-[⬅️ 02-07. Глобална Софтуерна Сигурност](02-07-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md) | 
- [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-09. Автоматизирано Селениум Тестване](02-09-UI-Automation-Testing-Selenium-And-Fluent-Assertions.md)
+[⬅️ 02-07. Глобална уеб сигурност: Защита от XSS, SQL In...](02-07-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 02-09. Автоматизирано тестване: Selenium WebDriver и...](02-09-UI-Automation-Testing-Selenium-And-Fluent-Assertions.md)
 
 ---
 
@@ -78,8 +77,14 @@ app.Run();
 *   **Защо се случва:** Ти си забравила да извикаш метода `app.UseCors("Политика");` в `Program.cs`, или си объркала софтуерната подредба в конвейера, поставяйки CORS компонента най-отдолу. Понеже Kestrel връща HTTP отговор без метаданната `Access-Control-Allow-Origin`, браузърът спазва SOP закона и скрива данните от JavaScript паметта насила.
 *   **Как да го поправиш:** Провери дали името на политиката в `AddPolicy` съвпада буква по буква с името в `UseCors()`. Подсигури, че в стринга на домейните няма затваряща наклонена черта накрая (напр. `"http://localhost:4200/"` — това е невалиден Origin низ и .NET ще го отхвърли, пиши само `"http://localhost:4200"`).
 
+
+
+
+
+
+
 ---
-[⬅️ 02-07. Глобална Софтуерна Сигурност](02-07-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md) | 
- [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-09. Автоматизирано Селениум Тестване](02-09-UI-Automation-Testing-Selenium-And-Fluent-Assertions.md)
+
+[⬅️ 02-07. Глобална уеб сигурност: Защита от XSS, SQL In...](02-07-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 02-09. Автоматизирано тестване: Selenium WebDriver и...](02-09-UI-Automation-Testing-Selenium-And-Fluent-Assertions.md)
 
 © 2026 Dev-Library / 02-08. Мрежов суверен достъп през CORS и Same-Origin Policy

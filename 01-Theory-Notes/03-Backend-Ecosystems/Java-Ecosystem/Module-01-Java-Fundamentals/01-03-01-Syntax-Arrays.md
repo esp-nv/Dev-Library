@@ -1,4 +1,4 @@
-[⬅️ 01-03-00. Теория & Капани](01-03-00-Arrays.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-04-00. Methods](01-04-00-Methods.md)
+[⬅️ 01-03-00. Arrays](01-03-00-Arrays.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-04-00. Methods](01-04-00-Methods.md)
 
 ---
 
@@ -130,5 +130,14 @@ public class MatrixAndReverse {
 | **Принтиране на 1D / 2D масиви** | `Arrays.toString(arr)` / `Arrays.deepToString(m)` | Превръща масива в четим текст |
 | **Бърза сума / мин / макс** | `Arrays.stream(arr).sum()` / `.min()` / `.max()` | Използва `IntStream` на един ред |
 
+
+
+
+
+
+
 ---
-[⬅️ 01-03-00. Теория & Капани](01-03-00-Arrays.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-04-00. Methods](01-04-00-Methods.md)
+
+[⬅️ 01-03-00. Arrays](01-03-00-Arrays.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-04-00. Methods](01-04-00-Methods.md)
+
+© 2026 Dev-Library / 01-03-01. Arrays: Синтаксис от нулата & Cheat Sheet

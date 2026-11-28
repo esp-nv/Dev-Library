@@ -1,4 +1,4 @@
-[⬅️ 02-06. Razor Рендериране и Пренос](02-06-Razor-Pages-Vs-MVC-Architectural-Contrast.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-08. Мрежов достъп през CORS](02-08-Cross-Origin-Resource-Sharing-CORS-Infrastructure.md)
+[⬅️ 02-05. Архитектурният патерн Repository и Generic Ск...](02-06-Repository-Pattern-Generic-Repositories.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 02-08. Мрежов суверен достъп през CORS и Same-Origin...](02-08-Cross-Origin-Resource-Sharing-CORS-Infrastructure.md)
 
 ---
 
@@ -80,7 +80,14 @@ builder.Services.AddAntiforgery(options =>
 });
 ```
 
+
+
+
+
+
+
 ---
-[⬅️ 02-06. Razor Рендериране и Пренос](02-06-Razor-Pages-Vs-MVC-Architectural-Contrast.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-08. Мрежов достъп през CORS](02-08-Cross-Origin-Resource-Sharing-CORS-Infrastructure.md)
+
+[⬅️ 02-05. Архитектурният патерн Repository и Generic Ск...](02-06-Repository-Pattern-Generic-Repositories.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 02-08. Мрежов суверен достъп през CORS и Same-Origin...](02-08-Cross-Origin-Resource-Sharing-CORS-Infrastructure.md)
 
 © 2026 Dev-Library / 02-07. Глобална уеб сигурност: Защита от XSS, SQL Injection и CSRF

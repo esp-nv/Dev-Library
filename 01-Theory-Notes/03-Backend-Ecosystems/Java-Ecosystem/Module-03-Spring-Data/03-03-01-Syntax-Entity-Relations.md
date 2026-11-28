@@ -1,4 +1,4 @@
-[⬅️ 03-03-00. Теория & Капани](03-03-00-Entity-Relations.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-04-00. Spring Data Repositories](03-04-00-Spring-Data-Repositories.md)
+[⬅️ 03-03-00. Hibernate Code First & Entity Relations](03-03-00-Entity-Relations.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-04-00. Spring Data Intro & Repositories](03-04-00-Spring-Data-Repositories.md)
 
 ---
 
@@ -161,5 +161,14 @@ public class BankTransfer extends Payment {
 | **`orphanRemoval = true`** | Върху `@OneToMany` / `@OneToOne` | Изтрива записа от БД, ако го премахнеш от списъка `list.remove(child)` |
 | **`@MappedSuperclass`** | Върху базов клас без собствена таблица (напр. `BaseEntity`) | Наследниците наследяват неговите колони (`id`, `createdAt`) в своите таблици |
 
+
+
+
+
+
+
 ---
-[⬅️ 03-03-00. Теория & Капани](03-03-00-Entity-Relations.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-04-00. Spring Data Repositories](03-04-00-Spring-Data-Repositories.md)
+
+[⬅️ 03-03-00. Hibernate Code First & Entity Relations](03-03-00-Entity-Relations.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-04-00. Spring Data Intro & Repositories](03-04-00-Spring-Data-Repositories.md)
+
+© 2026 Dev-Library / 03-03-01. Hibernate Code First & Entity Relations: Синтаксис от нулата & Cheat Sheet

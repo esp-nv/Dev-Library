@@ -1,4 +1,4 @@
-[⬅️ 01-03. Arrays](01-03-00-Arrays.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-04-01. Syntax From Scratch](01-04-01-Syntax-Methods.md)
+[⬅️ 01-03-01. Arrays: Синтаксис от нулата & Cheat Sheet](01-03-01-Syntax-Arrays.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-04-01. Methods: Синтаксис от нулата & Cheat Sheet](01-04-01-Syntax-Methods.md)
 
 ---
 
@@ -110,5 +110,14 @@ public class CleanMethodsDemo {
 *   **Уловката:** Кандидатите често гадаят кой от двата метода ще избере JVM.
 *   **Точен Senior отговор:** Кодът **няма да се компилира** и ще хвърли грешка **`Reference to test is ambiguous`**! Причината е, че числата `10` и `20` са от тип `int`, така че и двата метода изискват точно едно автоматично разширяване (`int -> long`). Тъй като нито единият метод не е по-специфичен от другия, компилаторът отказва да гадае и изисква изрично уточняване от програмиста чрез суфикс `L`: `test(10, 20L)`.
 
+
+
+
+
+
+
 ---
-[⬅️ 01-03. Arrays](01-03-00-Arrays.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-04-01. Syntax From Scratch](01-04-01-Syntax-Methods.md)
+
+[⬅️ 01-03-01. Arrays: Синтаксис от нулата & Cheat Sheet](01-03-01-Syntax-Arrays.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-04-01. Methods: Синтаксис от нулата & Cheat Sheet](01-04-01-Syntax-Methods.md)
+
+© 2026 Dev-Library / 01-04-00. Methods (Теория, Stack Frames, Overloading & Капани)

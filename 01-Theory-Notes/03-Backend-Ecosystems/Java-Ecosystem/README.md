@@ -1,4 +1,4 @@
-[📦 Предишен модул: C-Sharp-And-ASP-NET](../C-Sharp-And-ASP-NET/README.md) | [🌐 Домейн: 03. Backend Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Java Ecosystem](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Python-Scripting](../Python-Scripting/README.md) | [▶️ Започни от 02-00. Intro: Въведение в Java OOP & Архитектурен Roadmap](Module-02-Java-OOP/02-00-Intro.md)
+[📦 Предишен модул: C-Sharp-And-ASP-NET](../C-Sharp-And-ASP-NET/README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Java & Spring Boot Ecosystem](README.md) | [📦 Следващ модул: Python-Scripting](../Python-Scripting/README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../04-Databases-And-Caching/README.md) | [▶️ Започни от 04-96. Java 21+ & Spring Boot 3 Оптимизации: Кое е г...](04-96-Performance-And-Optimizations.md)
 
 ---
 
@@ -73,8 +73,14 @@
 *   **[04-98. Common Errors, Edge Cases & Fixes (Каталог на грешките)](04-98-Common-Errors-And-Fixes.md)** — *Обхваща:* Диагностика на `NullPointerException`, `LazyInitializationException`, `ConcurrentModificationException`, гранични случаи (`Integer` overflow, `BigDecimal`) и таблица по фази на възникване (`Compile-time`, `Startup-time`, `Runtime`).
 *   **[04-99. Interview Q&A, Скрити Капани & Debugging Techniques](04-99-Interview-QA-Traps-And-Debugging.md)** — *Обхваща:* Топ интервю въпроси (JVM GC, Persistence Context, `401` vs `403`), капани с `Integer` Cache и `@Transactional` self-invocation, и профилиране с IntelliJ, `jstack` и Heap Dump.
 
+
+
+
+
+
+
 ---
 
-[📦 Предишен модул: C-Sharp-And-ASP-NET](../C-Sharp-And-ASP-NET/README.md) | [🌐 Домейн: 03. Backend Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Java Ecosystem](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Python-Scripting](../Python-Scripting/README.md) | [▶️ Започни от 02-00. Intro: Въведение в Java OOP & Архитектурен Roadmap](Module-02-Java-OOP/02-00-Intro.md)
+[📦 Предишен модул: C-Sharp-And-ASP-NET](../C-Sharp-And-ASP-NET/README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Java & Spring Boot Ecosystem](README.md) | [📦 Следващ модул: Python-Scripting](../Python-Scripting/README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../04-Databases-And-Caching/README.md) | [▶️ Започни от 04-96. Java 21+ & Spring Boot 3 Оптимизации: Кое е г...](04-96-Performance-And-Optimizations.md)
 
 © 2026 Dev-Library / Java & Spring Boot Ecosystem (Пълен Архитектурен Справочник)

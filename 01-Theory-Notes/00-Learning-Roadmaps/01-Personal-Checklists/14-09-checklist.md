@@ -218,3 +218,14 @@ EF Core превежда LINQ заявката към SQL, който Database �
 Entity → Mapping → DbContext → DbSet → LINQ → EF Core → SQL → Database
 
 А кода ще го изградим стъпка по стъпка, както правихме днес.
+
+
+
+
+
+
+---
+
+[⬅️ 14-09-all](14-09-all.md) | [📂 Назад към 01-Personal-Checklists Хъба](README.md) | [🌐 Домейн: Примерни Пътеки за Учене и Инженерни Сравнения](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01-Personal-Checklists](README.md) | [🌐 Следващ домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../../01-Core-Tools-And-Fundamentals/README.md) | [➡️ Технически одит и оценка: TECH-STACK-COMPARISONS.md](25-11-2026.md)
+
+© 2026 Dev-Library / 14-09-checklist

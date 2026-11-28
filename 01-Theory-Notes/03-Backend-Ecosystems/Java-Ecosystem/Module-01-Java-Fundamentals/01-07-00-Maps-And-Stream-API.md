@@ -1,4 +1,4 @@
-[⬅️ 01-06. Objects, Classes & Records](01-06-00-Objects-And-Classes.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-07-01. Syntax From Scratch](01-07-01-Syntax-Maps-And-Stream-API.md)
+[⬅️ 01-06-01. Objects, Classes and Records: Синтаксис от...](01-06-01-Syntax-Objects-And-Classes.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-07-01. Associative Arrays (`Map`): Синтаксис от н...](01-07-01-Syntax-Maps-And-Stream-API.md)
 
 ---
 
@@ -127,5 +127,14 @@ public class CleanMapsDemo {
     2.  Преизчислява позицията на **всеки един съществуващ ключ** спрямо новия размер на таблицата ($O(n)$ операция).
     *   *Pro Tip:* Ако предварително знаеш, че ще сложиш 10 000 записа в `HashMap`, подай начален капацитет в конструктора (`new HashMap<>(16384)`), за да избегнеш всички междинни преоразмерявания!
 
+
+
+
+
+
+
 ---
-[⬅️ 01-06. Objects, Classes & Records](01-06-00-Objects-And-Classes.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-07-01. Syntax From Scratch](01-07-01-Syntax-Maps-And-Stream-API.md)
+
+[⬅️ 01-06-01. Objects, Classes and Records: Синтаксис от...](01-06-01-Syntax-Objects-And-Classes.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-07-01. Associative Arrays (`Map`): Синтаксис от н...](01-07-01-Syntax-Maps-And-Stream-API.md)
+
+© 2026 Dev-Library / 01-07-00. Associative Arrays (`HashMap`, `LinkedHashMap`, `TreeMap` — Теория & Капани)

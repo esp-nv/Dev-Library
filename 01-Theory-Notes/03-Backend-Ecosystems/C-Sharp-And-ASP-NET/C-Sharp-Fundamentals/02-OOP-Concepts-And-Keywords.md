@@ -1,3 +1,7 @@
+[⬅️ Глава 1: C# Fundamentals — Архитектурен Справочник](01-C-SHARP-FUND-SHORT.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 3: Свещеният граал на LINQ и Отложено Изпълнение](03-LINQ-Deep-Dive-And-Deferred-Execution.md)
+
+---
+
 # 📘 Глава 2: ООП Основи, Ключови думи и Памет в C#
 **Статус:** Актуализиран учебен материал | **Цел:** Дълбоко разбиране без объркване, кастинг и управление на ресурси
 
@@ -242,3 +246,14 @@ string finalName = inputName ?? "Unknown";
 // Безопасно вземане на дължина на текст
 int? length = inputName?.Length; // Връща null, програмата НЕ забива!
 ```
+
+
+
+
+
+
+---
+
+[⬅️ Глава 1: C# Fundamentals — Архитектурен Справочник](01-C-SHARP-FUND-SHORT.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 3: Свещеният граал на LINQ и Отложено Изпълнение](03-LINQ-Deep-Dive-And-Deferred-Execution.md)
+
+© 2026 Dev-Library / Глава 2: ООП Основи, Ключови думи и Памет в C#

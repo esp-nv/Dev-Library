@@ -1,3 +1,7 @@
+[⬅️ Учебник: Методи, Stack Frames, Делегати и Ламбда изр...](methods-delegates-csharp.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ reflection-attributes-csharp](reflection-attributes-csharp.md)
+
+---
+
 # 📘 Учебник: Обектно-Ориентирано Програмиране (OOP) и Паметта в C#
 
 **Файл:** `oop-concepts-csharp.md` | **Ниво:** Архитектурно ядро / C# Internals  
@@ -235,5 +239,14 @@ public class CastingSafetyDemo
 4. **Избирай `interface` за способности (`IComparable`, `IPayable`)** и **`abstract class` за споделено състояние и конструктор**.
 5. **Използвай `if (obj is SubClass sub)`** вместо директно кастване `(SubClass)obj`, за да избегнеш `InvalidCastException`.
 
+
+
+
+
+
+
 ---
+
+[⬅️ Учебник: Методи, Stack Frames, Делегати и Ламбда изр...](methods-delegates-csharp.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ reflection-attributes-csharp](reflection-attributes-csharp.md)
+
 © 2026 Dev-Library / Учебник: Обектно-Ориентирано Програмиране (OOP) и Паметта в C#

@@ -1,4 +1,4 @@
-[⬅️ Теория, Serializers, ViewSets, JWT, Permissions & Капани](06-04-00-Django-REST-Framework.md) | [📂 Назад към Module 06 Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06 Django Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md)
+[⬅️ 06-04-01. Django REST Framework: Синтаксис от нулата...](06-04-01-Syntax-Django-REST-Framework.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-05-01. Celery & Redis in Django: Синтаксис от нул...](06-05-01-Syntax-Celery-And-Redis.md)
 
 ---
 
@@ -126,8 +126,14 @@ def checkout_view_clean(request):
     *   *Пример:* Ако задачата просто прави `user.balance += 100`, при повторно изпълнение клиентът ще получи 200 лв. вместо 100 лв.!
     *   *Решение:* Всяка задача проверява статуса на трансакцията преди действие (напр. `if Payment.objects.filter(transaction_id=tx_id, status="COMPLETED").exists(): return`), гарантирайки, че парите или имейлът се обработват строго веднъж.
 
+
+
+
+
+
+
 ---
 
-[⬅️ Теория, Serializers, ViewSets, JWT, Permissions & Капани](06-04-00-Django-REST-Framework.md) | [📂 Назад към Module 06 Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06 Django Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md)
+[⬅️ 06-04-01. Django REST Framework: Синтаксис от нулата...](06-04-01-Syntax-Django-REST-Framework.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-05-01. Celery & Redis in Django: Синтаксис от нул...](06-05-01-Syntax-Celery-And-Redis.md)
 
 © 2026 Dev-Library / 06-05-00. Asynchronous Processing with Celery and Redis (Теория, Brokers, Beat & Капани)

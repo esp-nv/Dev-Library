@@ -1,4 +1,4 @@
-[⬅️ 04-04. Table Relationships](04-04-00-Relationships.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-05-01. Django ORM Syntax](04-05-01-Syntax-Django-ORM.md)
+[⬅️ 04-04-02. SQLAlchemy 2.0 Relationships: Синтаксис от...](04-04-02-Syntax-SQLAlchemy.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-05-01. Django ORM Optimization: Синтаксис от нула...](04-05-01-Syntax-Django-ORM.md)
 
 ---
 
@@ -107,5 +107,14 @@ for order in optimized_orders:
 *   **Точен Senior отговор:** `prefetch_related("items")` кешира в паметта резултата от **`order.items.all()`**. Когато вътре в цикъла извикаш `.count()` или `.filter(...)`, ти създаваш **изцяло нов `QuerySet`**, който заобикаля кеша и удря SQL базата наново на всяка итерация!
     *   **Правилен фикс:** За броене използвай вградения Python **`len(order.items.all())`** (което чете кеширания списък в RAM без SQL заявка), а за филтриране използвай специалния обект **`Prefetch("items", queryset=Item.objects.filter(price__gt=10))`**.
 
+
+
+
+
+
+
 ---
-[⬅️ 04-04. Table Relationships](04-04-00-Relationships.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-05-01. Django ORM Syntax](04-05-01-Syntax-Django-ORM.md)
+
+[⬅️ 04-04-02. SQLAlchemy 2.0 Relationships: Синтаксис от...](04-04-02-Syntax-SQLAlchemy.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-05-01. Django ORM Optimization: Синтаксис от нула...](04-05-01-Syntax-Django-ORM.md)
+
+© 2026 Dev-Library / 04-05-00. Query Optimization & The N+1 Problem (Теория, Lazy vs Eager Loading & Капани)

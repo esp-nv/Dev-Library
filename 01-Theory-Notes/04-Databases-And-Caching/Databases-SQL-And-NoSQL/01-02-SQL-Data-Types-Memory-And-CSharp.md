@@ -1,6 +1,7 @@
-[⬅️ 01-01. Логика на SELECT](01-01-SQL-Logic-And-Select-Order.md) |[📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) |🏠 [Библиотека БД](README.md)  | [➡️ 01-03. Релационни диалекти](01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md)
+[⬅️ 01-01. Логика на мислене и Ред на написване на `SELECT`](01-01-SQL-Logic-And-Select-Order.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ ️ 01-03. Релационни диалекти: MS SQL Server, Postgre...](01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md)
 
 ---
+
 # 💾 01-02. Типове данни, Заемане на памет и Мостът към C#
 
 **Цел:** Точен превод между SQL типове и C#, физическо разпределение на байтовете на диска (Data Pages), Unicode правила (`N'...'`) и Nullable стойности (`int?`).
@@ -145,5 +146,14 @@ public class Student
 ---
 [⬅️ 01-01. Логика на SELECT](01-01-SQL-Logic-And-Select-Order.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) |🏠 [Библиотека БД](README.md)  | [➡️ 01-03. Релационни диалекти](01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md)
 
+
+
+
+
+
+
 ---
+
+[⬅️ 01-01. Логика на мислене и Ред на написване на `SELECT`](01-01-SQL-Logic-And-Select-Order.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ ️ 01-03. Релационни диалекти: MS SQL Server, Postgre...](01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md)
+
 © 2026 Dev-Library / 01-02. Типове данни, Заемане на памет и Мостът към C#

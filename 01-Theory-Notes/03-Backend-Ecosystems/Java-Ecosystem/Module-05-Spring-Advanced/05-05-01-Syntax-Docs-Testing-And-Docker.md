@@ -1,4 +1,4 @@
-[⬅️ 05-05-00. Теория & Капани](05-05-00-Docs-Testing-And-Docker.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ Глобален Индекс & Речник](../../GLOBAL-INDEX-AND-GLOSSARY.md)
+[⬅️ 05-05-00. API Documentation (Swagger), Integration T...](05-05-00-Docs-Testing-And-Docker.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md)
 
 ---
 
@@ -193,5 +193,14 @@ volumes:
 | **`@WithMockUser(roles = "ADMIN")`** | Симулира логнат потребител в тестове | Изисква `spring-security-test` зависимост |
 | **`docker compose up --build -d`** | Билдва и стартира API + база данни във фонов режим | В корена на проекта при наличие на `docker-compose.yml` |
 
+
+
+
+
+
+
 ---
-[⬅️ 05-05-00. Теория & Капани](05-05-00-Docs-Testing-And-Docker.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ Глобален Индекс & Речник](../../GLOBAL-INDEX-AND-GLOSSARY.md)
+
+[⬅️ 05-05-00. API Documentation (Swagger), Integration T...](05-05-00-Docs-Testing-And-Docker.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md)
+
+© 2026 Dev-Library / 05-05-01. API Documentation (Swagger), Integration Testing (Testcontainers) & Docker: Синтаксис от нулата & Cheat Sheet

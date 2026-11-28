@@ -1,4 +1,4 @@
-[⬅️ 01-09-00. Теория & Капани](01-09-00-Regular-Expressions.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ Модул 02: Advance](../Module-02-Advance/README.md)
+[⬅️ 01-09-00. Regular Expressions](01-09-00-Regular-Expressions.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [📦 Към следващ модул: Module-02-Advance](../Module-02-Advance/README.md)
 
 ---
 
@@ -102,5 +102,14 @@ print(parts)                # Изход: ['Поръчка #104 на стойн�
 | **`re.search(pat, txt)`** | Връща първото съвпадение или `None` | `if m: print(m.group())` |
 | **`re.sub(pat, new, txt)`** | Търси и заменя по шаблон | Заменя чувствителни данни |
 
+
+
+
+
+
+
 ---
-[⬅️ 01-09-00. Теория & Капани](01-09-00-Regular-Expressions.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ Модул 02: Advance](../Module-02-Advance/README.md)
+
+[⬅️ 01-09-00. Regular Expressions](01-09-00-Regular-Expressions.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [📦 Към следващ модул: Module-02-Advance](../Module-02-Advance/README.md)
+
+© 2026 Dev-Library / 01-09-01. Regular Expressions: Синтаксис от нулата & Cheat Sheet

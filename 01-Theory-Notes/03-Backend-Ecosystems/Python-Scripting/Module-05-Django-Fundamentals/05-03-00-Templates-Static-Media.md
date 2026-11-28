@@ -1,4 +1,4 @@
-[⬅️ 05-02. URLs and FBV](05-02-00-URLs-And-FBV.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-03-01. Syntax From Scratch](05-03-01-Syntax-Templates-Static-Media.md)
+[⬅️ 05-02-01. URLs and FBV: Синтаксис от нулата & Cheat ...](05-02-01-Syntax-URLs-And-FBV.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-03-01. Django Templates, Static & Media: Синтакси...](05-03-01-Syntax-Templates-Static-Media.md)
 
 ---
 
@@ -121,5 +121,14 @@ Django използва **Server-Side Rendering (SSR)** — сървърът с�
 *   **Уловката:** Начинаещите програмисти подават `{"user": request.user, "categories": Category.objects.all()}` ръчно във всяко едно `return render(...)` из целия проект.
 *   **Точен Senior отговор:** **Context Processor** е обикновена Python функция, която приема `request` и връща речник `dict`. Всички ключове в този речник стават **автоматично достъпни във всеки един HTML шаблон в целия сайт**, без да ги подаваш ръчно в `views.py`! Точно благодарение на вградените Context Processors в шаблоните винаги имаме променливата `{{ user }}` и `{{ request }}`. Пишем свой собствен, когато имаме глобални елементи за навигацията (например брой артикули в количката или списък с категории в главното меню).
 
+
+
+
+
+
+
 ---
-[⬅️ 05-02. URLs and FBV](05-02-00-URLs-And-FBV.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-03-01. Syntax From Scratch](05-03-01-Syntax-Templates-Static-Media.md)
+
+[⬅️ 05-02-01. URLs and FBV: Синтаксис от нулата & Cheat ...](05-02-01-Syntax-URLs-And-FBV.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-03-01. Django Templates, Static & Media: Синтакси...](05-03-01-Syntax-Templates-Static-Media.md)
+
+© 2026 Dev-Library / 05-03-00. Django Templates (DTL), Static and Media Files (Теория, XSS & Капани)

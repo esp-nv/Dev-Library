@@ -1,4 +1,4 @@
-[⬅️ 04-02-01. Django ORM Syntax](04-02-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-03-00. CRUD and Queries](04-03-00-CRUD-And-Queries.md)
+[⬅️ 04-02-01. Django ORM Migrations: Синтаксис от нулата...](04-02-01-Syntax-Django-ORM.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-03-00. CRUD Operations and Queries](04-03-00-CRUD-And-Queries.md)
 
 ---
 
@@ -98,5 +98,14 @@ alembic downgrade base  # Отменя абсолютно всички мигр�
 | `alembic current` | Показва текущата активна версия в базата |
 | `alembic upgrade head --sql` | Принтира суровия SQL без да го изпълнява |
 
+
+
+
+
+
+
 ---
-[⬅️ 04-02-01. Django ORM Syntax](04-02-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-03-00. CRUD and Queries](04-03-00-CRUD-And-Queries.md)
+
+[⬅️ 04-02-01. Django ORM Migrations: Синтаксис от нулата...](04-02-01-Syntax-Django-ORM.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-03-00. CRUD Operations and Queries](04-03-00-CRUD-And-Queries.md)
+
+© 2026 Dev-Library / 04-02-02. SQLAlchemy (Alembic) Migrations: Синтаксис от нулата & Cheat Sheet

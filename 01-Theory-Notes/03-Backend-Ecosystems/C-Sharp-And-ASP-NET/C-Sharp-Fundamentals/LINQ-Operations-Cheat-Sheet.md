@@ -1,3 +1,7 @@
+[⬅️ Учебник: Шаблони за проектиране (Design Patterns) в ...](design-patterns-oop-csharp.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ map-linq](map-linq.md)
+
+---
+
 # ⚡ LINQ Справочник: Операции, Логика и Оптимизация
 **Дата на рефакториране:** 3 Ноември 2026 г. | **Тема:** C# Fundamentals & LINQ | **Статус:** Оптимизиран справочник
 
@@ -75,3 +79,14 @@
 *   `Select(n => n * 2)` $\rightarrow$ Умножението **променя трайно** самите данни, които излизат от тази стъпка нататък.
 
 > **💡 Софтуерен съвет при дебъгване:** За да разбереш сложна LINQ заявка, винаги спирай на всяка точка и си задавай въпроса: *„Какво влиза в този метод?“* и *„Какво излиза от него?“*.
+
+
+
+
+
+
+---
+
+[⬅️ Учебник: Шаблони за проектиране (Design Patterns) в ...](design-patterns-oop-csharp.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ map-linq](map-linq.md)
+
+© 2026 Dev-Library / LINQ Справочник: Операции, Логика и Оптимизация

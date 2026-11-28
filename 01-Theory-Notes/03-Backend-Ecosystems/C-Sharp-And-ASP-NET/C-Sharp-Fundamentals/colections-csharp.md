@@ -1079,3 +1079,14 @@ var result = students
 //
 // Първо МИСЛЯ за начина на достъп.
 // После избирам collection.
+
+
+
+
+
+
+---
+
+[⬅️ Глава 14: Шаблони за проектиране (Design Patterns) в...](14-DESIGN-PATTERNS-OOP.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ csharp](csharp.md)
+
+© 2026 Dev-Library / colections-csharp

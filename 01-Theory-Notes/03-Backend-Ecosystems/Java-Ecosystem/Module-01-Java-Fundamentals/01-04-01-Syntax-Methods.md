@@ -1,4 +1,4 @@
-[⬅️ 01-04-00. Теория & Капани](01-04-00-Methods.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-05-00. Lists](01-05-00-Lists.md)
+[⬅️ 01-04-00. Methods](01-04-00-Methods.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-05-00. Lists](01-05-00-Lists.md)
 
 ---
 
@@ -108,5 +108,14 @@ public class MultiReturnDemo {
 | **Връщане на 2 стойности** | `record Pair(int a, int b) {}` | `(int a, int b) Fn()` (ValueTuple) | `return a, b` (`tuple`) |
 | **Ранно прекратяване на `void`** | `if (invalid) return;` | `if (invalid) return;` | `if invalid: return` |
 
+
+
+
+
+
+
 ---
-[⬅️ 01-04-00. Теория & Капани](01-04-00-Methods.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-05-00. Lists](01-05-00-Lists.md)
+
+[⬅️ 01-04-00. Methods](01-04-00-Methods.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-05-00. Lists](01-05-00-Lists.md)
+
+© 2026 Dev-Library / 01-04-01. Methods: Синтаксис от нулата & Cheat Sheet

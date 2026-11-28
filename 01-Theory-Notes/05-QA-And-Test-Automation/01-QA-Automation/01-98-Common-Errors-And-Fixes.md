@@ -1,4 +1,4 @@
-[⬅️ `-00` Теория & Капани](01-04-00-Selenium-WebDriver-And-POM.md) | [📂 Назад към 01 QA Automation Хъба](README.md) | [🌐 Домейн: 05. QA & Test Automation](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01 QA Automation](README.md) | [🌐 Следващ домейн: 06. Cloud, DevOps & Architecture](../../06-Cloud-DevOps-And-Architecture/README.md)
+[⬅️ 01-97. QA Automation Category Cheat Sheet: Пълно обо...](01-97-Category-Cheat-Sheet.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-99. QA & SDET Interview Q&A, Скрити Капани & Debu...](01-99-Interview-QA-Traps-And-Debugging.md)
 
 ---
 
@@ -74,8 +74,14 @@ wait.Until(d => d.FindElement(By.CssSelector("tr.order-row"))).Click();
 | **`StrictModeViolation` (Playwright)** | **При изпълнение** (`Runtime — Locator Audit`) | Локаторът съвпада с повече от 1 елемент на страницата (напр. 3 бутона `"Купи"`). | Стеснете локатора чрез родителски елемент (`.filter({ hasText: "Лаптоп" })`) или `data-testid`. |
 | **`AssertionError` (`Expected 200 but was 500`)** | **При проверка** (`Runtime — Assert Phase`) | Тестът е изпълнил стъпките успешно, но реалният резултат от системата не съвпада с очаквания. | **Открит реален дефект (или остарял тест)** — прикачете Trace/Screenshot и докладвайте Bug в Jira! |
 
+
+
+
+
+
+
 ---
 
-[⬅️ `-00` Теория & Капани](01-04-00-Selenium-WebDriver-And-POM.md) | [📂 Назад към 01 QA Automation Хъба](README.md) | [🌐 Домейн: 05. QA & Test Automation](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01 QA Automation](README.md) | [🌐 Следващ домейн: 06. Cloud, DevOps & Architecture](../../06-Cloud-DevOps-And-Architecture/README.md)
+[⬅️ 01-97. QA Automation Category Cheat Sheet: Пълно обо...](01-97-Category-Cheat-Sheet.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-99. QA & SDET Interview Q&A, Скрити Капани & Debu...](01-99-Interview-QA-Traps-And-Debugging.md)
 
 © 2026 Dev-Library / 01-98. QA Automation Common Errors, Edge Cases & Fixes (Каталог на грешките)

@@ -1,4 +1,4 @@
-[⬅️ 04-03. CRUD and Queries](04-03-00-CRUD-And-Queries.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-04-01. Django ORM Syntax](04-04-01-Syntax-Django-ORM.md)
+[⬅️ 04-03-02. SQLAlchemy 2.0 CRUD: Синтаксис от нулата &...](04-03-02-Syntax-SQLAlchemy.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-04-01. Django ORM Relationships: Синтаксис от нул...](04-04-01-Syntax-Django-ORM.md)
 
 ---
 
@@ -117,5 +117,14 @@ class Invoice(models.Model):
 *   **Точен Senior отговор:** По подразбиране Django ORM **не слага** `ON DELETE CASCADE` в SQL базата! Когато извикаш `author.delete()`, Django първо изтегля **всички свързани книги в RAM паметта на Python**, за да задейства сигналите (`pre_delete`, `post_delete`), и след това ги трие. Ако авторът има 500 000 записа, сървърът ще гръмне с `OutOfMemory`!
     *   **Правилен фикс:** В SQLAlchemy се използва `ondelete="CASCADE"` на `ForeignKey` + `passive_deletes=True`, а в Django 5+ се използва `db_on_delete=models.DB_CASCADE`, за да се прехвърли работата директно към бързия SQL сървър.
 
+
+
+
+
+
+
 ---
-[⬅️ 04-03. CRUD and Queries](04-03-00-CRUD-And-Queries.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-04-01. Django ORM Syntax](04-04-01-Syntax-Django-ORM.md)
+
+[⬅️ 04-03-02. SQLAlchemy 2.0 CRUD: Синтаксис от нулата &...](04-03-02-Syntax-SQLAlchemy.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-04-01. Django ORM Relationships: Синтаксис от нул...](04-04-01-Syntax-Django-ORM.md)
+
+© 2026 Dev-Library / 04-04-00. Table Relationships (Теория, Foreign Keys, NoSQL Embedding & Капани)

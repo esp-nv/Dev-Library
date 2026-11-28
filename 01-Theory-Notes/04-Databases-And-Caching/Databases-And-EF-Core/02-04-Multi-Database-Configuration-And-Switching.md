@@ -1,4 +1,4 @@
-[⬅️ 02-03. Глобален Пищов](02-03-EF-Core-Fluent-API-And-Migrations-CheatSheet.md) | [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) 
+[⬅️ 02-03. EF Core Fluent API и Миграции](02-03-EF-Core-Fluent-API-And-Migrations-CheatSheet.md) | [📂 Назад към Databases & Entity Framework Core — Пълен Архитектур... Хъба](README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases & Entity Framework Core — Пълен Архитектур...](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [➡️ 02-05. ADO.NET срещу EF Core, Change Tracking и Логв...](02-05-AdoNet-Vs-EfCore-And-Change-Tracking.md)
 
 ---
 
@@ -154,7 +154,14 @@ builder.Services.AddDatabaseConfig(builder.Configuration);
 *   **Проблема:** SQL Server чете и филтрира колоните без значение от малки и главни букви. Когато LINQ заявка се преведе към PostgreSQL, той очаква стриктно малки букви (`snake_case`). Ако в C# свойството е `FirstName`, Postgres ще хвърли грешка, че колоната не съществува.
 *   **Решение:** Използвай универсалниFluent API конвенции или инсталирай NuGet пакета `EFCore.NamingConventions` и добави `.UseSnakeCaseNamingConvention()` към конфигурацията на Postgres провайдъра.
 
+
+
+
+
+
+
 ---
-[⬅️ 02-03. Глобален Пищов](02-03-EF-Core-Fluent-API-And-Migrations-CheatSheet.md) | [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) 
+
+[⬅️ 02-03. EF Core Fluent API и Миграции](02-03-EF-Core-Fluent-API-And-Migrations-CheatSheet.md) | [📂 Назад към Databases & Entity Framework Core — Пълен Архитектур... Хъба](README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases & Entity Framework Core — Пълен Архитектур...](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [➡️ 02-05. ADO.NET срещу EF Core, Change Tracking и Логв...](02-05-AdoNet-Vs-EfCore-And-Change-Tracking.md)
 
 © 2026 Dev-Library / 02-04. Стратегия за мулти-провайдър: Превключване между SQL и NoSQL бази

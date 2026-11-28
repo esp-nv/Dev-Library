@@ -1,4 +1,4 @@
-[⬅️ 05-04-00. Теория & Капани](05-04-00-Spring-AOP.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-05-00. Docs, Testing & Docker](05-05-00-Docs-Testing-And-Docker.md)
+[⬅️ 05-04-00. Spring AOP (Aspect-Oriented Programming) &...](05-04-00-Spring-AOP.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 05-05-00. API Documentation (Swagger), Integration T...](05-05-00-Docs-Testing-And-Docker.md)
 
 ---
 
@@ -175,5 +175,14 @@ public class WebInterceptorConfig implements WebMvcConfigurer {
 | **`@Around`** | И преди, и след метода (обвива го изцяло) | **Да!** Контролира `joinPoint.proceed()` и `return` стойността |
 | **`HandlerInterceptor`** | Преди/след `@Controller` в Spring MVC | **Да!** Ако `preHandle` върне `false`, спира заявката |
 
+
+
+
+
+
+
 ---
-[⬅️ 05-04-00. Теория & Капани](05-04-00-Spring-AOP.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-05-00. Docs, Testing & Docker](05-05-00-Docs-Testing-And-Docker.md)
+
+[⬅️ 05-04-00. Spring AOP (Aspect-Oriented Programming) &...](05-04-00-Spring-AOP.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 05-05-00. API Documentation (Swagger), Integration T...](05-05-00-Docs-Testing-And-Docker.md)
+
+© 2026 Dev-Library / 05-04-01. Spring AOP (Aspect-Oriented Programming) & Interceptors: Синтаксис от нулата & Cheat Sheet

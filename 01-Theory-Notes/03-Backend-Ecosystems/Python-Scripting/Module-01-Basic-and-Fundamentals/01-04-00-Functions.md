@@ -1,4 +1,4 @@
-[⬅️ 01-03. List Basics](01-03-00-List-Basics.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-04-01. Syntax From Scratch](01-04-01-Syntax-Functions.md)
+[⬅️ 01-03-01. List Basics: Синтаксис от нулата & Cheat S...](01-03-01-Syntax-List-Basics.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-04-01. Functions: Синтаксис от нулата & Cheat Sheet](01-04-01-Syntax-Functions.md)
 
 ---
 
@@ -132,5 +132,14 @@ print(f"Промо цена:      {price_promo} лв.")
             return target_list
         ```
 
+
+
+
+
+
+
 ---
-[⬅️ 01-03. List Basics](01-03-00-List-Basics.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-04-01. Syntax From Scratch](01-04-01-Syntax-Functions.md)
+
+[⬅️ 01-03-01. List Basics: Синтаксис от нулата & Cheat S...](01-03-01-Syntax-List-Basics.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-04-01. Functions: Синтаксис от нулата & Cheat Sheet](01-04-01-Syntax-Functions.md)
+
+© 2026 Dev-Library / 01-04-00. Functions (Теория, Обхват (Scope) & Интервю Капани)

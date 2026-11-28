@@ -1,4 +1,4 @@
-[⬅️ 02-96. Performance & Optimizations](02-96-Performance-And-Optimizations.md) | [📂 Назад към JavaScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-98. Common Errors, Edge Cases & Fixes](02-98-Common-Errors-And-Fixes.md)
+[⬅️ 02-96. JavaScript Performance & Optimizations](02-96-Performance-And-Optimizations.md) | [📂 Назад към JavaScript Language & Architecture Хъба](README.md) | [📦 Предишен модул: HTML5-CSS3-And-SASS](../HTML5-CSS3-And-SASS/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language & Architecture](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-98. Common Errors, Edge Cases & Fixes](02-98-Common-Errors-And-Fixes.md)
 
 ---
 
@@ -30,6 +30,22 @@
 | `with(index, val)` | Заменя елемент на индекс (ES2023+) | ❌ Не | Нов масив с подменен елемент |
 | `push` / `pop` / `shift` / `unshift` | Добавяне/премахване в края/началото | ⚠️ **ДА** | Нова дължина или премахнатия елемент |
 | `sort(cmp)` / `reverse()` / `splice()` | Сортиране/обръщане/рязане на място | ⚠️ **ДА** | Мутирания оригинален масив |
+
+
+### Вложени масиви (Nested Arrays / Matrices)
+```javascript
+const matrix = [,
+  [-1, 7, 14],
+  [1, -8, 89]
+];
+
+// Обхождане на главен и вторичен диагонал за O(n)
+let mainDiag = 0, secondaryDiag = 0;
+for (let i = 0; i < matrix.length; i++) {
+  mainDiag += matrix[i][i];
+  secondaryDiag += matrix[i][matrix.length - 1 - i];
+}
+```
 
 ---
 
@@ -94,8 +110,14 @@ text.slice(2, 9);                 // "Formula"
 * **Numeric Separators:** `const oneMillion = 1_000_000;`
 * **Top-Level `await`:** Възможност за директно `await fetch(...)` в ES Modules (`.mjs` / `type="module"`) без обвиваща `async` функция.
 
+
+
+
+
+
+
 ---
 
-[⬅️ 02-96. Performance & Optimizations](02-96-Performance-And-Optimizations.md) | [📂 Назад към JavaScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-98. Common Errors, Edge Cases & Fixes](02-98-Common-Errors-And-Fixes.md)
+[⬅️ 02-96. JavaScript Performance & Optimizations](02-96-Performance-And-Optimizations.md) | [📂 Назад към JavaScript Language & Architecture Хъба](README.md) | [📦 Предишен модул: HTML5-CSS3-And-SASS](../HTML5-CSS3-And-SASS/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language & Architecture](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-98. Common Errors, Edge Cases & Fixes](02-98-Common-Errors-And-Fixes.md)
 
 © 2026 Dev-Library / 02-97. JavaScript Category Cheat Sheet (Справочник по категории)

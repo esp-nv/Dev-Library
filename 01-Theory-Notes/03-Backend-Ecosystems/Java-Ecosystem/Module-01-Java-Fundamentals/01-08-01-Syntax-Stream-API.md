@@ -1,4 +1,4 @@
-[⬅️ 01-08-00. Теория & Капани](01-08-00-Stream-API.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-09-00. Text Processing](01-09-00-Text-Processing.md)
+[⬅️ 01-08-00. Stream API & Lambda Expressions](01-08-00-Stream-API.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-09-00. Text Processing](01-09-00-Text-Processing.md)
 
 ---
 
@@ -122,5 +122,14 @@ List<String> flatList = matrix.stream()
 | **`.findFirst()` / `.findAny()`** | Terminal (Short-circuit) | Връща `Optional<T>` с първия намерен елемент |
 | **`opt.orElseGet(() -> val)`** | `Optional` метод | Мързеливо връща алтернативна стойност при празен `Optional` |
 
+
+
+
+
+
+
 ---
-[⬅️ 01-08-00. Теория & Капани](01-08-00-Stream-API.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-09-00. Text Processing](01-09-00-Text-Processing.md)
+
+[⬅️ 01-08-00. Stream API & Lambda Expressions](01-08-00-Stream-API.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-09-00. Text Processing](01-09-00-Text-Processing.md)
+
+© 2026 Dev-Library / 01-08-01. Stream API & Lambda Expressions: Синтаксис от нулата & Cheat Sheet

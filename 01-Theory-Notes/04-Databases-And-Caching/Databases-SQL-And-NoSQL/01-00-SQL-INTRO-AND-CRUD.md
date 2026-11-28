@@ -1,10 +1,4 @@
-[📂 Назад към Databases SQL And NoSQL Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: 04. Databases & Caching](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases SQL And NoSQL](README.md) | [🌐 Следващ домейн: 05. QA & Test Automation](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ Карта на Модул 02](02-00-DATA-MODELING-OVERVIEW.md)
-
----
-
-[⏪ 00-01. DBMS Architecture, Backups and Tools](00-01-DBMS-Architecture-Backups-And-Tools.md) | 📂 Глава 01 | [🏠 Начало (Библиотека БД)](README.md) | [⏩ 01-01. Логика и Ред на SELECT](01-01-SQL-Logic-And-Select-Order.md) [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md)
-
-
+[⬅️ 00-01. Архитектура на СУБД, Инструменти, Бекъпи и Ми...](00-01-DBMS-Architecture-Backups-And-Tools.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 01-01. Логика на мислене и Ред на написване на `SELECT`](01-01-SQL-Logic-And-Select-Order.md)
 
 ---
 
@@ -120,8 +114,14 @@
 ---
 [⏪ 00-01. DBMS Architecture, Backups and Tools](00-01-DBMS-Architecture-Backups-And-Tools.md) | 📂 Глава 01 | [🏠 Начало (Библиотека БД)](README.md) | [⏩ 01-01. Логика и Ред на SELECT](01-01-SQL-Logic-And-Select-Order.md) [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md)
 
+
+
+
+
+
+
 ---
 
-[📂 Назад към Databases SQL And NoSQL Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: 04. Databases & Caching](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases SQL And NoSQL](README.md) | [🌐 Следващ домейн: 05. QA & Test Automation](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ Карта на Модул 02](02-00-DATA-MODELING-OVERVIEW.md)
+[⬅️ 00-01. Архитектура на СУБД, Инструменти, Бекъпи и Ми...](00-01-DBMS-Architecture-Backups-And-Tools.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 01-01. Логика на мислене и Ред на написване на `SELECT`](01-01-SQL-Logic-And-Select-Order.md)
 
 © 2026 Dev-Library / 01. Въведение в БД, Типове данни и CRUD операции (Кратък справочник)

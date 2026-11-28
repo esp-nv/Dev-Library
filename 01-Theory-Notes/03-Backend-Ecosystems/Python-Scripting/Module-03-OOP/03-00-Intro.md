@@ -1,4 +1,4 @@
-[⬅️ Назад към Индекса](README.md) | [📂 Папка: Module-03-OOP](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 03-01. Classes and Objects](03-01-00-Classes-And-Objects.md)
+[📦 Към предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-01-00. Classes and Objects](03-01-00-Classes-And-Objects.md)
 
 ---
 
@@ -119,5 +119,14 @@ print(backend_team)
     1.  **`__new__(cls, ...)`** се извиква **първи** — той заделя реална оперативна памет (RAM), създава празния обект и го връща.
     2.  **`__init__(self, ...)`** се извиква **веднага след това**, приема вече създадения обект като `self` и просто пълни началните му стойности (затова `__init__` никога не трябва да има `return`). Методът `__new__` се пренаписва при създаване на **Singleton** патерн или наследяване от неизменяеми типове като `int` и `str`.
 
+
+
+
+
+
+
 ---
-[⬅️ Назад към Индекса](README.md) | [📂 Папка: Module-03-OOP](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 03-01. Classes and Objects](03-01-00-Classes-And-Objects.md)
+
+[📦 Към предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-01-00. Classes and Objects](03-01-00-Classes-And-Objects.md)
+
+© 2026 Dev-Library / 03-00. Intro: Въведение в Python OOP & Архитектурен Roadmap

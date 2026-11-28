@@ -1,4 +1,4 @@
-[⬅️ 02-02. Web API и Асинхронност](02-02-Web-API-And-Asynchronous-Processing.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-04. Напреднал Глобален Пищов](02-04-ASP-NET-Core-Advanced-CheatSheet.md)
+[⬅️ 02-02. Web API проектиране и Напреднала асинхронна о...](02-02-Web-API-And-Asynchronous-Processing.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 02-04. ASP.NET Core Advanced](02-04-ASP-NET-Core-Advanced-CheatSheet.md)
 
 ---
 
@@ -152,7 +152,14 @@ app.MapHub<NotificationHub>("/hubs/notifications"); // Начертава соф
 *   **Защо се случва:** Ти си казала на C# кода да пренасочи разпределения кеш към Redis сървър, но на локалната ти машина или в облачния Docker контейнер няма реално инсталиран и стартиран работещ Redis двигател на порт `6379`.
 *   **Как да го поправиш:** Подсигури, че Redis сървърът е физически пуснат (напр. през Docker команда: `docker run -d -p 6379:6379 redis`), или по време на локална разработка смени конфигурацията към InMemory симулация: `builder.Services.AddDistributedMemoryCache();`, която ще симулира разпределен кеш изцяло вътре в твоята RAM памет, без да търси външен сървър.
 
+
+
+
+
+
+
 ---
-[⬅️ 02-02. Web API и Асинхронност](02-02-Web-API-And-Asynchronous-Processing.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-04. Напреднал Глобален Пищов](02-04-ASP-NET-Core-Advanced-CheatSheet.md)
+
+[⬅️ 02-02. Web API проектиране и Напреднала асинхронна о...](02-02-Web-API-And-Asynchronous-Processing.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 02-04. ASP.NET Core Advanced](02-04-ASP-NET-Core-Advanced-CheatSheet.md)
 
 © 2026 Dev-Library / 02-03. Кеширане, Логване на заявки и Облачен деплой

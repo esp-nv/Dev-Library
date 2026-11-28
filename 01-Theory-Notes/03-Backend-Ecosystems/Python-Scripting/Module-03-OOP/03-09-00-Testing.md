@@ -1,4 +1,4 @@
-[⬅️ 03-08. Decorators](03-08-00-Decorators.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-09-01. Syntax From Scratch](03-09-01-Syntax-Testing.md)
+[⬅️ 03-08-01. Decorators: Синтаксис от нулата & Cheat Sheet](03-08-01-Syntax-Decorators.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-09-01. Testing: Синтаксис от нулата & Cheat Sheet](03-09-01-Syntax-Testing.md)
 
 ---
 
@@ -147,5 +147,14 @@ if __name__ == "__main__":
 *   **Уловката:** Кандидатите често пишат `@patch("database_module.get_user")` вместо `@patch("user_service.get_user")` и мокът не сработва!
 *   **Точен Senior отговор:** Когато файл `user_service.py` направи `from database_module import get_user`, той създава **собствена локална референция** към функцията `get_user` в своето пространство от имена. Ако ти пачнеш оригиналния `database_module.get_user`, референцията вътре в `user_service.py` остава непроменена и продължава да вика реалната база данни! Затова златният закон в Python Mocking е: **„Пачвай там, където функцията се ИЗПОЛЗВА (`user_service.get_user`), а не там, където е дефинирана“**.
 
+
+
+
+
+
+
 ---
-[⬅️ 03-08. Decorators](03-08-00-Decorators.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-09-01. Syntax From Scratch](03-09-01-Syntax-Testing.md)
+
+[⬅️ 03-08-01. Decorators: Синтаксис от нулата & Cheat Sheet](03-08-01-Syntax-Decorators.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-09-01. Testing: Синтаксис от нулата & Cheat Sheet](03-09-01-Syntax-Testing.md)
+
+© 2026 Dev-Library / 03-09-00. Testing (Теория, `unittest` / `pytest`, Mocking & Капани)

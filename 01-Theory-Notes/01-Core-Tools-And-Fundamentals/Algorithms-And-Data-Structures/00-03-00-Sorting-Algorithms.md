@@ -1,4 +1,4 @@
-[⬅️ 00-02. Searching Algorithms](00-02-00-Searching-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-03-01. Python Implementation](00-03-01-Python-Implementation.md)
+[⬅️ 00-02-04. Searching Algorithms: Java Имплементация &...](00-02-04-Java-Implementation.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-03-01. Sorting Algorithms: Python Имплементация &...](00-03-01-Python-Implementation.md)
 
 ---
 
@@ -114,7 +114,14 @@ def insertion_sort(arr: list[int]) -> list[int]:
 *   **Уловката:** Кандидатите знаят, че Insertion Sort е \(O(n^2)\), и се чудят защо професионални алгоритми го използват вътре в себе си!
 *   **Точен Senior отговор:** Big O нотацията скрива константите. При малки масиви ($N \le 32$), **Insertion Sort** има много по-малко служебни операции (без рекурсивни извиквания на функции, без делене и без заделяне на допълнителни масиви) и данните се побират изцяло в **L1 кеша на процесора**. Затова при малки порции $O(n^2)$ алгоритъмът на практика бие $O(n \log n)$ алгоритмите по реални наносекунди!
 
+
+
+
+
+
+
 ---
-[⬅️ 00-02. Searching Algorithms](00-02-00-Searching-Algorithms.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-03-01. Python Implementation](00-03-01-Python-Implementation.md)
+
+[⬅️ 00-02-04. Searching Algorithms: Java Имплементация &...](00-02-04-Java-Implementation.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-03-01. Sorting Algorithms: Python Имплементация &...](00-03-01-Python-Implementation.md)
 
 © 2026 Dev-Library / 00-03-00. Sorting Algorithms (Теория, Стабилност, Big O & Капани)

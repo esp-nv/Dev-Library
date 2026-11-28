@@ -1,4 +1,4 @@
-[⬅️ 04-05-00. Теория & Сравнение](04-05-00-Optimization-And-N-Plus-1.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-05-02. SQLAlchemy Syntax](04-05-02-Syntax-SQLAlchemy.md)
+[⬅️ 04-05-00. Query Optimization & The N+1 Problem](04-05-00-Optimization-And-N-Plus-1.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-05-02. SQLAlchemy 2.0 Optimization: Синтаксис от ...](04-05-02-Syntax-SQLAlchemy.md)
 
 ---
 
@@ -115,5 +115,14 @@ fast_xml = ET.tostring(root, encoding="unicode")
 | **`.values("id", "name")`** | Връща леки Python речници (`dict`) вместо модели | **1 заявка** (максимална скорост) |
 | **`.values_list("id", flat=True)`** | Връща плосък списък `[1, 2, 3]` | **1 заявка** |
 
+
+
+
+
+
+
 ---
-[⬅️ 04-05-00. Теория & Сравнение](04-05-00-Optimization-And-N-Plus-1.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-05-02. SQLAlchemy Syntax](04-05-02-Syntax-SQLAlchemy.md)
+
+[⬅️ 04-05-00. Query Optimization & The N+1 Problem](04-05-00-Optimization-And-N-Plus-1.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-05-02. SQLAlchemy 2.0 Optimization: Синтаксис от ...](04-05-02-Syntax-SQLAlchemy.md)
+
+© 2026 Dev-Library / 04-05-01. Django ORM Optimization: Синтаксис от нулата & Cheat Sheet

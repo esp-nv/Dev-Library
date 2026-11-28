@@ -1,4 +1,4 @@
-[⬅️ 05-01-00. Теория & Капани](05-01-00-Architecture-And-HTTP.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-02-00. URLs and FBV](05-02-00-URLs-And-FBV.md)
+[⬅️ 05-01-00. Internet, HTTP & Django Architecture](05-01-00-Architecture-And-HTTP.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-02-00. URLs, Routing and Function-Based Views](05-02-00-URLs-And-FBV.md)
 
 ---
 
@@ -112,5 +112,14 @@ python manage.py runserver
 | `python manage.py runserver` | Стартира локалния сървър на порт `8000` |
 | `python manage.py shell` | Отваря интерактивна Python конзола със зареден Django |
 
+
+
+
+
+
+
 ---
-[⬅️ 05-01-00. Теория & Капани](05-01-00-Architecture-And-HTTP.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-02-00. URLs and FBV](05-02-00-URLs-And-FBV.md)
+
+[⬅️ 05-01-00. Internet, HTTP & Django Architecture](05-01-00-Architecture-And-HTTP.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-02-00. URLs, Routing and Function-Based Views](05-02-00-URLs-And-FBV.md)
+
+© 2026 Dev-Library / 05-01-01. Django Setup & Architecture: Синтаксис от нулата & Cheat Sheet

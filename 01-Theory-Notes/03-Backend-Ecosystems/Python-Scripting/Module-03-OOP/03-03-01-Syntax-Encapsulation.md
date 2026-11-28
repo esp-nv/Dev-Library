@@ -1,4 +1,4 @@
-[⬅️ 03-03-00. Теория & Капани](03-03-00-Encapsulation.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-04-00. Static and Class Methods](03-04-00-Static-And-Class-Methods.md)
+[⬅️ 03-03-00. Encapsulation](03-03-00-Encapsulation.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-04-00. Static and Class Methods](03-04-00-Static-And-Class-Methods.md)
 
 ---
 
@@ -108,5 +108,14 @@ processor.process("1234567812345678")
 | **Setter свойство** | `@age.setter \n def age(self, val):` | Позволява валидация при `obj.age = 20` |
 | **Изтриване на свойство** | `@age.deleter \n def age(self):` | Извиква се при `del obj.age` |
 
+
+
+
+
+
+
 ---
-[⬅️ 03-03-00. Теория & Капани](03-03-00-Encapsulation.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-04-00. Static and Class Methods](03-04-00-Static-And-Class-Methods.md)
+
+[⬅️ 03-03-00. Encapsulation](03-03-00-Encapsulation.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-04-00. Static and Class Methods](03-04-00-Static-And-Class-Methods.md)
+
+© 2026 Dev-Library / 03-03-01. Encapsulation: Синтаксис от нулата & Cheat Sheet

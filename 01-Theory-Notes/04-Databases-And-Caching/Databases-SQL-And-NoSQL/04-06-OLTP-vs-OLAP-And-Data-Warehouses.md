@@ -1,4 +1,4 @@
-⬅️ [04-05. C# Data Access (ADO.NET и Dapper)](04-05-CSharp-Data-Access-ADONET-Dapper-Intro.md) | 📂 [04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ⏩ [00-03. Архитектура, Бекъпи и Инструменти](00-03-DBMS-Architecture-Backups-And-Tools.md)
+[⬅️ 04-05. Достъп до данни в C#: ADO.NET ➔ Dapper ➔ EF Core](04-05-CSharp-Data-Access-ADONET-Dapper-Intro.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 04-07. Релации и Joins в ASP.NET Core](04-07-EFCore-Relations-ModelBuilder-And-Joins.md)
 
 ---
 
@@ -112,7 +112,14 @@ ORDER BY WeekendRevenue DESC;
 * **Какво се случва:** Опитваш се да правиш единични `UPDATE` или `INSERT` заявки ред по ред в колонна OLAP база. Тъй като колонните бази са оптимизирани за масово четене, единичните промени отнемат секунди и струват скъпо.
 * **Как да избегнеш:** Ползвай OLTP база (PostgreSQL / MS SQL) за приложението, а OLAP (Snowflake / BigQuery) — само за анализи и отчети.
 
+
+
+
+
+
+
 ---
-⬅️ [04-05. C# Data Access (ADO.NET и Dapper)](04-05-CSharp-Data-Access-ADONET-Dapper-Intro.md) | 📂 [04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ⏩ [00-03. Архитектура, Бекъпи и Инструменти](00-03-DBMS-Architecture-Backups-And-Tools.md)
+
+[⬅️ 04-05. Достъп до данни в C#: ADO.NET ➔ Dapper ➔ EF Core](04-05-CSharp-Data-Access-ADONET-Dapper-Intro.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 04-07. Релации и Joins в ASP.NET Core](04-07-EFCore-Relations-ModelBuilder-And-Joins.md)
 
 © 2026 Dev-Library / 04-06. OLTP срещу OLAP и Data Warehouses (Складове за данни)

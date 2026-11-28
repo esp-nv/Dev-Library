@@ -1,4 +1,4 @@
-[⬅️ 06-04-00. Теория & Капани](06-04-00-Django-REST-Framework.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-05-00. Celery and Redis](06-05-00-Celery-And-Redis.md)
+[⬅️ 06-04-00. Django REST Framework](06-04-00-Django-REST-Framework.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-05-00. Asynchronous Processing with Celery and Redis](06-05-00-Celery-And-Redis.md)
 
 ---
 
@@ -150,5 +150,14 @@ urlpatterns = [
 | **Пълен CRUD контролер** | `class XViewSet(viewsets.ModelViewSet):` | Включва `list`, `create`, `retrieve`, `update`, `destroy` |
 | **Автоматични API URLs** | `router = DefaultRouter(); router.register(...)` | Генерира всички REST маршрути |
 
+
+
+
+
+
+
 ---
-[⬅️ 06-04-00. Теория & Капани](06-04-00-Django-REST-Framework.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-05-00. Celery and Redis](06-05-00-Celery-And-Redis.md)
+
+[⬅️ 06-04-00. Django REST Framework](06-04-00-Django-REST-Framework.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-05-00. Asynchronous Processing with Celery and Redis](06-05-00-Celery-And-Redis.md)
+
+© 2026 Dev-Library / 06-04-01. Django REST Framework: Синтаксис от нулата & Cheat Sheet

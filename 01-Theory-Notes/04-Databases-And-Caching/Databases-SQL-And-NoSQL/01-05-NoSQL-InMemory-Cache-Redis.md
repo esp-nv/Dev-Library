@@ -1,4 +1,4 @@
-⬅️ [01-04. NoSQL: MongoDB и Cassandra](01-04-NoSQL-Documents-And-WideColumn-Mongo-Cassandra.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | [🏠 [Библиотека БД](README.md)  | ➡️ [01-06. Формати: JSON и XML](01-06-Data-Formats-JSON-And-XML.md)
+[⬅️ 01-04. NoSQL Бази данни: MongoDB и Apache Cassandra](01-04-NoSQL-Documents-And-WideColumn-Mongo-Cassandra.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 01-06. Формати за данни: JSON и XML](01-06-Data-Formats-JSON-And-XML.md)
 
 ---
 
@@ -114,7 +114,14 @@ public class CacheService
 | **Active Directory (AD) / Microsoft Entra ID** | **Система за сигурност, вход и права** (Identity Provider). Пази служителите, паролите, групите и ролите във фирмата. | Когато потребител се логне с фирмения си имейл („Sign in with Microsoft“), Entra ID праща **JWT токен** към твоето ASP.NET Core API, за да докаже кой е и какви права има. |
 | **SAP (S/4HANA)** | **Готов ERP софтуер** за управление на целия бизнес (склад, фактури, доставки, счетоводство, HR). | Ти не пишеш SAP от нулата. Твоят C# / Node.js бекенд се свързва със SAP чрез **REST API (JSON), SOAP (XML) или опашки**, за да изпраща нови поръчки или да чете наличности. |
 
+
+
+
+
+
+
 ---
-⬅️ [01-04. NoSQL: MongoDB и Cassandra](01-04-NoSQL-Documents-And-WideColumn-Mongo-Cassandra.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [01-06. Формати: JSON и XML](01-06-Data-Formats-JSON-And-XML.md)
+
+[⬅️ 01-04. NoSQL Бази данни: MongoDB и Apache Cassandra](01-04-NoSQL-Documents-And-WideColumn-Mongo-Cassandra.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 01-06. Формати за данни: JSON и XML](01-06-Data-Formats-JSON-And-XML.md)
 
 © 2026 Dev-Library / 01-05. Redis Cache, Cloud NoSQL (DynamoDB & Cosmos DB) и Корпоративни системи

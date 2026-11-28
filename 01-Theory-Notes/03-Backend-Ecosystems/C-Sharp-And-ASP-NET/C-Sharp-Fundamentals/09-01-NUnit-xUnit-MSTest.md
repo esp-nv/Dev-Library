@@ -1,3 +1,7 @@
+[⬅️ Глава 8: Автоматизирано Юнит Тестване и Изолация с M...](08-UNIT-TESTING-MOCKING.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Изпитен Чеклист: Какво и как се проверява в Unit Tes...](09-02-Unit-Testing-Exam-Checklist.md)
+
+---
+
 # 📘 Справочник: NUnit срещу xUnit срещу MSTest в .NET
 
 **Статус:** Архитектурно сравнение | **Цел:** Избор на правилната тестова рамка и разбиране на разликите в паметта
@@ -169,5 +173,14 @@ public class StudentServiceMSTest
   * По-бавно развитие на нови функции спрямо xUnit и NUnit.
 * **Най-подходящ за:** Големи корпоративни (Enterprise) компании, които имат строги правила за сигурност и разрешават използването само на официални инструменти на Microsoft.
 
+
+
+
+
+
+
 ---
+
+[⬅️ Глава 8: Автоматизирано Юнит Тестване и Изолация с M...](08-UNIT-TESTING-MOCKING.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Изпитен Чеклист: Какво и как се проверява в Unit Tes...](09-02-Unit-Testing-Exam-Checklist.md)
+
 © 2026 Dev-Library / Справочник: NUnit срещу xUnit срещу MSTest в .NET

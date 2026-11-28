@@ -1,4 +1,4 @@
-[⬅️ Кратък справочник](14-DESIGN-PATTERNS-OOP.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](08-UNIT-TESTING-MOCKING.md)
+[⬅️ Глава 6: Рефлексия, Атрибути и Динамичен Процес в Па...](06-REFLECTION-ATTRIBUTES.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 8: Автоматизирано Юнит Тестване и Изолация с M...](08-UNIT-TESTING-MOCKING.md)
 
 ---
 
@@ -60,8 +60,14 @@
 * **Причина:** Ако в `Watch` прозореца или при посочване с мишката извикаш свойство или метод, който има страничен ефект (напр. метод, който инкрементира брояч или вика базата), дебъгерът **реално го изпълнява в RAM паметта**, за да ти покаже стойноста, и променя данните!
 * **Решение:** Пиши чисти свойства без тежка бизнес логика вътре в техните `get` блокове.
 
+
+
+
+
+
+
 ---
 
-[⬅️ Кратък справочник](14-DESIGN-PATTERNS-OOP.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](08-UNIT-TESTING-MOCKING.md)
+[⬅️ Глава 6: Рефлексия, Атрибути и Динамичен Процес в Па...](06-REFLECTION-ATTRIBUTES.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 8: Автоматизирано Юнит Тестване и Изолация с M...](08-UNIT-TESTING-MOCKING.md)
 
 © 2026 Dev-Library / Глава 7: Техники за Дебъгване и Диагностика на Кода

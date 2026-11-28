@@ -1,4 +1,4 @@
-[⬅️ 04-98. Java & Spring Common Errors & Fixes](04-98-Common-Errors-And-Fixes.md) | 📂 Папка: 04-Java-Ecosystem | [🏠 Начало](../README.md) | [➡️ 01-QA-Automation](../01-QA-Automation/README.md)
+[⬅️ 04-98. Java 21+ & Spring Boot 3 Common Errors, Edge ...](04-98-Common-Errors-And-Fixes.md) | [📂 Назад към Java & Spring Boot Ecosystem Хъба](README.md) | [📦 Предишен модул: C-Sharp-And-ASP-NET](../C-Sharp-And-ASP-NET/README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Java & Spring Boot Ecosystem](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Python-Scripting](../Python-Scripting/README.md) | [📦 Към следващ модул: Python-Scripting](../Python-Scripting/README.md)
 
 ---
 
@@ -69,5 +69,14 @@
     *   **Thread Dump (при зависване / Deadlock):** Изпълни `jstack <PID> > threads.txt` (или `jcmd <PID> Thread.print`), за да видиш коя нишка чака на заключване (`BLOCKED`).
     *   **Heap Dump (при `OutOfMemoryError`):** Стартирай приложението с `-XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/logs/heap.hprof` и анализирай `.hprof` файла с **Eclipse MAT** или IntelliJ Profiler, за да видиш кой обект заема гигабайти RAM.
 
+
+
+
+
+
+
 ---
-[⬅️ 04-98. Java & Spring Common Errors & Fixes](04-98-Common-Errors-And-Fixes.md) | 📂 Папка: 04-Java-Ecosystem | [🏠 Начало](../README.md) | [➡️ 01-QA-Automation](../01-QA-Automation/README.md)
+
+[⬅️ 04-98. Java 21+ & Spring Boot 3 Common Errors, Edge ...](04-98-Common-Errors-And-Fixes.md) | [📂 Назад към Java & Spring Boot Ecosystem Хъба](README.md) | [📦 Предишен модул: C-Sharp-And-ASP-NET](../C-Sharp-And-ASP-NET/README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Java & Spring Boot Ecosystem](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Python-Scripting](../Python-Scripting/README.md) | [📦 Към следващ модул: Python-Scripting](../Python-Scripting/README.md)
+
+© 2026 Dev-Library / 04-99. Java 21+ & Spring Boot 3 Interview Q&A, Скрити Капани & Debugging Techniques

@@ -1,4 +1,4 @@
-[⬅️ Назад към Модул 05 Индекс](README.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-01. Web API & Global Error Handling](05-01-00-REST-And-Error-Handling.md)
+[📦 Към предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 05-01-00. Web API, REST Controllers & Global Error H...](05-01-00-REST-And-Error-Handling.md)
 
 ---
 
@@ -135,5 +135,14 @@ public class ModernSecurityConfig {
 | **Интеграционни тестове с Docker БД** | **`@Testcontainers`** + **`@ServiceConnection`** (Spring Boot 3.1+ настройва URL/user/pass сам!) | `Testcontainers` + `WebApplicationFactory<Program>` |
 | **Оптимизация на Docker Image** | Layered JAR (``spring-boot:build-image`` / Paketo Buildpacks) или GraalVM Native | ``dotnet publish /t:PublishContainer`` или Chiseled Ubuntu images |
 
+
+
+
+
+
+
 ---
-[⬅️ Назад към Модул 05 Индекс](README.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-01. Web API & Global Error Handling](05-01-00-REST-And-Error-Handling.md)
+
+[📦 Към предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 05-01-00. Web API, REST Controllers & Global Error H...](05-01-00-REST-And-Error-Handling.md)
+
+© 2026 Dev-Library / 05-00. Intro: Въведение в Spring Advanced & Enterprise Архитектура

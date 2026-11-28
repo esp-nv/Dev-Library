@@ -1,4 +1,4 @@
-[⬅️ 00-02-03. JavaScript Implementation](00-02-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-03-00. Sorting Algorithms](00-03-00-Sorting-Algorithms.md)
+[⬅️ 00-02-03. Searching Algorithms: JavaScript (ES6+) Им...](00-02-03-JavaScript-Implementation.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-03-00. Sorting Algorithms](00-03-00-Sorting-Algorithms.md)
 
 ---
 
@@ -90,7 +90,14 @@ public class BuiltInSearch {
 | **Вграден Binary Search (Списък)** | `Collections.binarySearch(list, key)` | За `ArrayList<T>` ($O(\log n)$) |
 | **Позиция за вмъкване при `idx < 0`** | `int pos = ~idx;` или `-(idx + 1)` | Идентично с C# `Array.BinarySearch` |
 
+
+
+
+
+
+
 ---
-[⬅️ 00-02-03. JavaScript Implementation](00-02-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-02-04-Java-Implementation.md](00-0-04-Java-Implementation.md)
+
+[⬅️ 00-02-03. Searching Algorithms: JavaScript (ES6+) Им...](00-02-03-JavaScript-Implementation.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-03-00. Sorting Algorithms](00-03-00-Sorting-Algorithms.md)
 
 © 2026 Dev-Library / 00-02-04. Searching Algorithms: Java Имплементация & Cheat Sheet

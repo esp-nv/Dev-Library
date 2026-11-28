@@ -1,3 +1,7 @@
+[⬅️ reflection-attributes-csharp](reflection-attributes-csharp.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ solid-principles-csharp](solid-principles-csharp.md)
+
+---
+
 # 📘 Учебник: Регулярни изрази (Regex), Групи, Lookaround и Backtracking в C#
 
 **Файл:** `regular-expressions-csharp.md` | **Ниво:** Архитектурно ядро / C# Internals  
@@ -178,5 +182,14 @@ public class BacktrackingSafetyDemo
 4. **Заменяй бавното `.*?` с отрицателен клас `[^...]`**, когато знаеш кой символ прекратява групата (напр. `[^"]+` вместо `.*?` между кавички).
 5. **Кеширай често използваните Regex обекти** в `private static readonly Regex`, ако ги викаш хиляди пъти в цикъл.
 
+
+
+
+
+
+
 ---
+
+[⬅️ reflection-attributes-csharp](reflection-attributes-csharp.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ solid-principles-csharp](solid-principles-csharp.md)
+
 © 2026 Dev-Library / Учебник: Регулярни изрази (Regex), Групи, Lookaround и Backtracking в C#

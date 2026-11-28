@@ -1,4 +1,4 @@
-[⬅️ 02-00. Intro & Roadmap](02-00-Intro.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-01-01. Syntax From Scratch](02-01-01-Syntax-Lists-As-Stacks-And-Queues.md)
+[⬅️ 02-00. Intro: Въведение в Python Advance & Технологи...](02-00-Intro.md) | [📂 Назад към Module 02: Python Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Python Advance](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md) | [➡️ 02-01-01. Stacks and Queues: Синтаксис от нулата & C...](02-01-01-Syntax-Lists-As-Stacks-And-Queues.md)
 
 ---
 
@@ -123,5 +123,14 @@ print(f"Изразът '{expression}' е валиден: {is_balanced and len(br
 *   **Уловката:** Кандидатите често казват, че `deque` е обикновен единично свързан списък.
 *   **Точен Senior отговор:** Под капака `collections.deque` е имплементиран като **двойносвързан списък от блокове с фиксиран размер** (всеки блок в C-ядрото пази по 64 указателя). Това позволява мигновено добавяне и триене от началото и края за **O(1)** без преалокация на целия масив. При опит за изтриване или вмъкване по средата обаче, програмата трябва да обходи блоковете линейно и да преподреди указателите в тях, което има сложност **O(n)**. Ако ти трябва често триене по средата, `deque` не е правилната структура.
 
+
+
+
+
+
+
 ---
-[⬅️ 02-00. Intro & Roadmap](02-00-Intro.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-01-01. Syntax From Scratch](02-01-01-Syntax-Lists-As-Stacks-And-Queues.md)
+
+[⬅️ 02-00. Intro: Въведение в Python Advance & Технологи...](02-00-Intro.md) | [📂 Назад към Module 02: Python Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Python Advance](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md) | [➡️ 02-01-01. Stacks and Queues: Синтаксис от нулата & C...](02-01-01-Syntax-Lists-As-Stacks-And-Queues.md)
+
+© 2026 Dev-Library / 02-01-00. Lists as Stacks and Queues (Теория, LIFO/FIFO & Интервю Капани)

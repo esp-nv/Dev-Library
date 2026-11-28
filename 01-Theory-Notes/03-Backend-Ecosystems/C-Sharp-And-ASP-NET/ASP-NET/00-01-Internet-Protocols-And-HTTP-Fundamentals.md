@@ -1,4 +1,4 @@
-[📂 Глава 00-00. Въведение в уеб технологиите и Git](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 00-02. Git и Документация](00-02-Git-And-Project-Documentation-Best-Practices.md)
+[⬅️ 00-00. Въведение в уеб технологиите и Git инженерна ...](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 00-02. Git и проектна документация: Най-добри практики](00-02-Git-And-Project-Documentation-Best-Practices.md)
 
 ---
 
@@ -120,8 +120,14 @@ Content-Type: application/json
 ---
 Това е линк за [00-06. Глобален уеб справочник за HTTP статус кодове в ASP.NET Core](00-06-HTTP-Status-Codes-Full-Reference.md)
 
----
-[📂 Глава 00-00. Въведение в уеб технологиите и Git](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 00-02. Git и Документация](00-02-Git-And-Project-Documentation-Best-Practices.md)
 
+
+
+
+
+
+---
+
+[⬅️ 00-00. Въведение в уеб технологиите и Git инженерна ...](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 00-02. Git и проектна документация: Най-добри практики](00-02-Git-And-Project-Documentation-Best-Practices.md)
 
 © 2026 Dev-Library / 00-01. Мрежови протоколи и HTTP Анатомия

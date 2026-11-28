@@ -1,4 +1,4 @@
-[⬅️ 02-02. Tuples and Sets](02-02-00-Tuples-And-Sets.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-03-01. Syntax From Scratch](02-03-01-Syntax-Multidimensional-Lists.md)
+[⬅️ 02-02-01. Tuples and Sets: Синтаксис от нулата & Che...](02-02-01-Syntax-Tuples-And-Sets.md) | [📂 Назад към Module 02: Python Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Python Advance](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md) | [➡️ 02-03-01. Multidimensional Lists: Синтаксис от нулат...](02-03-01-Syntax-Multidimensional-Lists.md)
 
 ---
 
@@ -125,5 +125,14 @@ print(f"Второстепенен диагонал: {secondary_diagonal} (Су�
     # Резултат: [[1, 4], [2, 5], [3, 6]]
     ```
 
+
+
+
+
+
+
 ---
-[⬅️ 02-02. Tuples and Sets](02-02-00-Tuples-And-Sets.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-03-01. Syntax From Scratch](02-03-01-Syntax-Multidimensional-Lists.md)
+
+[⬅️ 02-02-01. Tuples and Sets: Синтаксис от нулата & Che...](02-02-01-Syntax-Tuples-And-Sets.md) | [📂 Назад към Module 02: Python Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Python Advance](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md) | [➡️ 02-03-01. Multidimensional Lists: Синтаксис от нулат...](02-03-01-Syntax-Multidimensional-Lists.md)
+
+© 2026 Dev-Library / 02-03-00. Multidimensional Lists (Теория, Матрици в RAM & Интервю Капани)

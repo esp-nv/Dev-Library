@@ -1,4 +1,4 @@
-[⬅️ 05-03-00. Теория & Капани](05-03-00-JWT-Authentication.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-04-00. Spring AOP & Interceptors](05-04-00-Spring-AOP.md)
+[⬅️ 05-03-00. Stateless Security with JWT & Refresh Tokens](05-03-00-JWT-Authentication.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 05-04-00. Spring AOP (Aspect-Oriented Programming) &...](05-04-00-Spring-AOP.md)
 
 ---
 
@@ -234,5 +234,14 @@ app.jwt.expiration-ms=900000
 | **Потребителски Claims** | `.claim("roles", rolesList)` | Допълнителни данни (роли, tenantId) |
 | **Заглавие на заявката** | `Authorization: Bearer <jwt>` | Стандартният HTTP Header за изпращане на токена |
 
+
+
+
+
+
+
 ---
-[⬅️ 05-03-00. Теория & Капани](05-03-00-JWT-Authentication.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-04-00. Spring AOP & Interceptors](05-04-00-Spring-AOP.md)
+
+[⬅️ 05-03-00. Stateless Security with JWT & Refresh Tokens](05-03-00-JWT-Authentication.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 05-04-00. Spring AOP (Aspect-Oriented Programming) &...](05-04-00-Spring-AOP.md)
+
+© 2026 Dev-Library / 05-03-01. Stateless Security with JWT & Refresh Tokens: Синтаксис от нулата & Cheat Sheet

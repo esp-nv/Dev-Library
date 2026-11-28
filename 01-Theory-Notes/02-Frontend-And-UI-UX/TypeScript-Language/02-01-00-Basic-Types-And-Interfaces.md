@@ -1,4 +1,4 @@
-[⬅️ 02-00. Intro to TypeScript & Compiler (tsc)](02-00-Intro-To-TypeScript-And-Compiler.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-01-01. Syntax-From-Scratch & Types Cheat Sheet](02-01-01-Syntax-Basic-Types-And-Interfaces.md)
+[⬅️ 02-00. TypeScript срещу JavaScript: Архитектурно сра...](02-00-TypeScript-vs-JavaScript.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-01-01. Basic Types & Interfaces: Синтаксис от Нул...](02-01-01-Syntax-Basic-Types-And-Interfaces.md)
 
 ---
 
@@ -121,8 +121,14 @@ console.log(`Крайна цена: ${applyDiscountSecure(validItem)} лв.`); /
 * **Въпрос 2:** *„Каква е разликата между `null` и `undefined` в TypeScript при включен флаг `strictNullChecks: true`?“*
   * **Отговор:** `undefined` означава, че променливата е декларирана или свойството липсва в обекта, но **още не е получила стойност**. `null` е **умишлено присвоена празна стойност** от програмиста. При `strictNullChecks: true` нито `null`, нито `undefined` могат да бъдат присвоени на стандартен тип като `string` или `number`, освен ако не го разрешиш изрично чрез Union (`string | null` или опционално поле `name?: string`).
 
+
+
+
+
+
+
 ---
 
-[⬅️ 02-00. Intro to TypeScript & Compiler (tsc)](02-00-Intro-To-TypeScript-And-Compiler.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-01-01. Syntax-From-Scratch & Types Cheat Sheet](02-01-01-Syntax-Basic-Types-And-Interfaces.md)
+[⬅️ 02-00. TypeScript срещу JavaScript: Архитектурно сра...](02-00-TypeScript-vs-JavaScript.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-01-01. Basic Types & Interfaces: Синтаксис от Нул...](02-01-01-Syntax-Basic-Types-And-Interfaces.md)
 
 © 2026 Dev-Library / 02-01-00. Basic Types, Interfaces & Type Aliases (Теория, Safety & Капани)

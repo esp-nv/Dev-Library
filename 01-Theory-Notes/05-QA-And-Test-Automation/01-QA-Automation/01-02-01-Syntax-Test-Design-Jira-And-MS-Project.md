@@ -1,4 +1,4 @@
-[⬅️ 01-02-00. Test Design Техники, Jira, CI/CD & MS Project](01-02-00-Test-Design-Jira-And-MS-Project.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-03-00. Unit Testing (AAA, Assertions & Mocking)](01-03-00-Multi-Language-Unit-Testing.md)
+[⬅️ 01-02-00. Test Design Техники, Jira, CI/CD и Microso...](01-02-00-Test-Design-Jira-And-MS-Project.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-03-00. Unit Testing & Mocking](01-03-00-Multi-Language-Unit-Testing.md)
 
 ---
 
@@ -142,8 +142,14 @@ jobs:
 | **GitHub Actions `if: always()`** | Поставя се в стъпката за качване на репорт | Гарантира, че скрийншотите и логовете ще се запазят и при провал. |
 | **MS Project: Свързване на задачи** | `Ctrl + F2` (`Link Tasks`) | Създава последователна зависимост `Finish-to-Start (FS)`. |
 
+
+
+
+
+
+
 ---
 
-[⬅️ 01-02-00. Test Design Техники, Jira, CI/CD & MS Project](01-02-00-Test-Design-Jira-And-MS-Project.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-03-00. Unit Testing (AAA, Assertions & Mocking)](01-03-00-Multi-Language-Unit-Testing.md)
+[⬅️ 01-02-00. Test Design Техники, Jira, CI/CD и Microso...](01-02-00-Test-Design-Jira-And-MS-Project.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-03-00. Unit Testing & Mocking](01-03-00-Multi-Language-Unit-Testing.md)
 
 © 2026 Dev-Library / 01-02-01. JQL, Jira Automation, CI/CD & Cheat Sheet (Практика от Нулата)

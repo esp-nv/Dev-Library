@@ -1,4 +1,4 @@
-[⬅️ 06-07-00. Теория & Капани](06-07-00-Deployment-Setup.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [🏠 Към Главния Хъб на Ниво 2](../../README.md)
+[⬅️ 06-07-00. Deployment Setup](06-07-00-Deployment-Setup.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md)
 
 ---
 
@@ -156,5 +156,14 @@ server {
 | **`docker compose up -d --build`** | Изгражда и стартира Web + DB + Redis + Celery |
 | **`sudo nginx -t && sudo systemctl reload nginx`** | Проверява и презарежда конфигурацията на Nginx |
 
+
+
+
+
+
+
 ---
-[⬅️ 06-07-00. Теория & Капани](06-07-00-Deployment-Setup.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [🏠 Към Главния Хъб на Ниво 2](../../README.md)
+
+[⬅️ 06-07-00. Deployment Setup](06-07-00-Deployment-Setup.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md)
+
+© 2026 Dev-Library / 06-07-01. Deployment Setup: Синтаксис от нулата & Cheat Sheet

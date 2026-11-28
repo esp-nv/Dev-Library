@@ -1,4 +1,4 @@
-[⬅️ 03-08-00. Теория & Капани](03-08-00-Decorators.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-09-00. Testing](03-09-00-Testing.md)
+[⬅️ 03-08-00. Decorators](03-08-00-Decorators.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-09-00. Testing](03-09-00-Testing.md)
 
 ---
 
@@ -129,5 +129,14 @@ save_record()
 | **Вграден RAM кеш декоратор** | `@functools.lru_cache()` | Запомня резултатите от скъпи функции |
 | **Обект, работещ като функция** | `def __call__(self, *args):` | Позволява на клас да бъде декоратор |
 
+
+
+
+
+
+
 ---
-[⬅️ 03-08-00. Теория & Капани](03-08-00-Decorators.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-09-00. Testing](03-09-00-Testing.md)
+
+[⬅️ 03-08-00. Decorators](03-08-00-Decorators.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-09-00. Testing](03-09-00-Testing.md)
+
+© 2026 Dev-Library / 03-08-01. Decorators: Синтаксис от нулата & Cheat Sheet

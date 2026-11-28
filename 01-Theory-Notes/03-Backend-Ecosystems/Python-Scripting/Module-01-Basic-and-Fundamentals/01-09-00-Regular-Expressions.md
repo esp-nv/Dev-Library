@@ -1,4 +1,4 @@
-[⬅️ 01-08. Text Processing](01-08-00-Text-Processing.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-09-01. Syntax From Scratch](01-09-01-Syntax-Regular-Expressions.md)
+[⬅️ 01-08-01. Text Processing: Синтаксис от нулата & Che...](01-08-01-Syntax-Text-Processing.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-09-01. Regular Expressions: Синтаксис от нулата &...](01-09-01-Syntax-Regular-Expressions.md)
 
 ---
 
@@ -119,5 +119,14 @@ else:
 *   **Точен Senior отговор:** По подразбиране квантификаторите `*` и `+` са **Алчни (Greedy)** — те се опитват да погълнат възможно най-дългия парче текст! Затова `r"<.*>"` започва от първото `<` и стига чак до последното `>`, поглъщайки целия ред `"<div>Здравей</div>"` наведнъж.
     *   **Правилен фикс:** Добавя се въпросителен знак `?` веднага след квантификатора (`r"<.*?>"`). Това го превръща в **Мързелив (Lazy)**, принуждавайки го да спре веднага при първото срещнато затварящо `>`, връщайки точно `['<div>', '</div>']`.
 
+
+
+
+
+
+
 ---
-[⬅️ 01-08. Text Processing](01-08-00-Text-Processing.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-09-01. Syntax From Scratch](01-09-01-Syntax-Regular-Expressions.md)
+
+[⬅️ 01-08-01. Text Processing: Синтаксис от нулата & Che...](01-08-01-Syntax-Text-Processing.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-09-01. Regular Expressions: Синтаксис от нулата &...](01-09-01-Syntax-Regular-Expressions.md)
+
+© 2026 Dev-Library / 01-09-00. Regular Expressions (Теория, Regex Двигател & Интервю Капани)

@@ -1,4 +1,4 @@
-[⬅️ 02-06-00. Теория & Капани](02-06-00-SOLID-Principles.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-07-00. Reflection & Annotations](02-07-00-Reflection-And-Annotations.md)
+[⬅️ 02-06-00. SOLID Principles in Java](02-06-00-SOLID-Principles.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-07-00. Reflection and Annotations](02-07-00-Reflection-And-Annotations.md)
 
 ---
 
@@ -132,5 +132,14 @@ class ReportGenerator {
 | **I** | Interface Segregation | Празни методи в клас, имплементиращ интерфейс | Разцепване на интерфейса на по-малки роли |
 | **D** | Dependency Inversion | `private MySqlRepo repo = new MySqlRepo();` | Constructor Injection през интерфейс |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-06-00. Теория & Капани](02-06-00-SOLID-Principles.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-07-00. Reflection & Annotations](02-07-00-Reflection-And-Annotations.md)
+
+[⬅️ 02-06-00. SOLID Principles in Java](02-06-00-SOLID-Principles.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-07-00. Reflection and Annotations](02-07-00-Reflection-And-Annotations.md)
+
+© 2026 Dev-Library / 02-06-01. SOLID Principles in Java: Синтаксис от нулата & Cheat Sheet

@@ -1,4 +1,4 @@
-[⬅️ 02-09-00. Теория & Капани](02-09-00-Unit-Testing.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-10-00. Design Patterns in Java](02-10-00-Design-Patterns.md)
+[⬅️ 02-09-00. Unit Testing](02-09-00-Unit-Testing.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-10-00. Design Patterns in Java](02-10-00-Design-Patterns.md)
 
 ---
 
@@ -153,5 +153,14 @@ class OrderServiceTest {
 | **`verify(mock, times(n)).fn(...)`** | Mockito | Проверява дали методът е извикан точно `n` пъти |
 | **`verifyNoInteractions(mock)`** | Mockito | Гарантира, че зависимостта изобщо не е пипана |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-09-00. Теория & Капани](02-09-00-Unit-Testing.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-10-00. Design Patterns in Java](02-10-00-Design-Patterns.md)
+
+[⬅️ 02-09-00. Unit Testing](02-09-00-Unit-Testing.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-10-00. Design Patterns in Java](02-10-00-Design-Patterns.md)
+
+© 2026 Dev-Library / 02-09-01. Unit Testing (JUnit 5 & Mockito): Синтаксис от нулата & Cheat Sheet

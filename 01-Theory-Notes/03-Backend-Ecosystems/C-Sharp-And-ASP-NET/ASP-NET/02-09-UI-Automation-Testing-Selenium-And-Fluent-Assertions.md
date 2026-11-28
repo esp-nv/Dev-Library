@@ -1,4 +1,4 @@
-[⬅️ 02-08. Мрежов достъп през CORS](02-08-Cross-Origin-Resource-Sharing-CORS-Infrastructure.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-10. Оптимизация през MessagePack](02-10-MessagePack-Binary-Serialization-In-SignalR.md)
+[⬅️ 02-08. Мрежов суверен достъп през CORS и Same-Origin...](02-08-Cross-Origin-Resource-Sharing-CORS-Infrastructure.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 02-10. Оптимизация на SignalR чрез бинарна компресия...](02-10-MessagePack-Binary-Serialization-In-SignalR.md)
 
 ---
 
@@ -118,7 +118,14 @@ public void ProductsController_DetailsAction_ShouldReturnValidViewModel()
 *   **Защо се случва:** Твоят реален браузър Google Chrome на компютъра ти се е обновил автоматично до по-нова версия (напр. версия 124), но NuGet пакетът в проекта ти `Selenium.WebDriver.ChromeDriver` е останал стара версия (напр. 120). Понеже версиите им се разминават, софтуерният мост се счупва.
 *   **Как да го поправиш:** Обнови NuGet пакета `Selenium.WebDriver.ChromeDriver` до последната актуална версия през пакения мениджър, за да се изравнят дигиталните им подписи.
 
+
+
+
+
+
+
 ---
-[⬅️ 02-08. Мрежов достъп през CORS](02-08-Cross-Origin-Resource-Sharing-CORS-Infrastructure.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-10. Оптимизация през MessagePack](02-10-MessagePack-Binary-Serialization-In-SignalR.md)
+
+[⬅️ 02-08. Мрежов суверен достъп през CORS и Same-Origin...](02-08-Cross-Origin-Resource-Sharing-CORS-Infrastructure.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 02-10. Оптимизация на SignalR чрез бинарна компресия...](02-10-MessagePack-Binary-Serialization-In-SignalR.md)
 
 © 2026 Dev-Library / 02-09. Автоматизирано тестване: Selenium WebDriver и MyTested.AspNetCore.Mvc

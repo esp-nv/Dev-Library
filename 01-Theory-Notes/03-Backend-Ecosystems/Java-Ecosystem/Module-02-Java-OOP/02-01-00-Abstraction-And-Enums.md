@@ -1,4 +1,4 @@
-[⬅️ 02-00. Intro to Java OOP](02-00-Intro.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-01-01. Syntax From Scratch](02-01-01-Syntax-Abstraction-And-Enums.md)
+[⬅️ 02-00. Intro: Въведение в Java OOP & Архитектурен Ro...](02-00-Intro.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-01-01. Working with Abstraction (`Enums`, `Static...](02-01-01-Syntax-Abstraction-And-Enums.md)
 
 ---
 
@@ -132,5 +132,14 @@ public enum OrderStatus {
 | **Достъп до `static` член през инстанция** | Позволено от компилатора (`obj.staticMethod()`), но дава предупреждение | **Забранено** (`Compile-time error` — достъпва се само през името на класа `MyClass.StaticMethod()`) |
 
 
+
+
+
+
+
+
 ---
-[⬅️ 02-00. Intro to Java OOP](02-00-Intro.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-01-01. Syntax From Scratch](02-01-01-Syntax-Abstraction-And-Enums.md)
+
+[⬅️ 02-00. Intro: Въведение в Java OOP & Архитектурен Ro...](02-00-Intro.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-01-01. Working with Abstraction (`Enums`, `Static...](02-01-01-Syntax-Abstraction-And-Enums.md)
+
+© 2026 Dev-Library / 02-01-00. Working with Abstraction (`Enums`, `Static` & Packages — Теория & Капани)

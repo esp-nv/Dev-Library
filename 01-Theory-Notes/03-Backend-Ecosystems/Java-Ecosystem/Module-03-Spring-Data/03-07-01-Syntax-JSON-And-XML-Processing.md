@@ -1,4 +1,4 @@
-[⬅️ 03-07-00. Теория & Капани](03-07-00-JSON-And-XML-Processing.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ Module 04: Spring Fundamentals](../Module-04-Spring-Fundamentals/04-00-Intro.md)
+[⬅️ 03-07-00. JSON and XML Processing](03-07-00-JSON-And-XML-Processing.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📦 Към следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md)
 
 ---
 
@@ -194,5 +194,14 @@ public class GsonDemo {
 | **`@SerializedName("key_name")`** | Google Gson | Еквивалент на `@JsonProperty` в Gson |
 | **`new TypeToken<List<T>>() {}.getType()`** | Google Gson | Еквивалент на `TypeReference` в Gson |
 
+
+
+
+
+
+
 ---
-[⬅️ 03-07-00. Теория & Капани](03-07-00-JSON-And-XML-Processing.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ Module 04: Spring Fundamentals](../Module-04-Spring-Fundamentals/04-00-Intro.md)
+
+[⬅️ 03-07-00. JSON and XML Processing](03-07-00-JSON-And-XML-Processing.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📦 Към следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md)
+
+© 2026 Dev-Library / 03-07-01. JSON and XML Processing (Jackson & Gson): Синтаксис от нулата & Cheat Sheet

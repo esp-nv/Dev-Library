@@ -1,4 +1,4 @@
-[⬅️ 01-96. QA Performance & Optimizations](01-96-Performance-And-Optimizations.md) | 📂 Папка: 01-QA-Automation | [🏠 Начало](../README.md) | [➡️ 01-98. QA Common Errors & Fixes](01-98-Common-Errors-And-Fixes.md)
+[⬅️ 01-96. QA Automation Оптимизации: Кое е грешно, защо...](01-96-Performance-And-Optimizations.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-98. QA Automation Common Errors, Edge Cases & Fixes](01-98-Common-Errors-And-Fixes.md)
 
 ---
 
@@ -82,5 +82,14 @@
 | **Grafana K6** | `k6 run --vus 50 --duration 30s load-test.js` | Симулира 50 едновременни виртуални потребители за 30 секунди |
 | **Apache JMeter** | `jmeter -n -t plan.jmx -l out.jtl -e -o ./report` | Изпълнява натоварващ тест в конзолен режим (без GUI) и генерира HTML графики |
 
+
+
+
+
+
+
 ---
-[⬅️ 01-96. QA Performance & Optimizations](01-96-Performance-And-Optimizations.md) | 📂 Папка: 01-QA-Automation | [🏠 Начало](../README.md) | [➡️ 01-98. QA Common Errors & Fixes](01-98-Common-Errors-And-Fixes.md)
+
+[⬅️ 01-96. QA Automation Оптимизации: Кое е грешно, защо...](01-96-Performance-And-Optimizations.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-98. QA Automation Common Errors, Edge Cases & Fixes](01-98-Common-Errors-And-Fixes.md)
+
+© 2026 Dev-Library / 01-97. QA Automation Category Cheat Sheet: Пълно обобщение по категории & Инструменти

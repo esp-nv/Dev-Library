@@ -1,3 +1,7 @@
+[⬅️ Учебник: Разширено Мокинг Ядро и Test-Driven Develop...](tdd-mocking-advanced-csharp.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ unit-testing-mocking-csharp](unit-testing-mocking-csharp.md)
+
+---
+
 # 📘 Учебник: Типове данни, Управление на паметта, Условни конструкции и Цикли в C#
 
 **Файл:** `types-conditionals-loops-csharp.md` | **Ниво:** Архитектурен фундамент / C# Internals  
@@ -257,5 +261,14 @@ public class LoopsDeepDive
 
    ---
 © 2026 Dev-Library / Учебник: Типове данни, Управление на паметта, Условни конструкции и Цикли в C#
+
+
+
+
+
+
 ---
 
+[⬅️ Учебник: Разширено Мокинг Ядро и Test-Driven Develop...](tdd-mocking-advanced-csharp.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ unit-testing-mocking-csharp](unit-testing-mocking-csharp.md)
+
+© 2026 Dev-Library / Учебник: Типове данни, Управление на паметта, Условни конструкции и Цикли в C#

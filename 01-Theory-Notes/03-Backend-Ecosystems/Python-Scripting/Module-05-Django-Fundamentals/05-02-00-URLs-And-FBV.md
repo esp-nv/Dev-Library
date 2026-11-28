@@ -1,4 +1,4 @@
-[📂 Назад към Module 05 Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Django Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ Теория, CSRF защита, Валидация & Капани](05-04-00-Forms-And-ModelForms.md)
+[⬅️ 05-01-01. Django Setup & Architecture: Синтаксис от ...](05-01-01-Syntax-Architecture-And-HTTP.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-02-01. URLs and FBV: Синтаксис от нулата & Cheat ...](05-02-01-Syntax-URLs-And-FBV.md)
 
 ---
 
@@ -126,8 +126,14 @@ def book_detail(request, pk: int):
 *   **Уловката:** Кандидатите често пишат маршрути без `/` накрая и се чудят защо при `POST` заявка от Postman или JavaScript данните им изчезват!
 *   **Точен Senior отговор:** По подразбиране в Django `APPEND_SLASH = True`. Когато клиент изпрати `GET /books` (без `/` накрая), Django не намира съвпадение, но вижда, че съществува `/books/` и връща **`301 Moved Permanently`** към `/books/`. Браузърът автоматично прави втора `GET` заявка и всичко работи. Но при **`POST` заявка**, HTTP стандартът забранява автоматичното препращане на `POST` тялото при `301` пренасочване (браузърът го превръща в празна `GET` заявка без данните!), затова Django хвърля **`RuntimeError: You called this URL via POST, but the URL doesn't end in a slash`**. **Правило:** В Django всеки URL път в `urls.py` **винаги** завършва с `/`!
 
+
+
+
+
+
+
 ---
 
-[📂 Назад към Module 05 Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Django Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ Теория, CSRF защита, Валидация & Капани](05-04-00-Forms-And-ModelForms.md)
+[⬅️ 05-01-01. Django Setup & Architecture: Синтаксис от ...](05-01-01-Syntax-Architecture-And-HTTP.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-02-01. URLs and FBV: Синтаксис от нулата & Cheat ...](05-02-01-Syntax-URLs-And-FBV.md)
 
 © 2026 Dev-Library / 05-02-00. URLs, Routing and Function-Based Views (Теория, Request/Response & Капани)

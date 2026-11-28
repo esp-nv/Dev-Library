@@ -1,4 +1,4 @@
-[⬅️ 01-02-01. JQL, Automation, CI/CD & Cheat Sheet](01-02-01-Syntax-Test-Design-Jira-And-MS-Project.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-03-01. NUnit, JUnit 5, Vitest & pytest](01-03-01-Syntax-Multi-Language-Unit-Testing.md)
+[⬅️ 01-02-01. JQL, Jira Automation, CI/CD & Cheat Sheet](01-02-01-Syntax-Test-Design-Jira-And-MS-Project.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-03-01. NUnit, JUnit 5, Vitest & pytest: Синтаксис...](01-03-01-Syntax-Multi-Language-Unit-Testing.md)
 
 ---
 
@@ -129,8 +129,14 @@ public class DiscountService(TimeProvider timeProvider, ICustomerRepository repo
 * **Въпрос 2:** *„Какво е **White-Box** структурата **Branch Coverage (Decision Coverage)** спрямо **Statement (Line) Coverage**?“*
   * **Отговор:** При `if (x > 0) { doWork(); }`, ако пуснем само 1 тест с `x = 5`, постигаме **100% Statement Coverage** (всички редове са минати), но само **50% Branch Coverage**, защото клонът `false` (когато `x <= 0`) никога не е тестван! Затова Branch Coverage е много по-строга и надеждна метрика.
 
+
+
+
+
+
+
 ---
 
-[⬅️ 01-02-01. JQL, Automation, CI/CD & Cheat Sheet](01-02-01-Syntax-Test-Design-Jira-And-MS-Project.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-03-01. NUnit, JUnit 5, Vitest & pytest](01-03-01-Syntax-Multi-Language-Unit-Testing.md)
+[⬅️ 01-02-01. JQL, Jira Automation, CI/CD & Cheat Sheet](01-02-01-Syntax-Test-Design-Jira-And-MS-Project.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-03-01. NUnit, JUnit 5, Vitest & pytest: Синтаксис...](01-03-01-Syntax-Multi-Language-Unit-Testing.md)
 
 © 2026 Dev-Library / 01-03-00. Unit Testing & Mocking (Теория, AAA, Тестови Двойници & Капани)

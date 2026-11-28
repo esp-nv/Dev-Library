@@ -1,4 +1,4 @@
-[⬅️ Кратък справочник](13-STREAMS-FILES-DIRECTORIES.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](06-REFLECTION-ATTRIBUTES.md)
+[⬅️ Глава 4: Анатомия на Колекциите и Управление на Паметта](04-COLECTIONS.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 6: Рефлексия, Атрибути и Динамичен Процес в Па...](06-REFLECTION-ATTRIBUTES.md)
 
 ---
 
@@ -68,8 +68,14 @@ SOLID е абревиатура от 5 фундаментални правила
 * **Причина:** Нарушение на **Dependency Inversion**. Кодът става невъзможен за Unit тестване, защото е твърдо обвързан с конкретната инфраструктура.
 * **Решение:** Остави IoC контейнерът в `Program.cs` да управлява жизнения цикъл на обектите ти и ги инжектирай чисто през конструктора.
 
+
+
+
+
+
+
 ---
 
-[⬅️ Кратък справочник](13-STREAMS-FILES-DIRECTORIES.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](06-REFLECTION-ATTRIBUTES.md)
+[⬅️ Глава 4: Анатомия на Колекциите и Управление на Паметта](04-COLECTIONS.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 6: Рефлексия, Атрибути и Динамичен Процес в Па...](06-REFLECTION-ATTRIBUTES.md)
 
 © 2026 Dev-Library / Глава 5: SOLID Принципи и Чиста Архитектура

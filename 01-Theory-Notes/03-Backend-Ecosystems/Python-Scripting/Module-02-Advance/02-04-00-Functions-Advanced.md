@@ -1,4 +1,4 @@
-[⬅️ 02-03. Multidimensional Lists](02-03-00-Multidimensional-Lists.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-04-01. Syntax From Scratch](02-04-01-Syntax-Functions-Advanced.md)
+[⬅️ 02-03-01. Multidimensional Lists: Синтаксис от нулат...](02-03-01-Syntax-Multidimensional-Lists.md) | [📂 Назад към Module 02: Python Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Python Advance](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md) | [➡️ 02-04-01. Functions Advanced: Синтаксис от нулата & ...](02-04-01-Syntax-Functions-Advanced.md)
 
 ---
 
@@ -124,5 +124,14 @@ print(f"Факториел от 5: {factorial(5)}")
 *   **Точен Senior отговор:** В Python затварянията са **късно обвързани (Late Binding)**. Вътрешната функция не записва стойността на `i` в момента на създаването си, а пази препратка към самата променлива `i` в обхвата на цикъла. Когато цикълът приключи, `i` е останало на последната си стойност (`2`), и когато извикаш функциите по-късно, всички четат `2`.
     *   **Правилен фикс:** Подава се `i` като аргумент по подразбиране в самата ламбда, което принуждава Python да го оцени веднага: `funcs = [lambda i=i: i for i in range(3)]`.
 
+
+
+
+
+
+
 ---
-[⬅️ 02-03. Multidimensional Lists](02-03-00-Multidimensional-Lists.md) | [📂 Папка: Module-02-Advance](README.md)| [🏠 Начало](../../../../README.md) | [➡️ 02-04-01. Syntax From Scratch](02-04-01-Syntax-Functions-Advanced.md)
+
+[⬅️ 02-03-01. Multidimensional Lists: Синтаксис от нулат...](02-03-01-Syntax-Multidimensional-Lists.md) | [📂 Назад към Module 02: Python Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Python Advance](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md) | [➡️ 02-04-01. Functions Advanced: Синтаксис от нулата & ...](02-04-01-Syntax-Functions-Advanced.md)
+
+© 2026 Dev-Library / 02-04-00. Functions Advanced (Теория, `*args/**kwargs`, Closures & Капани)

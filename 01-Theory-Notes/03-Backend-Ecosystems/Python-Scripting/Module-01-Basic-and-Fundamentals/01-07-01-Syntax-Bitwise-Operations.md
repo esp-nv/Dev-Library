@@ -1,4 +1,4 @@
-[⬅️ 01-07-00. Теория & Капани](01-07-00-Bitwise-Operations.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-08-00. Text Processing](01-08-00-Text-Processing.md)
+[⬅️ 01-07-00. Bitwise Operations](01-07-00-Bitwise-Operations.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-08-00. Text Processing](01-08-00-Text-Processing.md)
 
 ---
 
@@ -103,5 +103,14 @@ print(f"x = {x}, y = {y}")      # Изход: x = 25, y = 15
 | **Направи бит `0` на позиция `p`** | `n & ~(1 << p)` | Нулира бита на позиция `p` |
 | **Обърни бит на позиция `p`** | `n ^ (1 << p)` | Сменя `0 <-> 1` на позиция `p` |
 
+
+
+
+
+
+
 ---
-[⬅️ 01-07-00. Теория & Капани](01-07-00-Bitwise-Operations.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-08-00. Text Processing](01-08-00-Text-Processing.md)
+
+[⬅️ 01-07-00. Bitwise Operations](01-07-00-Bitwise-Operations.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-08-00. Text Processing](01-08-00-Text-Processing.md)
+
+© 2026 Dev-Library / 01-07-01. Bitwise Operations: Синтаксис от нулата & Cheat Sheet

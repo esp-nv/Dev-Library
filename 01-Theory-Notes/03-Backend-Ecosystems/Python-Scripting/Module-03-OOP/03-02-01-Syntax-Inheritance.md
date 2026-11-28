@@ -1,4 +1,4 @@
-[⬅️ 03-02-00. Теория & Капани](03-02-00-Inheritance.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-03-00. Encapsulation](03-03-00-Encapsulation.md)
+[⬅️ 03-02-00. Inheritance](03-02-00-Inheritance.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-03-00. Encapsulation](03-03-00-Encapsulation.md)
 
 ---
 
@@ -120,5 +120,14 @@ print(issubclass(Flyer, Swimmer))   # False
 | **Проверка на обект** | `isinstance(obj, Parent)` | Връща `True` и за наследниците |
 | **Проверка на клас** | `issubclass(Child, Parent)` | Връща `True` ако `Child` наследява `Parent` |
 
+
+
+
+
+
+
 ---
-[⬅️ 03-02-00. Теория & Капани](03-02-00-Inheritance.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-03-00. Encapsulation](03-03-00-Encapsulation.md)
+
+[⬅️ 03-02-00. Inheritance](03-02-00-Inheritance.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-03-00. Encapsulation](03-03-00-Encapsulation.md)
+
+© 2026 Dev-Library / 03-02-01. Inheritance: Синтаксис от нулата & Cheat Sheet

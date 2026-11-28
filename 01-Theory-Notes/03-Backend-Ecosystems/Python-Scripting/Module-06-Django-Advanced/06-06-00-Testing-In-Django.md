@@ -1,4 +1,4 @@
-[⬅️ 06-05. Celery and Redis](06-05-00-Celery-And-Redis.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-06-01. Syntax From Scratch](06-06-01-Syntax-Testing-In-Django.md)
+[⬅️ 06-05-01. Celery & Redis in Django: Синтаксис от нул...](06-05-01-Syntax-Celery-And-Redis.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-06-01. Testing in Django: Синтаксис от нулата & C...](06-06-01-Syntax-Testing-In-Django.md)
 
 ---
 
@@ -148,5 +148,14 @@ class BookViewsTests(TestCase):
     2.  **`setUpTestData(cls)`** се изпълнява **само веднъж за целия тестов клас** преди всички тестове, което ускорява тестовете драстично.
     *   *Скритата уловка:* Тъй като обектът `cls.book` е създаден веднъж в паметта и се споделя между всички тестове, ако в `test_1` промениш атрибута му в Python (`self.book.title = "Changed"`), без да го презаредиш с `.refresh_from_db()`, `test_2` ще види променената стойност в RAM! Затова данните в `setUpTestData` трябва да се третират като Read-Only.
 
+
+
+
+
+
+
 ---
-[⬅️ 06-05. Celery and Redis](06-05-00-Celery-And-Redis.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-06-01. Syntax From Scratch](06-06-01-Syntax-Testing-In-Django.md)
+
+[⬅️ 06-05-01. Celery & Redis in Django: Синтаксис от нул...](06-05-01-Syntax-Celery-And-Redis.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-06-01. Testing in Django: Синтаксис от нулата & C...](06-06-01-Syntax-Testing-In-Django.md)
+
+© 2026 Dev-Library / 06-06-00. Testing in Django Projects (Теория, `TestCase`, `APIClient`, Mocking & Капани)

@@ -1,4 +1,4 @@
-[⬅️ 04-04-00. Теория & Капани](04-04-00-Spring-MVC-Thymeleaf.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-05-00. State Management (Cookies & Session)](04-05-00-State-Management.md)
+[⬅️ 04-04-00. Spring MVC with Thymeleaf & Validation](04-04-00-Spring-MVC-Thymeleaf.md) | [📂 Назад към Module 04: Spring Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [➡️ 04-05-00. State Management](04-05-00-State-Management.md)
 
 ---
 
@@ -42,5 +42,14 @@
 | **`th:each="item : ${list}"`** | Итерира през колекция в HTML | Създава по 1 елемент за всеки запис |
 | **`th:if` / `th:unless`** | Условно показване / скриване на HTML блок | `th:if="${isAdmin}"` |
 
+
+
+
+
+
+
 ---
-[⬅️ 04-04-00. Теория & Капани](04-04-00-Spring-MVC-Thymeleaf.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-05-00. State Management (Cookies & Session)](04-05-00-State-Management.md)
+
+[⬅️ 04-04-00. Spring MVC with Thymeleaf & Validation](04-04-00-Spring-MVC-Thymeleaf.md) | [📂 Назад към Module 04: Spring Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [➡️ 04-05-00. State Management](04-05-00-State-Management.md)
+
+© 2026 Dev-Library / 04-04-01. Spring MVC with Thymeleaf & Validation: Синтаксис от нулата & Cheat Sheet

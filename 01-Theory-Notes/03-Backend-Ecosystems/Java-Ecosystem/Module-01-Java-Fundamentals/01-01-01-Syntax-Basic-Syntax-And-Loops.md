@@ -1,4 +1,4 @@
-[⬅️ 01-01-00. Теория & Капани](01-01-00-Basic-Syntax-And-Loops.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-02-00. Data Types and Variables](01-02-00-Data-Types-And-Variables.md)
+[⬅️ 01-01-00. Basic Syntax, Conditional Statements & Loops](01-01-00-Basic-Syntax-And-Loops.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-02-00. Data Types and Variables](01-02-00-Data-Types-And-Variables.md)
 
 ---
 
@@ -130,5 +130,14 @@ do {
 | **Логическо И / ИЛИ / НЕ** | `&&` / `\|\|` / `!` | `&&` / `\|\|` / `!` | `and` / `or` / `not` |
 | **Сравнение на стрингове (case-insensitive)** | `s1.equalsIgnoreCase(s2)` | `s1.Equals(s2, StringComparison.OrdinalIgnoreCase)` | `s1.lower() == s2.lower()` |
 
+
+
+
+
+
+
 ---
-[⬅️ 01-01-00. Теория & Капани](01-01-00-Basic-Syntax-And-Loops.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-02-00. Data Types and Variables](01-02-00-Data-Types-And-Variables.md)
+
+[⬅️ 01-01-00. Basic Syntax, Conditional Statements & Loops](01-01-00-Basic-Syntax-And-Loops.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-02-00. Data Types and Variables](01-02-00-Data-Types-And-Variables.md)
+
+© 2026 Dev-Library / 01-01-01. Basic Syntax, Conditionals & Loops: Синтаксис от нулата & Cheat Sheet

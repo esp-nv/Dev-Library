@@ -1,4 +1,4 @@
-[📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04 Spring Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md)
+[📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от 04-00. Intro: Въведение в Spring Boot, MVC & Web Арх...](04-00-Intro.md)
 
 ---
 
@@ -28,8 +28,14 @@
     *   📄 [Теория, ApplicationEventPublisher, Cron & Капани](04-06-00-Spring-Essentials.md)
     *   🛠️ [Syntax-From-Scratch & Cheat Sheet](04-06-01-Syntax-Spring-Essentials.md)
 
+
+
+
+
+
+
 ---
 
-[📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04 Spring Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md)
+[📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от 04-00. Intro: Въведение в Spring Boot, MVC & Web Арх...](04-00-Intro.md)
 
 © 2026 Dev-Library / Module 04: Spring Fundamentals (Spring Boot & MVC)

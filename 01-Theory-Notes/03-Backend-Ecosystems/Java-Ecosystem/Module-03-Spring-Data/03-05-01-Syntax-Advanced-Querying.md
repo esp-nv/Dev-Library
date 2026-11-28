@@ -1,4 +1,4 @@
-[⬅️ 03-05-00. Теория & Капани](03-05-00-Advanced-Querying.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-06-00. Auto Mapping & DTOs](03-06-00-Auto-Mapping-DTOs.md)
+[⬅️ 03-05-00. Spring Data Advanced Querying](03-05-00-Advanced-Querying.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-06-00. Java Auto Mapping Objects](03-06-00-Auto-Mapping-DTOs.md)
 
 ---
 
@@ -142,5 +142,14 @@ public class BookCatalogService {
 | **`@EntityGraph(attributePaths = {"rel"})`** | Зарежда `LAZY` релации с `LEFT JOIN` в 1 заявка | По-чиста алтернатива на `JOIN FETCH` |
 | **`PageRequest.of(page, size, sort)`** | Създава обект `Pageable` за странициране | Първата страница винаги е индекс **`0`** |
 
+
+
+
+
+
+
 ---
-[⬅️ 03-05-00. Теория & Капани](03-05-00-Advanced-Querying.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-06-00. Auto Mapping & DTOs](03-06-00-Auto-Mapping-DTOs.md)
+
+[⬅️ 03-05-00. Spring Data Advanced Querying](03-05-00-Advanced-Querying.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-06-00. Java Auto Mapping Objects](03-06-00-Auto-Mapping-DTOs.md)
+
+© 2026 Dev-Library / 03-05-01. Spring Data Advanced Querying: Синтаксис от нулата & Cheat Sheet

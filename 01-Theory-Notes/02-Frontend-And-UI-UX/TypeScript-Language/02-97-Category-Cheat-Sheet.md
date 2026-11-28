@@ -1,4 +1,4 @@
-[⬅️ 02-09. TypeScript Оптимизации](02-09-Performance-And-Optimizations.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-11. Common Errors And Fixes](02-11-Common-Errors-And-Fixes.md)
+[⬅️ 02-09. TypeScript Оптимизации: Кое е грешно, защо и ...](02-96-Performance-And-Optimizations.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-11. TypeScript Common Errors, Edge Cases & Fixes](02-98-Common-Errors-And-Fixes.md)
 
 ---
 
@@ -122,5 +122,14 @@ const HTTP_STATUS = {
 | **`playwright`** | `npm i -D @playwright/test` | `import { test, expect } from "@playwright/test";`<br>`await page.goto("https://example.com");` | Модерен инструмент за End-to-End UI и API автоматизация в реални браузъри. |
 | **`dotenv`** | `npm i dotenv` | `import "dotenv/config";`<br>`const port = process.env.PORT ?? "3000";` | Зареждане на конфигурационни променливи от `.env` файлове в `process.env`. |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-09. TypeScript Оптимизации](02-09-Performance-And-Optimizations.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-11. Common Errors And Fixes](02-11-Common-Errors-And-Fixes.md)
+
+[⬅️ 02-09. TypeScript Оптимизации: Кое е грешно, защо и ...](02-96-Performance-And-Optimizations.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-11. TypeScript Common Errors, Edge Cases & Fixes](02-98-Common-Errors-And-Fixes.md)
+
+© 2026 Dev-Library / 02-10. TypeScript Category Cheat Sheet: Пълно обобщение по категории

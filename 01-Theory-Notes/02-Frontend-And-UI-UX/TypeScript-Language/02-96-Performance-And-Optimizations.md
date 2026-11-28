@@ -1,4 +1,4 @@
-[⬅️ 02-08. TypeScript Deep Dive Addendum](02-08-TypeScript-Deep-Dive-Addendum.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-10. Category Cheat Sheet](02-10-Category-Cheat-Sheet.md)
+[⬅️ 02-05-01. Decorators, Modules & Async TypeScript: Си...](02-05-01-Syntax-Decorators-Modules-And-Async.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-10. TypeScript Category Cheat Sheet: Пълно обобще...](02-97-Category-Cheat-Sheet.md)
 
 ---
 
@@ -160,5 +160,14 @@ function getAvailableNamesFast(products: Product[]): string[] {
 | **Агрегиране в `.reduce()`** | `[...acc, newItem]` | `acc.push(newItem)` | Нулеви междинни алокации в паметта |
 | **Импортиране от модули** | Големи Barrel файлове (`index.ts`) | Директен импорт от конкретния файл | По-добър **Tree-Shaking** и по-малък Bundle |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-08. TypeScript Deep Dive Addendum](02-08-TypeScript-Deep-Dive-Addendum.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-10. Category Cheat Sheet](02-10-Category-Cheat-Sheet.md)
+
+[⬅️ 02-05-01. Decorators, Modules & Async TypeScript: Си...](02-05-01-Syntax-Decorators-Modules-And-Async.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-10. TypeScript Category Cheat Sheet: Пълно обобще...](02-97-Category-Cheat-Sheet.md)
+
+© 2026 Dev-Library / 02-09. TypeScript Оптимизации: Кое е грешно, защо и как е по-добре (с Блок-схеми)

@@ -1,5 +1,4 @@
-[⬅️ 02-00. Моделиране Overview](02-00-DATA-MODELING-OVERVIEW.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | 🏠 [Библиотека БД](README.md)  | [➡️ 02-02. Нормализация](02-02-SQL-Database-Normalization.md)
-
+[⬅️ 02-00. Проектиране и Моделиране на Бази Данни](02-00-DATA-MODELING-OVERVIEW.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 02-02. Нормализация на Бази Данни (1NF, 2NF, 3NF) и ...](02-02-SQL-Database-Normalization.md)
 
 ---
 
@@ -158,7 +157,14 @@ CREATE TABLE Comments (
 * **Какво се случва:** Ако имаш два пътя на триене към една и съща таблица (напр. `Users ➔ Projects ➔ Tasks` и `Users ➔ Tasks`), MS SQL Server хвърля грешка *May cause cycles or multiple cascade paths*.
 * **Как да избегнеш:** Сложи `ON DELETE CASCADE` само на единия път, а на другия остави `ON DELETE NO ACTION` (или ползвай Soft Delete `IsDeleted = 1`).
 
+
+
+
+
+
+
 ---
-[⬅️ 02-00. Моделиране Overview](02-00-DATA-MODELING-OVERVIEW.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | 🏠 [Библиотека БД](README.md)  | [➡️ 02-02. Нормализация](02-02-SQL-Database-Normalization.md)
+
+[⬅️ 02-00. Проектиране и Моделиране на Бази Данни](02-00-DATA-MODELING-OVERVIEW.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 02-02. Нормализация на Бази Данни (1NF, 2NF, 3NF) и ...](02-02-SQL-Database-Normalization.md)
 
 © 2026 Dev-Library / 02-01. Връзки между таблици, Ключове и Ограничения (Constraints)

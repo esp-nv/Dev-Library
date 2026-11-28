@@ -1,4 +1,4 @@
-[⬅️ 02-09. Валидации и Атрибути](02-09-Data-Annotations-Validation-And-Attributes.md) | [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) | [🏠 Начало (EF Core)](README.md) | [➡️ 03-00. Кратък справочник за защити](03-00-ADVANCED-DBCONTEXT-PROTECTIONS-INTRO.md)
+[⬅️ 02-09. Валидации с Data Annotations и Специфични Атр...](02-09-Data-Annotations-Validation-And-Attributes.md) | [📂 Назад към Databases & Entity Framework Core — Пълен Архитектур... Хъба](README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases & Entity Framework Core — Пълен Архитектур...](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [➡️ 03-00. Напреднали защити в DbContext, Глобални филтр...](03-00-ADVANCED-DBCONTEXT-PROTECTIONS-INTRO.md)
 
 ---
 
@@ -91,7 +91,14 @@ public class Product
 
 Ако Оператор А вече е променил реда, версията в SQL Server ще е различна, заявката на Оператор Б ще засегне `0` редове и EF Core моментално ще хвърли изключение **`DbUpdateConcurrencyException`**, спасявайки данните от презаписване!
 
+
+
+
+
+
+
 ---
-[⬅️ 02-09. Валидации и Атрибути](02-09-Data-Annotations-Validation-And-Attributes.md) | [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) | [🏠 Начало (EF Core)](README.md) | [➡️ 03-00. Кратък справочник за защити](03-00-ADVANCED-DBCONTEXT-PROTECTIONS-INTRO.md)
+
+[⬅️ 02-09. Валидации с Data Annotations и Специфични Атр...](02-09-Data-Annotations-Validation-And-Attributes.md) | [📂 Назад към Databases & Entity Framework Core — Пълен Архитектур... Хъба](README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases & Entity Framework Core — Пълен Архитектур...](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [➡️ 03-00. Напреднали защити в DbContext, Глобални филтр...](03-00-ADVANCED-DBCONTEXT-PROTECTIONS-INTRO.md)
 
 © 2026 Dev-Library / 02-10. Напреднал LINQ, Стратегии за зареждане и Конкурентност

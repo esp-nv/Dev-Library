@@ -1,4 +1,4 @@
-[⬅️ 01-98. QA Common Errors & Fixes](01-98-Common-Errors-And-Fixes.md) | 📂 Папка: 01-QA-Automation | [🏠 Начало](../README.md) | [➡️ 02-TypeScript-Language](../02-TypeScript-Language/README.md)
+[⬅️ 01-98. QA Automation Common Errors, Edge Cases & Fixes](01-98-Common-Errors-And-Fixes.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md)
 
 ---
 
@@ -78,5 +78,14 @@
 *   **Диагностика в Apache JMeter (`View Results Tree`):**
     * При разработка на JMeter план използвай **View Results Tree** (табове *Request* и *Response Data*), за да провериш дали сървърът не връща HTML login страница с `200 OK` вместо реални данни при грешен токен.
 
+
+
+
+
+
+
 ---
-[⬅️ 01-98. QA Common Errors & Fixes](01-98-Common-Errors-And-Fixes.md) | 📂 Папка: 01-QA-Automation | [🏠 Начало](../README.md) | [➡️ 02-TypeScript-Language](../02-TypeScript-Language/README.md)
+
+[⬅️ 01-98. QA Automation Common Errors, Edge Cases & Fixes](01-98-Common-Errors-And-Fixes.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md)
+
+© 2026 Dev-Library / 01-99. QA & SDET Interview Q&A, Скрити Капани & Debugging Techniques

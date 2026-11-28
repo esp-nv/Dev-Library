@@ -1,4 +1,4 @@
-[⬅️ 05-01-00. Теория & Капани](05-01-00-REST-And-Error-Handling.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-02-00. Spring Security 6+](05-02-00-Spring-Security.md)
+[⬅️ 05-01-00. Web API, REST Controllers & Global Error H...](05-01-00-REST-And-Error-Handling.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 05-02-00. Spring Security 6+ & Authentication](05-02-00-Spring-Security.md)
 
 ---
 
@@ -184,5 +184,14 @@ spring.mvc.problemdetails.enabled=true
 | **`ResponseEntity.noContent().build()`** | Връща празен отговор (при `DELETE`) | `204 No Content` |
 | **`@RestControllerAdvice`** | Глобален прихващач на грешки за всички контролери | Връща структуриран `ProblemDetail` JSON |
 
+
+
+
+
+
+
 ---
-[⬅️ 05-01-00. Теория & Капани](05-01-00-REST-And-Error-Handling.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-02-00. Spring Security 6+](05-02-00-Spring-Security.md)
+
+[⬅️ 05-01-00. Web API, REST Controllers & Global Error H...](05-01-00-REST-And-Error-Handling.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 05-02-00. Spring Security 6+ & Authentication](05-02-00-Spring-Security.md)
+
+© 2026 Dev-Library / 05-01-01. Web API, REST Controllers & Global Error Handling: Синтаксис от нулата & Cheat Sheet

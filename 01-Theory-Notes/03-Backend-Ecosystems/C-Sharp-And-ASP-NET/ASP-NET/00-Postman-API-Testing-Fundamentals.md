@@ -1,4 +1,4 @@
-[⬅️ 00-02. Git и Документация](00-02-Git-And-Project-Documentation-Best-Practices.md) | 📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) 
+[⬅️ 00-04. Пълен диагностичен наръчник за Chrome DevTools](00-Chrome-DevTools-Full-Diagnostic-Guide.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 01-00. ASP.NET Core Fundamentals](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)
 
 ---
 
@@ -77,7 +77,14 @@
 *   **Защо се случва:** Тъй като твоето C# приложение работи на `localhost`, то използва временен локален криптографски сертификат. Понеже е защитна програма, Postman се уплашва и блокира мрежовия ход насила.
 *   **Решение:** Отиди в настройките (Иконката със зъбно колело в горния десен ъгъл ➔ **Settings** ➔ таб **General**) и изключи флага **`SSL certificate verification`** на **`OFF`**. Това ще позволи свободно тестване в локални среди за разработка.
 
+
+
+
+
+
+
 ---
-[⬅️ 00-02. Git и Документация](00-02-Git-And-Project-Documentation-Best-Practices.md) | 📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) 
+
+[⬅️ 00-04. Пълен диагностичен наръчник за Chrome DevTools](00-Chrome-DevTools-Full-Diagnostic-Guide.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 01-00. ASP.NET Core Fundamentals](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)
 
 © 2026 Dev-Library / 00-03. Пълен диагностичен наръчник за Postman

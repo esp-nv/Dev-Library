@@ -1,4 +1,4 @@
-[⬅️ 00-03-01. Python Implementation](00-03-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-03-03. JavaScript Implementation](00-03-03-JavaScript-Implementation.md)
+[⬅️ 00-03-01. Sorting Algorithms: Python Имплементация &...](00-03-01-Python-Implementation.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-03-03. Sorting Algorithms: JavaScript (ES6+) Импл...](00-03-03-JavaScript-Implementation.md)
 
 ---
 
@@ -149,7 +149,14 @@ var sortedStudents = students
 | **Обратно обръщане на масив** | `Array.Reverse(arr)` | Работи за $O(n)$ време на място |
 | **Стабилно многокритериално** | `list.OrderBy(x => x.A).ThenByDescending(x => x.B)` | LINQ ползва стабилен Merge Sort |
 
+
+
+
+
+
+
 ---
-[⬅️ 00-03-01. Python Implementation](00-03-01-Python-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-03-03. JavaScript Implementation](00-03-03-JavaScript-Implementation.md)
+
+[⬅️ 00-03-01. Sorting Algorithms: Python Имплементация &...](00-03-01-Python-Implementation.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-03-03. Sorting Algorithms: JavaScript (ES6+) Импл...](00-03-03-JavaScript-Implementation.md)
 
 © 2026 Dev-Library / 00-03-02. Sorting Algorithms: C# (.NET) Имплементация & Cheat Sheet

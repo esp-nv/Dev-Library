@@ -1,7 +1,6 @@
-[⬅️ Назад към 02. Responsive, Forms & Frameworks](README.md) | [📂 Предишна папка: 01. HTML5 & CSS3 Foundations](../01-HTML-And-CSS-Foundations/README.md) | [📂 Текуща папка: 02. Responsive, Forms & Frameworks](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-01-00. Адаптивен уеб дизайн и Media Queries](02-01-00-Responsive-Design-And-Media-Queries.md)
+[📦 Към предишен модул: JavaScript-Language](../JavaScript-Language/README.md) | [📂 Назад към 02. Responsive Design, Forms & CSS Frameworks Хъба](README.md) | [📦 Предишен модул: JavaScript-Language](../JavaScript-Language/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 02. Responsive Design, Forms & CSS Frameworks](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-01-00. Адаптивен уеб дизайн и Media Queries](02-01-00-Responsive-Design-And-Media-Queries.md)
 
 ---
-
 
 # 02-00. Intro to Responsive Design & UI Frameworks
 
@@ -70,7 +69,14 @@
 * **[02-04-00. Bootstrap 5 (12-Колонна Grid система и Компоненти)](02-04-00-Bootstrap-5-Grid-And-Components.md)** — 12-колонна мрежа, Flexbox основа и капани при счупена Grid йерархия.
 * **[02-04-01. Syntax-From-Scratch & Bootstrap 5 Grid Templates + Cheat Sheet](02-04-01-Syntax-Bootstrap-5-Grid-And-Components.md)** — CDN интеграция, Grid шаблони и справка за класовете на Bootstrap 5.
 
+
+
+
+
+
+
 ---
-[⬅️ Назад към 02. Responsive, Forms & Frameworks](README.md) | [⬅️ Назад към 01. HTML5 & CSS3 Foundations](../HTML5-CSS3-And-SASS/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Responsive-Forms-And-Frameworks](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../TypeScript-Language/README.md) | [➡️ 02-01-00. Адаптивен уеб дизайн и Media Queries](02-01-00-Responsive-Design-And-Media-Queries.md)
+
+[📦 Към предишен модул: JavaScript-Language](../JavaScript-Language/README.md) | [📂 Назад към 02. Responsive Design, Forms & CSS Frameworks Хъба](README.md) | [📦 Предишен модул: JavaScript-Language](../JavaScript-Language/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 02. Responsive Design, Forms & CSS Frameworks](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-01-00. Адаптивен уеб дизайн и Media Queries](02-01-00-Responsive-Design-And-Media-Queries.md)
 
 © 2026 Dev-Library / 02-00. Intro to Responsive Design & UI Frameworks

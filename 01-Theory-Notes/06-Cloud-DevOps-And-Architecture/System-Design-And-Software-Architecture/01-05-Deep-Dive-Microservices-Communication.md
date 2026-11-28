@@ -1,4 +1,4 @@
-[⬅️ 01-04. Процес на проектиране: Алгоритъм за изграждане на системи от нулата](01-04-System-Design-Interview-Process.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md) | [🏠 Главен Хъб на проекта](../README.md)| [➡️ 01-06. Стратегии за Шардинг](01-06-Advanced-Database-Scaling-Sharding-Strategies.md)
+[⬅️ 01-04. Процес на проектиране: Алгоритъм за изграждан...](01-04-System-Design-Interview-Process.md) | [📂 Назад към Системен Дизайн и Софтуерна Архитектура Хъба](README.md) | [🌐 Домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Системен Дизайн и Софтуерна Архитектура](README.md) | [🌐 Следващ домейн: 07-Game-Development](../../07-Game-Development/README.md) | [📦 Следващ модул: Technical-SEO-And-Web-Vitals](../Technical-SEO-And-Web-Vitals/README.md) | [➡️ 01-06. Мащабиране на данни: Стратегии за Шардинг и Р...](01-06-Advanced-Database-Scaling-Sharding-Strategies.md)
 
 ---
 
@@ -167,7 +167,14 @@ Status: 200 OK
     AppContext.SetSwitch("System.Net.Http.SocketsHttpHandler.Http2UnencryptedSupport", true);
     ```
 
+
+
+
+
+
+
 ---
-[⬅️ 01-04. Процес на проектиране: Алгоритъм за изграждане на системи от нулата](01-04-System-Design-Interview-Process.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md) | [🏠 Главен Хъб на проекта](../README.md)| [➡️ 01-06. Стратегии за Шардинг](01-06-Advanced-Database-Scaling-Sharding-Strategies.md)
+
+[⬅️ 01-04. Процес на проектиране: Алгоритъм за изграждан...](01-04-System-Design-Interview-Process.md) | [📂 Назад към Системен Дизайн и Софтуерна Архитектура Хъба](README.md) | [🌐 Домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Системен Дизайн и Софтуерна Архитектура](README.md) | [🌐 Следващ домейн: 07-Game-Development](../../07-Game-Development/README.md) | [📦 Следващ модул: Technical-SEO-And-Web-Vitals](../Technical-SEO-And-Web-Vitals/README.md) | [➡️ 01-06. Мащабиране на данни: Стратегии за Шардинг и Р...](01-06-Advanced-Database-Scaling-Sharding-Strategies.md)
 
 © 2026 Dev-Library / 01-05. Дълбоко гмуркане: Комуникация между Микроуслуги (gRPC срещу RabbitMQ)

@@ -1,4 +1,4 @@
-[⬅️ 05-02-00. Теория & Капани](05-02-00-Spring-Security.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-03-00. Stateless Security with JWT](05-03-00-JWT-Authentication.md)
+[⬅️ 05-02-00. Spring Security 6+ & Authentication](05-02-00-Spring-Security.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 05-03-00. Stateless Security with JWT & Refresh Tokens](05-03-00-JWT-Authentication.md)
 
 ---
 
@@ -151,5 +151,14 @@ public class AuthRegistrationService {
 | **`BCryptPasswordEncoder`** | Еднопосочно криптиране на пароли със Salt | Използвай `passwordEncoder.matches(raw, hash)` за проверка |
 | **`UserDetailsService`** | Интерфейс за зареждане на потребител по username/email | Единствен метод: `loadUserByUsername(String)` |
 
+
+
+
+
+
+
 ---
-[⬅️ 05-02-00. Теория & Капани](05-02-00-Spring-Security.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-03-00. Stateless Security with JWT](05-03-00-JWT-Authentication.md)
+
+[⬅️ 05-02-00. Spring Security 6+ & Authentication](05-02-00-Spring-Security.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 05-03-00. Stateless Security with JWT & Refresh Tokens](05-03-00-JWT-Authentication.md)
+
+© 2026 Dev-Library / 05-02-01. Spring Security 6+ & Authentication: Синтаксис от нулата & Cheat Sheet

@@ -1,4 +1,4 @@
-[⬅️ 00-06-00. Теория & Капани](00-06-00-Dynamic-Programming.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-06-02. C# Implementation](00-06-02-CSharp-Implementation.md)
+[⬅️ 00-06-00. Dynamic Programming](00-06-00-Dynamic-Programming.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-06-02. Dynamic Programming: C# (.NET) Имплементац...](00-06-02-CSharp-Implementation.md)
 
 ---
 
@@ -84,8 +84,14 @@ print(knapsack_01(7, , ))  # Изход: 9
 | **Стойност за безкрайност** | `float("inf")` или `math.inf` | Удобна при задачи за минимум (`min()`) |
 | **Чист 2D масив (Без капана `*`)** | `dp = [[0] * cols for _ in range(rows)]` | Никога `[[0] * cols] * rows` (споделя референции!) |
 
----
-[⬅️ 00-06-00. Теория & Капани](00-06-00-Dynamic-Programming.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-06-02. C# Implementation](00-06-02-CSharp-Implementation.md)
 
+
+
+
+
+
+---
+
+[⬅️ 00-06-00. Dynamic Programming](00-06-00-Dynamic-Programming.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-06-02. Dynamic Programming: C# (.NET) Имплементац...](00-06-02-CSharp-Implementation.md)
 
 © 2026 Dev-Library / 00-06-01. Dynamic Programming: Python Имплементация & Cheat Sheet

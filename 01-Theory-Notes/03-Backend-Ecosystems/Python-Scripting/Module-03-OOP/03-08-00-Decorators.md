@@ -1,4 +1,4 @@
-[⬅️ 03-07. Iterators and Generators](03-07-00-Iterators-And-Generators.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-08-01. Syntax From Scratch](03-08-01-Syntax-Decorators.md)
+[⬅️ 03-07-01. Iterators and Generators: Синтаксис от нул...](03-07-01-Syntax-Iterators-And-Generators.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-08-01. Decorators: Синтаксис от нулата & Cheat Sheet](03-08-01-Syntax-Decorators.md)
 
 ---
 
@@ -128,5 +128,14 @@ print(f"Резултат: {answer}")
     1.  **Ред на обвиване (при зареждане на модула):** Първо вътрешният `@dec_B` обвива `my_func`, а след това външният `@dec_A` обвива резултата (**отдолу нагоре**).
     2.  **Ред на изпълнение (при викане на `my_func()`):** Първо тръгва кодът на външния `@dec_A` (преди `func()`), после влиза във вътрешния `@dec_B`, изпълнява самата `my_func()`, и накрая излиза обратно през `@dec_B` и `@dec_A` (**като луковица — отвън навътре и после обратно навън**).
 
+
+
+
+
+
+
 ---
-[⬅️ 03-07. Iterators and Generators](03-07-00-Iterators-And-Generators.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-08-01. Syntax From Scratch](03-08-01-Syntax-Decorators.md)
+
+[⬅️ 03-07-01. Iterators and Generators: Синтаксис от нул...](03-07-01-Syntax-Iterators-And-Generators.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-08-01. Decorators: Синтаксис от нулата & Cheat Sheet](03-08-01-Syntax-Decorators.md)
+
+© 2026 Dev-Library / 03-08-00. Decorators (Теория, `@wraps`, Аспекти & Капани)

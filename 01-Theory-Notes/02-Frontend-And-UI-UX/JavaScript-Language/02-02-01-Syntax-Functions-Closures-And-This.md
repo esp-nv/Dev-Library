@@ -1,4 +1,4 @@
-[⬅️ 02-02-00. Functions, Closures & `this`](02-02-00-Functions-Closures-And-This.md) | [📂 Назад към JavaScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-03-00. Prototypes, OOP & Classes](02-03-00-Prototypes-OOP-And-Classes.md)
+[⬅️ 02-02-00. Functions, Lexical Scope, Closures & `this...](02-02-00-Functions-Closures-And-This.md) | [📂 Назад към JavaScript Language & Architecture Хъба](README.md) | [📦 Предишен модул: HTML5-CSS3-And-SASS](../HTML5-CSS3-And-SASS/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language & Architecture](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-03-00. Prototypes, Prototype Chain & Modern ES6+ ...](02-03-00-Prototypes-OOP-And-Classes.md)
 
 ---
 
@@ -142,6 +142,22 @@ const normalizeFuncName = pipe(trim, toUpper);
 normalizeFuncName("  площ.кръг  "); // "ПЛОЩ.КРЪГ"
 ```
 
+##№ 5.1. Functional Programming: Currying, Partial Application & Pure Functions
+
+* **Pure Function & Referential Transparency:** Функция без странични ефекти, която за едни и същи аргументи винаги връща един и същ резултат (извикването ѝ може да бъде заменено директно със стойността ѝ).
+* **Partial Application (Частично прилагане):** Фиксира част от аргументите на функция и връща нова функция за останалите аргументи (с произволен брой параметри).
+* **Currying (Къринг):** Трансформира функция с $N$ аргумента в верига от $N$ вложени унарни функции (всяка приемаща по 1 аргумент):
+
+```javascript
+// Currying (верига от унарни функции)
+const sum3 = (a) => (b) => (c) => a + b + c;
+console.log(sum3(5)(6)(8)); // 19
+
+// Partial Application (фиксиране на първите аргументи)
+const createFormatter = (sep, symbol, first, formatter) => (val) =>
+  formatter(sep, symbol, first, val);
+```
+
 ---
 
 ## 6. Синтактичен Cheat Sheet (JS Array Methods срещу C# LINQ)
@@ -157,8 +173,14 @@ normalizeFuncName("  площ.кръг  "); // "ПЛОЩ.КРЪГ"
 | **Сортиране без мутация** | `arr.toSorted((a, b) => a - b)` | `list.OrderBy(x => x)` |
 | **Разгъване на вложени масиви** | `arr.flatMap(x => x.items)` | `list.SelectMany(x => x.Items)` |
 
+
+
+
+
+
+
 ---
 
-[⬅️ 02-02-00. Functions, Closures & `this`](02-02-00-Functions-Closures-And-This.md) | [📂 Назад към JavaScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-03-00. Prototypes, OOP & Classes](02-03-00-Prototypes-OOP-And-Classes.md)
+[⬅️ 02-02-00. Functions, Lexical Scope, Closures & `this...](02-02-00-Functions-Closures-And-This.md) | [📂 Назад към JavaScript Language & Architecture Хъба](README.md) | [📦 Предишен модул: HTML5-CSS3-And-SASS](../HTML5-CSS3-And-SASS/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language & Architecture](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-03-00. Prototypes, Prototype Chain & Modern ES6+ ...](02-03-00-Prototypes-OOP-And-Classes.md)
 
 © 2026 Dev-Library / 02-02-01. Functions, Closures & Array Methods — Syntax & Cheat Sheet

@@ -1,4 +1,4 @@
-[⬅️ 01-02-01. Syntax-From-Scratch & UI Card Snippets](01-02-01-Syntax-CSS-Box-Model-And-Typography.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-03-01. Syntax-From-Scratch & Flexbox Cheat Sheet](01-03-01-Syntax-CSS-Layout-Flexbox.md)
+[⬅️ 01-02-01. Syntax-From-Scratch & UI Card Snippets](01-02-01-Syntax-CSS-Box-Model-And-Typography.md) | [📂 Назад към 01. HTML5 & CSS3 Foundations Хъба](README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [➡️ 01-03-01. Syntax-From-Scratch & Flexbox Cheat Sheet](01-03-01-Syntax-CSS-Layout-Flexbox.md)
 
 ---
 
@@ -85,8 +85,14 @@
 * **[01-03-01. Syntax-From-Scratch & Flexbox Cheat Sheet](01-03-01-Syntax-CSS-Layout-Flexbox.md)** — Практически Flex рецепти от нулата, пълен Cheat Sheet по свойства (Container vs. Item) и готов компонент за адаптивна навигационна лента.
 * **[02-00. Intro to Responsive & UI Frameworks](../02-Responsive-Forms-And-Frameworks/02-00-Intro.md)** — Преход към следващия раздел: адаптивен дизайн с Media Queries, форми, Tailwind CSS и Bootstrap 5.
 
----
-[⬅️ 01-02-01. Syntax-From-Scratch & UI Card Snippets](01-02-01-Syntax-CSS-Box-Model-And-Typography.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-03-01. Syntax-From-Scratch & Flexbox Cheat Sheet](01-03-01-Syntax-CSS-Layout-Flexbox.md)
 
+
+
+
+
+
+---
+
+[⬅️ 01-02-01. Syntax-From-Scratch & UI Card Snippets](01-02-01-Syntax-CSS-Box-Model-And-Typography.md) | [📂 Назад към 01. HTML5 & CSS3 Foundations Хъба](README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [➡️ 01-03-01. Syntax-From-Scratch & Flexbox Cheat Sheet](01-03-01-Syntax-CSS-Layout-Flexbox.md)
 
 © 2026 Dev-Library / 01-03-00. CSS Layout — Flexbox Архитектура (Теория, Оси и Капани)

@@ -1,4 +1,4 @@
-[⬅️ 04-04-00. Теория & Сравнение](04-04-00-Relationships.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-04-02. SQLAlchemy Syntax](04-04-02-Syntax-SQLAlchemy.md)
+[⬅️ 04-04-00. Table Relationships](04-04-00-Relationships.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-04-02. SQLAlchemy 2.0 Relationships: Синтаксис от...](04-04-02-Syntax-SQLAlchemy.md)
 
 ---
 
@@ -130,5 +130,14 @@ xml_tree = ET.tostring(author_xml, encoding="unicode")
 | **Добавяне / Махане в M:N** | `obj.tags.add(tag)` / `obj.tags.remove(tag)` |
 | **Филтриране по поле на родител** | `Child.objects.filter(parent__name="Ivan")` |
 
+
+
+
+
+
+
 ---
-[⬅️ 04-04-00. Теория & Сравнение](04-04-00-Relationships.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-04-02. SQLAlchemy Syntax](04-04-02-Syntax-SQLAlchemy.md)
+
+[⬅️ 04-04-00. Table Relationships](04-04-00-Relationships.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-04-02. SQLAlchemy 2.0 Relationships: Синтаксис от...](04-04-02-Syntax-SQLAlchemy.md)
+
+© 2026 Dev-Library / 04-04-01. Django ORM Relationships: Синтаксис от нулата & Cheat Sheet

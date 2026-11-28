@@ -1,4 +1,4 @@
-[⬅️ 02-06. Browser JS vs Node.js Runtime Comparison](02-06-Browser-JS-vs-NodeJS-Runtime-Comparison.md) | [📂 Назад към JavaScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-97. Category Cheat Sheet](02-97-Category-Cheat-Sheet.md)
+[⬅️ 02-09-01. Unit Testing & Playwright E2E — Syntax & C...](02-09-01-Syntax-Testing-And-E2E-Playwright.md) | [📂 Назад към JavaScript Language & Architecture Хъба](README.md) | [📦 Предишен модул: HTML5-CSS3-And-SASS](../HTML5-CSS3-And-SASS/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language & Architecture](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-97. JavaScript Category Cheat Sheet](02-97-Category-Cheat-Sheet.md)
 
 ---
 
@@ -97,8 +97,14 @@ Garbage Collector-ът на V8 (Mark-and-Sweep) освобождава обек�
 | **Често добавяне/триене по ключ** | `obj[key] = val` / `delete obj[key]` | `map.set(key, val)` / `map.delete(key)` | Оптимизирано за мутации |
 | **Сложни анимации в браузъра** | `setInterval(step, 16)` | `requestAnimationFrame(step)` | Синхронизирано с V-Sync |
 
+
+
+
+
+
+
 ---
 
-[⬅️ 02-06. Browser JS vs Node.js Runtime Comparison](02-06-Browser-JS-vs-NodeJS-Runtime-Comparison.md) | [📂 Назад към JavaScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-97. Category Cheat Sheet](02-97-Category-Cheat-Sheet.md)
+[⬅️ 02-09-01. Unit Testing & Playwright E2E — Syntax & C...](02-09-01-Syntax-Testing-And-E2E-Playwright.md) | [📂 Назад към JavaScript Language & Architecture Хъба](README.md) | [📦 Предишен модул: HTML5-CSS3-And-SASS](../HTML5-CSS3-And-SASS/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language & Architecture](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-97. JavaScript Category Cheat Sheet](02-97-Category-Cheat-Sheet.md)
 
 © 2026 Dev-Library / 02-96. JavaScript Performance & Optimizations (с Блок-схеми)

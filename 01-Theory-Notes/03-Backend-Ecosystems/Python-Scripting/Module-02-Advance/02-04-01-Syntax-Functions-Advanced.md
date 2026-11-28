@@ -1,4 +1,4 @@
-[⬅️ 02-04-00. Теория & Капани](02-04-00-Functions-Advanced.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-05-00. Error Handling](02-05-00-Error-Handling.md)
+[⬅️ 02-04-00. Functions Advanced](02-04-00-Functions-Advanced.md) | [📂 Назад към Module 02: Python Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Python Advance](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md) | [➡️ 02-05-00. Error Handling](02-05-00-Error-Handling.md)
 
 ---
 
@@ -98,5 +98,14 @@ print(counter_a())  # Изход: 2
 | **Промяна на външна променлива** | `nonlocal x` | Позволява запис във външна (неглобална) функция |
 | **Лимит на рекурсията** | `sys.getrecursionlimit()` | По подразбиране е `1000` нива в стека |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-04-00. Теория & Капани](02-04-00-Functions-Advanced.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-05-00. Error Handling](02-05-00-Error-Handling.md)
+
+[⬅️ 02-04-00. Functions Advanced](02-04-00-Functions-Advanced.md) | [📂 Назад към Module 02: Python Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Python Advance](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md) | [➡️ 02-05-00. Error Handling](02-05-00-Error-Handling.md)
+
+© 2026 Dev-Library / 02-04-01. Functions Advanced: Синтаксис от нулата & Cheat Sheet

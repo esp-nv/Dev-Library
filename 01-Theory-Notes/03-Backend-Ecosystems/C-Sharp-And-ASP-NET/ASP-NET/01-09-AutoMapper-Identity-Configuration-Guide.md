@@ -1,4 +1,4 @@
-[⬅️ 01-08. Глобален Пищов](01-08-ASP-NET-Core-Fundamentals-CheatSheet.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [01-10. Reflection и Attributes (Дълбок Архитектурен Справочник)](01-10-Reflection-And-Attributes.md)
+[⬅️ 01-08. ASP.NET Core Fundamentals](01-08-ASP-NET-Core-Fundamentals-CheatSheet.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 01-10. Reflection и Attributes](01-10-Reflection-And-Attributes.md)
 
 ---
 
@@ -178,5 +178,14 @@ Status: 200 OK
 
 ---
 [⬅️ 01-08. Глобален Пищов](01-08-ASP-NET-Core-Fundamentals-CheatSheet.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [01-10. Reflection и Attributes (Дълбок Архитектурен Справочник)](01-10-Reflection-And-Attributes.md)
+
+
+
+
+
+
 ---
+
+[⬅️ 01-08. ASP.NET Core Fundamentals](01-08-ASP-NET-Core-Fundamentals-CheatSheet.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 01-10. Reflection и Attributes](01-10-Reflection-And-Attributes.md)
+
 © 2026 Dev-Library / 01-09. Наръчник по конфигурация: AutoMapper и Identity в папка Fundamentals

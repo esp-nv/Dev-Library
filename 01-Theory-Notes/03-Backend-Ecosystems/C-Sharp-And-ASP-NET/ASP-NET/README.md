@@ -1,8 +1,4 @@
-[📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP NET](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [▶️ Започни от 00-00. Въведение в уеб технологиите и Git инженерна хигиена (Кратък справочник)](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md)
-
----
-
-[🏠 Всички бележки (01-Theory-Notes)](../README.md) | [🗄️ Бази данни (SQL & NoSQL)](../Databases-SQL-And-NoSQL/) | [💾 Entity Framework Core](../Databases-And-EF-Core/) | [▶️ Започни от 00-01](00-01-Internet-Protocols-And-HTTP-Fundamentals.md)
+[📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от 00-00. Въведение в уеб технологиите и Git инженерна ...](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md)
 
 ---
 
@@ -83,8 +79,14 @@
 ---
 🏠 [Всички бележки (01-Theory-Notes)](../README.md) | 🗄️ [Бази данни (SQL & NoSQL)](../Databases-SQL-And-NoSQL/) | 💾 [Entity Framework Core](../Databases-And-EF-Core/) | ▶️ [Започни от 00-01](00-01-Internet-Protocols-And-HTTP-Fundamentals.md)
 
+
+
+
+
+
+
 ---
 
-[📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP NET](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [▶️ Започни от 00-00. Въведение в уеб технологиите и Git инженерна хигиена (Кратък справочник)](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md)
+[📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от 00-00. Въведение в уеб технологиите и Git инженерна ...](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md)
 
 © 2026 Dev-Library / ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас

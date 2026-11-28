@@ -1,4 +1,4 @@
-[⬅️ 02-05-00. Decorators, Modules & Async TypeScript](02-05-00-Decorators-Modules-And-Async.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-96. Performance & Optimizations](02-96-Performance-And-Optimizations.md)
+[⬅️ 02-05-00. Decorators, ES Modules & Async TypeScript](02-05-00-Decorators-Modules-And-Async.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-09. TypeScript Оптимизации: Кое е грешно, защо и ...](02-96-Performance-And-Optimizations.md)
 
 ---
 
@@ -152,8 +152,14 @@ async function fetchProductById(id: number): Promise<IProduct | null> {
 | **Типизирана Async функция** | `async function load(): Promise<User[]>` | Всяка `async` функция задължително връща `Promise<T>`. |
 | **Безопасен `catch` блок** | `catch (err: unknown) { if (err instanceof Error) ... }` | Стандарт в TypeScript 4.4+ при включен `strict: true`. |
 
+
+
+
+
+
+
 ---
 
-[⬅️ 02-05-00. Decorators, Modules & Async TypeScript](02-05-00-Decorators-Modules-And-Async.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-96. Performance & Optimizations](02-96-Performance-And-Optimizations.md)
+[⬅️ 02-05-00. Decorators, ES Modules & Async TypeScript](02-05-00-Decorators-Modules-And-Async.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-09. TypeScript Оптимизации: Кое е грешно, защо и ...](02-96-Performance-And-Optimizations.md)
 
 © 2026 Dev-Library / 02-05-01. Decorators, Modules & Async TypeScript: Синтаксис от Нулата & Cheat Sheet

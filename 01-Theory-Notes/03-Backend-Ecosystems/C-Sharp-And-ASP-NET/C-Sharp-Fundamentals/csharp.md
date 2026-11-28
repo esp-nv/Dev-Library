@@ -1574,3 +1574,14 @@ array	reference type	зависи от броя елементи
 Така шпаргалката няма да те кара да запомняш грешното правило „всеки тип има фиксирани байтове“.
 
 И да — таблиците са много подходящи за Fundamentals, особено за Data Types, Access Modifiers, Collections, OOP и операторите.
+
+
+
+
+
+
+---
+
+[⬅️ colections-csharp](colections-csharp.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ debugging-techniques-csharp](debugging-techniques-csharp.md)
+
+© 2026 Dev-Library / csharp

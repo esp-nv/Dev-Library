@@ -1,4 +1,4 @@
- [⬅️ 02-04. Напреднал Глобален Пищов](02-04-ASP-NET-Core-Advanced-CheatSheet.md) | [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-06. Глобална Софтуерна Сигурност](02-06-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md)
+[⬅️ 02-04. ASP.NET Core Advanced](02-04-ASP-NET-Core-Advanced-CheatSheet.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 02-05. Архитектурният патерн Repository и Generic Ск...](02-06-Repository-Pattern-Generic-Repositories.md)
 
 ---
 
@@ -131,7 +131,14 @@ public class NewsletterController : Controller
 *   **Защо се случва:** Маршрутизаторът на Razor Pages е изключително строг към конвенциите за имена. Той търси методи, започващи задължително с представката **`On`**, последвана точно от HTTP глагола: **`OnGet()`** или **`OnPost()`**. Тъй като твоят метод няма представка `On`, .NET го мисли за обикновена функция, пропуска го, не открива кой да обработи формата и Kestrel спира заявката.
 *   **Как да го поправиш:** Винаги спазвай закования Razor синтаксис: `public IActionResult OnPost()` или асинхронния му еквивалент `public async Task<IActionResult> OnPostAsync()`.
 
+
+
+
+
+
+
 ---
- [⬅️ 02-04. Напреднал Глобален Пищов](02-04-ASP-NET-Core-Advanced-CheatSheet.md) | [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-06. Глобална Софтуерна Сигурност](02-06-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md)
+
+[⬅️ 02-04. ASP.NET Core Advanced](02-04-ASP-NET-Core-Advanced-CheatSheet.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 02-05. Архитектурният патерн Repository и Generic Ск...](02-06-Repository-Pattern-Generic-Repositories.md)
 
 © 2026 Dev-Library / 02-05. Архитектурен контраст: Razor Pages срещу ASP.NET Core MVC

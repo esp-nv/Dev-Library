@@ -1,4 +1,4 @@
-[⬅️ 02-06. SOLID Principles](02-06-00-SOLID-Principles.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-07-01. Syntax From Scratch](02-07-01-Syntax-Reflection-And-Annotations.md)
+[⬅️ 02-06-01. SOLID Principles in Java: Синтаксис от нул...](02-06-01-Syntax-SOLID-Principles.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-07-01. Reflection and Annotations: Синтаксис от н...](02-07-01-Syntax-Reflection-And-Annotations.md)
 
 ---
 
@@ -112,5 +112,14 @@ public @interface AuditLog {
 | **Generics по време на изпълнение** | **Type Erasure** (`List<String>.class` не съществува; вижда се само суров `List.class`) | **Reified Generics** (`typeof(List<string>)` пази пълния тип `string` в паметта!) |
 | **Модерна алтернатива на Reflection** | **MethodHandles** (`java.lang.invoke.MethodHandles.Lookup`) / AOT (GraalVM) | **Source Generators** (генерират C# код по време на компилация без Reflection) |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-06. SOLID Principles](02-06-00-SOLID-Principles.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-07-01. Syntax From Scratch](02-07-01-Syntax-Reflection-And-Annotations.md)
+
+[⬅️ 02-06-01. SOLID Principles in Java: Синтаксис от нул...](02-06-01-Syntax-SOLID-Principles.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-07-01. Reflection and Annotations: Синтаксис от н...](02-07-01-Syntax-Reflection-And-Annotations.md)
+
+© 2026 Dev-Library / 02-07-00. Reflection and Annotations (Теория, Магията на Spring Boot & Капани)

@@ -1,4 +1,4 @@
-🏠 [Начало (Библиотека БД)](README.md) | ⏩ [Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md)
+[📦 Към предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 01. Въведение в БД, Типове данни и CRUD операции](01-00-SQL-INTRO-AND-CRUD.md)
 
 ---
 
@@ -139,7 +139,14 @@ pg_restore -U postgres -d ShopDb_New -c shopdb_backup.dump
 * **Какво се случва:** Добавяш ръчно колона `Discount` директно в продукционната база, но забравяш да я добавиш в EF Core миграциите. Следващият деплой или нов колега в екипа получава грешки при стартиране.
 * **Как да избегнеш:** Всяка промяна по схемата на базата минава през **Migrations** в Git, за да има пълна история кой, кога и защо е променил структурата.
 
+
+
+
+
+
+
 ---
-🏠 [Начало (Библиотека БД)](README.md) | ⏩ [Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md)
+
+[📦 Към предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 01. Въведение в БД, Типове данни и CRUD операции](01-00-SQL-INTRO-AND-CRUD.md)
 
 © 2026 Dev-Library / 00-01. Архитектура на СУБД, Инструменти, Бекъпи и Миграции

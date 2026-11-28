@@ -1,4 +1,4 @@
-[⬅️ 04-03-00. Теория & Капани](04-03-00-Spring-Core-IoC.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-04-00. Spring MVC with Thymeleaf](04-04-00-Spring-MVC-Thymeleaf.md)
+[⬅️ 04-03-00. Spring Core](04-03-00-Spring-Core-IoC.md) | [📂 Назад към Module 04: Spring Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [➡️ 04-04-00. Spring MVC with Thymeleaf & Validation](04-04-00-Spring-MVC-Thymeleaf.md)
 
 ---
 
@@ -157,5 +157,14 @@ public class InMemoryCacheLoader {
 | **`@Lazy`** | Отлага създаването на Bean-а до първото му ползване | По подразбиране Singleton Beans се правят Eager |
 | **`@PostConstruct` / `@PreDestroy`** | Куки при инициализация и унищожаване на Bean | От пакета `jakarta.annotation.*` |
 
+
+
+
+
+
+
 ---
-[⬅️ 04-03-00. Теория & Капани](04-03-00-Spring-Core-IoC.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-04-00. Spring MVC with Thymeleaf](04-04-00-Spring-MVC-Thymeleaf.md)
+
+[⬅️ 04-03-00. Spring Core](04-03-00-Spring-Core-IoC.md) | [📂 Назад към Module 04: Spring Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [➡️ 04-04-00. Spring MVC with Thymeleaf & Validation](04-04-00-Spring-MVC-Thymeleaf.md)
+
+© 2026 Dev-Library / 04-03-01. Spring Core (IoC Container, Beans & DI): Синтаксис от нулата & Cheat Sheet

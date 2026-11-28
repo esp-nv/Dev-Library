@@ -1,4 +1,4 @@
-[⬅️ 02-04. Interfaces & Abstract Classes](02-04-00-Interfaces-And-Abstract-Classes.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-05-01. Syntax From Scratch](02-05-01-Syntax-Polymorphism.md)
+[⬅️ 02-04-01. Interfaces and Abstraction: Синтаксис от н...](02-04-01-Syntax-Interfaces-And-Abstract-Classes.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-05-01. Polymorphism: Синтаксис от нулата & Cheat ...](02-05-01-Syntax-Polymorphism.md)
 
 ---
 
@@ -132,5 +132,14 @@ public class CleanPolymorphism {
 | **Guard условия в `switch`** | `case String s when s.length() > 5 -> ...` (Java 21+) | `case string s when s.Length > 5 => ...` (C# 7+) |
 | **Полиморфизъм по подразбиране** | Да (всички нестатични, не-`final` методи) | Не (изисква изрични `virtual` и `override`) |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-04. Interfaces & Abstract Classes](02-04-00-Interfaces-And-Abstract-Classes.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-05-01. Syntax From Scratch](02-05-01-Syntax-Polymorphism.md)
+
+[⬅️ 02-04-01. Interfaces and Abstraction: Синтаксис от н...](02-04-01-Syntax-Interfaces-And-Abstract-Classes.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-05-01. Polymorphism: Синтаксис от нулата & Cheat ...](02-05-01-Syntax-Polymorphism.md)
+
+© 2026 Dev-Library / 02-05-00. Polymorphism (Теория, Dynamic Dispatch, `instanceof` Pattern Matching & `sealed`)

@@ -1,4 +1,4 @@
-[⬅️ 00-01. Мрежови протоколи и HTTP](00-01-Internet-Protocols-And-HTTP-Fundamentals.md) | [📂 Глава 00-00. Въведение в уеб технологиите и Git](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 00-03. Постман и DevTools Диагностика](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md)
+[⬅️ 00-01. Мрежови протоколи и HTTP Анатомия](00-01-Internet-Protocols-And-HTTP-Fundamentals.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 00-03. Тестване на уеб заявки и диагностика: Postman...](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md)
 
 ---
 
@@ -120,7 +120,14 @@ appsettings.Development.json
        git push
        ```
 
+
+
+
+
+
+
 ---
-[⬅️ 00-01. Мрежови протоколи и HTTP](00-01-Internet-Protocols-And-HTTP-Fundamentals.md) | [📂 Глава 00-00. Въведение в уеб технологиите и Git](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 00-03. Постман и DevTools Диагностика](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md)
+
+[⬅️ 00-01. Мрежови протоколи и HTTP Анатомия](00-01-Internet-Protocols-And-HTTP-Fundamentals.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 00-03. Тестване на уеб заявки и диагностика: Postman...](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md)
 
 © 2026 Dev-Library / 00-02. Git и проектна документация: Най-добри практики

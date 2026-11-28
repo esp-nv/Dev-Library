@@ -1,4 +1,4 @@
-[⬅️ Теория & Капани](Module-06-Django-Advanced/06-05-00-Celery-And-Redis.md) | [📂 Назад към Python Scripting Хъба](README.md) | [📦 Предишен модул: Java-Ecosystem](../Java-Ecosystem/README.md) | [🌐 Домейн: 03. Backend Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Python Scripting](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../04-Databases-And-Caching/README.md)
+[⬅️ 03-97. Python Category Cheat Sheet: Пълно обобщение ...](03-97-Category-Cheat-Sheet.md) | [📂 Назад към Python Scripting & Software Engineering Хъба](README.md) | [📦 Предишен модул: Java-Ecosystem](../Java-Ecosystem/README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Python Scripting & Software Engineering](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../04-Databases-And-Caching/README.md) | [➡️ 03-99. Python Interview Q&A, Скрити Капани & Debuggi...](03-99-Interview-QA-Traps-And-Debugging.md)
 
 ---
 
@@ -124,8 +124,14 @@ def process_payment(order_id: int, raw_amount: str) -> float:
 | **`RecursionError` / `MemoryError`** | **При изпълнение** (`Runtime` — критичен срив) | Препълване на стека при безкрайна рекурсия (лимит 1000 извиквания) или изчерпване на RAM. | Слагайте базово дъно на рекурсията и ползвайте генератори вместо огромни списъци. |
 | **Custom `Exception` (`OrderProcessingError`)** | **При изпълнение** (`Runtime` — бизнес логика) | Когато кодът умишлено хвърли домейн изключение (`raise OrderProcessingError(...)`). | Хваща се в API слоя (FastAPI `@app.exception_handler` / Django Middleware) и се връща като HTTP `400`/`422`. |
 
+
+
+
+
+
+
 ---
 
-[⬅️ Теория & Капани](Module-06-Django-Advanced/06-05-00-Celery-And-Redis.md) | [📂 Назад към Python Scripting Хъба](README.md) | [📦 Предишен модул: Java-Ecosystem](../Java-Ecosystem/README.md) | [🌐 Домейн: 03. Backend Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Python Scripting](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../04-Databases-And-Caching/README.md)
+[⬅️ 03-97. Python Category Cheat Sheet: Пълно обобщение ...](03-97-Category-Cheat-Sheet.md) | [📂 Назад към Python Scripting & Software Engineering Хъба](README.md) | [📦 Предишен модул: Java-Ecosystem](../Java-Ecosystem/README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Python Scripting & Software Engineering](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../04-Databases-And-Caching/README.md) | [➡️ 03-99. Python Interview Q&A, Скрити Капани & Debuggi...](03-99-Interview-QA-Traps-And-Debugging.md)
 
 © 2026 Dev-Library / 03-98. Python Common Errors, Edge Cases & Fixes (Каталог на грешките)

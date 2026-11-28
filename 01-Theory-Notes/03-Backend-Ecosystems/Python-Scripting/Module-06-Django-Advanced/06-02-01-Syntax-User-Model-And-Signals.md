@@ -1,4 +1,4 @@
-[⬅️ 06-02-00. Теория & Капани](06-02-00-User-Model-And-Signals.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-03-00. Middlewares & Sessions](06-03-00-Middlewares-And-Sessions.md)
+[⬅️ 06-02-00. Extending User Model and Django Signals](06-02-00-User-Model-And-Signals.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-03-00. Django Middlewares and Sessions](06-03-00-Middlewares-And-Sessions.md)
 
 ---
 
@@ -139,5 +139,14 @@ def archive_user_before_delete(sender, instance, **kwargs):
 | **Слушател за сигнал** | `@receiver(post_save, sender=User)` | Изпълнява функция след `save()` |
 | **Активиране на сигнали** | `def ready(self): import app.signals` | Във файла `apps.py` на приложението |
 
+
+
+
+
+
+
 ---
-[⬅️ 06-02-00. Теория & Капани](06-02-00-User-Model-And-Signals.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-03-00. Middlewares & Sessions](06-03-00-Middlewares-And-Sessions.md)
+
+[⬅️ 06-02-00. Extending User Model and Django Signals](06-02-00-User-Model-And-Signals.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-03-00. Django Middlewares and Sessions](06-03-00-Middlewares-And-Sessions.md)
+
+© 2026 Dev-Library / 06-02-01. Extending User Model & Signals: Синтаксис от нулата & Cheat Sheet

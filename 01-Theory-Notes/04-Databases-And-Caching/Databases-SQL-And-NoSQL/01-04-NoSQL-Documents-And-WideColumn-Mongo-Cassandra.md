@@ -1,4 +1,4 @@
-⬅️ [01-03. Релационни диалекти](01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [01-05. NoSQL: Redis Cache](01-05-NoSQL-InMemory-Cache-Redis.md)
+[⬅️ ️ 01-03. Релационни диалекти: MS SQL Server, Postgre...](01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 01-05. Redis Cache, Cloud NoSQL (DynamoDB & Cosmos D...](01-05-NoSQL-InMemory-Cache-Redis.md)
 
 ---
 
@@ -149,7 +149,14 @@ LIMIT 20;
 | **Типични приложения** | Онлайн магазини (каталози), CMS, профили, мобилни бекенди. | Чат системи (Discord), истории на гледания (Netflix), GPS/IoT сензори. |
 | **Главен капан** | В `updateOne` ако забравиш **`$set`**, MongoDB **презаписва целия документ** и изтрива останалите му полета! | Не можеш да правиш `WHERE` по произволна колона, ако тя не е част от `PRIMARY KEY`. |
 
+
+
+
+
+
+
 ---
-⬅️ [01-03. Релационни диалекти](01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md) |[📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [01-05. NoSQL: Redis Cache](01-05-NoSQL-InMemory-Cache-Redis.md)
+
+[⬅️ ️ 01-03. Релационни диалекти: MS SQL Server, Postgre...](01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 01-05. Redis Cache, Cloud NoSQL (DynamoDB & Cosmos D...](01-05-NoSQL-InMemory-Cache-Redis.md)
 
 © 2026 Dev-Library / 01-04. NoSQL Бази данни: MongoDB и Apache Cassandra

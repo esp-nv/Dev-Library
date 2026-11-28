@@ -1,4 +1,4 @@
-[⬅️ Кратък справочник](04-COLECTIONS.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](11-STRING-TEXT-PROCESSING.md)
+[⬅️ Глава 9: Разширено Мокинг Ядро и Test-Driven Develop...](09-TDD-MOCKING-ADVANCED.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Cheat Sheet: Текстообработка, StringBuilder и Формат...](11-01-String-Cheat-Sheet.md)
 
 ---
 
@@ -72,8 +72,14 @@
 * **Причина:** Въпреки че параметърът е подаден по стойност, за Reference типове се копира **адресът към същия обект в Heap-а**.
 * **Решение:** Ако методът не трябва да променя оригинала, подай копие (`new List<int>(list)`) или приеми параметъра като `IReadOnlyList<int>`.
 
+
+
+
+
+
+
 ---
 
-[⬅️ Кратък справочник](04-COLECTIONS.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](11-STRING-TEXT-PROCESSING.md)
+[⬅️ Глава 9: Разширено Мокинг Ядро и Test-Driven Develop...](09-TDD-MOCKING-ADVANCED.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Cheat Sheet: Текстообработка, StringBuilder и Формат...](11-01-String-Cheat-Sheet.md)
 
 © 2026 Dev-Library / Глава 10: Методи, Делегати, Func/Action и Ламбда изрази

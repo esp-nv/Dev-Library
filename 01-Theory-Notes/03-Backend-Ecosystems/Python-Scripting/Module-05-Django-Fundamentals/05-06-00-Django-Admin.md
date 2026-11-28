@@ -1,4 +1,4 @@
-[⬅️ Теория, MRO при CBV, Generic Views & Mixins](05-05-00-Class-Based-Views.md) | [📂 Назад към Module 05 Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Django Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md)
+[⬅️ 05-05-01. Class-Based Views (CBV): Синтаксис от нула...](05-05-01-Syntax-Class-Based-Views.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-06-01. Django Admin: Синтаксис от нулата & Cheat ...](05-06-01-Syntax-Django-Admin.md)
 
 ---
 
@@ -121,8 +121,14 @@ class OrderAdmin(admin.ModelAdmin):
     2.  **Двуфакторна автентикация (2FA) и Rate Limiting:** Добавяне на пакети като `django-axes` (блокира IP адреса след 5 грешни опита за парола) и `django-otp` (Google Authenticator).
     3.  **Мрежова изолация (Nginx / VPN):** Ограничаване на достъпа до админ адреса по IP адрес (само от офисния VPN) директно на ниво уеб сървър (Nginx).
 
+
+
+
+
+
+
 ---
 
-[⬅️ Теория, MRO при CBV, Generic Views & Mixins](05-05-00-Class-Based-Views.md) | [📂 Назад към Module 05 Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Django Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md)
+[⬅️ 05-05-01. Class-Based Views (CBV): Синтаксис от нула...](05-05-01-Syntax-Class-Based-Views.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-06-01. Django Admin: Синтаксис от нулата & Cheat ...](05-06-01-Syntax-Django-Admin.md)
 
 © 2026 Dev-Library / 05-06-00. Django Admin Customization (Теория, `ModelAdmin`, Actions & Капани)

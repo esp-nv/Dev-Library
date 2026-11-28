@@ -1,4 +1,4 @@
-[⬅️ 02-01-00. Теория & Капани](02-01-00-Lists-As-Stacks-And-Queues.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-02-00. Tuples and Sets](02-02-00-Tuples-And-Sets.md)
+[⬅️ 02-01-00. Lists as Stacks and Queues](02-01-00-Lists-As-Stacks-And-Queues.md) | [📂 Назад към Module 02: Python Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Python Advance](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md) | [➡️ 02-02-00. Tuples and Sets](02-02-00-Tuples-And-Sets.md)
 
 ---
 
@@ -125,5 +125,14 @@ print(f"Оригинал: {word} | Обърнато: {reversed_word}")
 | **Опашка (`deque`)** | Добавяне най-отпред | `q.appendleft(x)` | O(1) |
 | **Опашка (`deque`)** | Завъртане на елементите | `q.rotate(n)` | O(k) |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-01-00. Теория & Капани](02-01-00-Lists-As-Stacks-And-Queues.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-02-00. Tuples and Sets](02-02-00-Tuples-And-Sets.md)
+
+[⬅️ 02-01-00. Lists as Stacks and Queues](02-01-00-Lists-As-Stacks-And-Queues.md) | [📂 Назад към Module 02: Python Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Python Advance](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md) | [➡️ 02-02-00. Tuples and Sets](02-02-00-Tuples-And-Sets.md)
+
+© 2026 Dev-Library / 02-01-01. Stacks and Queues: Синтаксис от нулата & Cheat Sheet

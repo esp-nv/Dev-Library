@@ -1,4 +1,4 @@
-[⬅️ 02-03. Inheritance](02-03-00-Inheritance.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-04-01. Syntax From Scratch](02-04-01-Syntax-Interfaces-And-Abstract-Classes.md)
+[⬅️ 02-03-01. Inheritance (`extends`, `super` & `final`)...](02-03-01-Syntax-Inheritance.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-04-01. Interfaces and Abstraction: Синтаксис от н...](02-04-01-Syntax-Interfaces-And-Abstract-Classes.md)
 
 ---
 
@@ -132,5 +132,14 @@ interface DiscountPolicy {
 | **Properties в интерфейс** | Няма (дефинират се `getX()` и `setX()` методи) | Поддържа `string Name { get; set; }` в интерфейса |
 | **Функционални интерфейси / Ламбди** | `@FunctionalInterface` (1 абстрактен метод = Lambda) | Вградени делегати (`Func<T, R>`, `Action<T>`, `Predicate<T>`) |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-03. Inheritance](02-03-00-Inheritance.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-04-01. Syntax From Scratch](02-04-01-Syntax-Interfaces-And-Abstract-Classes.md)
+
+[⬅️ 02-03-01. Inheritance (`extends`, `super` & `final`)...](02-03-01-Syntax-Inheritance.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-04-01. Interfaces and Abstraction: Синтаксис от н...](02-04-01-Syntax-Interfaces-And-Abstract-Classes.md)
+
+© 2026 Dev-Library / 02-04-00. Interfaces and Abstraction (Теория, `default`/`static` Методи & Капани)

@@ -1,4 +1,4 @@
-[⬅️ 00-02. Git и Документация](00-02-Git-And-Project-Documentation-Best-Practices.md) | [📂 Глава 00-00. Въведение в уеб технологиите и Git](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 00-04. Логическо удържане на състояния](00-04-State-Management-And-Asynchronous-Processing.md)
+[⬅️ 00-02. Git и проектна документация: Най-добри практики](00-02-Git-And-Project-Documentation-Best-Practices.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 00-04. State Management и Асинхронна обработка](00-04-State-Management-And-Asynchronous-Processing.md)
 
 ---
 
@@ -114,7 +114,14 @@
 *   **Защо се случва:** Тъй като работиш локално на твоя компютър, Kestrel сървърът ти използва измислен, локален сертификат. Тъй като е защитна програма, Postman се уплашва, че връзката може да се подслушва, и я затваря принудително.
 *   **Как да го поправиш:** Отиди в настройките на Postman (Иконката със зъбно колело в горния десен ъгъл ➔ **Settings** ➔ таб **General**) и изключи флага **`SSL certificate verification`** на **`OFF`**. Това ще премахне блокадата и ще ти позволи да тестваш свободно локалните си среди.
 
+
+
+
+
+
+
 ---
-[⬅️ 00-02. Git и Документация](00-02-Git-And-Project-Documentation-Best-Practices.md) | [📂 Глава 00-00. Въведение в уеб технологиите и Git](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 00-04. Логическо удържане на състояния](00-04-State-Management-And-Asynchronous-Processing.md)
+
+[⬅️ 00-02. Git и проектна документация: Най-добри практики](00-02-Git-And-Project-Documentation-Best-Practices.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 00-04. State Management и Асинхронна обработка](00-04-State-Management-And-Asynchronous-Processing.md)
 
 © 2026 Dev-Library / 00-03. Тестване на уеб заявки и диагностика: Postman и Chrome DevTools

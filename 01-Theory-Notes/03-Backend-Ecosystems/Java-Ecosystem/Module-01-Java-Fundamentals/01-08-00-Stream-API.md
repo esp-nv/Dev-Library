@@ -1,4 +1,4 @@
-[⬅️ 01-07. Associative Arrays (Maps)](01-07-00-Maps-And-Stream-API.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-08-01. Syntax From Scratch](01-08-01-Syntax-Stream-API.md)
+[⬅️ 01-07-01. Associative Arrays (`Map`): Синтаксис от н...](01-07-01-Syntax-Maps-And-Stream-API.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-08-01. Stream API & Lambda Expressions: Синтаксис...](01-08-01-Syntax-Stream-API.md)
 
 ---
 
@@ -134,5 +134,14 @@ public class CleanStreamDemo {
     1.  **`orElse(T other)`** е **Eager (нетърпелив)** — аргументът вътре в скобите се изчислява **ВИНАГИ**, дори когато `Optional` **НЕ е празен**! Ако вътре си написала `userRepo.findById(id).orElse(createNewUserInDb())`, Java ще запише нов потребител в базата данни при **всяка заявка**, дори когато потребителят е бил намерен!
     2.  **`orElseGet(Supplier<? extends T> supplier)`** е **Lazy (мързелив)** — подадената ламбда функция се изпълнява **само и единствено ако `Optional` е празен**. Затова при извикване на методи или заявки към базата **винаги** използвай `orElseGet(...)`.
 
+
+
+
+
+
+
 ---
-[⬅️ 01-07. Associative Arrays (Maps)](01-07-00-Maps-And-Stream-API.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-08-01. Syntax From Scratch](01-08-01-Syntax-Stream-API.md)
+
+[⬅️ 01-07-01. Associative Arrays (`Map`): Синтаксис от н...](01-07-01-Syntax-Maps-And-Stream-API.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-08-01. Stream API & Lambda Expressions: Синтаксис...](01-08-01-Syntax-Stream-API.md)
+
+© 2026 Dev-Library / 01-08-00. Stream API & Lambda Expressions (Теория, Lazy Evaluation, Optional & Капани)

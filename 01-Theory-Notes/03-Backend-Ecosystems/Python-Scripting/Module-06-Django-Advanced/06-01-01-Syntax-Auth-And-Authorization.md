@@ -1,4 +1,4 @@
-[⬅️ 06-01-00. Теория & Капани](06-01-00-Auth-And-Authorization.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-02-00. User Model & Signals](06-02-00-User-Model-And-Signals.md)
+[⬅️ 06-01-00. Django Authentication and Authorization](06-01-00-Auth-And-Authorization.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-02-00. Extending User Model and Django Signals](06-02-00-User-Model-And-Signals.md)
 
 ---
 
@@ -150,5 +150,14 @@ class BookCreateView(LoginRequiredMixin, PermissionRequiredMixin, CreateView):
 | **Защита на CBV (Логин / Право)** | `LoginRequiredMixin` / `PermissionRequiredMixin` |
 | **Проверка на право в Python / HTML** | `user.has_perm("app.add_model")` / `{% if perms.app.add_model %}` |
 
+
+
+
+
+
+
 ---
-[⬅️ 06-01-00. Теория & Капани](06-01-00-Auth-And-Authorization.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-02-00. User Model & Signals](06-02-00-User-Model-And-Signals.md)
+
+[⬅️ 06-01-00. Django Authentication and Authorization](06-01-00-Auth-And-Authorization.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-02-00. Extending User Model and Django Signals](06-02-00-User-Model-And-Signals.md)
+
+© 2026 Dev-Library / 06-01-01. Django Auth & Authorization: Синтаксис от нулата & Cheat Sheet

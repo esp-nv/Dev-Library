@@ -1,4 +1,4 @@
-[⬅️ Теория, Йерархия на грешките & Капани](02-05-00-Error-Handling.md) | [📂 Назад към Module 02 Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02 Advance](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md)
+[⬅️ 02-05-01. Error Handling: Синтаксис от нулата & Chea...](02-05-01-Syntax-Error-Handling.md) | [📂 Назад към Module 02: Python Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Python Advance](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md) | [➡️ 02-06-01. File Handling: Синтаксис от нулата & Cheat...](02-06-01-Syntax-File-Handling.md)
 
 ---
 
@@ -120,8 +120,14 @@ with open(log_path, "r", encoding="utf-8") as file:
 *   **Точен Senior отговор:** Когато отвориш файл, операционната система поддържа вътрешен указател за позиция в байтове (**File Pointer**), който започва от позиция `0` (началото на файла). Когато извикаш `f.read()`, указателят прочита всичко и остава паркиран **в самия край на файла (EOF - End Of File)**. При второ извикване на `f.read()` той започва да чете от края нататък и намира `0` байта (`""`).
     *   **Правилен фикс:** За да върнеш курсора обратно в началото на файла без да го затваряш и отваряш наново, се извиква методът **`f.seek(0)`**.
 
+
+
+
+
+
+
 ---
 
-[⬅️ Теория, Йерархия на грешките & Капани](02-05-00-Error-Handling.md) | [📂 Назад към Module 02 Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02 Advance](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md)
+[⬅️ 02-05-01. Error Handling: Синтаксис от нулата & Chea...](02-05-01-Syntax-Error-Handling.md) | [📂 Назад към Module 02: Python Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Python Advance](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md) | [➡️ 02-06-01. File Handling: Синтаксис от нулата & Cheat...](02-06-01-Syntax-File-Handling.md)
 
 © 2026 Dev-Library / 02-06-00. File Handling (Теория, I/O Потоци, Контекст мениджъри & Капани)

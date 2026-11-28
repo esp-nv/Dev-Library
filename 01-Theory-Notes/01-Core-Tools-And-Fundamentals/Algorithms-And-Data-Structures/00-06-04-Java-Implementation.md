@@ -1,4 +1,4 @@
-[⬅️ 00-06-03. JavaScript Implementation](00-06-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [🏠 Към Главния Хъб на Библиотеката](../README.md)
+[⬅️ 00-06-03. Dynamic Programming: JavaScript (ES6+) Имп...](00-06-03-JavaScript-Implementation.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [📦 Към следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md)
 
 ---
 
@@ -107,8 +107,14 @@ public class Knapsack01 {
 | **Кеш с `computeIfAbsent`** | `memo.computeIfAbsent(k, key -> calc(key))` | Кратък функционален запис (но не за рекурсия!) |
 | **2D таблица** | `int[][] dp = new int[rows][cols];` | Автоматично се инициализира с нули `0` |
 
----
-[⬅️ 00-06-03. JavaScript Implementation](00-06-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [🏠 Към Главния Хъб на Библиотеката](../README.md)
 
+
+
+
+
+
+---
+
+[⬅️ 00-06-03. Dynamic Programming: JavaScript (ES6+) Имп...](00-06-03-JavaScript-Implementation.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [📦 Към следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md)
 
 © 2026 Dev-Library / 00-06-04. Dynamic Programming: Java Имплементация & Cheat Sheet

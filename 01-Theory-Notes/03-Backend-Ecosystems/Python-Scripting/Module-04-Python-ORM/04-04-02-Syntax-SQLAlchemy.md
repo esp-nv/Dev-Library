@@ -1,4 +1,4 @@
-[⬅️ 04-04-01. Django ORM Syntax](04-04-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-05-00. Query Optimization](04-05-00-Optimization-And-N-Plus-1.md)
+[⬅️ 04-04-01. Django ORM Relationships: Синтаксис от нул...](04-04-01-Syntax-Django-ORM.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-05-00. Query Optimization & The N+1 Problem](04-05-00-Optimization-And-N-Plus-1.md)
 
 ---
 
@@ -151,5 +151,14 @@ class AuthorRefDoc(Document):
 | **Добавяне на дете към родител** | `parent.children.append(child_obj)` |
 | **NoSQL Вграждане (MongoDB)** | `items: list[SubModel] = []` вътре в `Document` |
 
+
+
+
+
+
+
 ---
-[⬅️ 04-04-01. Django ORM Syntax](04-04-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-05-00. Query Optimization](04-05-00-Optimization-And-N-Plus-1.md)
+
+[⬅️ 04-04-01. Django ORM Relationships: Синтаксис от нул...](04-04-01-Syntax-Django-ORM.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-05-00. Query Optimization & The N+1 Problem](04-05-00-Optimization-And-N-Plus-1.md)
+
+© 2026 Dev-Library / 04-04-02. SQLAlchemy 2.0 Relationships: Синтаксис от нулата & Cheat Sheet

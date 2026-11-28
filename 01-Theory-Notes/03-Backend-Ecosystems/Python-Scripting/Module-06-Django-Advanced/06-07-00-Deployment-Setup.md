@@ -1,4 +1,4 @@
-[⬅️ 06-06. Testing in Django](06-06-00-Testing-In-Django.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-07-01. Syntax From Scratch](06-07-01-Syntax-Deployment-Setup.md)
+[⬅️ 06-06-01. Testing in Django: Синтаксис от нулата & C...](06-06-01-Syntax-Testing-In-Django.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-07-01. Deployment Setup: Синтаксис от нулата & Ch...](06-07-01-Syntax-Deployment-Setup.md)
 
 ---
 
@@ -128,5 +128,14 @@ SECURE_HSTS_INCLUDE_SUBDOMAINS = True
     1.  **`collectstatic`:** По време на разработка статичните файлове са пръснати в десетки папки (в твоите приложения и във вградения `django.contrib.admin`). Командата `collectstatic` събира **всички** тези CSS/JS/Image файлове на едно централно място — папката **`STATIC_ROOT`**, откъдето Nginx или WhiteNoise ги раздава светкавично на клиентите.
     2.  **Защо `MEDIA` не се пази в Docker контейнер:** Docker контейнерите са **ефимерни (непостоянни)** — при всеки нов `git push` и ребилд старият контейнер се унищожава и се създава нов от чист образ. Всички снимки, качени от потребителите вътре в папката `media/` на контейнера, **изчезват безвъзвратно**! Затова в продукция `MEDIA` файловете се пазят в облачно обектно хранилище (**AWS S3**, **Cloudflare R2** или **Cloudinary** чрез пакета `django-storages`).
 
+
+
+
+
+
+
 ---
-[⬅️ 06-06. Testing in Django](06-06-00-Testing-In-Django.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-07-01. Syntax From Scratch](06-07-01-Syntax-Deployment-Setup.md)
+
+[⬅️ 06-06-01. Testing in Django: Синтаксис от нулата & C...](06-06-01-Syntax-Testing-In-Django.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-07-01. Deployment Setup: Синтаксис от нулата & Ch...](06-07-01-Syntax-Deployment-Setup.md)
+
+© 2026 Dev-Library / 06-07-00. Deployment Setup (Теория, Gunicorn, Nginx, WhiteNoise & Капани)

@@ -1,4 +1,4 @@
-[⬅️ 00-03. Постман и DevTools Диагностика](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md) | [📂 Глава 00-00. Въведение в уеб технологиите и Git](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-00. Глава 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)
+[⬅️ 00-03. Тестване на уеб заявки и диагностика: Postman...](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 00-07. Архитектурни карти и софтуерни потоци на данни](00-05-System-Architecture-And-Data-Flow-Blueprints.md)
 
 ---
 
@@ -161,7 +161,14 @@ public async Task<IActionResult> GetGoodData()
 }
 ```
 
+
+
+
+
+
+
 ---
-[⬅️ 00-03. Постман и DevTools Диагностика](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md) | [📂 Глава 00-00. Въведение в уеб технологиите и Git](00-00-WEB-TECHNOLOGIES-AND-GIT-HYGIENE-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-00. Глава 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)
+
+[⬅️ 00-03. Тестване на уеб заявки и диагностика: Postman...](00-03-Postman-And-Chrome-DevTools-Diagnostic-Guide.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 00-07. Архитектурни карти и софтуерни потоци на данни](00-05-System-Architecture-And-Data-Flow-Blueprints.md)
 
 © 2026 Dev-Library / 00-04. State Management и Асинхронна обработка (Asynchronous Processing)

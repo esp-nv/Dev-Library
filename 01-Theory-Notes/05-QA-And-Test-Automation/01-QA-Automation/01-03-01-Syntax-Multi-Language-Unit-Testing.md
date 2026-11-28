@@ -1,4 +1,4 @@
-[⬅️ 01-03-00. Unit Testing & Mocking](01-03-00-Multi-Language-Unit-Testing.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-04-00. Selenium WebDriver, DOM Locators & POM](01-04-00-Selenium-WebDriver-And-POM.md)
+[⬅️ 01-03-00. Unit Testing & Mocking](01-03-00-Multi-Language-Unit-Testing.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-04-00. Selenium WebDriver, DOM Locators, Explicit...](01-04-00-Selenium-WebDriver-And-POM.md)
 
 ---
 
@@ -190,8 +190,14 @@ def test_create_invoice_zero_amount_raises_value_error(billing_setup):
 | **Верификация на извикване** | `mock.Verify(m => m.Send(), Times.Once);` | `verify(mock, times(1)).send();` | **TS:** `expect(fn).toHaveBeenCalledTimes(1)`<br>**Py:** `mock.send.assert_called_once()` |
 | **Изпълнение от терминал** | `dotnet test` | `mvn test` или `./gradlew test` | **TS:** `npx vitest run`<br>**Py:** `pytest -v` |
 
+
+
+
+
+
+
 ---
 
-[⬅️ 01-03-00. Unit Testing & Mocking](01-03-00-Multi-Language-Unit-Testing.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-04-00. Selenium WebDriver, DOM Locators & POM](01-04-00-Selenium-WebDriver-And-POM.md)
+[⬅️ 01-03-00. Unit Testing & Mocking](01-03-00-Multi-Language-Unit-Testing.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-04-00. Selenium WebDriver, DOM Locators, Explicit...](01-04-00-Selenium-WebDriver-And-POM.md)
 
 © 2026 Dev-Library / 01-03-01. NUnit, JUnit 5, Vitest & pytest: Синтаксис от Нулата & Cheat Sheet

@@ -1,4 +1,4 @@
-[⬅️ 03-02. Inheritance](03-02-00-Inheritance.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-03-01. Syntax From Scratch](03-03-01-Syntax-Encapsulation.md)
+[⬅️ 03-02-01. Inheritance: Синтаксис от нулата & Cheat S...](03-02-01-Syntax-Inheritance.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-03-01. Encapsulation: Синтаксис от нулата & Cheat...](03-03-01-Syntax-Encapsulation.md)
 
 ---
 
@@ -135,5 +135,14 @@ print(f"Нова цена с ДДС: {laptop.price_with_vat} лв.")
 *   **Уловката:** Някои кандидати мислят, че `__init__` заобикаля сетъра и записва `-5` директно.
 *   **Точен Senior отговор:** Ако в `__init__` напишеш `self.age = age` (без долна черта), Python **автоматично задейства `@age.setter`** още при инициализацията на обекта и веднага ще хвърли `ValueError` при невалидни данни. Ако обаче в `__init__` напишеш `self._age = age` (с долна черта), ти директно записваш в скритото поле и **прескачаш валидацията** в сетъра при създаване! Затова добрата практика е в `__init__` да се пише `self.age = age`, за да се валидират данните още при раждането на обекта.
 
+
+
+
+
+
+
 ---
-[⬅️ 03-02. Inheritance](03-02-00-Inheritance.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-03-01. Syntax From Scratch](03-03-01-Syntax-Encapsulation.md)
+
+[⬅️ 03-02-01. Inheritance: Синтаксис от нулата & Cheat S...](03-02-01-Syntax-Inheritance.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-03-01. Encapsulation: Синтаксис от нулата & Cheat...](03-03-01-Syntax-Encapsulation.md)
+
+© 2026 Dev-Library / 03-03-00. Encapsulation (Теория, Name Mangling & `@property` Капани)

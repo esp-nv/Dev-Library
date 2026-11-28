@@ -1,4 +1,4 @@
-[📦 Предишен модул: Algorithms-And-Data-Structures](../Algorithms-And-Data-Structures/README.md) | [🌐 Домейн: 01. Core Tools & Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course Intro And Setup](README.md) | [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Git-And-GitHub](../Git-And-GitHub/README.md)
+[📦 Предишен модул: Algorithms-And-Data-Structures](../Algorithms-And-Data-Structures/README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 00: Course Intro & Development Environment Setup](README.md) | [📦 Следващ модул: Git-And-GitHub](../Git-And-GitHub/README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [▶️ Започни от 00-00. Intro to Web Ecosystem & Development Environm...](00-00-Intro.md)
 
 ---
 
@@ -18,8 +18,14 @@
   * 📄 [Теория, WebSocket поток, Side-by-Side Layout & Cache Капани](00-02-00-Browser-Diagnostics-And-Network.md)
   * 🛠️ [Syntax-From-Scratch & DevTools Audit Cheat Sheet](00-02-01-DevTools-Audit.md)
 
+
+
+
+
+
+
 ---
 
-[📦 Предишен модул: Algorithms-And-Data-Structures](../Algorithms-And-Data-Structures/README.md) | [🌐 Домейн: 01. Core Tools & Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course Intro And Setup](README.md) | [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Git-And-GitHub](../Git-And-GitHub/README.md)
+[📦 Предишен модул: Algorithms-And-Data-Structures](../Algorithms-And-Data-Structures/README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 00: Course Intro & Development Environment Setup](README.md) | [📦 Следващ модул: Git-And-GitHub](../Git-And-GitHub/README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [▶️ Започни от 00-00. Intro to Web Ecosystem & Development Environm...](00-00-Intro.md)
 
 © 2026 Dev-Library / Module 00: Course Intro & Development Environment Setup

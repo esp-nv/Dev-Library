@@ -1,4 +1,4 @@
-⬅️ [03-02. Subqueries и CTE](03-02-SQL-Subqueries-And-CTEs.md) | 📂 [03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и Функции](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md)  | ➡️ [03-04. Вградени функции и Сет оператори](03-04-SQL-BuiltIn-Functions-And-Set-Operators.md)
+[⬅️ 03-02. Подзаявки (Subqueries) и CTE](03-02-SQL-Subqueries-And-CTEs.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 03-04. Вградени функции (Текст, Дати, CASE WHEN) и С...](03-04-SQL-BuiltIn-Functions-And-Set-Operators.md)
 
 ---
 
@@ -155,7 +155,14 @@ WHERE PriceRank <= 2; -- Филтрираме прозоречната функ�
 * **Какво се случва:** В PostgreSQL можеш да напишеш `ROW_NUMBER() OVER ()`, но редът на номериране е напълно случаен и непредвидим; в MS SQL Server това директно хвърля синтактична грешка (*The function 'ROW_NUMBER' must have an OVER clause with ORDER BY*).
 * **Как да избегнеш:** Винаги указвай ясен `ORDER BY` критерий вътре в скобите на `OVER (...)` (и добавяй `Id` накрая като tie-breaker, напр. `ORDER BY Price DESC, Id ASC`, за детерминиран резултат).
 
+
+
+
+
+
+
 ---
-⬅️ [03-02. Subqueries и CTE](03-02-SQL-Subqueries-And-CTEs.md) | 📂 [03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и Функции](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md)  | ➡️ [03-04. Вградени функции и Сет оператори](03-04-SQL-BuiltIn-Functions-And-Set-Operators.md)
+
+[⬅️ 03-02. Подзаявки (Subqueries) и CTE](03-02-SQL-Subqueries-And-CTEs.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 03-04. Вградени функции (Текст, Дати, CASE WHEN) и С...](03-04-SQL-BuiltIn-Functions-And-Set-Operators.md)
 
 © 2026 Dev-Library / 03-03. Групиране, Агрегации и Window Functions (Прозоречни функции)

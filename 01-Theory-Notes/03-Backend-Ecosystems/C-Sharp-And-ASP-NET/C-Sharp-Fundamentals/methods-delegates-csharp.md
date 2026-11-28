@@ -1,3 +1,7 @@
+[⬅️ map-linq](map-linq.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Учебник: Обектно-Ориентирано Програмиране (OOP) и Па...](OOP-Concepts-And-Keywords.md)
+
+---
+
 # 📘 Учебник: Методи, Stack Frames, Делегати и Ламбда изрази в C#
 
 **Файл:** `methods-delegates-csharp.md` | **Ниво:** Архитектурно ядро / C# Internals  
@@ -251,5 +255,14 @@ public class ClosuresDeepDive
 3. **Не пиши тежка логика в ламбда изрази:** Ако ламбдата стане повече от 3-4 реда, изнеси я в отделен `private` метод с ясно име и го подай директно по име (Method Group: `.Where(IsValidStudent)`).
 4. **Внимавай за Closures в цикли**: Никога не подавай брояча i директно в ламбда, която ще се изпълнява по-късно – винаги го копирай в локална променлива вътре в тялото на цикъла.
 
+
+
+
+
+
+
 ---
+
+[⬅️ map-linq](map-linq.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Учебник: Обектно-Ориентирано Програмиране (OOP) и Па...](OOP-Concepts-And-Keywords.md)
+
 © 2026 Dev-Library / Учебник: Методи, Stack Frames, Делегати и Ламбда изрази в C#

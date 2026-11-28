@@ -1,4 +1,4 @@
-[⬅️ 01-02. Жизнен цикъл и Middleware](01-02-ASP-NET-Core-Lifecycle-And-Middleware.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-04. Dependency Injection](01-04-ASP-NET-Core-Dependency-Injection-Deep-Dive.md)
+[⬅️ 01-02. Жизнен цикъл и Middleware компоненти в ASP.NE...](01-02-ASP-NET-Core-Lifecycle-And-Middleware.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 01-04. Dependency Injection Дълбоко гмуркане и Жизне...](01-04-ASP-NET-Core-Dependency-Injection-Deep-Dive.md)
 
 ---
 
@@ -129,8 +129,14 @@ public class BookingController : Controller
 *   **Бизнес капан:** Злонамерен потребител отваря Postman, изгражда ръчен `POST` пакет и насила дописва в JSON тялото: `"isAdmin": true`. Понеже Model Binder-ът вижда такова свойство в класа, той безкритично го мапва и записва в базата данни, давайки му администраторски права автоматично.
 *   **Как да го избегнеш:** **Никога не приемай Entity модели в уеб параметрите!** Задължително съобразявай изискванията за сигурност и създавай леки преносни класове (Input Models / DTOs / ViewModels), които съдържат само и единствено полетата, които потребителят има право да попълни в конкретния уеб екран (напр. само `FirstName` и `Phone`).
 
+
+
+
+
+
+
 ---
 
-[⬅️ 01-02. Жизнен цикъл и Middleware](01-02-ASP-NET-Core-Lifecycle-And-Middleware.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-04. Dependency Injection](01-04-ASP-NET-Core-Dependency-Injection-Deep-Dive.md)
+[⬅️ 01-02. Жизнен цикъл и Middleware компоненти в ASP.NE...](01-02-ASP-NET-Core-Lifecycle-And-Middleware.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 01-04. Dependency Injection Дълбоко гмуркане и Жизне...](01-04-ASP-NET-Core-Dependency-Injection-Deep-Dive.md)
 
 © 2026 Dev-Library / 01-03. Model Binding и Валидация на данни в ASP.NET Core

@@ -1,4 +1,4 @@
-[⬅️ 01-05-00. Playwright, AJAX/jQuery & Mobile Appium](01-05-00-Playwright-AJAX-And-Appium.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-06-00. REST API, GraphQL & Performance Testing](01-06-00-API-And-Performance-Testing.md)
+[⬅️ 01-05-00. Playwright (Auto-Waiting), AJAX/jQuery & M...](01-05-00-Playwright-AJAX-And-Appium.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-06-00. REST API, GraphQL, Contract & Load Testing](01-06-00-API-And-Performance-Testing.md)
 
 ---
 
@@ -107,8 +107,14 @@ settingsItem.Click();
 | **Изчакване на API отговор** | `await page.waitForResponse('**/api/items')` | `driver.Contexts` / `driver.Context = "WEBVIEW_..."` |
 | **Стартиране на тестове & Trace** | `npx playwright test --ui`<br>`npx playwright show-trace trace.zip` | `appium --use-drivers=uiautomator2,xcuitest` |
 
+
+
+
+
+
+
 ---
 
-[⬅️ 01-05-00. Playwright, AJAX/jQuery & Mobile Appium](01-05-00-Playwright-AJAX-And-Appium.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-06-00. REST API, GraphQL & Performance Testing](01-06-00-API-And-Performance-Testing.md)
+[⬅️ 01-05-00. Playwright (Auto-Waiting), AJAX/jQuery & M...](01-05-00-Playwright-AJAX-And-Appium.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-06-00. REST API, GraphQL, Contract & Load Testing](01-06-00-API-And-Performance-Testing.md)
 
 © 2026 Dev-Library / 01-05-01. Playwright & Appium Cheat Sheet (Синтаксис от Нулата)

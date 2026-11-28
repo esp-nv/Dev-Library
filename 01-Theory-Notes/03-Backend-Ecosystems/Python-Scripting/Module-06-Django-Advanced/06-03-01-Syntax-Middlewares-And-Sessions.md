@@ -1,4 +1,4 @@
-[⬅️ 06-03-00. Теория & Капани](06-03-00-Middlewares-And-Sessions.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-04-00. Django REST Framework](06-04-00-Django-REST-Framework.md)
+[⬅️ 06-03-00. Django Middlewares and Sessions](06-03-00-Middlewares-And-Sessions.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-04-00. Django REST Framework](06-04-00-Django-REST-Framework.md)
 
 ---
 
@@ -139,5 +139,14 @@ SESSION_ENGINE = "django.contrib.sessions.backends.cache"
 | **Запис / Изтриване на Cookie** | `res.set_cookie(...)` / `res.delete_cookie("name")` | Извършва се върху `HttpResponse` обекта |
 | **Почистване на стари сесии (CLI)** | `python manage.py clearsessions` | Трие изтеклите редове от `django_session` |
 
+
+
+
+
+
+
 ---
-[⬅️ 06-03-00. Теория & Капани](06-03-00-Middlewares-And-Sessions.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-04-00. Django REST Framework](06-04-00-Django-REST-Framework.md)
+
+[⬅️ 06-03-00. Django Middlewares and Sessions](06-03-00-Middlewares-And-Sessions.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-04-00. Django REST Framework](06-04-00-Django-REST-Framework.md)
+
+© 2026 Dev-Library / 06-03-01. Middlewares & Sessions: Синтаксис от нулата & Cheat Sheet

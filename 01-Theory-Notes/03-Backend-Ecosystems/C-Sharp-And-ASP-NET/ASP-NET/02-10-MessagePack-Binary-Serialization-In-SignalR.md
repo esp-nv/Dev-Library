@@ -1,4 +1,4 @@
-[⬅️ 02-09. Автоматизирано Селениум Тестване](02-09-UI-Automation-Testing-Selenium-And-Fluent-Assertions.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md)
+[⬅️ 02-09. Автоматизирано тестване: Selenium WebDriver и...](02-09-UI-Automation-Testing-Selenium-And-Fluent-Assertions.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [📦 Към следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md)
 
 ---
 
@@ -81,7 +81,14 @@ app.Run();
 *   **Защо се случва:** Това **НЕ Е софтуерен бъг, това е очакван изход**! Тъй като MessagePack е чист бинарен формат, данните пътуват по мрежата като сурови байтове памет, които браузърът не може да рендерира като текст.
 *   **Как да поправиш:** За тестване на бинарни уеб потоци премини към специализирани QA инструменти (като *Wireshark* или разширени Postman WebSocket среди), които могат да декодират суровия байтов поток през MessagePack десериализационен профил.
 
+
+
+
+
+
+
 ---
-[⬅️ 02-09. Автоматизирано Селениум Тестване](02-09-UI-Automation-Testing-Selenium-And-Fluent-Assertions.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md)
+
+[⬅️ 02-09. Автоматизирано тестване: Selenium WebDriver и...](02-09-UI-Automation-Testing-Selenium-And-Fluent-Assertions.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [📦 Към следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md)
 
 © 2026 Dev-Library / 02-10. Оптимизация на SignalR чрез бинарна компресия с MessagePack

@@ -1,5 +1,4 @@
-[⬅️ 01-00. Git & GitHub Архитектура](01-00-Git-And-GitHub-Architecture.md) |[📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course-Intro-And-Setup](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Algorithms-Introduction](../Algorithms-And-Data-Structures//README.md) | [📦 Следващ модул: Алгоритми](../Algorithms-And-Data-Structures/README.md)
-
+[⬅️ 00-03-00. Git & GitHub Архитектура](01-00-Git-And-GitHub-Architecture.md) | [📂 Назад към Module 01: Git & GitHub Хъба](README.md) | [📦 Предишен модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 01: Git & GitHub](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md)
 
 ---
 
@@ -128,5 +127,14 @@ git config --list
 ---
 [⬅️ 01-00. Git & GitHub Архитектура](01-00-Git-And-GitHub-Architecture.md) |[📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Course-Intro-And-Setup](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Algorithms-Introduction](../Algorithms-And-Data-Structures//README.md) | [📦 Следващ модул: Алгоритми](../Algorithms-And-Data-Structures/README.md)
 
+
+
+
+
+
+
 ---
+
+[⬅️ 00-03-00. Git & GitHub Архитектура](01-00-Git-And-GitHub-Architecture.md) | [📂 Назад към Module 01: Git & GitHub Хъба](README.md) | [📦 Предишен модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 01: Git & GitHub](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md)
+
 © 2026 Dev-Library / 00-03-01. Git, GitHub Desktop & TortoiseGit: Практика от Нулата & Cheat Sheet

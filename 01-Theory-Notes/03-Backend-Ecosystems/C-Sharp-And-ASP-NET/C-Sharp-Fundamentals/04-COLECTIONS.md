@@ -1,4 +1,4 @@
-[⬅️ Кратък справочник](01-01-TYPES-CONDITIONALS-LOOPS.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](10-METHODS-DELEGATES-LAMBDA.md)
+[⬅️ Cheat Sheet: Колекции и Структури от данни в C#](04-01-Collections-Cheat-Sheet.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 5: SOLID Принципи и Чиста Архитектура](05-SOLID.md)
 
 ---
 
@@ -80,8 +80,14 @@
 * **ICollection\<T>** — *"Мога да обхождам, да броя (`.Count`) и да променям (`.Add`/`.Remove`)"*. Идеално за навигационни свойства в Entity Framework моделите.
 * **IList\<T>** — *"Притежавам всички горни функции + бърз достъп по индекс (`[index]`)"*. Ползвай го, когато вътрешната подредба е критична за бизнес логиката.
 
+
+
+
+
+
+
 ---
 
-[⬅️ Кратък справочник](01-01-TYPES-CONDITIONALS-LOOPS.md) | [📂 Назад към C Sharp Fundamentals Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📦 Екосистема: C Sharp And ASP NET](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C Sharp Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [➡️ Кратък справочник](10-METHODS-DELEGATES-LAMBDA.md)
+[⬅️ Cheat Sheet: Колекции и Структури от данни в C#](04-01-Collections-Cheat-Sheet.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 5: SOLID Принципи и Чиста Архитектура](05-SOLID.md)
 
 © 2026 Dev-Library / Глава 4: Анатомия на Колекциите и Управление на Паметта

@@ -1,4 +1,4 @@
-[⬅️ 04-04. Spring MVC with Thymeleaf & Validation](04-04-00-Spring-MVC-Thymeleaf.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-05-01. Syntax From Scratch](04-05-01-Syntax-State-Management.md)
+[⬅️ 04-04-01. Spring MVC with Thymeleaf & Validation: Си...](04-04-01-Syntax-Spring-MVC-Thymeleaf.md) | [📂 Назад към Module 04: Spring Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [➡️ 04-05-01. State Management (Cookies & HttpSession): ...](04-05-01-Syntax-State-Management.md)
 
 ---
 
@@ -138,5 +138,14 @@ public class SafeStateController {
 | **Разпределена сесия в клъстер (Redis)** | **Spring Session Data Redis** (`@EnableRedisHttpSession`) | `builder.Services.AddStackExchangeRedisCache(...)` |
 | **Защита на бисквитка срещу подправяне** | Ръчно криптиране или JWT | Вграден **ASP.NET Core Data Protection API** (автоматично криптиране) |
 
+
+
+
+
+
+
 ---
-[⬅️ 04-04. Spring MVC with Thymeleaf & Validation](04-04-00-Spring-MVC-Thymeleaf.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-05-01. Syntax From Scratch](04-05-01-Syntax-State-Management.md)
+
+[⬅️ 04-04-01. Spring MVC with Thymeleaf & Validation: Си...](04-04-01-Syntax-Spring-MVC-Thymeleaf.md) | [📂 Назад към Module 04: Spring Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [➡️ 04-05-01. State Management (Cookies & HttpSession): ...](04-05-01-Syntax-State-Management.md)
+
+© 2026 Dev-Library / 04-05-00. State Management (Cookies & HttpSession — Теория, Сигурност & Капани)

@@ -1,4 +1,4 @@
-[⬅️ 02-00. Intro to JavaScript & V8 Engine](02-00-Intro-To-JavaScript-And-V8-Engine.md) | [📂 Назад към JavaScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-01-01 Variables, Types & Coercion — Syntax](02-01-00-Variables-Types-And-Coercion.md)
+[⬅️ 02-00. Intro to JavaScript, V8 Engine & Architecture](02-00-Intro-To-JavaScript-And-V8-Engine.md) | [📂 Назад към JavaScript Language & Architecture Хъба](README.md) | [📦 Предишен модул: HTML5-CSS3-And-SASS](../HTML5-CSS3-And-SASS/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language & Architecture](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-02-00. Functions, Lexical Scope, Closures & `this...](02-02-00-Functions-Closures-And-This.md)
 
 ---
 
@@ -107,8 +107,14 @@ CALL STACK (Бърза памет)               MEMORY HEAP (Динамична
    * `"5" + 2` ➔ `"52"` (`+` предпочита конкатенация, ако единият операнд е стринг).
    * `"5" - 2` ➔ `3` (`-`, `*`, `/` винаги преобразуват към числа).
 
+
+
+
+
+
+
 ---
 
-[⬅️ 02-00. Intro to JavaScript & V8 Engine](02-00-Intro-To-JavaScript-And-V8-Engine.md) | [📂 Назад към JavaScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-01-01 Variables, Types & Coercion — Syntax](02-01-00-Variables-Types-And-Coercion.md)
+[⬅️ 02-00. Intro to JavaScript, V8 Engine & Architecture](02-00-Intro-To-JavaScript-And-V8-Engine.md) | [📂 Назад към JavaScript Language & Architecture Хъба](README.md) | [📦 Предишен модул: HTML5-CSS3-And-SASS](../HTML5-CSS3-And-SASS/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language & Architecture](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-02-00. Functions, Lexical Scope, Closures & `this...](02-02-00-Functions-Closures-And-This.md)
 
 © 2026 Dev-Library / 02-01-00. Variables, Data Types & Type Coercion (Теория и Капани)

@@ -1,4 +1,4 @@
-[⬅️ 01-02-00. Теория & Капани](01-02-00-Data-Types-And-Variables.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-03-00. List Basics](01-03-00-List-Basics.md)
+[⬅️ 01-02-00. Data Types and Variables](01-02-00-Data-Types-And-Variables.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-03-00. List Basics](01-03-00-List-Basics.md)
 
 ---
 
@@ -127,5 +127,14 @@ if user_input is not None:
 | **Размяна на 2 променливи** | `a, b = b, a` | Разменя стойностите на един ред |
 | **Четливост на големи числа** | `1_000_000` | Равно на `1000000` |
 
+
+
+
+
+
+
 ---
-[⬅️ 01-02-00. Теория & Капани](01-02-00-Data-Types-And-Variables.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-03-00. List Basics](01-03-00-List-Basics.md)
+
+[⬅️ 01-02-00. Data Types and Variables](01-02-00-Data-Types-And-Variables.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-03-00. List Basics](01-03-00-List-Basics.md)
+
+© 2026 Dev-Library / 01-02-01. Data Types and Variables: Синтаксис от нулата & Cheat Sheet

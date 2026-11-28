@@ -1,4 +1,4 @@
-[📂 Назад към Module 05 Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Spring Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md)
+[⬅️ 05-00. Intro: Въведение в Spring Advanced & Enterpri...](05-00-Intro.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 05-01-01. Web API, REST Controllers & Global Error H...](05-01-01-Syntax-REST-And-Error-Handling.md)
 
 ---
 
@@ -160,8 +160,14 @@ public class GlobalApiExceptionHandler {
 | **Версиониране на API-то** | В URL пътя (``/api/v1/users``) или чрез ``headers = "X-API-VERSION=1"`` | Пакет ``Asp.Versioning.Http`` (``[ApiVersion("1.0")]``) |
 | **Content Negotiation (JSON / XML)** | Автоматично по ``Accept`` header (при наличие на ``jackson-dataformat-xml``) | Чрез ``.AddXmlSerializerFormatters()`` в ``Program.cs`` |
 
+
+
+
+
+
+
 ---
 
-[📂 Назад към Module 05 Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Spring Advanced](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md)
+[⬅️ 05-00. Intro: Въведение в Spring Advanced & Enterpri...](05-00-Intro.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 05-01-01. Web API, REST Controllers & Global Error H...](05-01-01-Syntax-REST-And-Error-Handling.md)
 
 © 2026 Dev-Library / 05-01-00. Web API, REST Controllers & Global Error Handling (Теория & Капани)

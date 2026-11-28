@@ -1,4 +1,4 @@
-[⬅️ Назад към Java Хъба](../README.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-01. Basic Syntax & Data Types](01-01-00-Basic-Syntax-And-Loops.md)
+[📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-01-00. Basic Syntax, Conditional Statements & Loops](01-01-00-Basic-Syntax-And-Loops.md)
 
 ---
 
@@ -133,5 +133,14 @@ public class Main {
 1.  **Инсталация на JDK:** При създаване на нов проект избери **JDK ➔ Download JDK ➔ Eclipse Temurin (Adoptium) 21 (LTS)**.
 2.  **Активиране на Lombok (за Spring):** Отвори `Settings -> Build, Execution, Deployment -> Compiler -> Annotation Processors` и сложи отметка на **`Enable annotation processing`**.
 
+
+
+
+
+
+
 ---
-[⬅️ Назад към Java Хъба](../README.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-01. Basic Syntax & Data Types](01-01-00-Basic-Syntax-And-Loops.md)
+
+[📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-01-00. Basic Syntax, Conditional Statements & Loops](01-01-00-Basic-Syntax-And-Loops.md)
+
+© 2026 Dev-Library / 01-00. Intro: Въведение в Java, JVM Архитектура & Сравнение с C#

@@ -1,4 +1,4 @@
-[⬅️ 01-04-00. Теория & Капани](01-04-00-Functions.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-05-00. List Advanced](01-05-00-List-Advanced.md)
+[⬅️ 01-04-00. Functions (Теория, Обхват (Scope) & Интерв...](01-04-00-Functions.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-05-00. List Advanced](01-05-00-List-Advanced.md)
 
 ---
 
@@ -102,5 +102,14 @@ print(square(4))            # Изход: 16
 | **Lambda израз (1 ред)** | `lambda x: x + 1` | `add_one = lambda x: x + 1` |
 | **Неограничени аргументи** | `def f(*args, **kwargs):` | Приема всякакъв брой параметри |
 
+
+
+
+
+
+
 ---
-[⬅️ 01-04-00. Теория & Капани](01-04-00-Functions.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-05-00. List Advanced](01-05-00-List-Advanced.md)
+
+[⬅️ 01-04-00. Functions (Теория, Обхват (Scope) & Интерв...](01-04-00-Functions.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-05-00. List Advanced](01-05-00-List-Advanced.md)
+
+© 2026 Dev-Library / 01-04-01. Functions: Синтаксис от нулата & Cheat Sheet

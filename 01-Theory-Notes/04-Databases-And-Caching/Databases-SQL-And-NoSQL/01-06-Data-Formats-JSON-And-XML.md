@@ -1,4 +1,4 @@
-⬅️ [01-05. Redis и Cloud NoSQL](01-05-NoSQL-InMemory-Cache-Redis.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [01-07. Съседи на БД (RabbitMQ, Kafka, GraphQL, AD, SAP)](01-07-Architecture-Neighbors-RabbitMQ-Kafka-GraphQL-Enterprise.md)
+[⬅️ 01-05. Redis Cache, Cloud NoSQL (DynamoDB & Cosmos D...](01-05-NoSQL-InMemory-Cache-Redis.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 01-07. Съседи на Базата данни: RabbitMQ, Kafka, Grap...](01-07-Architecture-Neighbors-RabbitMQ-Kafka-GraphQL-Enterprise.md)
 
 ---
 
@@ -154,7 +154,14 @@ OrderDto? parsedOrder = JsonSerializer.Deserialize<OrderDto>(json);
 1. **Пазене на всичко в JSON колона в SQL:** Ако 90% от заявките ти търсят и сортират по дадено поле (напр. `Email` или `Price`), направи го нормална SQL колона с индекс, а в `JSON` / `JSONB` слагай само редки и променливи характеристики.
 2. **Case-Sensitivity при `JsonSerializer.Deserialize` в C#:** По подразбиране `System.Text.Json` прави разлика между `"orderId"` и `"OrderId"`. Когато четеш JSON от външни API-та (които ползват `camelCase`), винаги подавай `new JsonSerializerOptions { PropertyNameCaseInsensitive = true }`.
 
+
+
+
+
+
+
 ---
-⬅️ [01-05. Redis и Cloud NoSQL](01-05-NoSQL-InMemory-Cache-Redis.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [01-07. Съседи на БД (RabbitMQ, Kafka, GraphQL, AD, SAP)](01-07-Architecture-Neighbors-RabbitMQ-Kafka-GraphQL-Enterprise.md)
+
+[⬅️ 01-05. Redis Cache, Cloud NoSQL (DynamoDB & Cosmos D...](01-05-NoSQL-InMemory-Cache-Redis.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 01-07. Съседи на Базата данни: RabbitMQ, Kafka, Grap...](01-07-Architecture-Neighbors-RabbitMQ-Kafka-GraphQL-Enterprise.md)
 
 © 2026 Dev-Library / 01-06. Формати за данни: JSON и XML (в SQL и C#)

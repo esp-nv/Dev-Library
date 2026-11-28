@@ -1,4 +1,4 @@
-⬅️ [04-02. Оптимизация на заявки и архитектура](04-02-SQL-Query-And-Architecture-Optimization.md) | 📂 [04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-04. Views, Functions, Procedures и Triggers](04-04-Views-Functions-Procedures-Triggers.md)
+[⬅️ 04-02. Оптимизация на заявки, таблици и архитектура](04-02-SQL-Query-And-Architecture-Optimization.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 04-04. Views, Functions, Stored Procedures и Triggers](04-04-Views-Functions-Procedures-Triggers.md)
 
 ---
 
@@ -170,7 +170,14 @@ catch
 ### Грешка 3: Липса на Retry логика в C# при Deadlock
 * **Какво се случва:** Дори в най-добре написаните системи понякога се случва рядък Deadlock (Error 1205). Ако C# кодът не го прихване, потребителят вижда екран с грешка `500 Internal Server Error`.
 
+
+
+
+
+
+
 ---
-⬅️ [04-02. Оптимизация на заявки и архитектура](04-02-SQL-Query-And-Architecture-Optimization.md) | 📂 [04-00. Производителност, Програмируемост и .NET Интеграция](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md) | 🏠 [Начало (Библиотека БД)](README.md) | ➡️ [04-04. Views, Functions, Procedures и Triggers](04-04-Views-Functions-Procedures-Triggers.md)
+
+[⬅️ 04-02. Оптимизация на заявки, таблици и архитектура](04-02-SQL-Query-And-Architecture-Optimization.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 04-04. Views, Functions, Stored Procedures и Triggers](04-04-Views-Functions-Procedures-Triggers.md)
 
 © 2026 Dev-Library / 04-03. Транзакции, ACID свойства и Нива на изолация (Isolation Levels)

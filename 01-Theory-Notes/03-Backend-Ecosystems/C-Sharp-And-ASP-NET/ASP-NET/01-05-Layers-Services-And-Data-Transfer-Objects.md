@@ -1,4 +1,4 @@
-[⬅️ 01-04. Dependency Injection Дълбоко гмуркане](01-04-ASP-NET-Core-Dependency-Injection-Deep-Dive.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-06. Identity и Автентификация](01-06-ASP-NET-Core-Identity-Authentication.md)
+[⬅️ 01-04. Dependency Injection Дълбоко гмуркане и Жизне...](01-04-ASP-NET-Core-Dependency-Injection-Deep-Dive.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 01-06. Потребителски сесии, бисквитки и сигурност с ...](01-06-ASP-NET-Core-Identity-Authentication.md)
 
 ---
 
@@ -144,7 +144,14 @@ public class EmployeeService
     builder.Services.AddAutoMapper(typeof(MappingProfile).Assembly);
     ```
 
+
+
+
+
+
+
 ---
-[⬅️ 01-04. Dependency Injection Дълбоко гмуркане](01-04-ASP-NET-Core-Dependency-Injection-Deep-Dive.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-06. Identity и Автентификация](01-06-ASP-NET-Core-Identity-Authentication.md)
+
+[⬅️ 01-04. Dependency Injection Дълбоко гмуркане и Жизне...](01-04-ASP-NET-Core-Dependency-Injection-Deep-Dive.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 01-06. Потребителски сесии, бисквитки и сигурност с ...](01-06-ASP-NET-Core-Identity-Authentication.md)
 
 © 2026 Dev-Library / 01-05. Архитектурни слоеве, Сервизи и пренасяне на данни (DTOs)

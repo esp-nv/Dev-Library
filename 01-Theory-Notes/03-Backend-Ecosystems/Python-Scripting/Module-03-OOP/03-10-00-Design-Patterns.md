@@ -1,4 +1,4 @@
-[⬅️ 03-09. Testing](03-09-00-Testing.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-10-01. Syntax From Scratch](03-10-01-Syntax-Design-Patterns.md)
+[⬅️ 03-09-01. Testing: Синтаксис от нулата & Cheat Sheet](03-09-01-Syntax-Testing.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-10-01. Design Patterns: Синтаксис от нулата & Che...](03-10-01-Syntax-Design-Patterns.md)
 
 ---
 
@@ -151,5 +151,14 @@ print(f"Цена за експресна доставка: {cost:.2f} лв.")
     1.  **Проблем при тестване:** Тъй като една и съща инстанция живее през целия живот на програмата, данните от `test_1` остават в Singleton-а и замърсяват `test_2`, чупейки изолацията на тестовете.
     2.  **Проблем при многонишковост (Race Condition):** Ако две нишки влязат едновременно в `if cls._instance is None:`, и двете ще създадат отделна инстанция, освен ако не използваш нишков катинар (`threading.Lock()`).
 
+
+
+
+
+
+
 ---
-[⬅️ 03-09. Testing](03-09-00-Testing.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-10-01. Syntax From Scratch](03-10-01-Syntax-Design-Patterns.md)
+
+[⬅️ 03-09-01. Testing: Синтаксис от нулата & Cheat Sheet](03-09-01-Syntax-Testing.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-10-01. Design Patterns: Синтаксис от нулата & Che...](03-10-01-Syntax-Design-Patterns.md)
+
+© 2026 Dev-Library / 03-10-00. Design Patterns (Теория, Creational / Structural / Behavioral & Капани)

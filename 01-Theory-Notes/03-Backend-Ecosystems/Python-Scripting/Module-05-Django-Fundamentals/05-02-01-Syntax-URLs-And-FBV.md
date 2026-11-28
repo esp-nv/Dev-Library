@@ -1,4 +1,4 @@
-[⬅️ 05-02-00. Теория & Капани](05-02-00-URLs-And-FBV.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-03-00. Templates, Static & Media](05-03-00-Templates-Static-Media.md)
+[⬅️ 05-02-00. URLs, Routing and Function-Based Views](05-02-00-URLs-And-FBV.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-03-00. Django Templates (DTL), Static and Media F...](05-03-00-Templates-Static-Media.md)
 
 ---
 
@@ -122,5 +122,14 @@ def go_home(request):
 | **Рендиране на шаблон** | `return render(request, "t.html", ctx)` | Сглобява HTML страницата с данните |
 | **Пренасочване (Redirect)** | `return redirect("app:route_name")` | Изпраща браузъра към друг адрес |
 
+
+
+
+
+
+
 ---
-[⬅️ 05-02-00. Теория & Капани](05-02-00-URLs-And-FBV.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-03-00. Templates, Static & Media](05-03-00-Templates-Static-Media.md)
+
+[⬅️ 05-02-00. URLs, Routing and Function-Based Views](05-02-00-URLs-And-FBV.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-03-00. Django Templates (DTL), Static and Media F...](05-03-00-Templates-Static-Media.md)
+
+© 2026 Dev-Library / 05-02-01. URLs and FBV: Синтаксис от нулата & Cheat Sheet

@@ -1,6 +1,4 @@
-
-[⬅️ 00-00. Intro & Big O](00-00-Intro-And-Big-O.md) | [Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-01-01. Python Implementation](00-01-01-Python-Implementation.md)
-
+[⬅️ 00-00. Intro & Big O Notation](00-00-Intro-And-Big-O.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-01-01. Recursion & Backtracking: Python Имплемент...](00-01-01-Python-Implementation.md)
 
 ---
 
@@ -129,8 +127,14 @@ def generate_subsets(nums: list[int]) -> list[list[int]]:
 * [00-01-03-JavaScript-Implementation](00-01-03-JavaScript-Implementation.md)
 * [00-01-04-Java-Implementation](00-01-04-Java-Implementation.md)
  
+
+
+
+
+
+
 ---
-[⬅️ 00-00. Intro & Big O](00-00-Intro-And-Big-O.md) | [Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-01-01. Python Implementation](00-01-01-Python-Implementation.md)
+
+[⬅️ 00-00. Intro & Big O Notation](00-00-Intro-And-Big-O.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-01-01. Recursion & Backtracking: Python Имплемент...](00-01-01-Python-Implementation.md)
 
 © 2026 Dev-Library / 00-01-00. Recursion and Backtracking (Теория, Call Stack, Дърво & Капани)
-

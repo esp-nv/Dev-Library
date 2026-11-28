@@ -1,4 +1,4 @@
-[⬅️ 03-04. Static and Class Methods](03-04-00-Static-And-Class-Methods.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-05-01. Syntax From Scratch](03-05-01-Syntax-Polymorphism-And-Abstraction.md)
+[⬅️ 03-04-01. Static and Class Methods: Синтаксис от нул...](03-04-01-Syntax-Static-And-Class-Methods.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-05-01. Polymorphism and Abstraction: Синтаксис от...](03-05-01-Syntax-Polymorphism-And-Abstraction.md)
 
 ---
 
@@ -143,5 +143,14 @@ notify_all(active_channels, "elizabeth@softuni.bg", "Модул 03 напред�
     1.  При **`ABC`** класът-наследник **задължително** трябва изрично да наследи базовия клас (`class Stripe(PaymentBase):`). Това е неудобно, ако работиш с класове от външна библиотека, които не можеш да променяш.
     2.  При **`typing.Protocol`** дефинираш структурни правила (като интерфейсите в TypeScript!). Всеки клас, който има описаните в протокола методи, автоматично се признава за съвместим от статичните анализатори (MyPy / Pyright / VS Code), **без да се налага изрично да наследява протокола**.
 
+
+
+
+
+
+
 ---
-[⬅️ 03-04. Static and Class Methods](03-04-00-Static-And-Class-Methods.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-05-01. Syntax From Scratch](03-05-01-Syntax-Polymorphism-And-Abstraction.md)
+
+[⬅️ 03-04-01. Static and Class Methods: Синтаксис от нул...](03-04-01-Syntax-Static-And-Class-Methods.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-05-01. Polymorphism and Abstraction: Синтаксис от...](03-05-01-Syntax-Polymorphism-And-Abstraction.md)
+
+© 2026 Dev-Library / 03-05-00. Polymorphism and Abstraction (Теория, Duck Typing, ABC & Капани)

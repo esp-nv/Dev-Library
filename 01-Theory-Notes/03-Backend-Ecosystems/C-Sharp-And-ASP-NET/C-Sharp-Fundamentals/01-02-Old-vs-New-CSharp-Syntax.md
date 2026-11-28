@@ -1,3 +1,7 @@
+[⬅️ Глава 01-01: Типове данни, Условни конструкции и Цикли](01-01-TYPES-CONDITIONALS-LOOPS.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 1: C# Fundamentals — Архитектурен Справочник](01-C-SHARP-FUND-SHORT.md)
+
+---
+
 # 🔄 Справочник: Стар срещу Нов C# Синтаксис (C# 7/8 ➔ C# 12/14)
 
 **Цел:** Бърз превод между класическия синтаксис от лекциите и модерния съкратен запис в .NET 8+
@@ -87,3 +91,14 @@ public class ModernExample
 
 * **За изпити в SoftUni / Judge:** Придържай се към **Класическия стил** (или базовите функции на C# 10/12), защото някои по-стари компилатори в Judge не поддържат най-новите C# 14 конструкции (като `field` или `?.=`).
 * **За лични проекти и четене на чужд код:** Познаването на **Модерния стил** ти позволява да четеш без проблем съвременни GitHub репозиторита и официалната документация на Microsoft.
+
+
+
+
+
+
+---
+
+[⬅️ Глава 01-01: Типове данни, Условни конструкции и Цикли](01-01-TYPES-CONDITIONALS-LOOPS.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 1: C# Fundamentals — Архитектурен Справочник](01-C-SHARP-FUND-SHORT.md)
+
+© 2026 Dev-Library / Справочник: Стар срещу Нов C# Синтаксис (C# 7/8 ➔ C# 12/14)

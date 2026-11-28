@@ -1,4 +1,4 @@
-[⬅️ 05-04. Spring AOP & Interceptors](05-04-00-Spring-AOP.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-05-01. Syntax From Scratch](05-05-01-Syntax-Docs-Testing-And-Docker.md)
+[⬅️ 05-04-01. Spring AOP (Aspect-Oriented Programming) &...](05-04-01-Syntax-Spring-AOP.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 05-05-01. API Documentation (Swagger), Integration T...](05-05-01-Syntax-Docs-Testing-And-Docker.md)
 
 ---
 
@@ -134,5 +134,14 @@ ENTRYPOINT ["java", "-XX:+UseContainerSupport", "-XX:MaxRAMPercentage=75.0", "-j
 | **Интеграция на Testcontainers с DI** | **`@ServiceConnection`** (1 анотация свързва контейнера с Spring!) | Ръчно подаване на `container.GetConnectionString()` в `ConfigureAppConfiguration` |
 | **Вграден Build на Docker Image без Dockerfile** | `mvn spring-boot:build-image` (използва **Cloud Native Buildpacks**) | `dotnet publish --os linux --arch x64 /t:PublishContainer` |
 
+
+
+
+
+
+
 ---
-[⬅️ 05-04. Spring AOP & Interceptors](05-04-00-Spring-AOP.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-05-01. Syntax From Scratch](05-05-01-Syntax-Docs-Testing-And-Docker.md)
+
+[⬅️ 05-04-01. Spring AOP (Aspect-Oriented Programming) &...](05-04-01-Syntax-Spring-AOP.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 05-05-01. API Documentation (Swagger), Integration T...](05-05-01-Syntax-Docs-Testing-And-Docker.md)
+
+© 2026 Dev-Library / 05-05-00. API Documentation (Swagger), Integration Testing (Testcontainers) & Docker (Теория & Капани)

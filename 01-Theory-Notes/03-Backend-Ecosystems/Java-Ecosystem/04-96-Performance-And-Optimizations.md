@@ -1,4 +1,4 @@
-[⬅️ Назад към Java Хъба](README.md) | 📂 Папка: 04-Java-Ecosystem | [🏠 Начало](../README.md) | [➡️ 04-97. Category Cheat Sheet](04-97-Category-Cheat-Sheet.md)
+[📦 Към предишен модул: C-Sharp-And-ASP-NET](../C-Sharp-And-ASP-NET/README.md) | [📂 Назад към Java & Spring Boot Ecosystem Хъба](README.md) | [📦 Предишен модул: C-Sharp-And-ASP-NET](../C-Sharp-And-ASP-NET/README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Java & Spring Boot Ecosystem](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Python-Scripting](../Python-Scripting/README.md) | [➡️ 04-97. Java 21+ & Spring Boot 3 Category Cheat Sheet...](04-97-Category-Cheat-Sheet.md)
 
 ---
 
@@ -150,5 +150,14 @@ spring.threads.virtual.enabled=true
 | **Висока I/O конкурентност** | Стандартен пул от 200 Platform нишки | `spring.threads.virtual.enabled=true` (Java 21+) | Хиляди едновременни заявки с ниска RAM |
 | **Масово записване (Batch Insert)** | `repository.save()` в цикъл | `repository.saveAll()` + `hibernate.jdbc.batch_size=50` | Групира SQL `INSERT` пакетите в мрежата |
 
+
+
+
+
+
+
 ---
-[⬅️ Назад към Java Хъба](README.md) | 📂 Папка: 04-Java-Ecosystem | [🏠 Начало](../README.md) | [➡️ 04-97. Category Cheat Sheet](04-97-Category-Cheat-Sheet.md)
+
+[📦 Към предишен модул: C-Sharp-And-ASP-NET](../C-Sharp-And-ASP-NET/README.md) | [📂 Назад към Java & Spring Boot Ecosystem Хъба](README.md) | [📦 Предишен модул: C-Sharp-And-ASP-NET](../C-Sharp-And-ASP-NET/README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Java & Spring Boot Ecosystem](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Python-Scripting](../Python-Scripting/README.md) | [➡️ 04-97. Java 21+ & Spring Boot 3 Category Cheat Sheet...](04-97-Category-Cheat-Sheet.md)
+
+© 2026 Dev-Library / 04-96. Java 21+ & Spring Boot 3 Оптимизации: Кое е грешно, защо и как е по-добре (с Блок-схеми)

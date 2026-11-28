@@ -1,4 +1,4 @@
-[⬅️ 00-01-00. Теория & Капани](00-01-00-Recursion-And-Backtracking.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-01-02. C# Implementation](00-01-02-CSharp-Implementation.md)
+[⬅️ 00-01-00. Recursion and Backtracking](00-01-00-Recursion-And-Backtracking.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-01-02. Recursion & Backtracking: C# (.NET) Имплем...](00-01-02-CSharp-Implementation.md)
 
 ---
 
@@ -113,8 +113,14 @@ generate_vectors(3)  # Извежда: 000, 001, 010, 011, 100, 101, 110, 111
 | **Копиране на списък в дъното** | `result.append(path.copy())` или `path[:]` | Задължително против презаписване |
 | **Вградени комбинаторики** | `from itertools import permutations, combinations` | Написани на C — в пъти по-бързи |
 
+
+
+
+
+
+
 ---
 
-[⬅️ 00-01-00. Теория & Капани](00-01-00-Recursion-And-Backtracking.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-01-02. C# Implementation](00-01-02-CSharp-Implementation.md)
+[⬅️ 00-01-00. Recursion and Backtracking](00-01-00-Recursion-And-Backtracking.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-01-02. Recursion & Backtracking: C# (.NET) Имплем...](00-01-02-CSharp-Implementation.md)
 
 © 2026 Dev-Library / 00-01-01. Recursion & Backtracking: Python Имплементация & Cheat Sheet

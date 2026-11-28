@@ -1,4 +1,4 @@
-[⬅️ 04-02. Spring Boot Intro & Layered Architecture](04-02-00-Spring-Boot-Intro.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-03-01. Syntax From Scratch](04-03-01-Syntax-Spring-Core-IoC.md)
+[⬅️ 04-02-01. Spring Boot Introduction & Layered Archite...](04-02-01-Syntax-Spring-Boot-Intro.md) | [📂 Назад към Module 04: Spring Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [➡️ 04-03-01. Spring Core (IoC Container, Beans & DI): С...](04-03-01-Syntax-Spring-Core-IoC.md)
 
 ---
 
@@ -137,5 +137,14 @@ public class CheckoutProcessor {
 | **Външни библиотеки в контейнера** | `@Bean` методи вътре в `@Configuration` клас | `builder.Services.AddSingleton<T>(sp => new T(...))` |
 | **Отложено създаване на Bean** | `@Lazy` анотация върху класа или параметъра на конструктора | `Lazy<T>` в конструктора (изисква регистрация на `Lazy<>`) |
 
+
+
+
+
+
+
 ---
-[⬅️ 04-02. Spring Boot Intro & Layered Architecture](04-02-00-Spring-Boot-Intro.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-03-01. Syntax From Scratch](04-03-01-Syntax-Spring-Core-IoC.md)
+
+[⬅️ 04-02-01. Spring Boot Introduction & Layered Archite...](04-02-01-Syntax-Spring-Boot-Intro.md) | [📂 Назад към Module 04: Spring Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [➡️ 04-03-01. Spring Core (IoC Container, Beans & DI): С...](04-03-01-Syntax-Spring-Core-IoC.md)
+
+© 2026 Dev-Library / 04-03-00. Spring Core (IoC Container, Beans & Dependency Injection — Теория & Капани)

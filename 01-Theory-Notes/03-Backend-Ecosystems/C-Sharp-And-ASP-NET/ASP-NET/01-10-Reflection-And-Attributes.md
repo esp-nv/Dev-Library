@@ -1,4 +1,4 @@
-[⬅️ 01-09. Справочник по конфигурация](01-09-AutoMapper-Identity-Configuration-Guide.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
+[⬅️ 01-09. Наръчник по конфигурация: AutoMapper и Identi...](01-09-AutoMapper-Identity-Configuration-Guide.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 02-00. ASP.NET Core Advanced](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
 
 ---
 
@@ -220,5 +220,14 @@ public class CodingTracker
 
 ---
 [⬅️ 01-09. Справочник по конфигурация](01-09-AutoMapper-Identity-Configuration-Guide.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) |  [📂 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
+
+
+
+
+
+
 ---
+
+[⬅️ 01-09. Наръчник по конфигурация: AutoMapper и Identi...](01-09-AutoMapper-Identity-Configuration-Guide.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 02-00. ASP.NET Core Advanced](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
+
 © 2026 Dev-Library / 01-10. Reflection и Attributes (Дълбок Архитектурен Справочник)

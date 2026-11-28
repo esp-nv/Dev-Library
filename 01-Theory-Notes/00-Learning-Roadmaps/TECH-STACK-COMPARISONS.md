@@ -1,4 +1,4 @@
-[⬅️ Назад към 00. Learning Roadmaps](README.md) | [📚 Инженерна Библиотека (01-Theory-Notes)](../README.md) | [🏠 Начало](../../README.md)
+[⬅️ Инженерен Наръчник: Как да изберем правилния Език, Т...](FRAMEWORK-AND-TECH-SELECTION-GUIDE.md) | [📂 Назад към Примерни Пътеки за Учене и Инженерни Сравнения Хъба](README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../README.md) | [🏛️ Начало Dev-Library](../../README.md) | [📂 Текуща папка: Примерни Пътеки за Учене и Инженерни Сравнения](README.md) | [🌐 Следващ домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../01-Core-Tools-And-Fundamentals/README.md) | [📦 Следващ модул: 01-Core-Tools-And-Fundamentals](../01-Core-Tools-And-Fundamentals/README.md) | [📦 Към следващ модул: 01-Core-Tools-And-Fundamentals](../01-Core-Tools-And-Fundamentals/README.md)
 
 ---
 
@@ -105,6 +105,6 @@
 
 ---
 
-[⬅️ Назад към 00. Learning Roadmaps](README.md) | [📚 Инженерна Библиотека (01-Theory-Notes)](../README.md) | [🏠 Начало](../../README.md)
+[⬅️ Инженерен Наръчник: Как да изберем правилния Език, Т...](FRAMEWORK-AND-TECH-SELECTION-GUIDE.md) | [📂 Назад към Примерни Пътеки за Учене и Инженерни Сравнения Хъба](README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../README.md) | [🏛️ Начало Dev-Library](../../README.md) | [📂 Текуща папка: Примерни Пътеки за Учене и Инженерни Сравнения](README.md) | [🌐 Следващ домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../01-Core-Tools-And-Fundamentals/README.md) | [📦 Следващ модул: 01-Core-Tools-And-Fundamentals](../01-Core-Tools-And-Fundamentals/README.md) | [📦 Към следващ модул: 01-Core-Tools-And-Fundamentals](../01-Core-Tools-And-Fundamentals/README.md)
 
 © 2026 Dev-Library / Бързо Сравнение на Модерния Tech Stack (Разлики за Лесно Разбиране)

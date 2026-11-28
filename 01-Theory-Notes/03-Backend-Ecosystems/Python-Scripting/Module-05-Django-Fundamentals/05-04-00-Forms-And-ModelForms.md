@@ -1,4 +1,4 @@
-[⬅️ Теория, Динамични маршрути, Request/Response & Капани](05-02-00-URLs-And-FBV.md) | [📂 Назад към Module 05 Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Django Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ Теория, MRO при CBV, Generic Views & Mixins](05-05-00-Class-Based-Views.md)
+[⬅️ 05-03-01. Django Templates, Static & Media: Синтакси...](05-03-01-Syntax-Templates-Static-Media.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-04-01. Django Forms and ModelForms: Синтаксис от ...](05-04-01-Syntax-Forms-And-ModelForms.md)
 
 ---
 
@@ -146,8 +146,14 @@ def create_book(request):
 *   **Уловката:** Кандидатите мислят, че `book.save()` записва всички полета от формата, включително `ManyToMany`.
 *   **Точен Senior отговор:** Когато извикаш `form.save(commit=False)`, Django не може да запише данните в междинната `ManyToMany` таблица, защото главният обект `book` **все още няма генерирано `id` (Primary Key)** в базата данни! Затова Django закача скрит метод върху самата форма, наречен **`form.save_m2m()`**. След като ръчно запишеш главния обект с `book.save()`, **задължително** трябва да извикаш **`form.save_m2m()`**, за да се запишат и свързаните Many-to-Many релации!
 
+
+
+
+
+
+
 ---
 
-[⬅️ Теория, Динамични маршрути, Request/Response & Капани](05-02-00-URLs-And-FBV.md) | [📂 Назад към Module 05 Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Django Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ Теория, MRO при CBV, Generic Views & Mixins](05-05-00-Class-Based-Views.md)
+[⬅️ 05-03-01. Django Templates, Static & Media: Синтакси...](05-03-01-Syntax-Templates-Static-Media.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-04-01. Django Forms and ModelForms: Синтаксис от ...](05-04-01-Syntax-Forms-And-ModelForms.md)
 
 © 2026 Dev-Library / 05-04-00. Django Forms and ModelForms (Теория, CSRF, Валидация & Капани)

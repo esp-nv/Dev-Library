@@ -1,4 +1,4 @@
-[⬅️ 01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet](01-04-01-Syntax-Sass-And-SCSS-Architecture.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-00. Intro to Responsive Design & UI Frameworks](../02-Responsive-Forms-And-Frameworks/02-00-Intro.md)
+[⬅️ 01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet](01-04-01-Syntax-Sass-And-SCSS-Architecture.md) | [📂 Назад към 01. HTML5 & CSS3 Foundations Хъба](README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [➡️ 04-00. Пълен Изпитен Наръчник, Стратегия за Judge & ...](01-95-Exam-Preparation-And-Templates.md)
 
 ---
 
@@ -110,8 +110,14 @@
 
 * **[02-00. Intro to Responsive Design & UI Frameworks](../02-Responsive-Forms-And-Frameworks/02-00-Intro.md)** — Преход към Раздел 02: адаптивен дизайн с Media Queries, HTML форми, Tailwind CSS и Bootstrap 5.
 
----
-[⬅️ 01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet](01-04-01-Syntax-Sass-And-SCSS-Architecture.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-00. Intro to Responsive Design & UI Frameworks](../02-Responsive-Forms-And-Frameworks/02-00-Intro.md)
 
+
+
+
+
+
+---
+
+[⬅️ 01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet](01-04-01-Syntax-Sass-And-SCSS-Architecture.md) | [📂 Назад към 01. HTML5 & CSS3 Foundations Хъба](README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [➡️ 04-00. Пълен Изпитен Наръчник, Стратегия за Judge & ...](01-95-Exam-Preparation-And-Templates.md)
 
 © 2026 Dev-Library / 01-05. Архитектурно и Хардуерно Сравнение на Стиловете (CSS3, SCSS, Tailwind, Bootstrap 5, CSS-in-JS)

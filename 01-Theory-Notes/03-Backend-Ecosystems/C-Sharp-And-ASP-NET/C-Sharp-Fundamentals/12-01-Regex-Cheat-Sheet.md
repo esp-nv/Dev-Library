@@ -1,3 +1,7 @@
+[⬅️ Глава 11: Текстообработка, String Immutability и Str...](11-STRING-TEXT-PROCESSING.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 12: Регулярни изрази](12-REGULAR-EXPRESSIONS.md)
+
+---
+
 # 📋 Cheat Sheet: Регулярни изрази (Regex) в C#
 
 **Файл:** `12-01-Regex-Cheat-Sheet.md` | **Цел:** Бърза изпитна таблица за символи, групи, Lookaround и C# методи
@@ -116,5 +120,13 @@ string tokens = Regex.Split(input, @"[,;|\s]+");
 ### 🔗 Официална документация
 * **[Microsoft Learn: .NET Regular Expression Language - Quick Reference](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference)** — Пълният официален справочник на Microsoft за всички Regex конструкции, Substitutions и опции в C#.
 
-© 2026 Dev-Library / Cheat Sheet: Регулярни изрази (Regex) в C#
 
+
+
+
+
+---
+
+[⬅️ Глава 11: Текстообработка, String Immutability и Str...](11-STRING-TEXT-PROCESSING.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 12: Регулярни изрази](12-REGULAR-EXPRESSIONS.md)
+
+© 2026 Dev-Library / Cheat Sheet: Регулярни изрази (Regex) в C#

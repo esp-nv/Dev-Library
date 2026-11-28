@@ -1,4 +1,4 @@
-[⬅️ 01-06-00. Теория & Капани](01-06-00-Objects-And-Classes.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-07-00. Associative Arrays (Maps)](01-07-00-Maps-And-Stream-API.md)
+[⬅️ 01-06-00. Objects, Classes and Records](01-06-00-Objects-And-Classes.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-07-00. Associative Arrays](01-07-00-Maps-And-Stream-API.md)
 
 ---
 
@@ -125,5 +125,14 @@ public class ObjectsSortingDemo {
 | **Сортиране низходящо** | `Comparator.comparingDouble(Item::getPrice).reversed()` | Използвай `comparingInt` / `comparingDouble` за примитиви |
 | **Безопасно сравнение на обекти** | `Objects.equals(objA, objB)` | Не гърми с `NullPointerException`, ако някой е `null` |
 
+
+
+
+
+
+
 ---
-[⬅️ 01-06-00. Теория & Капани](01-06-00-Objects-And-Classes.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-07-00. Associative Arrays (Maps)](01-07-00-Maps-And-Stream-API.md)
+
+[⬅️ 01-06-00. Objects, Classes and Records](01-06-00-Objects-And-Classes.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-07-00. Associative Arrays](01-07-00-Maps-And-Stream-API.md)
+
+© 2026 Dev-Library / 01-06-01. Objects, Classes and Records: Синтаксис от нулата & Cheat Sheet

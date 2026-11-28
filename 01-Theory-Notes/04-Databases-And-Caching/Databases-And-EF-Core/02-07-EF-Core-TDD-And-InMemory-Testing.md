@@ -1,4 +1,4 @@
-[⬅️ 02-06. Database-First и Scaffolding](02-06-Database-First-Model-Scaffolding.md) | [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) | [🏠 Начало (EF Core)](README.md) | [➡️ 03-00. Кратък справочник за защити](03-00-ADVANCED-DBCONTEXT-PROTECTIONS-INTRO.md)
+[⬅️ 02-06. Database-First подход и Автоматично генериран...](02-06-Database-First-Model-Scaffolding.md) | [📂 Назад към Databases & Entity Framework Core — Пълен Архитектур... Хъба](README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases & Entity Framework Core — Пълен Архитектур...](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [➡️ 02-08. Атрибутът InverseProperty при множество връзк...](02-08-InverseProperty-Multiple-Relationships.md)
 
 ---
 
@@ -97,7 +97,14 @@ public class StudentService
     *   *Проблемът:* `UseInMemoryDatabase` е просто колекция от списъци в RAM паметта. Той **НЕ** налага ограничения за външни ключове (`Foreign Keys`), не проверява за `NOT NULL` ограничения и не изпълнява суров SQL синтаксис. Тестът ти може да е зелен в паметта, но в момента, в който пуснеш софтуера в реалния SQL Server, той да се срине.
     *   *Решение:* За интеграционни тестове, изискващи 100% точност с реалната база, използвай **SQLite In-Memory** доставчик (`options.UseSqlite("Data Source=:memory:")`), тъй като той е истински релационен двигател, или използвай Docker контейнери.
 
+
+
+
+
+
+
 ---
-[⬅️ 02-06. Database-First и Scaffolding](02-06-Database-First-Model-Scaffolding.md) | [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) | [🏠 Начало (EF Core)](README.md) | [➡️ 03-00. Кратък справочник за защити](03-00-ADVANCED-DBCONTEXT-PROTECTIONS-INTRO.md)
+
+[⬅️ 02-06. Database-First подход и Автоматично генериран...](02-06-Database-First-Model-Scaffolding.md) | [📂 Назад към Databases & Entity Framework Core — Пълен Архитектур... Хъба](README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases & Entity Framework Core — Пълен Архитектур...](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [➡️ 02-08. Атрибутът InverseProperty при множество връзк...](02-08-InverseProperty-Multiple-Relationships.md)
 
 © 2026 Dev-Library / 02-07. EF Core с TDD и Тестване в паметта (In-Memory Testing)

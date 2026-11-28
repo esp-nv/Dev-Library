@@ -1,4 +1,4 @@
-[⬅️ 01-10-00. Теория & Капани](01-10-00-Regular-Expressions.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ Module 02: Java OOP](../Module-02-Java-OOP/02-00-Intro.md)
+[⬅️ 01-10-00. Regular Expressions](01-10-00-Regular-Expressions.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📦 Към следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md)
 
 ---
 
@@ -102,5 +102,14 @@ String bgDate = date.replaceAll("(\\d{4})-(\\d{2})-(\\d{2})", "\$3.\$2.\$1"); //
 | **`str.replaceAll(regex, rep)`** | `String` | Заменя всички съвпадения на регулярния израз |
 | **`str.split(regex)`** | `String` | Разделя низа на `String[]` по регулярен израз |
 
+
+
+
+
+
+
 ---
-[⬅️ 01-10-00. Теория & Капани](01-10-00-Regular-Expressions.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ Module 02: Java OOP](../Module-02-Java-OOP/02-00-Intro.md)
+
+[⬅️ 01-10-00. Regular Expressions](01-10-00-Regular-Expressions.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📦 Към следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md)
+
+© 2026 Dev-Library / 01-10-01. Regular Expressions (Regex): Синтаксис от нулата & Cheat Sheet

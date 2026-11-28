@@ -1,4 +1,4 @@
-[📂 Назад към 01 QA Automation Хъба](README.md) | [🌐 Домейн: 05. QA & Test Automation](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01 QA Automation](README.md) | [🌐 Следващ домейн: 06. Cloud, DevOps & Architecture](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-98. Common Errors, Edge Cases & Fixes (Каталог на грешките)](01-98-Common-Errors-And-Fixes.md)
+[⬅️ 01-03-01. NUnit, JUnit 5, Vitest & pytest: Синтаксис...](01-03-01-Syntax-Multi-Language-Unit-Testing.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-04-01. Selenium & Locators Cheat Sheet](01-04-01-Syntax-Selenium-WebDriver-And-POM.md)
 
 ---
 
@@ -152,8 +152,14 @@ public void Login_ValidCredentials_RedirectsToDashboard()
 * **Въпрос 2:** *„Защо категорично се забранява смесването на **Implicit Wait** и **Explicit Wait** в една и съща WebDriver сесия?“*
   * **Отговор:** Официалната документация на Selenium предупреждава, че комбинирането им води до непредсказуемо натрупване на времената за изчакване (например при проверка за *изчезване* на елемент с Explicit Wait от 5s и Implicit Wait от 10s, тестът може да блокира за 15–20 секунди заради вътрешните повторни опити на драйвъра). Използвай **само Explicit Wait** (`ImplicitWait = TimeSpan.Zero`).
 
+
+
+
+
+
+
 ---
 
-[📂 Назад към 01 QA Automation Хъба](README.md) | [🌐 Домейн: 05. QA & Test Automation](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01 QA Automation](README.md) | [🌐 Следващ домейн: 06. Cloud, DevOps & Architecture](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-98. Common Errors, Edge Cases & Fixes (Каталог на грешките)](01-98-Common-Errors-And-Fixes.md)
+[⬅️ 01-03-01. NUnit, JUnit 5, Vitest & pytest: Синтаксис...](01-03-01-Syntax-Multi-Language-Unit-Testing.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-04-01. Selenium & Locators Cheat Sheet](01-04-01-Syntax-Selenium-WebDriver-And-POM.md)
 
 © 2026 Dev-Library / 01-04-00. Selenium WebDriver, DOM Locators, Explicit Waits & POM

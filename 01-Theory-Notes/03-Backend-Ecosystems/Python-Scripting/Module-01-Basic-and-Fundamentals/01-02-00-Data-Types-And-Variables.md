@@ -1,4 +1,4 @@
-[⬅️ 01-01. Basic Syntax](01-01-00-Basic-Syntax-Conditional-Statements-And-Loops.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-02-01. Syntax From Scratch](01-02-01-Syntax-Data-Types-And-Variables.md)
+[⬅️ 01-00-a. Базов Синтаксис на Python от нулата](01-01-01-Syntax-Basic-Syntax-Conditional-Statements-And-Loops.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-02-01. Data Types and Variables: Синтаксис от нул...](01-02-01-Syntax-Data-Types-And-Variables.md)
 
 ---
 
@@ -117,5 +117,14 @@ print(f"Цяла част: {rounded_int}")
     2.  **`is` (Identity):** Проверява дали двете имена сочат към **абсолютно същия физически адрес в RAM паметта** (еквивалент на `Object.ReferenceEquals()` в C#).
     *   *Скритата уловка (Integer Interning):* Python кешира в паметта числата от `-5` до `256`. Затова `a = 10; b = 10; a is b` връща `True`. Но при `a = 500; b = 500; a is b` Python създава два отделни обекта в паметта и `is` връща **`False`**! Затова `is` се използва **единствено** за проверка срещу `None` (`if data is None:`).
 
+
+
+
+
+
+
 ---
-[⬅️ 01-01. Basic Syntax](01-01-00-Basic-Syntax-Conditional-Statements-And-Loops.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-02-01. Syntax From Scratch](01-02-01-Syntax-Data-Types-And-Variables.md)
+
+[⬅️ 01-00-a. Базов Синтаксис на Python от нулата](01-01-01-Syntax-Basic-Syntax-Conditional-Statements-And-Loops.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-02-01. Data Types and Variables: Синтаксис от нул...](01-02-01-Syntax-Data-Types-And-Variables.md)
+
+© 2026 Dev-Library / 01-02-00. Data Types and Variables (Теория, Памет & Интервю Капани)

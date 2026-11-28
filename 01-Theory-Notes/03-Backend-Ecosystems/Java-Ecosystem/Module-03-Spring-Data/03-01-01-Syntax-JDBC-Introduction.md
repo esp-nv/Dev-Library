@@ -1,4 +1,4 @@
-[⬅️ 03-01-00. Теория & Капани](03-01-00-JDBC-Introduction.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-02-00. Introduction to Hibernate](03-02-00-Hibernate-Intro.md)
+[⬅️ 03-01-00. DB Apps Introduction](03-01-00-JDBC-Introduction.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-02-00. Introduction to Hibernate & Entity Lifecycle](03-02-00-Hibernate-Intro.md)
 
 ---
 
@@ -108,5 +108,14 @@ public class BatchAndTransactionDemo {
 | **`ps.executeQuery()` / `ps.executeUpdate()`** | Изпълнява `SELECT` или `INSERT/UPDATE/DELETE` | Връща `ResultSet` или брой засегнати редове |
 | **`rs.next()`** | Премества курсора на следващия ред | Връща `false`, когато свършат редовете |
 
+
+
+
+
+
+
 ---
-[⬅️ 03-01-00. Теория & Капани](03-01-00-JDBC-Introduction.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-02-00. Introduction to Hibernate](03-02-00-Hibernate-Intro.md)
+
+[⬅️ 03-01-00. DB Apps Introduction](03-01-00-JDBC-Introduction.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-02-00. Introduction to Hibernate & Entity Lifecycle](03-02-00-Hibernate-Intro.md)
+
+© 2026 Dev-Library / 03-01-01. DB Apps Introduction (JDBC): Синтаксис от нулата & Cheat Sheet

@@ -1,4 +1,4 @@
-[📦 Предишен модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [🌐 Домейн: 04. Databases & Caching](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Redis Caching](README.md) | [🌐 Следващ домейн: 05. QA & Test Automation](../../05-QA-And-Test-Automation/README.md)
+[📦 Предишен модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Кеширане в Паметта с Redis](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [▶️ Започни от 03-02-00. Redis Caching Архитектура и Структури от д...](03-02-00-Redis-Caching-Architecture.md)
 
 ---
 
@@ -12,8 +12,14 @@
   * 📄 [03-02-00. Теория: RAM срещу Disk, Cache-Aside модел, Eviction политики & Капани в продукция (`KEYS *`)](03-02-00-Redis-Caching-Architecture.md)
   * 🛠️ [03-02-01. Практика от Нулата: `redis-cli` команди, C# / .NET интеграция & Cheat Sheet](03-02-01-Syntax-Redis.md)
 
+
+
+
+
+
+
 ---
 
-[📦 Предишен модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [🌐 Домейн: 04. Databases & Caching](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Redis Caching](README.md) | [🌐 Следващ домейн: 05. QA & Test Automation](../../05-QA-And-Test-Automation/README.md)
+[📦 Предишен модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Кеширане в Паметта с Redis](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [▶️ Започни от 03-02-00. Redis Caching Архитектура и Структури от д...](03-02-00-Redis-Caching-Architecture.md)
 
 © 2026 Dev-Library / Кеширане в Паметта с Redis (`Redis-Caching`)

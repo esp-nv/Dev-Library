@@ -1,4 +1,4 @@
-[⬅️ 00-01-03. JavaScript Implementation](00-01-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-02-00-Searching-Algorithms](00-02-00-Searching-Algorithms.md)
+[⬅️ 00-01-03. Recursion & Backtracking: JavaScript (ES6+...](00-01-03-JavaScript-Implementation.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-02-00. Searching Algorithms](00-02-00-Searching-Algorithms.md)
 
 ---
 
@@ -114,7 +114,14 @@ public class BitVectors {
 | **Копиране на списък в дъното** | `result.add(new ArrayList<>(current))` | Пази моментна снимка в Heap паметта |
 | **Грешка при дълбок стек** | `java.lang.StackOverflowError` | Наследява `Error` (не `Exception`) |
 
+
+
+
+
+
+
 ---
-[⬅️ 00-01-03. JavaScript Implementation](00-01-03-JavaScript-Implementation.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-02-00-Searching-Algorithms](00-02-00-Searching-Algorithms.md)
+
+[⬅️ 00-01-03. Recursion & Backtracking: JavaScript (ES6+...](00-01-03-JavaScript-Implementation.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-02-00. Searching Algorithms](00-02-00-Searching-Algorithms.md)
 
 © 2026 Dev-Library / 00-01-04. Recursion & Backtracking: Java Имплементация & Cheat Sheet

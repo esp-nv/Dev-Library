@@ -1,4 +1,4 @@
-[⬅️ 01-07-00. Теория & Капани](01-07-00-Maps-And-Stream-API.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-08-00. Stream API & Lambdas](01-08-00-Stream-API.md)
+[⬅️ 01-07-00. Associative Arrays](01-07-00-Maps-And-Stream-API.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-08-00. Stream API & Lambda Expressions](01-08-00-Stream-API.md)
 
 ---
 
@@ -117,5 +117,14 @@ scores.entrySet().stream()
 | **`map.entrySet()`** | Връща множество от двойки `Map.Entry<K, V>` | Най-бързият начин за обхождане |
 | **`Map.of("k1", v1, "k2", v2)`** | Създава бърз непроменяем речник (до 10 двойки) | Не позволява `null` и `.put()` |
 
+
+
+
+
+
+
 ---
-[⬅️ 01-07-00. Теория & Капани](01-07-00-Maps-And-Stream-API.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-08-00. Stream API & Lambdas](01-08-00-Stream-API.md)
+
+[⬅️ 01-07-00. Associative Arrays](01-07-00-Maps-And-Stream-API.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-08-00. Stream API & Lambda Expressions](01-08-00-Stream-API.md)
+
+© 2026 Dev-Library / 01-07-01. Associative Arrays (`Map`): Синтаксис от нулата & Cheat Sheet

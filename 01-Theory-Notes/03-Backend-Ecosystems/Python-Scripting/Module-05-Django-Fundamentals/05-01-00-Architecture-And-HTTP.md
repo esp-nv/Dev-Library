@@ -1,4 +1,4 @@
-[⬅️ 05-00. Intro & Roadmap](05-00-Intro.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-01-01. Syntax From Scratch](05-01-01-Syntax-Architecture-And-HTTP.md)
+[⬅️ 05-00. Intro to Django Fundamentals & MTV Architecture](05-00-Intro.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-01-01. Django Setup & Architecture: Синтаксис от ...](05-01-01-Syntax-Architecture-And-HTTP.md)
 
 ---
 
@@ -140,5 +140,14 @@ class UserProfile(models.Model):
     1.  **`401 Unauthorized` (Неавтентикиран / Кой си ти?):** Сървърът изобщо не знае кой си (не си логнат, липсва сесия или JWT токенът е изтекъл). Ако се логнеш, може и да имаш достъп.
     2.  **`403 Forbidden` (Забранен достъп / Знам кой си, но нямаш права!):** Ти си успешно логнат като обикновен потребител (`User`), но се опитваш да отвориш страница само за администратори (`/admin/delete-all/`). Повторното логване няма да помогне, защото нямаш нужната роля.
 
+
+
+
+
+
+
 ---
-[⬅️ 05-00. Intro & Roadmap](05-00-Intro.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-01-01. Syntax From Scratch](05-01-01-Syntax-Architecture-And-HTTP.md)
+
+[⬅️ 05-00. Intro to Django Fundamentals & MTV Architecture](05-00-Intro.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-01-01. Django Setup & Architecture: Синтаксис от ...](05-01-01-Syntax-Architecture-And-HTTP.md)
+
+© 2026 Dev-Library / 05-01-00. Internet, HTTP & Django Architecture (Теория, MVT, PostgreSQL & Капани)

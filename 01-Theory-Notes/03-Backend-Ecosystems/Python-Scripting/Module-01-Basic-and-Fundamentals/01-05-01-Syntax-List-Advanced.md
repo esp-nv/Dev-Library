@@ -1,4 +1,4 @@
-[⬅️ 01-05-00. Теория & Капани](01-05-00-List-Advanced.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-06-00. Dictionaries](01-06-00-Dictionaries.md)
+[⬅️ 01-05-00. List Advanced](01-05-00-List-Advanced.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-06-00. Dictionaries](01-06-00-Dictionaries.md)
 
 ---
 
@@ -94,5 +94,14 @@ flat = [num for sublist in nested for num in sublist]
 | **Обръщане на списък** | `arr[::-1]` | Връща обърнато копие |
 | **Сортиране по критерий** | `sorted(arr, key=lambda x: ...)` | Сортира без да пипа оригинала |
 
+
+
+
+
+
+
 ---
-[⬅️ 01-05-00. Теория & Капани](01-05-00-List-Advanced.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-06-00. Dictionaries](01-06-00-Dictionaries.md)
+
+[⬅️ 01-05-00. List Advanced](01-05-00-List-Advanced.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-06-00. Dictionaries](01-06-00-Dictionaries.md)
+
+© 2026 Dev-Library / 01-05-01. List Advanced: Синтаксис от нулата & Cheat Sheet

@@ -1,4 +1,4 @@
-[⬅️ 02-02-00. Теория & Капани](02-02-00-Encapsulation.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-03-00. Inheritance](02-03-00-Inheritance.md)
+[⬅️ 02-02-00. Encapsulation](02-02-00-Encapsulation.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-03-00. Inheritance](02-03-00-Inheritance.md)
 
 ---
 
@@ -166,5 +166,14 @@ public class Order {
 
 * **Валидация в сетър:** хвърляне на `IllegalArgumentException` при невалидни данни.
 
+
+
+
+
+
+
 ---
-[⬅️ 02-02-00. Теория & Капани](02-02-00-Encapsulation.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-03-00. Inheritance](02-03-00-Inheritance.md)
+
+[⬅️ 02-02-00. Encapsulation](02-02-00-Encapsulation.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-03-00. Inheritance](02-03-00-Inheritance.md)
+
+© 2026 Dev-Library / 02-02-01. Encapsulation: Синтаксис от нулата & Cheat Sheet

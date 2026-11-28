@@ -1,4 +1,4 @@
-⬅️ [01-02. Типове данни и Памет](01-02-SQL-Data-Types-Memory-And-CSharp.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) |🏠 [Библиотека БД](README.md) | ➡️ [01-04. NoSQL: MongoDB](01-04-NoSQL-Documents-MongoDB.md)
+[⬅️ 01-02. Типове данни, Заемане на памет и Мостът към C#](01-02-SQL-Data-Types-Memory-And-CSharp.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 01-04. NoSQL Бази данни: MongoDB и Apache Cassandra](01-04-NoSQL-Documents-And-WideColumn-Mongo-Cassandra.md)
 
 ---
 
@@ -122,7 +122,14 @@ LIMIT 5 OFFSET 0;
 3. **MySQL и капанът `utf8` срещу `utf8mb4`:** В старите версии на MySQL `utf8` поддържа само 3 байта и реже емоджита и редки символи. Винаги задавай **`utf8mb4`**.
 4. **SQLite няма строги типове (Dynamic Typing) и `DECIMAL`:** SQLite съхранява числата с десетична запетая като 64-битов `REAL` (`FLOAT`), което не е подходящо за тежки финансови сметки, а `ALTER TABLE` има силно ограничени възможности (не можеш лесно да променяш тип на съществуваща колона).
 
+
+
+
+
+
+
 ---
-⬅️ [01-02. Типове данни и Памет](01-02-SQL-Data-Types-Memory-And-CSharp.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [01-04. NoSQL: MongoDB](01-04-NoSQL-Documents-MongoDB.md)
+
+[⬅️ 01-02. Типове данни, Заемане на памет и Мостът към C#](01-02-SQL-Data-Types-Memory-And-CSharp.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 01-04. NoSQL Бази данни: MongoDB и Apache Cassandra](01-04-NoSQL-Documents-And-WideColumn-Mongo-Cassandra.md)
 
 © 2026 Dev-Library / ️ 01-03. Релационни диалекти: MS SQL Server, PostgreSQL, MySQL и SQLite

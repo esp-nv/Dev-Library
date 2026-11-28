@@ -1,0 +1,607 @@
+================================================================================
+ГРУПИРАН ОДИТ ПО ФАЙЛ (1/ ЛИНКОВЕ: 169 | 2/ #ANCHOR: 116 | ОБЩО: 285) — събота, 2026-11-28 16:03:11
+================================================================================
+
+📄 00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md:
+   1/ Линкове (29):
+      • [#1] ред 33: [01-QA-Automation/README.md](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/01-QA-Automation/README.md)  (Предложено: [01-QA-Automation/README.md](../05-QA-And-Test-Automation/01-QA-Automation/README.md))
+      • [#2] ред 53: [02-TypeScript-Language/README.md](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/README.md)  (Предложено: [02-TypeScript-Language/README.md](../02-Frontend-And-UI-UX/TypeScript-Language/README.md))
+      • [#3] ред 73: [03-Python-Scripting/README.md](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/03-Python-Scripting/README.md)  (Предложено: [03-Python-Scripting/README.md](../03-Backend-Ecosystems/Python-Scripting/README.md))
+      • [#4] ред 95: [04-Java-Ecosystem/README.md](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/04-Java-Ecosystem/README.md)  (Предложено: [04-Java-Ecosystem/README.md](../03-Backend-Ecosystems/Java-Ecosystem/README.md))
+      • [#5] ред 103: [Главен индекс на Ниво 2 (README.md)](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/README.md)  (Предложено: **Главен индекс на Ниво 2 (README.md)** *(в разработка)*)
+      • [#6] ред 105: [Индекс на 01-QA-Automation](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/01-QA-Automation/README.md)  (Предложено: [Индекс на 01-QA-Automation](../05-QA-And-Test-Automation/01-QA-Automation/README.md))
+      • [#7] ред 106: [01-00. QA Automation And Selenium Basics](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/01-QA-Automation/01-00-QA-Automation-And-Selenium-Basics.md)  (Предложено: [01-00. QA Automation And Selenium Basics](../05-QA-And-Test-Automation/01-QA-Automation/01-00-Intro-To-QA-Engineering.md))
+      • [#8] ред 107: [01-01. DOM Selectors And XPath Strategies](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/01-QA-Automation/01-01-DOM-Selectors-And-XPath-Strategies.md)  (Предложено: [01-01. DOM Selectors And XPath Strategies](01-01-Level-1-The-Quick-Wins.md))
+      • [#9] ред 108: [01-02. Advanced QA Traps And Snippets](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/01-QA-Automation/01-02-Advanced-QA-Traps-And-Snippets.md)  (Предложено: [01-02. Advanced QA Traps And Snippets](../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-02-00-CSS-Box-Model-And-Typography.md))
+      • [#10] ред 109: [01-03. QA Cheat Sheet And Reference Guide](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/01-QA-Automation/01-03-QA-Cheat-Sheet-And-Reference-Guide.md)  (Предложено: [01-03. QA Cheat Sheet And Reference Guide](../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-03-00-CSS-Layout-Flexbox.md))
+      • [#11] ред 111: [Индекс на 02-TypeScript-Language](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/README.md)  (Предложено: [Индекс на 02-TypeScript-Language](../02-Frontend-And-UI-UX/TypeScript-Language/README.md))
+      • [#12] ред 113: [02-01. Introduction to TypeScript](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/02-01-Introduction-to-TypeScript.md)  (Предложено: [02-01. Introduction to TypeScript](02-01-Level-2-Natural-Extensions.md))
+      • [#13] ред 114: [02-02. Advanced Data Types](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/02-02-Advanced-Data-Types.md)  (Предложено: [02-02. Advanced Data Types](../02-Frontend-And-UI-UX/TypeScript-Language/02-02-00-Advanced-Types-And-Guards.md))
+      • [#14] ред 115: [02-03. OOP in TypeScript](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/02-03-OOP-in-TypeScript.md)  (Предложено: [02-03. OOP in TypeScript](../02-Frontend-And-UI-UX/TypeScript-Language/02-03-00-OOP-In-TypeScript.md))
+      • [#15] ред 116: [02-04. Mastering Generics](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/02-04-Mastering-Generics.md)  (Предложено: [02-04. Mastering Generics](../02-Frontend-And-UI-UX/TypeScript-Language/02-04-00-Mastering-Generics.md))
+      • [#16] ред 117: [02-05. TypeScript Decorators](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/02-05-TypeScript-Decorators.md)  (Предложено: [02-05. TypeScript Decorators](../02-Frontend-And-UI-UX/TypeScript-Language/02-05-00-Decorators-Modules-And-Async.md))
+      • [#17] ред 118: [02-06. TypeScript Traps And Snippets](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/02-06-TypeScript-Traps-And-Snippets.md)  (Предложено: [02-06. TypeScript Traps And Snippets](../02-Frontend-And-UI-UX/JavaScript-Language/02-06-Browser-JS-vs-NodeJS-Runtime-Comparison.md))
+      • [#18] ред 119: [02-07. TypeScript Cheat Sheet](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/02-07-TypeScript-Cheat-Sheet.md)  (Предложено: [02-07. TypeScript Cheat Sheet](../02-Frontend-And-UI-UX/JavaScript-Language/02-07-00-Remote-Data-Auth-And-SPA-Architecture.md))
+      • [#19] ред 120: [02-08. TypeScript Deep Dive Addendum](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/02-TypeScript-Language/02-08-TypeScript-Deep-Dive-Addendum.md)  (Предложено: [02-08. TypeScript Deep Dive Addendum](../02-Frontend-And-UI-UX/JavaScript-Language/02-08-00-Client-Side-Rendering-Routing-And-Web-Components.md))
+      • [#20] ред 122: [Индекс на 03-Python-Scripting](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/03-Python-Scripting/README.md)  (Предложено: [Индекс на 03-Python-Scripting](../03-Backend-Ecosystems/Python-Scripting/README.md))
+      • [#21] ред 123: [Module 01: Python Basics](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/03-Python-Scripting/Module-01-Basics/README.md)  (Предложено: [Module 01: Python Basics](../03-Backend-Ecosystems/Java-Ecosystem/Module-01-Java-Fundamentals/README.md))
+      • [#22] ред 124: [Module 02: Python Advanced](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/03-Python-Scripting/Module-02-Advanced/README.md)  (Предложено: [Module 02: Python Advanced](../03-Backend-Ecosystems/Python-Scripting/Module-02-Advance/README.md))
+      • [#23] ред 125: [Module 03: Python OOP](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/03-Python-Scripting/Module-03-OOP/README.md)  (Предложено: [Module 03: Python OOP](../03-Backend-Ecosystems/Python-Scripting/Module-03-OOP/README.md))
+      • [#24] ред 127: [Индекс на 04-Java-Ecosystem](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/04-Java-Ecosystem/README.md)  (Предложено: [Индекс на 04-Java-Ecosystem](../03-Backend-Ecosystems/Java-Ecosystem/README.md))
+      • [#25] ред 128: [Module 01: Java Fundamentals](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/04-Java-Ecosystem/Module-01-Java-Fundamentals/README.md)  (Предложено: [Module 01: Java Fundamentals](../03-Backend-Ecosystems/Java-Ecosystem/Module-01-Java-Fundamentals/README.md))
+      • [#26] ред 129: [Module 02: Java OOP](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/04-Java-Ecosystem/Module-02-Java-OOP/README.md)  (Предложено: [Module 02: Java OOP](../03-Backend-Ecosystems/Java-Ecosystem/Module-02-Java-OOP/README.md))
+      • [#27] ред 130: [Module 03: Spring Data (Hibernate & JPA)](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/04-Java-Ecosystem/Module-03-Spring-Data/README.md)  (Предложено: [Module 03: Spring Data (Hibernate & JPA)](../03-Backend-Ecosystems/Java-Ecosystem/Module-03-Spring-Data/README.md))
+      • [#28] ред 131: [Module 04: Spring Fundamentals (Spring Boot & MVC)](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/04-Java-Ecosystem/Module-04-Spring-Fundamentals/README.md)  (Предложено: [Module 04: Spring Fundamentals (Spring Boot & MVC)](../03-Backend-Ecosystems/Java-Ecosystem/Module-04-Spring-Fundamentals/README.md))
+      • [#29] ред 132: [Module 05: Spring Advanced (REST APIs, Security, JWT & Docker)](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/04-Java-Ecosystem/Module-05-Spring-Advanced/README.md)  (Предложено: [Module 05: Spring Advanced (REST APIs, Security, JWT & Docker)](../03-Backend-Ecosystems/Java-Ecosystem/Module-05-Spring-Advanced/README.md))
+
+📄 01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/00-00-Intro-And-Big-O.md:
+   2/ #anchor котви (1):
+      • [#30] ред 14: [5. Кодов одит: O(n²) срещу O(n) на практика](#5-кодов-одит-on2-срещу-on-на-практика)  (Предложено: [5. Кодов одит: O(n²) срещу O(n) на практика](#5-кодов-одит-on²-срещу-on-на-практика))
+
+📄 01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/00-02-02-CSharp-Implementation.md:
+   2/ #anchor котви (1):
+      • [#31] ред 13: [4. Вграденият `Array.BinarySearch` и капанът с побитовото допълнение (`~`)](#4-вграденият-arraybinarysearch-и-капанът-с-побитовото-допълнение-)  (Предложено: [4. Вграденият `Array.BinarySearch` и капанът с побитовото допълнение (`~`)](#4-вграденият-arraybinarysearch-и-капанът-с-побитовото-допълнение))
+
+📄 01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/00-02-04-Java-Implementation.md:
+   2/ #anchor котви (1):
+      • [#32] ред 12: [3. Вграденият `Arrays.binarySearch` и отрицателният индекс `-(insertionPoint) - 1`](#3-вграденият-arraysbinarysearch-и-отрицателният-индекс--insertionpoint---1)  (Предложено: [3. Вграденият `Arrays.binarySearch` и отрицателният индекс `-(insertionPoint) - 1`](#3-вграденият-arraysbinarysearch-и-отрицателният-индекс))
+
+📄 01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/00-03-01-Python-Implementation.md:
+   2/ #anchor котви (2):
+      • [#33] ред 10: [1. Bubble Sort и Selection Sort (Базови O(n²))](#1-bubble-sort-и-selection-sort-базови-on2)  (Предложено: [1. Bubble Sort и Selection Sort (Базови O(n²))](#1-bubble-sort-и-selection-sort-базови-on²))
+      • [#34] ред 12: [3. Quick Sort (Lomuto / Hoare Partitioning — \(O(n \log n)\))](#3-quick-sort-lomuto--hoare-partitioning--on-log-n)  (Предложено: [3. Quick Sort (Lomuto / Hoare Partitioning — \(O(n \log n)\))](#3-quick-sort-in-place-partitioning--on-log-n))
+
+📄 01-Core-Tools-And-Fundamentals/Course-Intro-And-Setup/00-02-01-DevTools-Audit.md:
+   1/ Линкове (1):
+      • [#35] ред 107: [01-00. Intro to HTML5 & CSS3](../Module-01-HTML-And-CSS-Foundations/01-00-Intro.md)  (Предложено: [01-00. Intro to HTML5 & CSS3](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-00-Intro.md))
+
+📄 01-Core-Tools-And-Fundamentals/README.md:
+   1/ Линкове (1):
+      • [#36] ред 32: [04. Linux, Terminal & Bash Scripting (`Linux-And-Bash-Scripting/`)](Linux-And-Bash-Scripting/README.md)  (Предложено: [04. Linux, Terminal & Bash Scripting (`Linux-And-Bash-Scripting/`)](../03-Backend-Ecosystems/Python-Scripting/README.md))
+
+📄 02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-02-00-CSS-Box-Model-And-Typography.md:
+   2/ #anchor котви (1):
+      • [#37] ред 14: [5. Детайлни подмодули към Глава 02](#5-детайлни-подмодули-към-глава-02)  (Предложено: [5. Детайлни подмодули към Глава 02](#01-02-00-css-box-model-и-типография-теория-упражнения-и-диагностика))
+
+📄 02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-02-01-Syntax-CSS-Box-Model-And-Typography.md:
+   2/ #anchor котви (1):
+      • [#38] ред 15: [6. Детайлни подмодули към Глава 02](#6-детайлни-подмодули-към-глава-02)  (Предложено: [6. Детайлни подмодули към Глава 02](#01-02-01-syntax-from-scratch--ui-card-snippets-css-box-model-и-типография))
+
+📄 02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-03-00-CSS-Layout-Flexbox.md:
+   1/ Линкове (1):
+      • [#39] ред 86: [02-00. Intro to Responsive & UI Frameworks](../02-Responsive-Forms-And-Frameworks/02-00-Intro.md)  (Предложено: [02-00. Intro to Responsive & UI Frameworks](../JavaScript-Language/02-00-Intro-To-JavaScript-And-V8-Engine.md))
+
+📄 02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-03-01-Syntax-CSS-Layout-Flexbox.md:
+   2/ #anchor котви (1):
+      • [#40] ред 15: [6. Детайлни подмодули към Глава 03](#6-детайлни-подмодули-към-глава-03)  (Предложено: [6. Детайлни подмодули към Глава 03](#01-03-01-syntax-from-scratch--flexbox-cheat-sheet-адаптивни-подредби-и-navbar-snippets))
+
+📄 02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-05-CSS-Methodologies-And-Frameworks-Comparison.md:
+   1/ Линкове (1):
+      • [#42] ред 111: [02-00. Intro to Responsive Design & UI Frameworks](../02-Responsive-Forms-And-Frameworks/02-00-Intro.md)  (Предложено: [02-00. Intro to Responsive Design & UI Frameworks](../JavaScript-Language/02-00-Intro-To-JavaScript-And-V8-Engine.md))
+   2/ #anchor котви (1):
+      • [#41] ред 12: [3. Визуална схема на натоварването (Build Time срещу Runtime в браузъра)](#3-визуална-схема-на-натоварването-build-time-срещу-runtime-в-браузъра)  (Предложено: [3. Визуална схема на натоварването (Build Time срещу Runtime в браузъра)](#4-визуална-схема-на-натоварването-build-time-срещу-runtime-в-браузъра))
+
+📄 02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-95-Exam-Preparation-And-Templates.md:
+   1/ Линкове (4):
+      • [#44] ред 213: [01-96. Performance & Optimizations](../01-96-Performance-And-Optimizations.md)  (Предложено: [01-96. Performance & Optimizations](01-96-Performance-And-Optimizations.md))
+      • [#45] ред 214: [01-97. Category Cheat Sheet](../01-97-Category-Cheat-Sheet.md)  (Предложено: [01-97. Category Cheat Sheet](01-97-Category-Cheat-Sheet.md))
+      • [#46] ред 215: [01-98. Common Errors & Fixes](../01-98-Common-Errors-And-Fixes.md)  (Предложено: [01-98. Common Errors & Fixes](01-98-Common-Errors-And-Fixes.md))
+      • [#47] ред 216: [01-99. Interview Q&A, Traps & Debugging](../01-99-Interview-QA-Traps-And-Debugging.md)  (Предложено: [01-99. Interview Q&A, Traps & Debugging](01-99-Interview-QA-Traps-And-Debugging.md))
+   2/ #anchor котви (1):
+      • [#43] ред 15: [6. Детайлни подмодули и Следващи стъпки (Инженерни одити 96–99)](#6-детайлни-подмодули-и-следващи-стъпки-инженерни-одити-9699)  (Предложено: [6. Детайлни подмодули и Следващи стъпки (Инженерни одити 96–99)](#6-детайлни-подмодули-и-следващи-съпки-инженерни-одити-9699))
+
+📄 02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-96-Performance-And-Optimizations.md:
+   2/ #anchor котви (3):
+      • [#48] ред 11: [2. Сценарий 1: Critical Rendering Path — Блокиращи скриптове и CSS срещу Defer / Async](#2-сценарий-1-critical-rendering-path--блокиращи-скриптове-и-css-срещу-defer--async)  (Предложено: [2. Сценарий 1: Critical Rendering Path — Блокиращи скриптове и CSS срещу Defer / Async](#2-сценарий-1-critical-rendering-path--блокиращи-скриптове-срещу-defer))
+      • [#49] ред 12: [3. Сценарий 2: CSS Анимации — Layout Reflow (top/left) срещу GPU Composite (transform/opacity)](#3-сценарий-2-css-анимации--layout-reflow-topleft-срещу-gpu-composite-transformopacity)  (Предложено: [3. Сценарий 2: CSS Анимации — Layout Reflow (top/left) срещу GPU Composite (transform/opacity)](#3-сценарий-2-css-анимации--layout-reflow-срещу-gpu-composite))
+      • [#50] ред 13: [4. Сценарий 3: Оптимизация на изображения — Тежки PNG/JPG срещу WebP/AVIF + Lazy Loading](#4-сценарий-3-оптимизация-на-изображения--тежки-pngjpg-срещу-webpavif--lazy-loading)  (Предложено: [4. Сценарий 3: Оптимизация на изображения — Тежки PNG/JPG срещу WebP/AVIF + Lazy Loading](#4-сценарий-3-оптимизация-на-изображения--тежки-pngjpg-срещу-webpavif))
+
+📄 02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/01-99-Interview-QA-Traps-And-Debugging.md:
+   1/ Линкове (1):
+      • [#51] ред 110: [01-QA-Automation (Ниво 2)](../02-Level-2-Natural-Extensions-QA-Automation/01-QA-Automation/README.md)  (Предложено: [01-QA-Automation (Ниво 2)](../../05-QA-And-Test-Automation/01-QA-Automation/README.md))
+
+📄 02-Frontend-And-UI-UX/JavaScript-Language/02-01-00-Variables-Types-And-Coercion.md:
+   2/ #anchor котви (1):
+      • [#52] ред 12: [5. Type Coercion (Принудително преобразуване) и `==` срещу `===`](#5-type-coercion-принудително-преобразуване-и--срещу-)  (Предложено: [5. Type Coercion (Принудително преобразуване) и `==` срещу `===`](#5-type-coercion-принудително-преобразуване-и--срещу))
+
+📄 02-Frontend-And-UI-UX/JavaScript-Language/02-06-Browser-JS-vs-NodeJS-Runtime-Comparison.md:
+   1/ Линкове (1):
+      • [#53] ред 79: [📦 Node.js, Express & NestJS](../../03-Backend-Ecosystems/Node-Express-And-NestJS/README.md)  (Предложено: **📦 Node.js, Express & NestJS** *(в разработка)*)
+
+📄 02-Frontend-And-UI-UX/README.md:
+   1/ Линкове (4):
+      • [#54] ред 1: [🏛️ Начало Dev-Library](../../../README.md)  (Предложено: [🏛️ Начало Dev-Library](../README.md))
+      • [#55] ред 38: [04. UI/UX Design, Figma & Accessibility (`UI-UX-Design-And-Figma/`)](UI-UX-Design-And-Figma/README.md)  (Предложено: [04. UI/UX Design, Figma & Accessibility (`UI-UX-Design-And-Figma/`)](README.md))
+      • [#56] ред 41: [05. JavaScript (ES6+) & Модерни SPA Рамки (`JavaScript-And-SPA-Frameworks/`)](JavaScript-And-SPA-Frameworks/README.md)  (Предложено: [05. JavaScript (ES6+) & Модерни SPA Рамки (`JavaScript-And-SPA-Frameworks/`)](JavaScript-Language/README.md))
+      • [#57] ред 46: [🏛️ Начало Dev-Library](../../../README.md)  (Предложено: [🏛️ Начало Dev-Library](../README.md))
+
+📄 02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-01-00-Responsive-Design-And-Media-Queries.md:
+   1/ Линкове (1):
+      • [#58] ред 80: [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)  (Предложено: [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md))
+
+📄 02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-01-01-Syntax-Responsive-Design-And-Media-Queries.md:
+   1/ Линкове (1):
+      • [#59] ред 173: [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)  (Предложено: [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md))
+
+📄 02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-02-00-Working-With-Forms-And-Validation.md:
+   1/ Линкове (1):
+      • [#60] ред 74: [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)  (Предложено: [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md))
+
+📄 02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-02-01-Syntax-Working-With-Forms-And-Validation.md:
+   1/ Линкове (1):
+      • [#61] ред 229: [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)  (Предложено: [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md))
+
+📄 02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-03-00-Tailwind-CSS-Utility-First.md:
+   1/ Линкове (1):
+      • [#62] ред 85: [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)  (Предложено: [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md))
+
+📄 02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-03-01-Syntax-Tailwind-CSS-Utility-First.md:
+   1/ Линкове (1):
+      • [#63] ред 135: [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)  (Предложено: [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md))
+
+📄 02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-04-00-Bootstrap-5-Grid-And-Components.md:
+   1/ Линкове (1):
+      • [#64] ред 73: [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)  (Предложено: [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md))
+
+📄 02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/02-04-01-Syntax-Bootstrap-5-Grid-And-Components.md:
+   1/ Линкове (2):
+      • [#66] ред 157: [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md)  (Предложено: [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md))
+      • [#67] ред 157: [➡️ 03-00. Intro to Web Visibility & Caching](../03-SEO-And-Redis-Caching/03-00-Intro.md)  (Предложено: [➡️ 03-00. Intro to Web Visibility & Caching](../../03-Backend-Ecosystems/Java-Ecosystem/Module-03-Spring-Data/03-00-Intro.md))
+   2/ #anchor котви (1):
+      • [#65] ред 15: [6. Детайлни подмодули към Тема 02-04](#6-детайлни-подмодули-към-тема-02-04)  (Предложено: [6. Детайлни подмодули към Тема 02-04](#02-04-01-syntax-from-scratch--bootstrap-5-grid-templates--cheat-sheet))
+
+📄 02-Frontend-And-UI-UX/TypeScript-Language/02-00-Intro-To-TypeScript-And-Compiler.md:
+   2/ #anchor котви (1):
+      • [#68] ред 13: [4. Плюсове, минуси и критичните настройки в tsconfig.json](#4-плюсове-минус-и-критичните-настройки-в-tsconfigjson)  (Предложено: [4. Плюсове, минуси и критичните настройки в tsconfig.json](#4-плюсове-минуси-и-критичните-настройки-в-tsconfigjson))
+
+📄 02-Frontend-And-UI-UX/TypeScript-Language/02-01-01-Syntax-Basic-Types-And-Interfaces.md:
+   2/ #anchor котви (1):
+      • [#69] ред 12: [3. Интерфейси (Обекти, Наследяване, Функции и Index Signatures)](#3-интерфейси-обекти-наследяване-функции-и-index-signatures)  (Предложено: [3. Интерфейси (Обекти, Наследяване, Функции и Index Signatures)](#3-интерфейси-обтекти-наследяване-функции-и-index-signatures))
+
+📄 02-Frontend-And-UI-UX/TypeScript-Language/02-03-00-OOP-In-TypeScript.md:
+   2/ #anchor котви (1):
+      • [#70] ред 10: [1. Как да се запомни по-лесно (Мнемоника: 4-те стълба на ООП, TS private vs JS # & Duck Typing)](#1-как-да-се-запомни-по-лесно-мнемоника-4-те-стълба-на-ооп-ts-private-vs-js--duck-typing)  (Предложено: [1. Как да се запомни по-лесно (Мнемоника: 4-те стълба на ООП, TS private vs JS # & Duck Typing)](#1-как-да-се-запомни-по-лесно-мнемоника-4-те-стълба-на-ооп-ts-private-vs-js---duck-typing))
+
+📄 02-Frontend-And-UI-UX/TypeScript-Language/02-04-00-Mastering-Generics.md:
+   2/ #anchor котви (1):
+      • [#71] ред 12: [3. Сравнителни матрици: Generics срещу `any` срещу Function Overloads & Паралел с C#](#3-сравнителни-матрици-generics-срещу-any-срещу-function-overloads--паралел-с-c)  (Предложено: [3. Сравнителни матрици: Generics срещу `any` срещу Function Overloads & Паралел с C#](#3-сравнителни-матрици-generics-срещу-any-срещу-overloads--паралел-с-c))
+
+📄 02-Frontend-And-UI-UX/TypeScript-Language/02-05-00-Decorators-Modules-And-Async.md:
+   2/ #anchor котви (1):
+      • [#72] ред 14: [5. Кодов одит: Грешен (Дублиран лог спам в бизнес метода) срещу Правилен (`@LogTransaction` AOP)](#5-кодов-одит-грешен-дублиран-лог-спам-в-бизнес-метода-срещу-правилен-logtransaction-aop)  (Предложено: [5. Кодов одит: Грешен (Дублиран лог спам в бизнес метода) срещу Правилен (`@LogTransaction` AOP)](#5-кодов-одит-грешен-дублиран-лог-спам-срещу-правилен-logtransaction-aop))
+
+📄 02-Frontend-And-UI-UX/TypeScript-Language/02-96-Performance-And-Optimizations.md:
+   2/ #anchor котви (2):
+      • [#73] ред 10: [1. Оптимизация 1: Търсене в цикъл (`Array.find` / `includes`) срещу `Set` и `Map` (O(n²) срещу O(n))](#1-оптимизация-1-търсене-в-цикъл-arrayfind--includes-срещу-set-и-map-on2-срещу-on)  (Предложено: [1. Оптимизация 1: Търсене в цикъл (`Array.find` / `includes`) срещу `Set` и `Map` (O(n²) срещу O(n))](#1-оптимизация-1-търсене-в-цикъл-arrayfind--includes-срещу-set-и-map-on²-срещу-on))
+      • [#74] ред 12: [3. Оптимизация 3: Бавна компилация (`interface extends` срещу сложни `type` сечения `&`)](#3-оптимизация-3-бавна-компилация-interface-extends-срещу-сложни-type-сечения-)  (Предложено: [3. Оптимизация 3: Бавна компилация (`interface extends` срещу сложни `type` сечения `&`)](#3-оптимизация-3-бавна-компилация-interface-extends-срещу-сложни-type-сечения))
+
+📄 02-Frontend-And-UI-UX/TypeScript-Language/02-99-Interview-QA-Traps-And-Debugging.md:
+   2/ #anchor котви (2):
+      • [#75] ред 12: [3. Професионално управление на изключения (Custom Errors & Exception Chaining с `cause`)](#3-професионално-управление-на-изключения-custom-errors--exception-chaining-с-cause)  (Предложено: [3. Професионално управление на изключения (Custom Errors & Exception Chaining с `cause`)](#съдържание-на-темата))
+      • [#76] ред 13: [4. Debugging Techniques в TypeScript (VS Code Breakpoints, Source Maps & Chrome DevTools)](#4-debugging-techniques-в-typescript-vs-code-breakpoints-source-maps--chrome-devtools)  (Предложено: [4. Debugging Techniques в TypeScript (VS Code Breakpoints, Source Maps & Chrome DevTools)](#3-debugging-techniques-в-typescript-vs-code-breakpoints-source-maps--chrome-devtools))
+
+📄 03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/00-01-Internet-Protocols-And-HTTP-Fundamentals.md:
+   2/ #anchor котви (3):
+      • [#77] ред 10: [1. Как пътуват данните: Пакетна комуникация, IP и DNS](#1-как-пътуват-данните-пакетна-комуникация-ип-и-dns)  (Предложено: [1. Как пътуват данните: Пакетна комуникация, IP и DNS](#1-как-пътуват-данните-пакетна-комуникация-ip-и-dns))
+      • [#78] ред 11: [2. Транспортният слой: ТСР срещу UDP и мрежовите модели](#2-транспортният-слой-тср-срещу-udp-и-мрежовите-модели)  (Предложено: [2. Транспортният слой: ТСР срещу UDP и мрежовите модели](#2-транспортният-слой-tcp-срещу-udp-и-мрежовите-модели))
+      • [#79] ред 14: [5. Сривове в мрежата: Чести грешки, Ексепшъни и Корекция](#5-сривове-в-мрежата-чести-грешки-ексепшъни-и-корекция)  (Предложено: [5. Сривове в мрежата: Чести грешки, Ексепшъни и Корекция](#5-сривове-в-мрежата-чести-грешки-експешъни-и-корекция))
+
+📄 03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/00-04-State-Management-And-Asynchronous-Processing.md:
+   2/ #anchor котви (1):
+      • [#80] ред 10: [1. Проблемът Stateless: Какво е State Management?](#1-проблемът-stateless-какво-е-state-management)  (Предложено: [1. Проблемът Stateless: Какво е State Management?](#1-прoблемът-stateless-каkво-е-state-management))
+
+📄 03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/00-06-HTTP-Status-Codes-Full-Reference.md:
+   2/ #anchor котви (1):
+      • [#81] ред 10: [1. Какво представляват HTTP статус кодовете и къде живеят?](#1-какво-представлява-http-статус-кодовете-и-къде-живеят)  (Предложено: [1. Какво представляват HTTP статус кодовете и къде живеят?](#1-какво-представляват-http-статус-кодовете-и-къде-живеят))
+
+📄 03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/01-04-ASP-NET-Core-Dependency-Injection-Deep-Dive.md:
+   2/ #anchor котви (1):
+      • [#82] ред 10: [1. Какво е Dependency Injection и какъв проблем решава?](#1-какво-е-dependency-injection-и-какъв-проблем-решава)  (Предложено: [1. Какво е Dependency Injection и какъв проблем решава?](#1-каkво-е-dependency-injection-и-какъв-проблем-решава))
+
+📄 03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/01-07-ASP-NET-Core-Application-Architecture-Steps.md:
+   2/ #anchor котви (2):
+      • [#83] ред 12: [3. Сигурност на формите: Патернът Post-Redirect-Get (PRG)](#3-сигърност-на-формите-патернът-post-redirect-get-prg)  (Предложено: [3. Сигурност на формите: Патернът Post-Redirect-Get (PRG)](#3-сигурност-на-формите-патернът-post-redirect-get-prg))
+      • [#84] ред 13: [4. Системни капани: Грешки при първоначален старт на жизнения цикъл](#3-системни-капани-грешки-при-първоначален-старт-на-жизнения-цикъл)  (Предложено: [4. Системни капани: Грешки при първоначален старт на жизнения цикъл](#4-системни-капани-грешки-при-първоначален-старт-на-жизнения-цикъл))
+
+📄 03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/02-00-ASP-NET-CORE-ADVANCED-INTRO.md:
+   1/ Линкове (1):
+      • [#86] ред 55: [02-06. Глобална Софтуерна Сигурност](02-06-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md)  (Предложено: [02-06. Глобална Софтуерна Сигурност](02-07-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md))
+   2/ #anchor котви (1):
+      • [#85] ред 12: [3. Трите основни стълба на напредналата уеб архитектура](#3-трите-основни-стълба-на-напредналата-уеб-архитектура)  (Предложено: [3. Трите основни стълба на напредналата уеб архитектура](#3-трите-основни-стълба-на-напреднатата-уеб-архитектура))
+
+📄 03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/02-08-Cross-Origin-Resource-Sharing-CORS-Infrastructure.md:
+   2/ #anchor котви (1):
+      • [#87] ред 11: [2. Спасителният клапан: Как работи CORS и Preflight заявките (OPTIONS)](#2-спасителният-клапан-как-работи-cors-и-preflight-заявките-options)  (Предложено: [2. Спасителният клапан: Как работи CORS и Preflight заявките (OPTIONS)](#2-как-работи-cors-и-preflight-заявките-options))
+
+📄 03-Backend-Ecosystems/C-Sharp-And-ASP-NET/ASP-NET/README.md:
+   1/ Линкове (3):
+      • [#88] ред 68: [02-06. Глобална Софтуерна Сигурност](02-06-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md)  (Предложено: [02-06. Глобална Софтуерна Сигурност](02-07-Global-Web-Security-XSS-SQL-Injection-And-CSRF.md))
+      • [#89] ред 80: [Бази данни (SQL & NoSQL)](../Databases-SQL-And-NoSQL/)  (Предложено: [Бази данни (SQL & NoSQL)](../../../04-Databases-And-Caching/Databases-SQL-And-NoSQL/README.md))
+      • [#90] ред 80: [Entity Framework Core](../Databases-And-EF-Core/)  (Предложено: [Entity Framework Core](../../../04-Databases-And-Caching/Databases-And-EF-Core/README.md))
+
+📄 03-Backend-Ecosystems/Java-Ecosystem/04-98-Common-Errors-And-Fixes.md:
+   2/ #anchor котви (1):
+      • [#91] ред 10: [1. Фундаментални Java изключения (`NullPointerException` / `ConcurrentModificationException` / `IndexOutOfBoundsException`)](#1-фундаментални-java-изключения-nullpointerexception--concurrentmodificationexception--indexoutofboundsexception)  (Предложено: [1. Фундаментални Java изключения (`NullPointerException` / `ConcurrentModificationException` / `IndexOutOfBoundsException`)](#1-фундаментални-java-изключения-nullpointerexception--concurrentmodificationexception))
+
+📄 03-Backend-Ecosystems/Java-Ecosystem/Module-01-Java-Fundamentals/01-02-01-Syntax-Data-Types-And-Variables.md:
+   2/ #anchor котви (1):
+      • [#92] ред 10: [1. Методи, Method Overloading и `varargs` (`...`)](#1-методи-method-overloading-и-varargs-)  (Предложено: [1. Методи, Method Overloading и `varargs` (`...`)](#1-методи-method-overloading-и-varargs))
+
+📄 03-Backend-Ecosystems/Java-Ecosystem/Module-01-Java-Fundamentals/01-08-01-Syntax-Stream-API.md:
+   2/ #anchor котви (1):
+      • [#93] ред 10: [1. Видове Lambda изрази и Method References (`::`)](#1-видове-lambda-изрази-и-method-references-)  (Предложено: [1. Видове Lambda изрази и Method References (`::`)](#1-видове-lambda-изрази-и-method-references))
+
+📄 03-Backend-Ecosystems/Java-Ecosystem/Module-03-Spring-Data/03-00-Intro.md:
+   2/ #anchor котви (2):
+      • [#94] ред 11: [2. Архитектурна карта на Модул 03 (Блок-схема)](#2-архитектурна- карта-на-модул-03-блок-схема)  (Предложено: [2. Архитектурна карта на Модул 03 (Блок-схема)](#2-архитектурна-карта-на-модул-03-блок-схема))
+      • [#95] ред 14: [5. Кодов одит: Правилен срещу Грешен код](#5-кодов-одит-правилен-срещу-грешен-код)  (Предложено: [5. Кодов одит: Правилен срещу Грешен код](#5-кодов-одит-правилен-срещу-грешен-код-връщане-на-entity-срещу-dto))
+
+📄 03-Backend-Ecosystems/Java-Ecosystem/Module-03-Spring-Data/03-04-00-Spring-Data-Repositories.md:
+   2/ #anchor котви (1):
+      • [#96] ред 14: [5. Кодов одит: Правилен срещу Грешен код (`deleteAll()` срещу `deleteAllInBatch()` и чудовищни имена на методи)](#5-кодов-одит-правилен-срещу-грешен-код-deleteall-срещу-deleteallinbatch-и-чудовищни-имена-на-методи)  (Предложено: [5. Кодов одит: Правилен срещу Грешен код (`deleteAll()` срещу `deleteAllInBatch()` и чудовищни имена на методи)](#5-кодов-одит-правилен-срещу-грешен-код-deleteall-срещу-deleteallinbatch-и-чудовищни-имена))
+
+📄 03-Backend-Ecosystems/Java-Ecosystem/Module-03-Spring-Data/03-05-00-Advanced-Querying.md:
+   2/ #anchor котви (1):
+      • [#97] ред 14: [5. Кодов одит: Правилен срещу Грешен код (Забравен `clearAutomatically = true` при `@Modifying` и `JOIN FETCH` с `Pageable`)](#5-кодов-одит-правилен-срещу-грешен-код-забравен-clearautomatically--true-при-modifying-и-join-fetch-с-pageable)  (Предложено: [5. Кодов одит: Правилен срещу Грешен код (Забравен `clearAutomatically = true` при `@Modifying` и `JOIN FETCH` с `Pageable`)](#5-кодов-одит-правилен-срещу-грешен-код-забравен-clearautomatically-при-modifying-и-join-fetch-с-pageable))
+
+📄 03-Backend-Ecosystems/Java-Ecosystem/Module-03-Spring-Data/03-07-00-JSON-And-XML-Processing.md:
+   2/ #anchor котви (1):
+      • [#98] ред 11: [2. Архитектура на Jackson `ObjectMapper` (Serialization & Deserialization Блок-схема)](#2-архитектура-на-jackson-objectmapper-serialization--deserialization-блок-схема)  (Предложено: [2. Архитектура на Jackson `ObjectMapper` (Serialization & Deserialization Блок-схема)](#2-архитектурен-поток-на-jackson-objectmapper-блок-схема))
+
+📄 03-Backend-Ecosystems/Java-Ecosystem/Module-05-Spring-Advanced/05-01-00-REST-And-Error-Handling.md:
+   2/ #anchor котви (1):
+      • [#99] ред 11: [2. Архитектура на Global Exception Handling (`@RestControllerAdvice` Блок-схема)](#2-архитектура-на-global-exception-handling-restcontrolleradvice-блок-схема)  (Предложено: [2. Архитектура на Global Exception Handling (`@RestControllerAdvice` Блок-схема)](#2-архитектурен-поток-на-global-exception-handling-restcontrolleradvice-блок-схема))
+
+📄 03-Backend-Ecosystems/Java-Ecosystem/README.md:
+   1/ Линкове (2):
+      • [#100] ред 68: [Теория & Капани](Module-05-Spring-Advanced/05-06-00-Cloud-Docker-Kafka.md)  (Предложено: [Теория & Капани](../Python-Scripting/Module-05-Django-Fundamentals/05-06-00-Django-Admin.md))
+      • [#101] ред 68: [Syntax & Cheat Sheet](Module-05-Spring-Advanced/05-06-01-Syntax.md)  (Предложено: [Syntax & Cheat Sheet](../Python-Scripting/Module-05-Django-Fundamentals/05-06-01-Syntax-Django-Admin.md))
+
+📄 03-Backend-Ecosystems/Python-Scripting/03-96-Performance-And-Optimizations.md:
+   2/ #anchor котви (1):
+      • [#102] ред 10: [1. Оптимизация 1: Конкатенация на низове в цикъл (`+=`) срещу `"".join()` (O(n²) срещу O(n))](#1-оптимизация-1-конкатенация-на-низове-в-цикъл--срещу-join-on2-срещу-on)  (Предложено: [1. Оптимизация 1: Конкатенация на низове в цикъл (`+=`) срещу `"".join()` (O(n²) срещу O(n))](#1-оптимизация-1-конкатенация-на-низове-в-цикъл--срещу-join-on²-срещу-on))
+
+📄 03-Backend-Ecosystems/Python-Scripting/Module-01-Basic-and-Fundamentals/01-01-00-Basic-Syntax-Conditional-Statements-And-Loops.md:
+   2/ #anchor котви (2):
+      • [#103] ред 11: [2. ЕТАПИ НА ИЗПЪЛНЕНИЕ НА КОДА И БЛОК-СХЕМА](#2-етапи-на-изпълнение-на-кода-и-блок-схема)  (Предложено: [2. ЕТАПИ НА ИЗПЪЛНЕНИЕ НА КОДА И БЛОК-СХЕМА](#2-етапи-на-изпълнение-на-цикъл-и-блок-схема))
+      • [#104] ред 13: [4. ПЛЮСОВЕ И МИНУСИ НА ЕКОСИСТЕМАТА](#4-плюсове-и-минуси-на-екосистемата)  (Предложено: [4. ПЛЮСОВЕ И МИНУСИ НА ЕКОСИСТЕМАТА](#4-плюсове-и-минуси-на-синтаксиса))
+
+📄 03-Backend-Ecosystems/Python-Scripting/Module-01-Basic-and-Fundamentals/01-05-00-List-Advanced.md:
+   2/ #anchor котви (1):
+      • [#105] ред 13: [4. Плюсове и минуси на List Comprehensions и Slicing](#4-плюсове-и-минуси-на-list-comprehensions-и-slicing)  (Предложено: [4. Плюсове и минуси на List Comprehensions и Slicing](#4-плюсове-и-минуси-на-list-comprehensions))
+
+📄 03-Backend-Ecosystems/Python-Scripting/Module-01-Basic-and-Fundamentals/01-08-00-Text-Processing.md:
+   2/ #anchor котви (1):
+      • [#106] ред 13: [4. Плюсове и минуси на текстовите низове в Python](#4-плюсове-и-минуси-на-текстовите-низове-в-python)  (Предложено: [4. Плюсове и минуси на текстовите низове в Python](#4-плюсове-и-минуси-на-текстообработката-в-python))
+
+📄 03-Backend-Ecosystems/Python-Scripting/Module-02-Advance/02-04-00-Functions-Advanced.md:
+   2/ #anchor котви (1):
+      • [#107] ред 13: [4. Плюсове и минуси на напредналите функции](#4-плюсове-и-минуси-на-напредналите-инструменти)  (Предложено: [4. Плюсове и минуси на напредналите функции](#4-плюсове-и-минуси-на-напредналите-функции))
+
+📄 03-Backend-Ecosystems/Python-Scripting/Module-02-Advance/02-04-01-Syntax-Functions-Advanced.md:
+   2/ #anchor котви (1):
+      • [#108] ред 12: [3. Разопаковане при извикване на функция (`*` и `**`)](#3-разопаковане-при-извикване-на-функция--и-)  (Предложено: [3. Разопаковане при извикване на функция (`*` и `**`)](#3-разопаковане-при-извикване-на-функция--и))
+
+📄 03-Backend-Ecosystems/Python-Scripting/Module-03-OOP/03-05-00-Polymorphism-And-Abstraction.md:
+   2/ #anchor котви (1):
+      • [#109] ред 13: [4. Плюсове и минуси на Полиморфизма и Абстракцията в Python](#4-плюсове-и-минуси-на-полиморфизма-и-абстракцията-в-python)  (Предложено: [4. Плюсове и минуси на Полиморфизма и Абстракцията в Python](#4-плюсове-и-минуси-на-полиморфизма-и-абстракцията))
+
+📄 03-Backend-Ecosystems/Python-Scripting/Module-03-OOP/03-09-01-Syntax-Testing.md:
+   2/ #anchor котви (1):
+      • [#110] ред 12: [3. Проверка за хвърлена грешка (`assertRaises`)](#3-проверка-за-хвърлена-грешка-assertraises)  (Предложено: [3. Проверка за хвърлена грешка (`assertRaises`)](#3-проверка-за-хвърлена-грешка-assertrases))
+
+📄 03-Backend-Ecosystems/Python-Scripting/Module-04-Python-ORM/04-01-01-Syntax-Django-ORM.md:
+   2/ #anchor котви (1):
+      • [#111] ред 14: [4.1. ПРЕОБРАЗУВАНЕ В JSON, XML И NOSQL (MONGODB) СТЪПКА ПО СТЪПКА](#41-преобразуване-в-json-xml-и-nosql-mongodb-стъпка-по-стъпка)  (Предложено: [4.1. ПРЕОБРАЗУВАНЕ В JSON, XML И NOSQL (MONGODB) СТЪПКА ПО СТЪПКА](#41-преобразуване-на-django-модел-в-json-и-xml-стъпка-по-стъпка))
+
+📄 03-Backend-Ecosystems/Python-Scripting/Module-04-Python-ORM/04-03-02-Syntax-SQLAlchemy.md:
+   2/ #anchor котви (1):
+      • [#112] ред 14: [4.1. CRUD ОПЕРАЦИИ ПРИ ПРЕНОС В JSON И XML (СТЪПКА ПО СТЪПКА)](#41-crud-операции-при-пренос-в-json-и-xml-стъпка-по-стъпка)  (Предложено: [4.1. CRUD ОПЕРАЦИИ ПРИ ПРЕНОС В JSON И XML (СТЪПКА ПО СТЪПКА)](#41-crud-операции-в-nosql-бази-mongodb-beanie-и-redis))
+
+📄 03-Backend-Ecosystems/Python-Scripting/Module-04-Python-ORM/04-06-01-Syntax-Django-ORM.md:
+   2/ #anchor котви (1):
+      • [#113] ред 12: [3. Асинхронни заявки в Django 5+ (`aget`, `acreate`, `async for`)](#3-асинхронни-заявки-в-django-5-aget-acreate-async-for)  (Предложено: [3. Асинхронни заявки в Django 5+ (`aget`, `acreate`, `async for`)](#3-асинхронни-заявки-в-джанго-5-aget-acreate-async-for))
+
+📄 03-Backend-Ecosystems/Python-Scripting/Module-05-Django-Fundamentals/05-04-01-Syntax-Forms-And-ModelForms.md:
+   2/ #anchor котви (1):
+      • [#114] ред 13: [4. Рендиране на формата в HTML шаблон (`{% csrf_token %}`)](#4-рендиране-на-формата-в-html-шаблон--csrf_token-)  (Предложено: [4. Рендиране на формата в HTML шаблон (`{% csrf_token %}`)](#4-рендиране-на-формата-в-html-шаблон--csrf_token))
+
+📄 03-Backend-Ecosystems/README.md:
+   1/ Линкове (40):
+      • [#115] ред 1: [🧭 Пътеводител за Учене (00-Learning-Roadmaps)](00-Learning-Roadmaps/README.md)  (Предложено: [🧭 Пътеводител за Учене (00-Learning-Roadmaps)](../00-Learning-Roadmaps/README.md))
+      • [#116] ред 10: [00. Примерни Пътеки за Учене (`00-Learning-Roadmaps/`)](00-Learning-Roadmaps/README.md)  (Предложено: [00. Примерни Пътеки за Учене (`00-Learning-Roadmaps/`)](../00-Learning-Roadmaps/README.md))
+      • [#117] ред 16: [00. Примерни Пътеки за Учене и Дневници (Learning Roadmaps)](00-Learning-Roadmaps/README.md)  (Предложено: [00. Примерни Пътеки за Учене и Дневници (Learning Roadmaps)](../00-Learning-Roadmaps/README.md))
+      • [#118] ред 18: [Full-Stack & QA Automation Roadmap (Нива 1–4)](00-Learning-Roadmaps/Full-Stack-And-QA-Automation-Roadmap/README.md)  (Предложено: [Full-Stack & QA Automation Roadmap (Нива 1–4)](../05-QA-And-Test-Automation/01-QA-Automation/README.md))
+      • [#119] ред 19: [Дневници и Чеклистове на Обучението](00-Learning-Roadmaps/Study-Checklists-And-Logs/README.md)  (Предложено: [Дневници и Чеклистове на Обучението](../00-Learning-Roadmaps/01-Personal-Checklists/README.md))
+      • [#120] ред 21: [01. Инструменти, Контрол на Версиите и Алгоритми (Core Tools)](01-Core-Tools-And-Fundamentals/README.md)  (Предложено: [01. Инструменти, Контрол на Версиите и Алгоритми (Core Tools)](../01-Core-Tools-And-Fundamentals/README.md))
+      • [#121] ред 23: [Git & GitHub (CLI, GitHub Desktop & TortoiseGit)](01-Core-Tools-And-Fundamentals/Git-And-GitHub/README.md)  (Предложено: [Git & GitHub (CLI, GitHub Desktop & TortoiseGit)](../01-Core-Tools-And-Fundamentals/Git-And-GitHub/README.md))
+      • [#122] ред 24: [Алгоритми и Структури от Данни (Algorithms)](01-Core-Tools-And-Fundamentals/Algorithms-Introduction/README.md)  (Предложено: [Алгоритми и Структури от Данни (Algorithms)](../01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/README.md))
+      • [#123] ред 25: [Linux, Terminal & Bash Scripting](01-Core-Tools-And-Fundamentals/Linux-And-Bash-Scripting/README.md)  (Предложено: [Linux, Terminal & Bash Scripting](Python-Scripting/README.md))
+      • [#124] ред 27: [02. Фронтенд и UI/UX Дизайн (Frontend & UI/UX)](02-Frontend-And-UI-UX/README.md)  (Предложено: [02. Фронтенд и UI/UX Дизайн (Frontend & UI/UX)](../02-Frontend-And-UI-UX/README.md))
+      • [#125] ред 29: [UI/UX Design & Figma](02-Frontend-And-UI-UX/UI-UX-Design-And-Figma/README.md)  (Предложено: [UI/UX Design & Figma](../02-Frontend-And-UI-UX/README.md))
+      • [#126] ред 30: [HTML5, CSS3, Sass/SCSS & Responsive](02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md)  (Предложено: [HTML5, CSS3, Sass/SCSS & Responsive](../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md))
+      • [#127] ред 31: [JavaScript (ES6+) & TypeScript](02-Frontend-And-UI-UX/JavaScript-And-TypeScript/README.md)  (Предложено: [JavaScript (ES6+) & TypeScript](../02-Frontend-And-UI-UX/JavaScript-Language/README.md))
+      • [#128] ред 32: [Модерни SPA Рамки (React, Vue 3, Angular)](02-Frontend-And-UI-UX/Modern-SPA-Frameworks/README.md)  (Предложено: [Модерни SPA Рамки (React, Vue 3, Angular)](../02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/README.md))
+      • [#129] ред 34: [03. Бекенд Екосистеми (Backend Ecosystems)](03-Backend-Ecosystems/README.md)  (Предложено: [03. Бекенд Екосистеми (Backend Ecosystems)](README.md))
+      • [#130] ред 36: [C# & ASP.NET Core](03-Backend-Ecosystems/C-Sharp-And-ASP-NET/README.md)  (Предложено: [C# & ASP.NET Core](C-Sharp-And-ASP-NET/README.md))
+      • [#131] ред 37: [Java 21+ & Spring Boot 3](03-Backend-Ecosystems/Java-Ecosystem/README.md)  (Предложено: [Java 21+ & Spring Boot 3](Java-Ecosystem/README.md))
+      • [#132] ред 38: [Python 3.x, Django & FastAPI](03-Backend-Ecosystems/Python-Scripting/README.md)  (Предложено: [Python 3.x, Django & FastAPI](Python-Scripting/README.md))
+      • [#133] ред 39: [Node.js, Express & NestJS](03-Backend-Ecosystems/Node-Express-And-NestJS/README.md)  (Предложено: **Node.js, Express & NestJS** *(в разработка)*)
+      • [#134] ред 40: [Modern PHP 8.3+, Laravel & WordPress](03-Backend-Ecosystems/PHP-Laravel-And-WordPress/README.md)  (Предложено: **Modern PHP 8.3+, Laravel & WordPress** *(в разработка)*)
+      • [#135] ред 41: [REST API, RESTful & GraphQL (API Архитектура)](03-Backend-Ecosystems/REST-API-And-GraphQL/README.md)  (Предложено: **REST API, RESTful & GraphQL (API Архитектура)** *(в разработка)*)
+      • [#136] ред 44: [04. Бази Данни, Кеширане и Потоци (Databases & Data)](04-Databases-And-Caching/README.md)  (Предложено: [04. Бази Данни, Кеширане и Потоци (Databases & Data)](../04-Databases-And-Caching/README.md))
+      • [#137] ред 46: [Релационни Бази Данни (SQL Server & PostgreSQL)](04-Databases-And-Caching/SQL-And-Relational-DBs/README.md)  (Предложено: [Релационни Бази Данни (SQL Server & PostgreSQL)](../04-Databases-And-Caching/Databases-SQL-And-NoSQL/README.md))
+      • [#138] ред 47: [ORM Системи (EF Core & Hibernate/JPA)](04-Databases-And-Caching/ORM-Systems/README.md)  (Предложено: [ORM Системи (EF Core & Hibernate/JPA)](Python-Scripting/Module-04-Python-ORM/README.md))
+      • [#139] ред 48: [NoSQL и Кеширане в Паметта (Redis & MongoDB)](04-Databases-And-Caching/NoSQL-And-Redis-Caching/README.md)  (Предложено: [NoSQL и Кеширане в Паметта (Redis & MongoDB)](../04-Databases-And-Caching/Redis-Caching/README.md))
+      • [#140] ред 49: [Event Streaming и Опашки (Apache Kafka & RabbitMQ)](04-Databases-And-Caching/Data-Engineering-And-Streaming/README.md)  (Предложено: [Event Streaming и Опашки (Apache Kafka & RabbitMQ)](../01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/README.md))
+      • [#141] ред 51: [05. QA и Автоматизирано Тестване (QA Automation & SDET)](05-QA-And-Test-Automation/README.md)  (Предложено: [05. QA и Автоматизирано Тестване (QA Automation & SDET)](../05-QA-And-Test-Automation/README.md))
+      • [#142] ред 53: [Manual QA, Test Design & Jira](05-QA-And-Test-Automation/Manual-QA-And-Jira/README.md)  (Предложено: [Manual QA, Test Design & Jira](../05-QA-And-Test-Automation/01-QA-Automation/README.md))
+      • [#143] ред 54: [Unit Testing & Mocking (C#, Java, TS, Python)](05-QA-And-Test-Automation/Multi-Language-Unit-Testing/README.md)  (Предложено: **Unit Testing & Mocking (C#, Java, TS, Python)** *(в разработка)*)
+      • [#144] ред 55: [Web UI & Mobile Автоматизация](05-QA-And-Test-Automation/UI-And-Mobile-Automation/README.md)  (Предложено: [Web UI & Mobile Автоматизация](../05-QA-And-Test-Automation/01-QA-Automation/README.md))
+      • [#145] ред 56: [API, Contract & Performance Тестване](05-QA-And-Test-Automation/API-And-Performance-Testing/README.md)  (Предложено: **API, Contract & Performance Тестване** *(в разработка)*)
+      • [#146] ред 58: [06. Облачна Инфраструктура, DevOps и Архитектура](06-Cloud-DevOps-And-Architecture/README.md)  (Предложено: [06. Облачна Инфраструктура, DevOps и Архитектура](../06-Cloud-DevOps-And-Architecture/README.md))
+      • [#147] ред 60: [System Design & Software Architecture](06-Cloud-DevOps-And-Architecture/System-Design-And-Architecture/README.md)  (Предложено: [System Design & Software Architecture](../06-Cloud-DevOps-And-Architecture/System-Design-And-Software-Architecture/README.md))
+      • [#148] ред 61: [Docker & Kubernetes (Контейнеризация)](06-Cloud-DevOps-And-Architecture/Docker-And-Kubernetes/README.md)  (Предложено: **Docker & Kubernetes (Контейнеризация)** *(в разработка)*)
+      • [#149] ред 62: [Cloud Платформи (AWS & Microsoft Azure)](06-Cloud-DevOps-And-Architecture/Cloud-Platforms-AWS-And-Azure/README.md)  (Предложено: **Cloud Платформи (AWS & Microsoft Azure)** *(в разработка)*)
+      • [#150] ред 63: [CI/CD, Observability & Technical SEO](06-Cloud-DevOps-And-Architecture/CI-CD-And-SEO/README.md)  (Предложено: [CI/CD, Observability & Technical SEO](../06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/README.md))
+      • [#151] ред 65: [07. Разработка на Игри (Game Development)](07-Game-Development/README.md)  (Предложено: [07. Разработка на Игри (Game Development)](../07-Game-Development/README.md))
+      • [#152] ред 67: [Unity Engine & C# Game Scripting](07-Game-Development/Unity-And-C-Sharp-Scripting/README.md)  (Предложено: [Unity Engine & C# Game Scripting](C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md))
+      • [#153] ред 68: [Game Design Patterns & Архитектура](07-Game-Development/Game-Design-Patterns/README.md)  (Предложено: [Game Design Patterns & Архитектура](../07-Game-Development/README.md))
+      • [#154] ред 72: [🧭 Пътеводител за Учене (00-Learning-Roadmaps)](00-Learning-Roadmaps/README.md)  (Предложено: [🧭 Пътеводител за Учене (00-Learning-Roadmaps)](../00-Learning-Roadmaps/README.md))
+
+📄 04-Databases-And-Caching/Databases-And-EF-Core/01-00-SQL-SERVER-AND-RELATIONS-INTRO.md:
+   2/ #anchor котви (1):
+      • [#155] ред 10: [1. Мостът между световете (SQL Server ➔ C#)](#1-мостът-между-световете-sql-server-➔-c)  (Предложено: [1. Мостът между световете (SQL Server ➔ C#)](#1-мостът-между-световете-sql-server--c))
+
+📄 04-Databases-And-Caching/Databases-And-EF-Core/01-02-SQL-Server-Joins-And-Transactions-Deep-Dive.md:
+   2/ #anchor котви (1):
+      • [#156] ред 11: [2. Трансакции в действие (Практически пищов за безопасно изтриване)](#2-трансакции-в-действие-практически-пищов-за-безопасно-изтриване)  (Предложено: [2. Трансакции в действие (Практически пищов за безопасно изтриване)](#практически-пищов-за-безопасно-изтриване-в-ssms))
+
+📄 04-Databases-And-Caching/Databases-And-EF-Core/02-00-EF-CORE-AND-CODE-FIRST-INTRO.md:
+   1/ Линкове (1):
+      • [#158] ред 63: [02-04. Мулти-провайдър Превключване](02-04-Multi-Database-Provider-Switch.md)  (Предложено: [02-04. Мулти-провайдър Превключване](02-04-Multi-Database-Configuration-And-Switching.md))
+   2/ #anchor котви (1):
+      • [#157] ред 11: [2. Аналогията от реалния живот (Тефтерът на преводача)](#2-аналогията-от-реалния-живот-тефтерът-на-преводача)  (Предложено: [2. Аналогията от реалния живот (Тефтерът на преводача)](#2-аналогия-от-реалния-живот-тефтерът-на-преводача))
+
+📄 04-Databases-And-Caching/Databases-And-EF-Core/02-02-ApplicationDbContext-And-Fluent-API-Configuration.md:
+   2/ #anchor котви (1):
+      • [#159] ред 12: [3. LINQ вериги и разглобяване на Lambda изразите](#3-linq-вериги-и-разглобяване-на-ламбда-изразите)  (Предложено: [3. LINQ вериги и разглобяване на Lambda изразите](#3-linq-вериги-и-разглобяване-на-lambda-изразите))
+
+📄 04-Databases-And-Caching/Databases-And-EF-Core/02-03-EF-Core-Fluent-API-And-Migrations-CheatSheet.md:
+   2/ #anchor котви (4):
+      • [#160] ред 11: [2. Двупосочен превод (Съпоставка в таблица)](#2-двупосочен-превод-съпоставка-в-таблица)  (Предложено: [2. Двупосочен превод (Съпоставка в таблица)](#1-fluent-api-ограничения-constraints-и-превод-към-sql))
+      • [#161] ред 12: [3. Синтаксис на релациите (Връзки между таблици)](#3-синтаксис-на-релациите-връзки-между-таблици)  (Предложено: [3. Синтаксис на релациите (Връзки между таблици)](#2-синтаксис-на-релациите-връзки-между-таблици))
+      • [#162] ред 13: [4. Желязна защита: Спиране на каскадното триене](#4-желязна-защита-спиране-на-каскадното-триене)  (Предложено: [4. Желязна защита: Спиране на каскадното триене](#3-желязна-защита-спиране-на-каскадното-триене))
+      • [#163] ред 14: [5. Кратък CLI дневник на миграциите (PMC команди)](#5-кратък-cli-дневник-на-миграциите-pmc-команди)  (Предложено: [5. Кратък CLI дневник на миграциите (PMC команди)](#4-кратък-cli-дневник-на-миграциите-pmc-команди))
+
+📄 04-Databases-And-Caching/Databases-And-EF-Core/02-05-AdoNet-Vs-EfCore-And-Change-Tracking.md:
+   2/ #anchor котви (1):
+      • [#164] ред 10: [1. Традиционен достъп до данни: Свързан модел в ADO.NET](#1-традиционен-достъп-до-данни-свързан-модел-в-adonet)  (Предложено: [1. Традиционен достъп до данни: Свързан модел в ADO.NET](#1-традционен-достъп-до-данни-свързан-модел-в-adonet))
+
+📄 04-Databases-And-Caching/Databases-And-EF-Core/03-00-ADVANCED-DBCONTEXT-PROTECTIONS-INTRO.md:
+   1/ Линкове (1):
+      • [#166] ред 67: [⏪ Глава 02-00. Основи на EF Core](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)  (Предложено: [⏪ Глава 02-00. Основи на EF Core](02-00-EF-CORE-AND-CODE-FIRST-INTRO.md))
+   2/ #anchor котви (1):
+      • [#165] ред 12: [3. Трите стълба на напредналата DbContext защита](#3-трите-стълба-на-напредналата-dbcontext-защита)  (Предложено: [3. Трите стълба на напредналата DbContext защита](#3-трите-стълба-на-напреднатата-dbcontext-защита))
+
+📄 04-Databases-And-Caching/Databases-And-EF-Core/README.md:
+   1/ Линкове (3):
+      • [#167] ред 26: [Главен справочник на темата](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)  (Предложено: [Главен справочник на темата](02-00-EF-CORE-AND-CODE-FIRST-INTRO.md))
+      • [#168] ред 38: [Превключване на провайдъри](02-04-Multi-Database-Provider-Switch.md)  (Предложено: [Превключване на провайдъри](02-04-Multi-Database-Configuration-And-Switching.md))
+      • [#169] ред 72: [Архитектура и Cross-Stack](../Architecture-And-Cross-Stack/)  (Предложено: [Архитектура и Cross-Stack](../../06-Cloud-DevOps-And-Architecture/README.md))
+
+📄 04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-00-SQL-INTRO-AND-CRUD.md:
+   2/ #anchor котви (1):
+      • [#170] ред 15: [Детайлни подмодули към Глава 01](#-детайлни-подмодули-към-глава-01)  (Предложено: [Детайлни подмодули към Глава 01](#детайлни-подмодули-към-глава-01))
+
+📄 04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-03-Relational-Dialects-MSSQL-Postgres-MySQL-SQLite.md:
+   2/ #anchor котви (4):
+      • [#171] ред 10: [1. Голямата матрица на SQL диалектите](#-1-голямата-матрица-на-sql-диалектите)  (Предложено: [1. Голямата матрица на SQL диалектите](#1-голямата-матрица-на-sql-диалектите))
+      • [#172] ред 11: [2. Една и съща таблица и заявка в 4-те бази](#-2-една-и-съща-таблица-и-заявка-в-4-те-бази)  (Предложено: [2. Една и съща таблица и заявка в 4-те бази](#2-една-и-съща-таблица-и-заявка-в-4-те-бази))
+      • [#173] ред 12: [3. Кога коя база да избереш?](#-3-кога-коя-база-да-избереш)  (Предложено: [3. Кога коя база да избереш?](#3-кога-коя-база-да-избереш))
+      • [#174] ред 13: [4. Критични капани при преминаване между базите](#-4-критични-капани-при-преминаване-между-базите)  (Предложено: [4. Критични капани при преминаване между базите](#4-критични-капани-при-преминаване-между-базите))
+
+📄 04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-04-NoSQL-Documents-And-WideColumn-Mongo-Cassandra.md:
+   2/ #anchor котви (4):
+      • [#175] ред 10: [1. Превод на термините: SQL ➔ MongoDB ➔ Cassandra](#-1-превод-на-термините-sql--mongodb--cassandra)  (Предложено: [1. Превод на термините: SQL ➔ MongoDB ➔ Cassandra](#1-превод-на-термините-sql--mongodb--cassandra))
+      • [#176] ред 11: [2. MongoDB — Основни команди и C# код](#-2-mongodb--основни-команди-и-c-код)  (Предложено: [2. MongoDB — Основни команди и C# код](#2-mongodb--основни-команди-и-c-код))
+      • [#177] ред 12: [3. Apache Cassandra — Основни CQL команди](#-3-apache-cassandra--основни-cql-команди)  (Предложено: [3. Apache Cassandra — Основни CQL команди](#3-apache-cassandra--основни-cql-команди))
+      • [#178] ред 13: [4. Кога избираме MongoDB и кога Cassandra?](#-4-кога-избираме-mongodb-и-кога-cassandra)  (Предложено: [4. Кога избираме MongoDB и кога Cassandra?](#4-кога-избираме-mongodb-и-кога-cassandra-и-капани))
+
+📄 04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-05-NoSQL-InMemory-Cache-Redis.md:
+   2/ #anchor котви (4):
+      • [#179] ред 10: [1. Redis — Основни команди (RAM памет и TTL)](#-1-redis--основни-команди-ram-памет-и-ttl)  (Предложено: [1. Redis — Основни команди (RAM памет и TTL)](#1-redis--основни-команди-ram-памет-и-ttl))
+      • [#180] ред 11: [2. Redis в C# — Cache-Aside шаблон](#-2-redis-в-c--cache-aside-шаблон)  (Предложено: [2. Redis в C# — Cache-Aside шаблон](#2-redis-в-c--cache-aside-шаблон-stackexchangeredis))
+      • [#181] ред 12: [3. Облачни NoSQL бази: Amazon DynamoDB срещу Azure Cosmos DB](#-3-облачни-nosql-бази-amazon-dynamodb-срещу-azure-cosmos-db)  (Предложено: [3. Облачни NoSQL бази: Amazon DynamoDB срещу Azure Cosmos DB](#3-облачни-nosql-бази-amazon-dynamodb-срещу-azure-cosmos-db))
+      • [#182] ред 13: [4. Корпоративни системи: Къде стоят Active Directory и SAP?](#-4-корпоративни-системи-къде-стоят-active-directory-и-sap)  (Предложено: [4. Корпоративни системи: Къде стоят Active Directory и SAP?](#4-корпоративни-системи-къде-стоят-active-directory-и-sap))
+
+📄 04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-06-Data-Formats-JSON-And-XML.md:
+   2/ #anchor котви (4):
+      • [#183] ред 10: [1. JSON срещу XML — Сравнение и Синтаксис](#-1-json-срещу-xml--сравнение-и-синтаксис)  (Предложено: [1. JSON срещу XML — Сравнение и Синтаксис](#1-json-срещу-xml--сравнение-и-синтаксис))
+      • [#184] ред 11: [2. JSON в SQL Server (OPENJSON / JSON_VALUE) и PostgreSQL (JSONB)](#-2-json-в-sql-server-openjson--json_value-и-postgresql-jsonb)  (Предложено: [2. JSON в SQL Server (OPENJSON / JSON_VALUE) и PostgreSQL (JSONB)](#а-ms-sql-server-json_value-и-openjson))
+      • [#185] ред 12: [3. XML в SQL Server (XQuery основи)](#-3-xml-в-sql-server-xquery-основи)  (Предложено: [3. XML в SQL Server (XQuery основи)](#3-xml-в-sql-server-основи))
+      • [#186] ред 13: [4. Работа с JSON и XML в C# (System.Text.Json)](#-4-работа-с-json-и-xml-в-c-systemtextjson)  (Предложено: [4. Работа с JSON и XML в C# (System.Text.Json)](#4-работа-с-json-и-xml-в-c-systemtextjson))
+
+📄 04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-07-Architecture-Neighbors-RabbitMQ-Kafka-GraphQL-Enterprise.md:
+   2/ #anchor котви (5):
+      • [#187] ред 10: [1. Карта на ролите: Кое какво е всъщност?](#-1-карта-на-ролите-кое-какво-е-всъщност)  (Предложено: [1. Карта на ролите: Кое какво е всъщност?](#1-карта-на-ролите-кое-какво-е-всъщност))
+      • [#188] ред 11: [2. RabbitMQ срещу Apache Kafka (Опашки и Събития)](#-2-rabbitmq-срещу-apache-kafka-опашки-и-събития)  (Предложено: [2. RabbitMQ срещу Apache Kafka (Опашки и Събития)](#2-rabbitmq-срещу-apache-kafka-опашки-и-събития))
+      • [#189] ред 12: [3. GraphQL срещу REST API](#-3-graphql-срещу-rest-api)  (Предложено: [3. GraphQL срещу REST API](#3-graphql-срещу-rest-api))
+      • [#190] ред 13: [4. Mobile / Android Бази данни (SQLite, Room, Realm)](#-4-mobile--android-бази-данни-sqlite-room-realm)  (Предложено: [4. Mobile / Android Бази данни (SQLite, Room, Realm)](#4-mobile--android-бази-данни-sqlite-room-realm))
+      • [#191] ред 14: [5. Корпоративни системи: Active Directory (Entra ID) и SAP](#-5-корпоративни-системи-active-directory-entra-id-и-sap)  (Предложено: [5. Корпоративни системи: Active Directory (Entra ID) и SAP](#5-корпоративни-системи-active-directory-entra-id-и-sap))
+
+📄 04-Databases-And-Caching/Databases-SQL-And-NoSQL/01-08-Specialized-Databases-Vector-Search-Graph.md:
+   2/ #anchor котви (4):
+      • [#192] ред 10: [1. Сравнителна карта на специализираните бази](#-1-сравнителна-карта-на-специализираните-бази)  (Предложено: [1. Сравнителна карта на специализираните бази](#1-сравнителна-карта-на-специализираните-бази))
+      • [#193] ред 11: [2. Vector Databases (Векторни БД за AI и RAG)](#-2-vector-databases-векторни-бд-за-ai-и-rag)  (Предложено: [2. Vector Databases (Векторни БД за AI и RAG)](#2-vector-databases-векторни-бд-за-ai-и-rag))
+      • [#194] ред 12: [3. Search Engines (Elasticsearch / OpenSearch)](#-3-search-engines-elasticsearch--opensearch)  (Предложено: [3. Search Engines (Elasticsearch / OpenSearch)](#3-search-engines-elasticsearch--opensearch))
+      • [#195] ред 13: [4. Graph БД (Neo4j) и Time-Series БД (InfluxDB / TimescaleDB)](#-4-graph-бд-neo4j-и-time-series-бд-influxdb--timescaledb)  (Предложено: [4. Graph БД (Neo4j) и Time-Series БД (InfluxDB / TimescaleDB)](#4-graph-бд-neo4j-и-time-series-бд-timescaledb))
+
+📄 04-Databases-And-Caching/Databases-SQL-And-NoSQL/03-00-SQL-QUERIES-OVERVIEW.md:
+   1/ Линкове (1):
+      • [#196] ред 51: [➡️ 03-01. Joins](03-01-SQL-Joins.md)  (Предложено: [➡️ 03-01. Joins](03-01-SQL-Joins-Visual-And-Code.md))
+
+📄 04-Databases-And-Caching/Databases-SQL-And-NoSQL/04-02-SQL-Query-And-Architecture-Optimization.md:
+   2/ #anchor котви (2):
+      • [#197] ред 12: [3. Оптимизация на таблици и архитектура (Partitioning, Archiving, Read Replicas)](#3-оптимизация-на-таблици-и-архитектура-partitioning-archiving-read-replicas)  (Предложено: [3. Оптимизация на таблици и архитектура (Partitioning, Archiving, Read Replicas)](#04-02-оптимизация-на-заявки-таблици-и-архитектура-performance-tuning))
+      • [#198] ред 13: [4. Оптимизация на връзката с C# / EF Core (N+1 проблем и AsNoTracking)](#4-оптимизация-на-връзката-с-c--ef-core-n1-проблем-и-asnotracking)  (Предложено: [4. Оптимизация на връзката с C# / EF Core (N+1 проблем и AsNoTracking)](#4-оптимизация-на-връзката-с-c--ef-core))
+
+📄 04-Databases-And-Caching/Databases-SQL-And-NoSQL/04-03-Transactions-ACID-And-Isolation-Levels.md:
+   2/ #anchor котви (2):
+      • [#199] ред 11: [2. Синтаксис на транзакциите в SQL и C# (BEGIN TRAN, COMMIT, ROLLBACK)](#2-синтаксис-на-транзакциите-в-sql-и-c-begin-tran-commit-rollback)  (Предложено: [2. Синтаксис на транзакциите в SQL и C# (BEGIN TRAN, COMMIT, ROLLBACK)](#2-синтаксис-на-транзакциите-в-sql-и-c))
+      • [#200] ред 12: [3. Проблеми при паралелен достъп (Dirty, Non-Repeatable и Phantom Reads)](#3-проблеми-при-паралелен-достъп-dirty-non-repeatable-и-phantom-reads)  (Предложено: [3. Проблеми при паралелен достъп (Dirty, Non-Repeatable и Phantom Reads)](#3-проблеми-при-паралелен-достъп))
+
+📄 04-Databases-And-Caching/Databases-SQL-And-NoSQL/04-04-Views-Functions-Procedures-Triggers.md:
+   2/ #anchor котви (3):
+      • [#201] ред 11: [2. Views (Изгледи) — Кога се пишат и Видове (Standard vs Materialized)](#2-views-изгледи--кога-се-пишат-и-видове-standard-vs-materialized)  (Предложено: [2. Views (Изгледи) — Кога се пишат и Видове (Standard vs Materialized)](#2-views-изгледи--кога-се-пишат-и-видове))
+      • [#202] ред 13: [4. Stored Procedures (Съхранени процедури) с параметри и TRY...CATCH](#4-stored-procedures-съхранени-процедури-с-параметри-и-trycatch)  (Предложено: [4. Stored Procedures (Съхранени процедури) с параметри и TRY...CATCH](#4-stored-procedures-съхранени-процедури))
+      • [#203] ред 14: [5. Triggers (Тригери) — Автоматичен одит при INSERT / UPDATE / DELETE](#5-triggers-тригери--автоматичен-одит-при-insert--update--delete)  (Предложено: [5. Triggers (Тригери) — Автоматичен одит при INSERT / UPDATE / DELETE](#5-triggers-тригери--автоматичен-одит-при-промяна))
+
+📄 04-Databases-And-Caching/Databases-SQL-And-NoSQL/04-05-CSharp-Data-Access-ADONET-Dapper-Intro.md:
+   2/ #anchor котви (1):
+      • [#204] ред 10: [1. Пирамидата на достъпа до данни в .NET (ADO.NET ➔ Dapper ➔ EF Core)](#1-пирамидата-на-достъпа-до-данни-в-net-adonet--dapper--ef-core)  (Предложено: [1. Пирамидата на достъпа до данни в .NET (ADO.NET ➔ Dapper ➔ EF Core)](#04-05-достъп-до-данни-в-c-adonet--dapper--ef-core))
+
+📄 04-Databases-And-Caching/Databases-SQL-And-NoSQL/README.md:
+   1/ Линкове (1):
+      • [#205] ред 117: [Архитектурен Атлас](../Architecture-And-Cross-Stack/)  (Предложено: [Архитектурен Атлас](../../06-Cloud-DevOps-And-Architecture/README.md))
+
+📄 04-Databases-And-Caching/Redis-Caching/03-02-00-Redis-Caching-Architecture.md:
+   1/ Линкове (4):
+      • [#206] ред 81: [⬅️ 03-01-01. Syntax-From-Scratch & SEO Audit Checklist](03-01-01-Syntax.md)  (Предложено: [⬅️ 03-01-01. Syntax-From-Scratch & SEO Audit Checklist](../../03-Backend-Ecosystems/Java-Ecosystem/Module-03-Spring-Data/03-01-01-Syntax-JDBC-Introduction.md))
+      • [#207] ред 81: [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md)  (Предложено: [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../../02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/README.md))
+      • [#208] ред 81: [🏠 Начало](../../../../README.md)  (Предложено: [🏠 Начало](../../README.md))
+      • [#209] ред 81: [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md)  (Предложено: [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../README.md))
+
+📄 04-Databases-And-Caching/Redis-Caching/03-02-01-Syntax-Redis.md:
+   1/ Линкове (4):
+      • [#211] ред 137: [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md)  (Предложено: [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../../02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/README.md))
+      • [#212] ред 137: [🏠 Начало](../../../../README.md)  (Предложено: [🏠 Начало](../../README.md))
+      • [#213] ред 137: [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md)  (Предложено: [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../README.md))
+      • [#214] ред 137: [➡️ 04-00. Intro & Judge Exam Strategy](../04-Exam-Preparation/04-00-Intro.md)  (Предложено: [➡️ 04-00. Intro & Judge Exam Strategy](../../03-Backend-Ecosystems/Java-Ecosystem/Module-04-Spring-Fundamentals/04-00-Intro.md))
+   2/ #anchor котви (1):
+      • [#210] ред 15: [6. Детайлни подмодули към Тема 03-02](#6-детайлни-подмодули-към-тема-03-02)  (Предложено: [6. Детайлни подмодули към Тема 03-02](#03-02-01-syntax-from-scratch--redis-cli-cheat-sheet--docker-setup))
+
+📄 05-QA-And-Test-Automation/01-QA-Automation/01-03-00-Multi-Language-Unit-Testing.md:
+   2/ #anchor котви (1):
+      • [#215] ред 14: [5. Кодов одит: Грешен (Силно обвързан) срещу Правилен (Изолиран с Dependency Injection) тест](#5-кодов-одит-грешен-силно-обвързан-срещу-правилен-изолиран-с-dependency-injection-тест)  (Предложено: [5. Кодов одит: Грешен (Силно обвързан) срещу Правилен (Изолиран с Dependency Injection) тест](#5-кодов-одит-грешен-силно-обвързан-срещу-правилен-изолиран-тест))
+
+📄 05-QA-And-Test-Automation/01-QA-Automation/01-05-00-Playwright-AJAX-And-Appium.md:
+   2/ #anchor котви (2):
+      • [#216] ред 12: [3. Сравнителни матрици: Playwright срещу Selenium & Мобилни стратегии (Native / Hybrid / Web)](#3-сравнителни-матрици-playwright-срещу-selenium--мобилни-стратегии-native--hybrid--web)  (Предложено: [3. Сравнителни матрици: Playwright срещу Selenium & Мобилни стратегии (Native / Hybrid / Web)](#3-сравнителни-матрици-playwright-срещу-selenium--мобилни-стратегии))
+      • [#217] ред 14: [5. Кодов одит: Грешен (Ръчни изчаквания и счупен Shadow DOM) срещу Правилен Playwright тест](#5-кодов-одит-грешен-ръчни-изчаквания-и-счупен-shadow-dom-срещу-правилен-playwright-тест)  (Предложено: [5. Кодов одит: Грешен (Ръчни изчаквания и счупен Shadow DOM) срещу Правилен Playwright тест](#5-кодов-одит-грешен-срещу-правилен-playwright-тест))
+
+📄 05-QA-And-Test-Automation/01-QA-Automation/01-98-Common-Errors-And-Fixes.md:
+   2/ #anchor котви (1):
+      • [#218] ред 11: [2. API & GraphQL тестови грешки (`401` / `415` / `CORS` / Фалшиво-положителни `200 OK` при GraphQL)](#2-api--graphql-тестови-грешки-401--415--cors--фалшиво-положителни-200-ok-при-graphql)  (Предложено: [2. API & GraphQL тестови грешки (`401` / `415` / `CORS` / Фалшиво-положителни `200 OK` при GraphQL)](#2-api--graphql-тестови-грешки-401--415--cors--фалшиво-положителни-200-ok))
+
+📄 05-QA-And-Test-Automation/README.md:
+   1/ Линкове (1):
+      • [#219] ред 21: [02. Security & Penetration Testing (OWASP Top 10)](Security-And-Penetration-Testing/README.md)  (Предложено: **02. Security & Penetration Testing (OWASP Top 10)** *(в разработка)*)
+
+📄 06-Cloud-DevOps-And-Architecture/README.md:
+   1/ Линкове (2):
+      • [#220] ред 26: [03. Docker & Kubernetes (Контейнеризация)](Docker-And-Kubernetes/README.md)  (Предложено: **03. Docker & Kubernetes (Контейнеризация)** *(в разработка)*)
+      • [#221] ред 29: [04. Cloud Платформи (AWS & Microsoft Azure)](Cloud-Platforms-AWS-And-Azure/README.md)  (Предложено: **04. Cloud Платформи (AWS & Microsoft Azure)** *(в разработка)*)
+
+📄 06-Cloud-DevOps-And-Architecture/System-Design-And-Software-Architecture/01-02-Scalability-And-Load-Balancing.md:
+   2/ #anchor котви (1):
+      • [#222] ред 10: [1. Вертикално срещу Хоризонтално мащабиране (Scale-up vs. Scale-out)](#1-вертикално-срещу-хоризонтално-мащабиране-scale-up-vs-scale-out)  (Предложено: [1. Вертикално срещу Хоризонтално мащабиране (Scale-up vs. Scale-out)](#1-вертикално-срещу-хоризонтално-мащабируемост-scale-up-vs-scale-out))
+
+📄 06-Cloud-DevOps-And-Architecture/System-Design-And-Software-Architecture/01-03-Architectural-Attributes-And-TradeOffs.md:
+   2/ #anchor котви (1):
+      • [#223] ред 12: [3. Дълбоко гмуркане в САР Теоремата (Consistency vs. Availability)](#3-дълбоко-гмуркане-в-сар-теоремата-consistency-vs-availability)  (Предложено: [3. Дълбоко гмуркане в САР Теоремата (Consistency vs. Availability)](#3-дълбоко-гмуркане-в-cap-теоремата-consistency-vs-availability))
+
+📄 06-Cloud-DevOps-And-Architecture/System-Design-And-Software-Architecture/01-05-Deep-Dive-Microservices-Communication.md:
+   2/ #anchor котви (2):
+      • [#224] ред 12: [3. Асинхронен Еvent-Driven модел с RabbitMQ (Publisher/Subscriber)](#3-асинхронен-еvent-driven-модел-с-rabbitmq-publishersubscriber)  (Предложено: [3. Асинхронен Еvent-Driven модел с RabbitMQ (Publisher/Subscriber)](#3-асинхронен-event-driven-модел-с-rabbitmq-publishersubscriber))
+      • [#225] ред 13: [4. Системни капани: Сривове при липсващи опашки и Версии на Прототипи](#4-системни-капани-спиране-на-работа-при-липсващи-опашки)  (Предложено: [4. Системни капани: Сривове при липсващи опашки и Версии на Прототипи](#4-системни-капани-сриване-при-липсващи-опашки))
+
+📄 06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-00-Technical-SEO-And-Meta-Tags.md:
+   1/ Линкове (4):
+      • [#226] ред 88: [⬅️ 03-00. Intro to Web Visibility & In-Memory Caching](03-00-Intro.md)  (Предложено: [⬅️ 03-00. Intro to Web Visibility & In-Memory Caching](../../03-Backend-Ecosystems/Java-Ecosystem/Module-03-Spring-Data/03-00-Intro.md))
+      • [#227] ред 88: [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md)  (Предложено: [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../../02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/README.md))
+      • [#228] ред 88: [🏠 Начало](../../../../README.md)  (Предложено: [🏠 Начало](../../README.md))
+      • [#229] ред 88: [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md)  (Предложено: [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../../04-Databases-And-Caching/README.md))
+
+📄 06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-01-Syntax-SEO.md:
+   1/ Линкове (3):
+      • [#230] ред 153: [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md)  (Предложено: [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../../02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/README.md))
+      • [#231] ред 153: [🏠 Начало](../../../../README.md)  (Предложено: [🏠 Начало](../../README.md))
+      • [#232] ред 153: [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md)  (Предложено: [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../../04-Databases-And-Caching/README.md))
+
+📄 07-Game-Development/README.md:
+   1/ Линкове (42):
+      • [#233] ред 1: [🧭 Пътеводител за Учене (00-Learning-Roadmaps)](00-Learning-Roadmaps/README.md)  (Предложено: [🧭 Пътеводител за Учене (00-Learning-Roadmaps)](../00-Learning-Roadmaps/README.md))
+      • [#234] ред 1: [▶️ Започни от Git & GitHub](01-Core-Tools-And-Fundamentals/Git-And-GitHub/README.md)  (Предложено: [▶️ Започни от Git & GitHub](../01-Core-Tools-And-Fundamentals/Git-And-GitHub/README.md))
+      • [#235] ред 10: [00. Примерни Пътеки за Учене (`00-Learning-Roadmaps/`)](00-Learning-Roadmaps/README.md)  (Предложено: [00. Примерни Пътеки за Учене (`00-Learning-Roadmaps/`)](../00-Learning-Roadmaps/README.md))
+      • [#236] ред 16: [00. Примерни Пътеки за Учене и Дневници (Learning Roadmaps)](00-Learning-Roadmaps/README.md)  (Предложено: [00. Примерни Пътеки за Учене и Дневници (Learning Roadmaps)](../00-Learning-Roadmaps/README.md))
+      • [#237] ред 18: [Full-Stack & QA Automation Roadmap (Нива 1–4)](00-Learning-Roadmaps/Full-Stack-And-QA-Automation-Roadmap/README.md)  (Предложено: [Full-Stack & QA Automation Roadmap (Нива 1–4)](../05-QA-And-Test-Automation/01-QA-Automation/README.md))
+      • [#238] ред 19: [Дневници и Чеклистове на Обучението](00-Learning-Roadmaps/01-Personal-Checklists/README.md)  (Предложено: [Дневници и Чеклистове на Обучението](../00-Learning-Roadmaps/01-Personal-Checklists/README.md))
+      • [#239] ред 21: [01. Инструменти, Контрол на Версиите и Алгоритми (Core Tools)](01-Core-Tools-And-Fundamentals/README.md)  (Предложено: [01. Инструменти, Контрол на Версиите и Алгоритми (Core Tools)](../01-Core-Tools-And-Fundamentals/README.md))
+      • [#240] ред 23: [Git & GitHub (CLI, GitHub Desktop & TortoiseGit)](01-Core-Tools-And-Fundamentals/Git-And-GitHub/README.md)  (Предложено: [Git & GitHub (CLI, GitHub Desktop & TortoiseGit)](../01-Core-Tools-And-Fundamentals/Git-And-GitHub/README.md))
+      • [#241] ред 24: [Алгоритми и Структури от Данни (Algorithms)](01-Core-Tools-And-Fundamentals/Algorithms-Introduction/README.md)  (Предложено: [Алгоритми и Структури от Данни (Algorithms)](../01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/README.md))
+      • [#242] ред 25: [Linux, Terminal & Bash Scripting](01-Core-Tools-And-Fundamentals/Linux-And-Bash-Scripting/README.md)  (Предложено: [Linux, Terminal & Bash Scripting](../03-Backend-Ecosystems/Python-Scripting/README.md))
+      • [#243] ред 27: [02. Фронтенд и UI/UX Дизайн (Frontend & UI/UX)](02-Frontend-And-UI-UX/README.md)  (Предложено: [02. Фронтенд и UI/UX Дизайн (Frontend & UI/UX)](../02-Frontend-And-UI-UX/README.md))
+      • [#244] ред 29: [UI/UX Design & Figma](02-Frontend-And-UI-UX/UI-UX-Design-And-Figma/README.md)  (Предложено: [UI/UX Design & Figma](../02-Frontend-And-UI-UX/README.md))
+      • [#245] ред 30: [HTML5, CSS3, Sass/SCSS & Responsive](02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md)  (Предложено: [HTML5, CSS3, Sass/SCSS & Responsive](../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md))
+      • [#246] ред 31: [JavaScript (ES6+) & TypeScript](02-Frontend-And-UI-UX/JavaScript-And-TypeScript/README.md)  (Предложено: [JavaScript (ES6+) & TypeScript](../02-Frontend-And-UI-UX/JavaScript-Language/README.md))
+      • [#247] ред 32: [Модерни SPA Рамки (React, Vue 3, Angular)](02-Frontend-And-UI-UX/Modern-SPA-Frameworks/README.md)  (Предложено: [Модерни SPA Рамки (React, Vue 3, Angular)](../02-Frontend-And-UI-UX/Responsive-Forms-And-Frameworks/README.md))
+      • [#248] ред 34: [03. Бекенд Екосистеми (Backend Ecosystems)](03-Backend-Ecosystems/README.md)  (Предложено: [03. Бекенд Екосистеми (Backend Ecosystems)](../03-Backend-Ecosystems/README.md))
+      • [#249] ред 36: [C# & ASP.NET Core](03-Backend-Ecosystems/C-Sharp-And-ASP-NET/README.md)  (Предложено: [C# & ASP.NET Core](../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/README.md))
+      • [#250] ред 37: [Java 21+ & Spring Boot 3](03-Backend-Ecosystems/Java-Scripting/README.md)  (Предложено: [Java 21+ & Spring Boot 3](../03-Backend-Ecosystems/Java-Ecosystem/README.md))
+      • [#251] ред 38: [Python 3.x, Django & FastAPI](03-Backend-Ecosystems/Python-Scripting/README.md)  (Предложено: [Python 3.x, Django & FastAPI](../03-Backend-Ecosystems/Python-Scripting/README.md))
+      • [#252] ред 39: [Node.js, Express & NestJS](03-Backend-Ecosystems/Node-Express-And-NestJS/README.md)  (Предложено: **Node.js, Express & NestJS** *(в разработка)*)
+      • [#253] ред 40: [Modern PHP 8.3+, Laravel & WordPress](03-Backend-Ecosystems/PHP-Laravel-And-WordPress/README.md)  (Предложено: **Modern PHP 8.3+, Laravel & WordPress** *(в разработка)*)
+      • [#254] ред 41: [REST API, RESTful & GraphQL (API Архитектура)](03-Backend-Ecosystems/REST-API-And-GraphQL/README.md)  (Предложено: **REST API, RESTful & GraphQL (API Архитектура)** *(в разработка)*)
+      • [#255] ред 44: [04. Бази Данни, Кеширане и Потоци (Databases & Data)](04-Databases-And-Caching/README.md)  (Предложено: [04. Бази Данни, Кеширане и Потоци (Databases & Data)](../04-Databases-And-Caching/README.md))
+      • [#256] ред 46: [Релационни Бази Данни (SQL Server & PostgreSQL)](04-Databases-And-Caching/SQL-And-Relational-DBs/README.md)  (Предложено: [Релационни Бази Данни (SQL Server & PostgreSQL)](../04-Databases-And-Caching/Databases-SQL-And-NoSQL/README.md))
+      • [#257] ред 47: [ORM Системи (EF Core & Hibernate/JPA)](04-Databases-And-Caching/ORM-Systems/README.md)  (Предложено: [ORM Системи (EF Core & Hibernate/JPA)](../03-Backend-Ecosystems/Python-Scripting/Module-04-Python-ORM/README.md))
+      • [#258] ред 48: [NoSQL и Кеширане в Паметта (Redis & MongoDB)](04-Databases-And-Caching/NoSQL-And-Redis-Caching/README.md)  (Предложено: [NoSQL и Кеширане в Паметта (Redis & MongoDB)](../04-Databases-And-Caching/Redis-Caching/README.md))
+      • [#259] ред 49: [Event Streaming и Опашки (Apache Kafka & RabbitMQ)](04-Databases-And-Caching/Data-Engineering-And-Streaming/README.md)  (Предложено: [Event Streaming и Опашки (Apache Kafka & RabbitMQ)](../01-Core-Tools-And-Fundamentals/Algorithms-And-Data-Structures/README.md))
+      • [#260] ред 51: [05. QA и Автоматизирано Тестване (QA Automation & SDET)](05-QA-And-Test-Automation/README.md)  (Предложено: [05. QA и Автоматизирано Тестване (QA Automation & SDET)](../05-QA-And-Test-Automation/README.md))
+      • [#261] ред 53: [Manual QA, Test Design & Jira](05-QA-And-Test-Automation/Manual-QA-And-Jira/README.md)  (Предложено: [Manual QA, Test Design & Jira](../05-QA-And-Test-Automation/01-QA-Automation/README.md))
+      • [#262] ред 54: [Unit Testing & Mocking (C#, Java, TS, Python)](05-QA-And-Test-Automation/Multi-Language-Unit-Testing/README.md)  (Предложено: **Unit Testing & Mocking (C#, Java, TS, Python)** *(в разработка)*)
+      • [#263] ред 55: [Web UI & Mobile Автоматизация](05-QA-And-Test-Automation/UI-And-Mobile-Automation/README.md)  (Предложено: [Web UI & Mobile Автоматизация](../05-QA-And-Test-Automation/01-QA-Automation/README.md))
+      • [#264] ред 56: [API, Contract & Performance Тестване](05-QA-And-Test-Automation/API-And-Performance-Testing/README.md)  (Предложено: **API, Contract & Performance Тестване** *(в разработка)*)
+      • [#265] ред 58: [06. Облачна Инфраструктура, DevOps и Архитектура](06-Cloud-DevOps-And-Architecture/README.md)  (Предложено: [06. Облачна Инфраструктура, DevOps и Архитектура](../06-Cloud-DevOps-And-Architecture/README.md))
+      • [#266] ред 60: [System Design & Software Architecture](06-Cloud-DevOps-And-Architecture/System-Design-And-Architecture/README.md)  (Предложено: [System Design & Software Architecture](../06-Cloud-DevOps-And-Architecture/System-Design-And-Software-Architecture/README.md))
+      • [#267] ред 61: [Docker & Kubernetes (Контейнеризация)](06-Cloud-DevOps-And-Architecture/Docker-And-Kubernetes/README.md)  (Предложено: **Docker & Kubernetes (Контейнеризация)** *(в разработка)*)
+      • [#268] ред 62: [Cloud Платформи (AWS & Microsoft Azure)](06-Cloud-DevOps-And-Architecture/Cloud-Platforms-AWS-And-Azure/README.md)  (Предложено: **Cloud Платформи (AWS & Microsoft Azure)** *(в разработка)*)
+      • [#269] ред 63: [CI/CD, Observability & Technical SEO](06-Cloud-DevOps-And-Architecture/CI-CD-And-SEO/README.md)  (Предложено: [CI/CD, Observability & Technical SEO](../06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/README.md))
+      • [#270] ред 65: [07. Разработка на Игри (Game Development)](07-Game-Development/README.md)  (Предложено: [07. Разработка на Игри (Game Development)](README.md))
+      • [#271] ред 67: [Unity Engine & C# Game Scripting](07-Game-Development/Unity-And-C-Sharp-Scripting/README.md)  (Предложено: [Unity Engine & C# Game Scripting](../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md))
+      • [#272] ред 68: [Game Design Patterns & Архитектура](07-Game-Development/Game-Design-Patterns/README.md)  (Предложено: [Game Design Patterns & Архитектура](README.md))
+      • [#273] ред 72: [🧭 Пътеводител за Учене (00-Learning-Roadmaps)](00-Learning-Roadmaps/README.md)  (Предложено: [🧭 Пътеводител за Учене (00-Learning-Roadmaps)](../00-Learning-Roadmaps/README.md))
+      • [#274] ред 72: [▶️ Започни от Git & GitHub](01-Core-Tools-And-Fundamentals/Git-And-GitHub/README.md)  (Предложено: [▶️ Започни от Git & GitHub](../01-Core-Tools-And-Fundamentals/Git-And-GitHub/README.md))
+
+📄 Architecture-And-Cross-Stack/01-00-ARCHITECTURE-AND-MEMORY-INTRO.md:
+   2/ #anchor котви (1):
+      • [#275] ред 14: [Детайлни подмодули към Глава 01](#детайлни-подмодули-към-глава-01)  (Предложено: [Детайлни подмодули към Глава 01](#детайлни-подмодули-към-глава-глава-01-00-архитектура-на-езиците-и-управление-на-паметта-кратък-справочник))
+
+📄 Architecture-And-Cross-Stack/01-01-Cross-Stack-Types-And-Ecosystem.md:
+   2/ #anchor котви (2):
+      • [#276] ред 10: [1. Матрица на типовете данни (База данни ➔ Бекенд ➔ Фронтенд)](#1-матрица-на-типовете-данни-база-данни-➔-бекенд-➔-фронтенд)  (Предложено: [1. Матрица на типовете данни (База данни ➔ Бекенд ➔ Фронтенд)](#1-матрица-на-типовете-данни-база-данни--бекенд--фронтенд))
+      • [#277] ред 12: [3. Превод на заявки: SQL ➔ C# LINQ ➔ JS / TypeScript ➔ Python](#3-превод-на-заявки-sql-➔-c-linq-➔-js--typescript-➔-python)  (Предложено: [3. Превод на заявки: SQL ➔ C# LINQ ➔ JS / TypeScript ➔ Python](#3-превод-на-заявки-sql--c-linq--js--typescript--python))
+
+📄 Architecture-And-Cross-Stack/01-03-Ecosystems-Comparison-DotNet-JVM-Node.md:
+   2/ #anchor котви (1):
+      • [#278] ред 11: [2. Управление на нишките: Мултинишковост срещу Single-Thread Event Loop](#2-управление-на-нишките-мултинишковост-срещу-single-thread-event-loop)  (Предложено: [2. Управление на нишките: Мултинишковост срещу Single-Thread Event Loop](#2-управление-на-нишките-мултинишковост-срещу-event-loop))
+
+📄 Architecture-And-Cross-Stack/01-04-Compilers-Interpreters-And-Runtime.md:
+   2/ #anchor котви (1):
+      • [#279] ред 10: [1. Нива на абстракция: От С# до Машинен код](#1-нива-на-абстракция-от-с-до-машинен-код)  (Предложено: [1. Нива на абстракция: От С# до Машинен код](#1-нива-на-абстракция-от-c-до-машинен-код))
+
+📄 Architecture-And-Cross-Stack/02-01-Architectural-Styles-Monolith-Microservices-Serverless.md:
+   2/ #anchor котви (1):
+      • [#280] ред 10: [1. Дълбоко сравнение на архитектурните стилове](#1-дълбоко-сравнение-на-архитектурните-стилове)  (Предложено: [1. Дълбоко сравнение на архитектурните стилове](#1-дълбоко-сравнение-на-архитектурних-стилове))
+
+📄 Architecture-And-Cross-Stack/02-02-SQL-Vs-NoSQL-Cross-Stack-Comparison.md:
+   2/ #anchor котви (1):
+      • [#281] ред 10: [1. Златното правило за избор (Матрица за бърза диагностика)](#1-златното-правило за-избор-матрица-за-бърза-диагностика)  (Предложено: [1. Златното правило за избор (Матрица за бърза диагностика)](#1-златното-правило-за-избор-матрица-за-бърза-диагностика))
+
+📄 Architecture-And-Cross-Stack/README.md:
+   1/ Линкове (4):
+      • [#282] ред 1: [Бази данни (SQL & NoSQL)](../Databases-SQL-And-NoSQL/)  (Предложено: [Бази данни (SQL & NoSQL)](../04-Databases-And-Caching/Databases-SQL-And-NoSQL/README.md))
+      • [#283] ред 1: [Entity Framework Core](../Databases-And-EF-Core/)  (Предложено: [Entity Framework Core](../04-Databases-And-Caching/Databases-And-EF-Core/README.md))
+      • [#284] ред 45: [Бази данни (SQL & NoSQL)](../Databases-SQL-And-NoSQL/)  (Предложено: [Бази данни (SQL & NoSQL)](../04-Databases-And-Caching/Databases-SQL-And-NoSQL/README.md))
+      • [#285] ред 45: [Entity Framework Core](../Databases-And-EF-Core/)  (Предложено: [Entity Framework Core](../04-Databases-And-Caching/Databases-And-EF-Core/README.md))

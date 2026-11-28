@@ -1,4 +1,4 @@
-[⬅️ 04-01-00. Теория & Сравнение](04-01-00-Models-And-Fields.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-01-02. SQLAlchemy Syntax](04-01-02-Syntax-SQLAlchemy.md)
+[⬅️ 04-01-00. Models, Fields and Data Types](04-01-00-Models-And-Fields.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-01-02. SQLAlchemy 2.0 Models: Синтаксис от нулата...](04-01-02-Syntax-SQLAlchemy.md)
 
 ---
 
@@ -142,5 +142,14 @@ print(xml_output)
 | **Позволяване на `NULL`** | `null=True, blank=True` | `NULL` (за нетекстови полета) |
 | **Сортиране на таблицата** | `class Meta: ordering = ["-id"]` | `ORDER BY id DESC` |
 
+
+
+
+
+
+
 ---
-[⬅️ 04-01-00. Теория & Сравнение](04-01-00-Models-And-Fields.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-01-02. SQLAlchemy Syntax](04-01-02-Syntax-SQLAlchemy.md)
+
+[⬅️ 04-01-00. Models, Fields and Data Types](04-01-00-Models-And-Fields.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-01-02. SQLAlchemy 2.0 Models: Синтаксис от нулата...](04-01-02-Syntax-SQLAlchemy.md)
+
+© 2026 Dev-Library / 04-01-01. Django ORM Models: Синтаксис от нулата & Cheat Sheet

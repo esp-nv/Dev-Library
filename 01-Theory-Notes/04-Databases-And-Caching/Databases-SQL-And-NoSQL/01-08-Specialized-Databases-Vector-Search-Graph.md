@@ -1,4 +1,4 @@
-⬅️ [01-07. Съседи на БД (RabbitMQ, Kafka, GraphQL, AD, SAP)](01-07-Architecture-Neighbors-RabbitMQ-Kafka-GraphQL-Enterprise.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [02-01. Връзки между таблици](02-01-Table-Relations-And-Constraints.md)
+[⬅️ 01-07. Съседи на Базата данни: RabbitMQ, Kafka, Grap...](01-07-Architecture-Neighbors-RabbitMQ-Kafka-GraphQL-Enterprise.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 02-00. Проектиране и Моделиране на Бази Данни](02-00-DATA-MODELING-OVERVIEW.md)
 
 ---
 
@@ -98,7 +98,14 @@ RETURN fof.name;
 * Обикновеният SQL индекс се претоварва от милиардите редове.
 * **Time-Series** базите автоматично разделят данните на времеви парчета (**Chunks** — напр. по 1 ден), компресират старите данни с до 90% и изчисляват средни стойности по минути/часове за милисекунди.
 
+
+
+
+
+
+
 ---
-⬅️ [01-07. Съседи на БД (RabbitMQ, Kafka, GraphQL, AD, SAP)](01-07-Architecture-Neighbors-RabbitMQ-Kafka-GraphQL-Enterprise.md) | 🏠 [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [02-01. Връзки между таблици](02-01-Table-Relations-And-Constraints.md)
+
+[⬅️ 01-07. Съседи на Базата данни: RabbitMQ, Kafka, Grap...](01-07-Architecture-Neighbors-RabbitMQ-Kafka-GraphQL-Enterprise.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 02-00. Проектиране и Моделиране на Бази Данни](02-00-DATA-MODELING-OVERVIEW.md)
 
 © 2026 Dev-Library / 01-08. Специализирани Бази данни: Vector (AI), Search Engines и Graph / Time-Series

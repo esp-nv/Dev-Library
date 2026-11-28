@@ -1,4 +1,4 @@
-[📂 Назад към Algorithms And Data Structures Хъба](README.md) | [🌐 Домейн: 01. Core Tools & Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms And Data Structures](README.md) | [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md)
+[⬅️ 00-05-04. Graphs and Traversal: Java Имплементация &...](00-05-04-Java-Implementation.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-06-01. Dynamic Programming: Python Имплементация ...](00-06-01-Python-Implementation.md)
 
 ---
 
@@ -102,8 +102,14 @@ def fib_optimal(n: int) -> int:
     1.  **При 0/1 Knapsack (всеки предмет се ползва най-много 1 път):** Когато оптимизираме таблицата до едномерна `dp[w]`, вътрешният цикъл за капацитета **задължително върви НАЗАД (от `W` надолу към `weight`)**. Така гарантираме, че при смятането на `dp[w]` четем стойности от **предишния ред** и не използваме един и същ предмет два пъти!
     2.  **При Unbounded Knapsack / Coin Change (неограничени монети):** Вътрешният цикъл върви **НАПРЕД (от `coin` нагоре към `amount`)**. Така умишлено позволяваме `dp[w]` да стъпи върху вече обновена стойност от текущия ред, което означава *„Вземи още една монета от същия номинал“*!
 
+
+
+
+
+
+
 ---
 
-[📂 Назад към Algorithms And Data Structures Хъба](README.md) | [🌐 Домейн: 01. Core Tools & Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms And Data Structures](README.md) | [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md)
+[⬅️ 00-05-04. Graphs and Traversal: Java Имплементация &...](00-05-04-Java-Implementation.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-06-01. Dynamic Programming: Python Имплементация ...](00-06-01-Python-Implementation.md)
 
 © 2026 Dev-Library / 00-06-00. Dynamic Programming (Теория, Memoization vs Tabulation & Капани)

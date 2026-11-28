@@ -1,3 +1,7 @@
+[⬅️ Справочник: NUnit срещу xUnit срещу MSTest в .NET](09-01-NUnit-xUnit-MSTest.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 9: Разширено Мокинг Ядро и Test-Driven Develop...](09-TDD-MOCKING-ADVANCED.md)
+
+---
+
 # 🎯 Изпитен Чеклист: Какво и как се проверява в Unit Testing (NUnit + Moq)
 
 **Статус:** Изпитен наръчник за 100% Code Coverage | **Цел:** Систематично покритие на всеки ред от бизнес логиката
@@ -69,5 +73,14 @@ public void MethodName_ShouldExpectedBehavior_WhenCondition()
 * **Не тествай `private` методи директно:** Те се тестват индиректно през `public` методите, които ги извикват.
 * **Не тествай реална база данни или файлова система:** За това използваме Mock проксита.
 
+
+
+
+
+
+
 ---
+
+[⬅️ Справочник: NUnit срещу xUnit срещу MSTest в .NET](09-01-NUnit-xUnit-MSTest.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Глава 9: Разширено Мокинг Ядро и Test-Driven Develop...](09-TDD-MOCKING-ADVANCED.md)
+
 © 2026 Dev-Library / Изпитен Чеклист: Какво и как се проверява в Unit Testing (NUnit + Moq)

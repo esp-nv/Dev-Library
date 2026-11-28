@@ -1,4 +1,4 @@
-[⬅️ 02-03-00. OOP in TypeScript](02-03-00-OOP-In-TypeScript.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-04-00. Mastering Generics & Constraints](02-04-00-Mastering-Generics.md)
+[⬅️ 02-03-00. Обектно-Ориентирано Програмиране (OOP) в T...](02-03-00-OOP-In-TypeScript.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-04-00. Овладяване на Дженерици](02-04-00-Mastering-Generics.md)
 
 ---
 
@@ -171,8 +171,14 @@ const devMachine: LaptopSpecs = { ram: 32, cpu: "Intel Core Ultra 7" };
 | **Method Overloads** | Множество сигнатури + 1 общо тяло | Външният код вижда само конкретните Overload сигнатури. |
 | **Заключване на `this`** | `handler = () => { ... }` | Запазва контекста на инстанцията при подаване като Callback. |
 
+
+
+
+
+
+
 ---
 
-[⬅️ 02-03-00. OOP in TypeScript](02-03-00-OOP-In-TypeScript.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-04-00. Mastering Generics & Constraints](02-04-00-Mastering-Generics.md)
+[⬅️ 02-03-00. Обектно-Ориентирано Програмиране (OOP) в T...](02-03-00-OOP-In-TypeScript.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-04-00. Овладяване на Дженерици](02-04-00-Mastering-Generics.md)
 
 © 2026 Dev-Library / 02-03-01. OOP in TypeScript: Синтаксис от Нулата & Cheat Sheet

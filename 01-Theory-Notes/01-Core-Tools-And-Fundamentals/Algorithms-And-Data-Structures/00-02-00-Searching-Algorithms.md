@@ -1,4 +1,4 @@
-[⬅️ 00-01. Recursion & Backtracking](00-01-00-Recursion-And-Backtracking.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-02-01. Python Implementation](00-02-01-Python-Implementation.md)
+[⬅️ 00-01-04. Recursion & Backtracking: Java Имплементац...](00-01-04-Java-Implementation.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-02-01. Searching Algorithms: Python Имплементация...](00-02-01-Python-Implementation.md)
 
 ---
 
@@ -117,7 +117,14 @@ def binary_search(arr: list[int], target: int) -> int:
 *   **Уловката:** Стандартният Binary Search спира веднага при `if arr[mid] == target: return mid`, което при горния пример връща произволен среден индекс (`3`), а не началото или края на поредицата!
 *   **Точен Senior отговор:** За да намерим **първото (най-лявото) срещане (Lower Bound)**, когато видим `arr[mid] == target`, **не спираме веднага**, а записваме `result = mid` и продължаваме да търсим наляво чрез **`right = mid - 1`**! Съответно за **последното (най-дясното) срещане (Upper Bound)** записваме `result = mid` и свиваме търсенето надясно чрез **`left = mid + 1`**. Така и двете граници се намират за гарантирано $O(\log n)$ време!
 
+
+
+
+
+
+
 ---
-[⬅️ 00-01. Recursion & Backtracking](00-01-00-Recursion-And-Backtracking.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Algorithms-Introduction](README.md) [🌐 Следващ домейн: 02. Frontend & UI/UX](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: HTML5-CSS3-And-SASS](../../02-Frontend-And-UI-UX/HTML5-CSS3-And-SASS/README.md) | [➡️ 00-02-01. Python Implementation](00-02-01-Python-Implementation.md)
+
+[⬅️ 00-01-04. Recursion & Backtracking: Java Имплементац...](00-01-04-Java-Implementation.md) | [📂 Назад към Module 02: Algorithms Introduction Хъба](README.md) | [🌐 Домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Module 02: Algorithms Introduction](README.md) | [🌐 Следващ домейн: 02. Фронтенд и UI/UX Дизайн](../../02-Frontend-And-UI-UX/README.md) | [📦 Следващ модул: Course-Intro-And-Setup](../Course-Intro-And-Setup/README.md) | [➡️ 00-02-01. Searching Algorithms: Python Имплементация...](00-02-01-Python-Implementation.md)
 
 © 2026 Dev-Library / 00-02-00. Searching Algorithms (Теория, Binary Search, Big O & Капани)

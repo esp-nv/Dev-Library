@@ -1,4 +1,4 @@
-⬅️ [03-03. Групиране, Агрегации и Window Functions](03-03-SQL-Grouping-Aggregations-Window-Functions.md) | 📂 [03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и Функции](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md)  | ⏩ [Глава 04. Производителност и Програмируемост](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md)
+[⬅️ 03-03. Групиране, Агрегации и Window Functions](03-03-SQL-Grouping-Aggregations-Window-Functions.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 04-00. Производителност, Програмируемост и .NET Инте...](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md)
 
 ---
 
@@ -163,7 +163,14 @@ SELECT DISTINCT ProductId FROM OrderItems;
 * **Какво се случва:** В C# първият символ на низа е на индекс `0` (`str.Substring(0, 3)`). В SQL (T-SQL и PostgreSQL) първият символ е на позиция **`1`** (`SUBSTRING(str, 1, 3)`). Ако подадеш `0`, в T-SQL ще изгубиш първия символ!
 * **Как да избегнеш:** Запомни, че в SQL позициите в низове (`SUBSTRING`, `CHARINDEX`, `POSITION`) винаги започват от **1**.
 
+
+
+
+
+
+
 ---
-⬅️ [03-03. Групиране, Агрегации и Window Functions](03-03-SQL-Grouping-Aggregations-Window-Functions.md) | 📂 [03-00. Дълбок SQL: Свързване, Подзаявки, Агрегации и Функции](03-00-SQL-QUERIES-OVERVIEW.md) | 🏠 [Начало (Библиотека БД)](README.md)  | ⏩ [Глава 04. Производителност и Програмируемост](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md)
+
+[⬅️ 03-03. Групиране, Агрегации и Window Functions](03-03-SQL-Grouping-Aggregations-Window-Functions.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 04-00. Производителност, Програмируемост и .NET Инте...](04-00-SQL-PERFORMANCE-AND-PROGRAMMABILITY.md)
 
 © 2026 Dev-Library / 03-04. Вградени функции (Текст, Дати, CASE WHEN) и Сет оператори (UNION, INTERSECT, EXCEPT)

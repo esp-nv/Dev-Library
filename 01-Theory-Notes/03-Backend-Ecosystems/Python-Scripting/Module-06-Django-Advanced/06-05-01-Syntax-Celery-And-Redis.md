@@ -1,4 +1,4 @@
-[⬅️ 06-05-00. Теория & Капани](06-05-00-Celery-And-Redis.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-06-00. Testing in Django](06-06-00-Testing-In-Django.md)
+[⬅️ 06-05-00. Asynchronous Processing with Celery and Redis](06-05-00-Celery-And-Redis.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-06-00. Testing in Django Projects](06-06-00-Testing-In-Django.md)
 
 ---
 
@@ -130,5 +130,14 @@ CELERY_BEAT_SCHEDULE = {
 | **`cache.set("key", val, timeout=300)`** | Записва данни в Redis кеша за 5 минути |
 | **`cache.get("key")`** | Чете кеширани данни от Redis RAM паметта |
 
+
+
+
+
+
+
 ---
-[⬅️ 06-05-00. Теория & Капани](06-05-00-Celery-And-Redis.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-06-00. Testing in Django](06-06-00-Testing-In-Django.md)
+
+[⬅️ 06-05-00. Asynchronous Processing with Celery and Redis](06-05-00-Celery-And-Redis.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-06-00. Testing in Django Projects](06-06-00-Testing-In-Django.md)
+
+© 2026 Dev-Library / 06-05-01. Celery & Redis in Django: Синтаксис от нулата & Cheat Sheet

@@ -1,4 +1,4 @@
-[⬅️ 01-98. Common Errors & Fixes](01-98-Common-Errors-And-Fixes.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) 
+[⬅️ 01-98. Common Errors & Fixes](01-98-Common-Errors-And-Fixes.md) | [📂 Назад към 01. HTML5 & CSS3 Foundations Хъба](README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [📦 Към следващ модул: JavaScript-Language](../JavaScript-Language/README.md)
 
 ---
 
@@ -109,8 +109,14 @@ docker exec -it dev-redis redis-cli INFO stats | grep keyspace
 
 * **[01-QA-Automation (Ниво 2)](../02-Level-2-Natural-Extensions-QA-Automation/01-QA-Automation/README.md)** — Преход към **Ниво 2 (Natural Extensions & QA Automation)**: автоматизирано тестване на UI, API и производителност върху изградените уеб приложения.
 
----
-[⬅️ 01-98. Common Errors & Fixes](01-98-Common-Errors-And-Fixes.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) 
 
+
+
+
+
+
+---
+
+[⬅️ 01-98. Common Errors & Fixes](01-98-Common-Errors-And-Fixes.md) | [📂 Назад към 01. HTML5 & CSS3 Foundations Хъба](README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [📦 Към следващ модул: JavaScript-Language](../JavaScript-Language/README.md)
 
 © 2026 Dev-Library / 01-99. Interview Q&A, Traps & Debugging (HTML5, CSS3, SEO & Redis)

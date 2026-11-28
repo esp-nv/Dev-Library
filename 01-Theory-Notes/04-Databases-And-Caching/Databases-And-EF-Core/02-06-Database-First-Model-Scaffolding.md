@@ -1,4 +1,4 @@
-[⬅️ 02-05. ADO.NET и Change Tracking](02-05-AdoNet-Vs-EfCore-And-Change-Tracking.md) | [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) 
+[⬅️ 02-05. ADO.NET срещу EF Core, Change Tracking и Логв...](02-05-AdoNet-Vs-EfCore-And-Change-Tracking.md) | [📂 Назад към Databases & Entity Framework Core — Пълен Архитектур... Хъба](README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases & Entity Framework Core — Пълен Архитектур...](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [➡️ 02-07. EF Core с TDD и Тестване в паметта](02-07-EF-Core-TDD-And-InMemory-Testing.md)
 
 ---
 
@@ -69,7 +69,14 @@ dotnet ef dbcontext scaffold "Server=Localhost;Database=SoftUni;Trusted_Connecti
     *   *Какво се случва:* Опитваш се да пуснеш `Add-Migration` в проект, който е направен по Database-First. Миграционната система се заплита, защото базата данни вече съществува и се управлява отвън.
     *   *Решение:* При Database-First модела ти си изцяло „консуматор“ на базата. Всички промени по структурата се правят директно в SQL Server (през SSMS), след което просто опресняваш C# кода чрез флага `-f`.
 
+
+
+
+
+
+
 ---
-[⬅️ 02-05. ADO.NET и Change Tracking](02-05-AdoNet-Vs-EfCore-And-Change-Tracking.md) | [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) 
+
+[⬅️ 02-05. ADO.NET срещу EF Core, Change Tracking и Логв...](02-05-AdoNet-Vs-EfCore-And-Change-Tracking.md) | [📂 Назад към Databases & Entity Framework Core — Пълен Архитектур... Хъба](README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases & Entity Framework Core — Пълен Архитектур...](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [➡️ 02-07. EF Core с TDD и Тестване в паметта](02-07-EF-Core-TDD-And-InMemory-Testing.md)
 
 © 2026 Dev-Library / 02-06. Database-First подход и Автоматично генериране на код (Scaffolding)

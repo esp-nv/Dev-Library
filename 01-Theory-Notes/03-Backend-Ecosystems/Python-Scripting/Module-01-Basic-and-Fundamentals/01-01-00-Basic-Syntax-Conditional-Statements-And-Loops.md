@@ -1,4 +1,4 @@
-[⬅️ 01-00. Intro & Roadmap](01-00-Intro.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-02. Data Types](01-02-00-Data-Types-And-Variables.md)
+[⬅️ 01-00. Intro: Въведение в Python & Технологичен Road...](01-00-Intro.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-00-a. Базов Синтаксис на Python от нулата](01-01-01-Syntax-Basic-Syntax-Conditional-Statements-And-Loops.md)
 
 ---
 
@@ -123,5 +123,14 @@ else:
     2.  **`continue`**: Прекратява **само текущата итерация** и връща изпълнението веднага горе в началото на цикъла за следващия елемент (прескачайки редовете след себе си).
     3.  **`pass`**: Това е **празна операция (Null Operation / Placeholder)**. Тя не прави абсолютно нищо и не прескача нищо — кодът продължава да се изпълнява на следващия ред веднага след `pass`. Използва се единствено за запълване на празни блокове код (напр. празна функция или `if` блок), за да не хвърли компилаторът `IndentationError`, докато разработчикът все още пише архитектурата.
 
+
+
+
+
+
+
 ---
-[⬅️ 01-00. Intro & Roadmap](01-00-Intro.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-02. Data Types](01-02-00-Data-Types-And-Variables.md)
+
+[⬅️ 01-00. Intro: Въведение в Python & Технологичен Road...](01-00-Intro.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-00-a. Базов Синтаксис на Python от нулата](01-01-01-Syntax-Basic-Syntax-Conditional-Statements-And-Loops.md)
+
+© 2026 Dev-Library / 01-01. Basic Syntax, Conditional Statements and Loops

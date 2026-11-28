@@ -1,4 +1,4 @@
-[⬅️ 05-04-00. Теория & Капани](05-04-00-Forms-And-ModelForms.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-05-00. Class-Based Views](05-05-00-Class-Based-Views.md)
+[⬅️ 05-04-00. Django Forms and ModelForms](05-04-00-Forms-And-ModelForms.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-05-00. Class-Based Views](05-05-00-Class-Based-Views.md)
 
 ---
 
@@ -134,5 +134,14 @@ class RegisterForm(forms.Form):
 | **Скриване на поле във форма** | `widget=forms.HiddenInput()` |
 | **Отключване на поле (Read-only)** | `self.fields["email"].disabled = True` в `__init__` |
 
+
+
+
+
+
+
 ---
-[⬅️ 05-04-00. Теория & Капани](05-04-00-Forms-And-ModelForms.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-05-00. Class-Based Views](05-05-00-Class-Based-Views.md)
+
+[⬅️ 05-04-00. Django Forms and ModelForms](05-04-00-Forms-And-ModelForms.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-05-00. Class-Based Views](05-05-00-Class-Based-Views.md)
+
+© 2026 Dev-Library / 05-04-01. Django Forms and ModelForms: Синтаксис от нулата & Cheat Sheet

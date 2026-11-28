@@ -1,4 +1,4 @@
-[⬅️ 02-07-00. Теория & Капани](02-07-00-Reflection-And-Annotations.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-08-00. Exceptions & Error Handling](02-08-00-Exceptions-Handling.md)
+[⬅️ 02-07-00. Reflection and Annotations](02-07-00-Reflection-And-Annotations.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-08-00. Exceptions and Error Handling](02-08-00-Exceptions-Handling.md)
 
 ---
 
@@ -156,5 +156,14 @@ public class AnnotationRunner {
 | **`clazz.isAnnotationPresent(Ann.class)`** | `boolean` | Анотацията трябва да има `@Retention(RUNTIME)` |
 | **`Modifier.isStatic(f.getModifiers())`** | `boolean` | Проверява модификатори (`static`, `final`, `abstract`) |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-07-00. Теория & Капани](02-07-00-Reflection-And-Annotations.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-08-00. Exceptions & Error Handling](02-08-00-Exceptions-Handling.md)
+
+[⬅️ 02-07-00. Reflection and Annotations](02-07-00-Reflection-And-Annotations.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-08-00. Exceptions and Error Handling](02-08-00-Exceptions-Handling.md)
+
+© 2026 Dev-Library / 02-07-01. Reflection and Annotations: Синтаксис от нулата & Cheat Sheet

@@ -1,4 +1,4 @@
-[⬅️ Теория, CSRF защита, Валидация & Капани](05-04-00-Forms-And-ModelForms.md) | [📂 Назад към Module 05 Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Django Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ Теория, `ModelAdmin`, Филтри, Търсене & Капани](05-06-00-Django-Admin.md)
+[⬅️ 05-04-01. Django Forms and ModelForms: Синтаксис от ...](05-04-01-Syntax-Forms-And-ModelForms.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-05-01. Class-Based Views (CBV): Синтаксис от нула...](05-05-01-Syntax-Class-Based-Views.md)
 
 ---
 
@@ -129,8 +129,14 @@ class BookCreateView(LoginRequiredMixin, CreateView):
     1.  **`reverse("books:list")`** изчислява URL адреса **веднага на момента**, в който Python прочете този ред код. Тъй като атрибутите на класовете в `views.py` се оценяват в момента на импортиране на модула (преди `urls.py` да е зареден напълно в паметта), `reverse()` не намира маршрутите и хвърля грешка.
     2.  **`reverse_lazy("books:list")`** връща мързелив обект-обещание (Lazy Proxy), който **не търси URL адреса веднага**, а изчаква чак до момента, в който потребителят реално изпрати форма и потрябва пренасочване. Затова `reverse()` се ползва вътре във функции и методи (`def post(...)`), а `reverse_lazy()` — в атрибути на класове (`success_url = ...`).
 
+
+
+
+
+
+
 ---
 
-[⬅️ Теория, CSRF защита, Валидация & Капани](05-04-00-Forms-And-ModelForms.md) | [📂 Назад към Module 05 Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05 Django Fundamentals](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ Теория, `ModelAdmin`, Филтри, Търсене & Капани](05-06-00-Django-Admin.md)
+[⬅️ 05-04-01. Django Forms and ModelForms: Синтаксис от ...](05-04-01-Syntax-Forms-And-ModelForms.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-05-01. Class-Based Views (CBV): Синтаксис от нула...](05-05-01-Syntax-Class-Based-Views.md)
 
 © 2026 Dev-Library / 05-05-00. Class-Based Views (Теория, Generic Views, Mixins & Капани)

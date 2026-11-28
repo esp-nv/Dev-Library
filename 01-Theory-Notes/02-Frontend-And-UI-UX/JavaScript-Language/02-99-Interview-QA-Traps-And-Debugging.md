@@ -1,4 +1,4 @@
-[⬅️ 02-98. Common Errors, Edge Cases & Fixes](02-98-Common-Errors-And-Fixes.md) | [📂 Назад към JavaScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [📦 Към следващ модул: TypeScript-Language](../TypeScript-Language/README.md)
+[⬅️ 02-98. Common Errors, Edge Cases & Fixes](02-98-Common-Errors-And-Fixes.md) | [📂 Назад към JavaScript Language & Architecture Хъба](README.md) | [📦 Предишен модул: HTML5-CSS3-And-SASS](../HTML5-CSS3-And-SASS/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language & Architecture](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [📦 Към следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md)
 
 ---
 
@@ -92,8 +92,14 @@ console.log([1, 20, 3, 100].sort());
   * `console.trace()` — отпечатва пълния Call Stack до текущия ред.
 * **Memory & Performance Profiling:** Използвайте таб **Memory ➔ Heap Snapshot** в Chrome DevTools, за да откриете *Detached DOM nodes* и Memory Leaks.
 
+
+
+
+
+
+
 ---
 
-[⬅️ 02-98. Common Errors, Edge Cases & Fixes](02-98-Common-Errors-And-Fixes.md) | [📂 Назад към JavaScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [📦 Към следващ модул: TypeScript-Language](../TypeScript-Language/README.md)
+[⬅️ 02-98. Common Errors, Edge Cases & Fixes](02-98-Common-Errors-And-Fixes.md) | [📂 Назад към JavaScript Language & Architecture Хъба](README.md) | [📦 Предишен модул: HTML5-CSS3-And-SASS](../HTML5-CSS3-And-SASS/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language & Architecture](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [📦 Към следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md)
 
 © 2026 Dev-Library / 02-99. Interview Q&A, Скрити Капани & Debugging Techniques

@@ -1,4 +1,4 @@
-[⬅️  01-03. Architectural Principles, Attributes and Trade-offs (Архитектурни принципи)](01-03-Architectural-Attributes-And-TradeOffs.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md) | [🏠 Главен Хъб на проекта](../README.md) | [➡️ 01-05. Дълбоко гмуркане: Комуникация между Микроуслуги (gRPC срещу RabbitMQ)](01-05-Deep-Dive-Microservices-Communication.md)
+[⬅️ 01-03. Архитектурни принципи, Качества и Търговски к...](01-03-Architectural-Attributes-And-TradeOffs.md) | [📂 Назад към Системен Дизайн и Софтуерна Архитектура Хъба](README.md) | [🌐 Домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Системен Дизайн и Софтуерна Архитектура](README.md) | [🌐 Следващ домейн: 07-Game-Development](../../07-Game-Development/README.md) | [📦 Следващ модул: Technical-SEO-And-Web-Vitals](../Technical-SEO-And-Web-Vitals/README.md) | [➡️ 01-05. Дълбоко гмуркане: Комуникация между Микроуслуги](01-05-Deep-Dive-Microservices-Communication.md)
 
 ---
 
@@ -81,7 +81,14 @@
 *   **Защо се случва:** След половин година работа, таблицата в SQL Server е набъбнала до 15 милиона реда. Когато клиент или администратор извика ендпоинта, твоят C# код се опитва да материализира всички 15 милиона обекта едновременно в RAM паметта. Паметта на сървъра се препълва за секунда, виртуалната машина умира и Kestrel затваря всички уеб връзки принудително.
 *   **Как да го избегнеш:** **Никога не оставяй отворен GET списък без лимит!** Още по време на Етап 2 (Дефиниране на API) налагай задължителни твърди параметри за пагинация (`page` и `pageSize`), ограничавайки максималния брой извлечени редове до безопасни размери (напр. до 50 или 100 реда на заявка).
 
+
+
+
+
+
+
 ---
-[⬅️  01-03. Architectural Principles, Attributes and Trade-offs (Архитектурни принципи)](01-03-Architectural-Attributes-And-TradeOffs.md) | [📂 Папка: System-Design-And-Software-Architecture](README.md) | [🏠 Главен Хъб на проекта](../README.md) | [➡️ 01-05. Дълбоко гмуркане: Комуникация между Микроуслуги (gRPC срещу RabbitMQ)](01-05-Deep-Dive-Microservices-Communication.md)
+
+[⬅️ 01-03. Архитектурни принципи, Качества и Търговски к...](01-03-Architectural-Attributes-And-TradeOffs.md) | [📂 Назад към Системен Дизайн и Софтуерна Архитектура Хъба](README.md) | [🌐 Домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Системен Дизайн и Софтуерна Архитектура](README.md) | [🌐 Следващ домейн: 07-Game-Development](../../07-Game-Development/README.md) | [📦 Следващ модул: Technical-SEO-And-Web-Vitals](../Technical-SEO-And-Web-Vitals/README.md) | [➡️ 01-05. Дълбоко гмуркане: Комуникация между Микроуслуги](01-05-Deep-Dive-Microservices-Communication.md)
 
 © 2026 Dev-Library / 01-04. Процес на проектиране: Алгоритъм за изграждане на системи от нулата

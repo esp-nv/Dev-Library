@@ -1,4 +1,4 @@
-[⬅️ 05-03-00. Теория & Капани](05-03-00-Templates-Static-Media.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-04-00. Forms and ModelForms](05-04-00-Forms-And-ModelForms.md)
+[⬅️ 05-03-00. Django Templates (DTL), Static and Media F...](05-03-00-Templates-Static-Media.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-04-00. Django Forms and ModelForms](05-04-00-Forms-And-ModelForms.md)
 
 ---
 
@@ -144,5 +144,14 @@ if settings.DEBUG:
 | **Цикъл с празен случай** | `{% for x in list %}...{% empty %}...{% endfor %}` | Изпълнява `{% empty %}` ако списъкът е празен |
 | **Форматиране с филтър** | `{{ val\|date:"d.m.Y" }}` / `{{ val\|length }}` | Преобразува стойността при показване |
 
+
+
+
+
+
+
 ---
-[⬅️ 05-03-00. Теория & Капани](05-03-00-Templates-Static-Media.md) | 📂 Папка: Module-05-Django-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 05-04-00. Forms and ModelForms](05-04-00-Forms-And-ModelForms.md)
+
+[⬅️ 05-03-00. Django Templates (DTL), Static and Media F...](05-03-00-Templates-Static-Media.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-04-00. Django Forms and ModelForms](05-04-00-Forms-And-ModelForms.md)
+
+© 2026 Dev-Library / 05-03-01. Django Templates, Static & Media: Синтаксис от нулата & Cheat Sheet

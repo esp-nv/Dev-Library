@@ -1,4 +1,4 @@
-[📦 Предишен модул: Java-Ecosystem](../Java-Ecosystem/README.md) | [🌐 Домейн: 03. Backend Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Python Scripting](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../04-Databases-And-Caching/README.md) | [▶️ Започни от 03-00. Intro: Въведение в Python OOP & Архитектурен Roadmap](Module-03-OOP/03-00-Intro.md)
+[📦 Предишен модул: Java-Ecosystem](../Java-Ecosystem/README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Python Scripting & Software Engineering](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../04-Databases-And-Caching/README.md) | [▶️ Започни от 03-96. Python Оптимизации: Кое е грешно, защо и как ...](03-96-Performance-And-Optimizations.md)
 
 ---
 
@@ -82,8 +82,14 @@
 *   **[03-98. Common Errors, Edge Cases & Fixes (Каталог на грешките)](03-98-Common-Errors-And-Fixes.md)** — *Обхваща:* Диагностика на чести грешки (`KeyError`, `AttributeError`, `UnboundLocalError`), гранични случаи (мутируеми аргументи, `Decimal` срещу `float`) и таблица по фази на възникване (`Parse-time`, `Import-time`, `Runtime`).
 *   **[03-99. Interview Q&A, Скрити Капани & Debugging Techniques](03-99-Interview-QA-Traps-And-Debugging.md)** — *Обхваща:* Топ интервю въпроси (GIL, `asyncio` vs `multiprocessing`, MRO, GC), капани с `is` и `deepcopy`, и профилиране с `pdb`, `cProfile` и `tracemalloc`.
 
+
+
+
+
+
+
 ---
 
-[📦 Предишен модул: Java-Ecosystem](../Java-Ecosystem/README.md) | [🌐 Домейн: 03. Backend Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Python Scripting](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../04-Databases-And-Caching/README.md) | [▶️ Започни от 03-00. Intro: Въведение в Python OOP & Архитектурен Roadmap](Module-03-OOP/03-00-Intro.md)
+[📦 Предишен модул: Java-Ecosystem](../Java-Ecosystem/README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Python Scripting & Software Engineering](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../04-Databases-And-Caching/README.md) | [▶️ Започни от 03-96. Python Оптимизации: Кое е грешно, защо и как ...](03-96-Performance-And-Optimizations.md)
 
 © 2026 Dev-Library / Python Scripting & Software Engineering (Пълен Архитектурен Справочник)

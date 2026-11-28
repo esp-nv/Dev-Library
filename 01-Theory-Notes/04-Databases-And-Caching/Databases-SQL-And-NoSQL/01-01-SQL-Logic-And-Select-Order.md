@@ -1,6 +1,7 @@
-[⬅️ 01-00. Въведение в БД](01-00-SQL-INTRO-AND-CRUD.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) |🏠 [Библиотека БД](README.md)  | [➡️ 01-02. Типове данни](01-02-SQL-Data-Types-Memory-And-CSharp.md) 
+[⬅️ 01. Въведение в БД, Типове данни и CRUD операции](01-00-SQL-INTRO-AND-CRUD.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 01-02. Типове данни, Заемане на памет и Мостът към C#](01-02-SQL-Data-Types-Memory-And-CSharp.md)
 
 ---
+
 # 🪜 01-01. Логика на мислене и Ред на написване на `SELECT`
 
 **Цел:** Да разбираш логиката на четене, писане и изпълнение на SQL заявките чрез конкретни примери, без да зубриш сляпо шаблони.
@@ -144,5 +145,14 @@ OFFSET 5 ROWS FETCH NEXT 5 ROWS ONLY;
 ---
 [⬅️ 01-00. Въведение в БД](01-00-SQL-INTRO-AND-CRUD.md) | [📂 Глава 01. Основи, Типове и Видове БД](01-00-SQL-INTRO-AND-CRUD.md) |🏠 [Библиотека БД](README.md)  | [➡️ 01-02. Типове данни](01-02-SQL-Data-Types-Memory-And-CSharp.md)
 
+
+
+
+
+
+
 ---
+
+[⬅️ 01. Въведение в БД, Типове данни и CRUD операции](01-00-SQL-INTRO-AND-CRUD.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 01-02. Типове данни, Заемане на памет и Мостът към C#](01-02-SQL-Data-Types-Memory-And-CSharp.md)
+
 © 2026 Dev-Library / 01-01. Логика на мислене и Ред на написване на `SELECT`

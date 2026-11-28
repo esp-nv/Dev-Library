@@ -1,9 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Text;
-using System.Text.RegularExpressions;
+using LinkUnifier;
+
+Console.OutputEncoding = Encoding.UTF8;
+Console.InputEncoding = Encoding.UTF8;
 
 var currentDir = Directory.GetCurrentDirectory();
 var rootDir = Directory.Exists(Path.Combine(currentDir, "01-Theory-Notes"))
@@ -12,258 +13,158 @@ var rootDir = Directory.Exists(Path.Combine(currentDir, "01-Theory-Notes"))
 
 if (!Directory.Exists(rootDir))
 {
-    Console.WriteLine($"Не е намерена папка 01-Theory-Notes в: {rootDir}");
+    Console.WriteLine($"❌ Не е намерена папка 01-Theory-Notes в: {rootDir}");
     return;
 }
 
-var utf8NoBom = new UTF8Encoding(false);
-var renamedFilesLog = new List<string>();
-var updatedFilesLog = new List<string>();
-var autoFixedLinksLog = new List<string>();
-var remainingBrokenLinks = new List<string>();
+string projectDir = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, "..", "..", ".."));
+string mapJsonPath = Path.Combine(projectDir, "library-map.json");
+string reportsDir = Path.Combine(projectDir, "reports");
+string visualMapMdPath = Path.Combine(reportsDir, "00-library-tree-map.md");
 
-// СТЪПКА 0: Преименуване на XX-YY-01-Topic-Syntax.md -> XX-YY-01-Syntax-Topic.md в ЦЯЛАТА 01-Theory-Notes
-foreach (var file in Directory.GetFiles(rootDir, "*-0?-*-Syntax.md", SearchOption.AllDirectories))
+var stats = new AuditStats();
+FolderNode? currentTree = null;
+
+FolderNode EnsureTree()
 {
-    string fileName = Path.GetFileName(file);
-    var m = Regex.Match(fileName, @"^(\d{2}-\d{2}-0[1-9])-(.+)-Syntax\.md$");
-    if (m.Success)
+    if (currentTree == null)
     {
-        string dir = Path.GetDirectoryName(file)!;
-        string newFileName = $"{m.Groups[1].Value}-Syntax-{m.Groups[2].Value}.md";
-        string newFullPath = Path.Combine(dir, newFileName);
-        string relOld = Path.GetRelativePath(rootDir, file).Replace('\\', '/');
-        string relNew = Path.GetRelativePath(rootDir, newFullPath).Replace('\\', '/');
-
-        File.Move(file, newFullPath, overwrite: true);
-        renamedFilesLog.Add($"{relOld}  --->  {relNew}");
-        Console.WriteLine($"🔄 Преименуван: {relOld} -> {newFileName}");
+        Console.WriteLine("🌲 Изграждане на дървото с Post-Order DFS...");
+        currentTree = TreeScanner.BuildAndSaveTree(rootDir, mapJsonPath, visualMapMdPath);
     }
+    return currentTree;
 }
 
-var allMdFiles = Directory.GetFiles(rootDir, "*.md", SearchOption.AllDirectories);
-
-// Индексираме всички файлове по име (без README.md) за бързо търсене при преместване
-var filesByName = allMdFiles
-    .Where(f => !Path.GetFileName(f).Equals("README.md", StringComparison.OrdinalIgnoreCase))
-    .GroupBy(f => Path.GetFileName(f), StringComparer.OrdinalIgnoreCase)
-    .ToDictionary(g => g.Key, g => g.ToList(), StringComparer.OrdinalIgnoreCase);
-
-var linkRegex = new Regex(@"(?<!!)\[([^\]]+)\]\(([^)]+)\)", RegexOptions.Compiled);
-
-foreach (var file in allMdFiles)
+string AskStepMode(string stepTitle)
 {
-    string original = File.ReadAllText(file, Encoding.UTF8);
-    string content = original;
-    var fileDir = Path.GetDirectoryName(file)!;
-    string relCurrentFile = Path.GetRelativePath(rootDir, file).Replace('\\', '/');
+    Console.WriteLine();
+    Console.WriteLine($"🔹 СТЪПКА: {stepTitle}");
+    Console.Write("   Избери: [1] Само одит (без промени) | [2] Изпълни / Одит + Поправка | [0] Пропусни: ");
+    return (Console.ReadLine() ?? "").Trim();
+}
 
-    // 1. Унифициране на иконките навсякъде
-    content = Regex.Replace(content, @"\[[^\]]*Начало Dev-Library\]", "[🏛️ Начало Dev-Library]");
-    content = Regex.Replace(content, @"\[[^\]]*Главен Портал \(Dev-Library\)\]", "[🏛️ Главен Портал (Dev-Library)]");
-    content = Regex.Replace(content, @"\[[^\]]*Домейн:", "[🌐 Домейн:");
-    content = Regex.Replace(content, @"\[[^\]]*Следващ домейн:", "[🌐 Следващ домейн:");
-    content = Regex.Replace(content, @"\[[^\]]*Предишен модул:", "[📦 Предишен модул:");
-    content = Regex.Replace(content, @"\[[^\]]*Следващ модул:", "[📦 Следващ модул:");
+while (true)
+{
+    Console.WriteLine();
+    Console.WriteLine("================================================================================");
+    Console.WriteLine("🧭 LINKUNIFIER — ГЛАВНО ИНТЕРАКТИВНО МЕНЮ");
+    Console.WriteLine("================================================================================");
+    Console.WriteLine("  [1] 🌲 Пълен одит на структурата (library-map.json + визуална таблица/йерархия .md)");
+    Console.WriteLine("  [2] 🛠️ CRUD управление на файлове и папки (подменю: одит, създаване, редакция, преномериране, изтриване)");
+    Console.WriteLine("  [3] 🧭 Синхронизация само на Navbar и Footer в цялата библиотека + репорт");
+    Console.WriteLine("  [4] 🔍 Одит и поправка на ВСИЧКИ счупени линкове и #anchor котви (1/ линкове; 2/ #anchor)");
+    Console.WriteLine("  [5] ⚓ Одит и поправка САМО на вътрешните котви (#anchors)");
+    Console.WriteLine("  [6] 📊 Генериране на всички отделни отчети в папка reports/");
+    Console.WriteLine("  [7] 🚀 Пълен разширен цикъл (1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 9 с избор на всяка стъпка)");
+    Console.WriteLine("  [8] ⚡ Пълен съкратен цикъл (САМО одит на всичко + генериране на всички отчети)");
+    Console.WriteLine("  [9] 🏗️ Допълнителни README.md / # 01-00. Intro подмодули с авто-номер и котва");
+    Console.WriteLine("  [0] ❌ Изход");
+    Console.WriteLine("--------------------------------------------------------------------------------");
+    Console.Write("👉 Избери опция [0-9]: ");
 
-    // 2. Поправка на бутона [▶️ Започни от ...] в модулните README.md
-    if (Path.GetFileName(file).Equals("README.md", StringComparison.OrdinalIgnoreCase))
+    string choice = (Console.ReadLine() ?? "").Trim();
+    Console.WriteLine();
+
+    switch (choice)
     {
-        var introFile = Directory.GetFiles(fileDir, "*-00-Intro*.md", SearchOption.AllDirectories)
-            .OrderBy(p => p.Length)
-            .FirstOrDefault();
+        case "1":
+            stats.RenamedSyntaxFiles += TreeScanner.NormalizeSyntaxFileNames(rootDir);
+            currentTree = TreeScanner.BuildAndSaveTree(rootDir, mapJsonPath, visualMapMdPath);
+            ReportGenerator.WriteAllReports(currentTree, stats, reportsDir);
+            Console.WriteLine($"✅ Пълният одит на структурата приключи ({currentTree.SubFolders.Count} домейна).");
+            Console.WriteLine($"   • JSON карта:      {mapJsonPath}");
+            Console.WriteLine($"   • Визуален .md:    {visualMapMdPath}");
+            break;
 
-        if (introFile != null)
-        {
-            string relPath = Path.GetRelativePath(fileDir, introFile).Replace('\\', '/');
-            string title = File.ReadLines(introFile, Encoding.UTF8)
-                .FirstOrDefault(l => l.StartsWith("# "))?
-                .TrimStart('#', ' ') ?? "00. Intro";
+        case "2":
+            CrudManager.RunCrudSubmenu(rootDir, mapJsonPath, visualMapMdPath, stats, ref currentTree);
+            ReportGenerator.WriteAllReports(EnsureTree(), stats, reportsDir);
+            break;
 
-            title = Regex.Replace(title, @"^[^\w\d]+", "").Trim();
+        case "3":
+            NavigationSyncer.SyncAll(EnsureTree(), rootDir, stats);
+            ReportGenerator.WriteAllReports(EnsureTree(), stats, reportsDir);
+            Console.WriteLine($"✅ Синхронизацията на Navbar/Footer приключи! Създадени README: {stats.CreatedReadmes}, Обновени файлове: {stats.UpdatedNavFiles}");
+            break;
 
-            content = Regex.Replace(
-                content,
-                @"\[▶️ Започни от [^\]]+\]\([^)]+\)",
-                $"[▶️ Започни от {title}]({relPath})"
-            );
-        }
-    }
-    // 2.1. Стандартизиране на долния ред: © 2026 Dev-Library / <H1 заглавие на текущия файл>
-    var h1Line = File.ReadLines(file, Encoding.UTF8)
-        .FirstOrDefault(l => l.StartsWith("# "));
+        case "4":
+            LinkAuditor.AuditAndOptionallyFix(EnsureTree(), rootDir, stats, onlyAnchors: false, autoPromptToFix: true);
+            ReportGenerator.WriteAllReports(EnsureTree(), stats, reportsDir);
+            break;
 
-    if (h1Line != null)
-    {
-        // Премахваме водещото '# ' и евентуални водещи емоджита/символи, оставяйки номера и заглавието
-        string cleanTitle = Regex.Replace(h1Line.TrimStart('#', ' '), @"^[^\w\d]+", "").Trim();
-        if (!string.IsNullOrWhiteSpace(cleanTitle))
-        {
-            content = Regex.Replace(
-                content,
-                @"^©\s*2026\s*Dev-Library\s*/.*$",
-                $"© 2026 Dev-Library / {cleanTitle}",
-                RegexOptions.Multiline
-            );
-        }
-    }
+        case "5":
+            LinkAuditor.AuditAndOptionallyFix(EnsureTree(), rootDir, stats, onlyAnchors: true, autoPromptToFix: true);
+            ReportGenerator.WriteAllReports(EnsureTree(), stats, reportsDir);
+            break;
 
-    // 3. Проверка и автоматична поправка на вътрешни линкове извън code blocks
-    var codeBlocks = new List<string>();
-    string workingContent = Regex.Replace(content, @"```[\s\S]*?```", m =>
-    {
-        codeBlocks.Add(m.Value);
-        return $"__CODE_BLOCK_{codeBlocks.Count - 1}__";
-    });
+        case "6":
+            ReportGenerator.WriteAllReports(EnsureTree(), stats, reportsDir);
+            Console.WriteLine($"📊 Всички отделни отчети са генерирани успешно в: {reportsDir}");
+            break;
 
-    workingContent = linkRegex.Replace(workingContent, match =>
-    {
-        string linkText = match.Groups[1].Value;
-        string rawTarget = match.Groups[2].Value.Trim();
-
-        if (rawTarget.StartsWith("http://", StringComparison.OrdinalIgnoreCase) ||
-            rawTarget.StartsWith("https://", StringComparison.OrdinalIgnoreCase) ||
-            rawTarget.StartsWith("mailto:", StringComparison.OrdinalIgnoreCase) ||
-            rawTarget.StartsWith("#"))
-        {
-            return match.Value;
-        }
-
-        var parts = rawTarget.Split('#', 2);
-        string pathPart = parts[0];
-        string anchorPart = parts.Length > 1 ? "#" + parts[1] : "";
-
-        if (string.IsNullOrWhiteSpace(pathPart)) return match.Value;
-
-        string targetFullPath = Path.GetFullPath(Path.Combine(fileDir, pathPart));
-
-        if (File.Exists(targetFullPath) || Directory.Exists(targetFullPath))
-        {
-            return match.Value;
-        }
-
-        string targetDir = Path.GetDirectoryName(targetFullPath)!;
-        string targetFileName = Path.GetFileName(targetFullPath);
-
-        if (Directory.Exists(targetDir))
-        {
-            var localFiles = Directory.GetFiles(targetDir, "*.md");
-
-            // Поправка на преименувани -01-Syntax- файлове (XX-YY-01-Topic-Syntax.md -> XX-YY-01-Syntax-Topic.md)
-            var syntaxMatch = Regex.Match(targetFileName, @"^(\d{2}-\d{2}-0[1-9])-(.+)-Syntax\.md$");
-            if (syntaxMatch.Success)
+        case "7":
+            Console.WriteLine("🚀 СТАРТ НА ПЪЛЕН РАЗШИРЕН ЦИКЪЛ (1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 9)");
+            var m1 = AskStepMode("[1] Сканиране на структурата (library-map.json + визуален .md)");
+            if (m1 == "1")
+                currentTree = TreeScanner.BuildAndSaveTree(rootDir, mapJsonPath, visualMapMdPath);
+            else if (m1 == "2")
             {
-                string swappedName = $"{syntaxMatch.Groups[1].Value}-Syntax-{syntaxMatch.Groups[2].Value}.md";
-                var swappedCandidate = localFiles.FirstOrDefault(f => Path.GetFileName(f).Equals(swappedName, StringComparison.OrdinalIgnoreCase));
-                if (swappedCandidate != null)
-                {
-                    string fixedRel = Path.GetRelativePath(fileDir, swappedCandidate).Replace('\\', '/') + anchorPart;
-                    autoFixedLinksLog.Add($"[{relCurrentFile}] : ({rawTarget})  --->  ({fixedRel})");
-                    return $"[{linkText}]({fixedRel})";
-                }
+                stats.RenamedSyntaxFiles += TreeScanner.NormalizeSyntaxFileNames(rootDir);
+                currentTree = TreeScanner.BuildAndSaveTree(rootDir, mapJsonPath, visualMapMdPath);
             }
 
-            // Поправка при липсващо -00- или -01-
-            var prefixMatch = Regex.Match(targetFileName, @"^(\d{2}-\d{2})-(.+)$");
-            if (prefixMatch.Success)
-            {
-                string numPrefix = prefixMatch.Groups[1].Value;
-                string rest = prefixMatch.Groups[2].Value;
+            var m2 = AskStepMode("[2] CRUD управление на файлове и папки");
+            if (m2 == "1")
+                Console.WriteLine("ℹ️ За одит на празни папки виж reports/05-empty-folders.txt.");
+            else if (m2 == "2")
+                CrudManager.RunCrudSubmenu(rootDir, mapJsonPath, visualMapMdPath, stats, ref currentTree);
 
-                var candidate = localFiles.FirstOrDefault(f =>
-                {
-                    string name = Path.GetFileName(f);
-                    return name.Equals($"{numPrefix}-00-{rest}", StringComparison.OrdinalIgnoreCase) ||
-                           name.Equals($"{numPrefix}-01-{rest}", StringComparison.OrdinalIgnoreCase) ||
-                           name.StartsWith($"{numPrefix}-00-", StringComparison.OrdinalIgnoreCase);
-                });
+            var m3 = AskStepMode("[3] Синхронизация на Navbar и Footer");
+            if (m3 == "2")
+                NavigationSyncer.SyncAll(EnsureTree(), rootDir, stats);
+            else if (m3 == "1")
+                Console.WriteLine("ℹ️ Пропусната промяна по Navbar/Footer (режим само одит).");
 
-                if (candidate != null)
-                {
-                    string fixedRel = Path.GetRelativePath(fileDir, candidate).Replace('\\', '/') + anchorPart;
-                    autoFixedLinksLog.Add($"[{relCurrentFile}] : ({rawTarget})  --->  ({fixedRel})");
-                    return $"[{linkText}]({fixedRel})";
-                }
-            }
-        }
+            var m4 = AskStepMode("[4] Одит на ВСИЧКИ счупени линкове и #anchor котви");
+            if (m4 == "1")
+                LinkAuditor.AuditAndOptionallyFix(EnsureTree(), rootDir, stats, onlyAnchors: false, autoPromptToFix: false);
+            else if (m4 == "2")
+                LinkAuditor.AuditAndOptionallyFix(EnsureTree(), rootDir, stats, onlyAnchors: false, autoPromptToFix: true);
 
-        if (filesByName.TryGetValue(targetFileName, out var foundList) && foundList.Count == 1)
-        {
-            string fixedRel = Path.GetRelativePath(fileDir, foundList[0]).Replace('\\', '/') + anchorPart;
-            autoFixedLinksLog.Add($"[{relCurrentFile}] : ({rawTarget})  --->  ({fixedRel})");
-            return $"[{linkText}]({fixedRel})";
-        }
+            var m5 = AskStepMode("[5] Одит САМО на вътрешните котви (#anchors)");
+            if (m5 == "1")
+                LinkAuditor.AuditAndOptionallyFix(EnsureTree(), rootDir, stats, onlyAnchors: true, autoPromptToFix: false);
+            else if (m5 == "2")
+                LinkAuditor.AuditAndOptionallyFix(EnsureTree(), rootDir, stats, onlyAnchors: true, autoPromptToFix: true);
 
-        remainingBrokenLinks.Add($"[{relCurrentFile}] -> [{linkText}]({rawTarget})");
-        return match.Value;
-    });
+            var m9 = AskStepMode("[9] Допълнителни README.md / # 01-00. Intro подмодули");
+            if (m9 == "2")
+                ScaffoldGenerator.RunInteractiveScaffolding(rootDir, mapJsonPath, stats, ref currentTree);
 
-    for (int i = 0; i < codeBlocks.Count; i++)
-    {
-        workingContent = workingContent.Replace($"__CODE_BLOCK_{i}__", codeBlocks[i]);
+            ReportGenerator.WriteAllReports(EnsureTree(), stats, reportsDir);
+            Console.WriteLine($"🎉 Пълният разширен цикъл приключи! Всички отчети са записани в: {reportsDir}");
+            break;
+
+        case "8":
+            Console.WriteLine("⚡ СТАРТ НА ПЪЛЕН СЪКРАТЕН ЦИКЪЛ (САМО ОДИТ БЕЗ ПРОМЕНИ ПО ФАЙЛОВЕТЕ)...");
+            currentTree = TreeScanner.BuildAndSaveTree(rootDir, mapJsonPath, visualMapMdPath);
+            LinkAuditor.AuditAndOptionallyFix(currentTree, rootDir, stats, onlyAnchors: false, autoPromptToFix: false);
+            ReportGenerator.WriteAllReports(currentTree, stats, reportsDir);
+            Console.WriteLine($"✅ Пълният съкратен одит приключи! Всички отчети са готови в: {reportsDir}");
+            break;
+
+        case "9":
+            ScaffoldGenerator.RunInteractiveScaffolding(rootDir, mapJsonPath, stats, ref currentTree);
+            ReportGenerator.WriteAllReports(EnsureTree(), stats, reportsDir);
+            break;
+
+        case "0":
+            ReportGenerator.WriteAllReports(EnsureTree(), stats, reportsDir);
+            Console.WriteLine($"👋 Довиждане! Всички отчети са запазени в: {reportsDir}");
+            return;
+
+        default:
+            Console.WriteLine("⚠️ Невалиден избор. Моля въведи число от 0 до 9.");
+            break;
     }
-
-    if (workingContent != original)
-    {
-        File.WriteAllText(file, workingContent, utf8NoBom);
-        updatedFilesLog.Add(relCurrentFile);
-        Console.WriteLine($"✅ Обновен: {relCurrentFile}");
-    }
 }
-
-// Записваме чист, напълно презаписан доклад в broken-links-report.txt
-string reportPath = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, "..", "..", "..", "broken-links-report.txt"));
-var distinctBroken = remainingBrokenLinks.Distinct().OrderBy(x => x).ToList();
-
-var report = new StringBuilder();
-report.AppendLine("================================================================================");
-report.AppendLine($"ОТЧЕТ ОТ LINKUNIFIER (01-Theory-Notes) — {DateTime.Now:yyyy-MM-dd HH:mm:ss}");
-report.AppendLine("================================================================================");
-report.AppendLine($"• Общо проверени .md файлове:       {allMdFiles.Length}");
-report.AppendLine($"• Преименувани *-Syntax.md файлове:  {renamedFilesLog.Count}");
-report.AppendLine($"• Обновени .md файлове:              {updatedFilesLog.Count}");
-report.AppendLine($"• Автоматично поправени линкове:     {autoFixedLinksLog.Count}");
-report.AppendLine($"• Счупени линкове за ръчен преглед:  {distinctBroken.Count}");
-report.AppendLine();
-
-report.AppendLine("--------------------------------------------------------------------------------");
-report.AppendLine($"1. СЧУПЕНИ ЛИНКОВЕ ЗА РЪЧЕН ПРЕГЛЕД ({distinctBroken.Count})");
-report.AppendLine("--------------------------------------------------------------------------------");
-if (distinctBroken.Count == 0)
-{
-    report.AppendLine("🎉 Няма счупени линкове!");
-}
-else
-{
-    foreach (var item in distinctBroken)
-        report.AppendLine(item);
-}
-report.AppendLine();
-
-report.AppendLine("--------------------------------------------------------------------------------");
-report.AppendLine($"2. ПРЕИМЕНУВАНИ ФАЙЛОВЕ ({renamedFilesLog.Count})");
-report.AppendLine("--------------------------------------------------------------------------------");
-foreach (var item in renamedFilesLog)
-    report.AppendLine(item);
-report.AppendLine();
-
-report.AppendLine("--------------------------------------------------------------------------------");
-report.AppendLine($"3. АВТОМАТИЧНО ПОПРАВЕНИ ЛИНКОВЕ ({autoFixedLinksLog.Count})");
-report.AppendLine("--------------------------------------------------------------------------------");
-foreach (var item in autoFixedLinksLog)
-    report.AppendLine(item);
-report.AppendLine();
-
-report.AppendLine("--------------------------------------------------------------------------------");
-report.AppendLine($"4. ВСИЧКИ ОБНОВЕНИ ФАЙЛОВЕ ({updatedFilesLog.Count})");
-report.AppendLine("--------------------------------------------------------------------------------");
-foreach (var item in updatedFilesLog)
-    report.AppendLine(item);
-
-// File.WriteAllText изтрива цялото старо съдържание и записва новото на чисто
-File.WriteAllText(reportPath, report.ToString(), utf8NoBom);
-
-Console.WriteLine($"\n📊 Готово! Преименувани: {renamedFilesLog.Count} | Обновени файлове: {updatedFilesLog.Count} | Поправени линкове: {autoFixedLinksLog.Count} | За ръчен преглед: {distinctBroken.Count}");
-Console.WriteLine($"📄 Пълният отчет е презаписан в: {reportPath}");
-
-

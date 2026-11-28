@@ -1,4 +1,4 @@
-[⬅️ Назад към Индекса](README.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-01. Models and Fields](04-01-00-Models-And-Fields.md)
+[📦 Към предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-01-00. Models, Fields and Data Types](04-01-00-Models-And-Fields.md)
 
 ---
 
@@ -109,5 +109,14 @@ with Session(engine) as session:
 *   **Уловката:** Кандидатите често мислят, че редът `users = User.objects.filter(is_active=True)` веднага удря базата данни.
 *   **Точен Senior отговор:** В Django ORM `QuerySet` е **мързелив (Lazy)** — можеш да навържеш 5 филтъра един след друг (`filter().exclude().order_by()`) и няма да се изпълни нито една SQL заявка, докато не се опиташ да прочетеш данните (например с `for u in users:`, `list(users)` или `len(users)`). В SQLAlchemy 2.0 обектът `stmt = select(User).where(...)` също е само чертеж на заявката и не удря базата, докато не го подадеш изрично на сесията чрез `session.execute(stmt)`.
 
+
+
+
+
+
+
 ---
-[⬅️ Назад към Индекса](README.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-01. Models and Fields](04-01-00-Models-And-Fields.md)
+
+[📦 Към предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-01-00. Models, Fields and Data Types](04-01-00-Models-And-Fields.md)
+
+© 2026 Dev-Library / 04-00. Intro: Django ORM срещу SQLAlchemy & EF Core (Архитектурен Roadmap)

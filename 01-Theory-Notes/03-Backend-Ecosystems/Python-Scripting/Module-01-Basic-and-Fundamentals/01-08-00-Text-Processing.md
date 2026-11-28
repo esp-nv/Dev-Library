@@ -1,4 +1,4 @@
-[⬅️ 01-07. Bitwise Operations](01-07-00-Bitwise-Operations.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-08-01. Syntax From Scratch](01-08-01-Syntax-Text-Processing.md)
+[⬅️ 01-07-01. Bitwise Operations: Синтаксис от нулата & ...](01-07-01-Syntax-Bitwise-Operations.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-08-01. Text Processing: Синтаксис от нулата & Che...](01-08-01-Syntax-Text-Processing.md)
 
 ---
 
@@ -110,5 +110,14 @@ print(f"Изчистен имейл: '{clean_email}'")
 *   **Уловката:** Кандидатите често тестват с прости думи (`"hello"`), виждат `True` и решават, че `is` винаги работи за сравнение на текст.
 *   **Точен Senior отговор:** С цел икономия на RAM памет, Python автоматично кешира (Interns) кратки стрингове, които приличат на имена на променливи (съдържат само букви, цифри и долна черта, напр. `"user_admin"`). Тогава двете променливи сочат към един и същ адрес в паметта и `is` връща `True`. Но ако текстът съдържа интервали, специални символи (напр. `"hello world!"`) или е прочетен динамично от конзолата, Python създава два отделни обекта в паметта и `is` връща **`False`**. **Златен закон:** Стринговете се сравняват **единствено с `==`**, никога с `is`!
 
+
+
+
+
+
+
 ---
-[⬅️ 01-07. Bitwise Operations](01-07-00-Bitwise-Operations.md) | [📂 Папка: Module-01-Basic-and-Fundamentals](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 01-08-01. Syntax From Scratch](01-08-01-Syntax-Text-Processing.md)
+
+[⬅️ 01-07-01. Bitwise Operations: Синтаксис от нулата & ...](01-07-01-Syntax-Bitwise-Operations.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-08-01. Text Processing: Синтаксис от нулата & Che...](01-08-01-Syntax-Text-Processing.md)
+
+© 2026 Dev-Library / 01-08-00. Text Processing (Теория, Неизменяемост & Интервю Капани)

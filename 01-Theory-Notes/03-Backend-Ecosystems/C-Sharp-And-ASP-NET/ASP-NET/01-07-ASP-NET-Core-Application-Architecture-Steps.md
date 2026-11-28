@@ -1,4 +1,4 @@
-[⬅️ 01-06. Identity и Автентификация](01-06-ASP-NET-Core-Identity-Authentication.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-08. Глобален Пищов (Cheat-Sheet)](01-08-ASP-NET-Core-Fundamentals-CheatSheet.md)
+[⬅️ 01-06. Потребителски сесии, бисквитки и сигурност с ...](01-06-ASP-NET-Core-Identity-Authentication.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 01-08. ASP.NET Core Fundamentals](01-08-ASP-NET-Core-Fundamentals-CheatSheet.md)
 
 ---
 
@@ -236,7 +236,14 @@ public class BooksController : Controller
 *   **Защо се случва:** Ти си регистрирала успешно твоя `StudentService` в `Program.cs`, но си забравила да регистрираш под него базовия му склад за данни `StudentRepository`. Контейнерът се опитва да сглоби сервиза, но вижда, че една от неговите конструкторни dependencies липсва в системната памет.
 *   **Как да го поправиш:** Обходи конструкторите на твоите сервизи един по един и подсигури, че абсолютно всяко едно инжектирано свойство присъства като официална регистрация (`AddScoped` / `AddTransient`) в `Program.cs` преди `builder.Build()`.
 
+
+
+
+
+
+
 ---
-[⬅️ 01-06. Identity и Автентификация](01-06-ASP-NET-Core-Identity-Authentication.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-08. Глобален Пищов (Cheat-Sheet)](01-08-ASP-NET-Core-Fundamentals-CheatSheet.md)
+
+[⬅️ 01-06. Потребителски сесии, бисквитки и сигурност с ...](01-06-ASP-NET-Core-Identity-Authentication.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 01-08. ASP.NET Core Fundamentals](01-08-ASP-NET-Core-Fundamentals-CheatSheet.md)
 
 © 2026 Dev-Library / 01-07. Етапи за изграждане на ASP.NET Core приложение и сравнение на структури

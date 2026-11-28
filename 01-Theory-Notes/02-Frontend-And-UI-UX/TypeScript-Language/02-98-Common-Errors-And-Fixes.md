@@ -1,4 +1,4 @@
-[📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md)
+[⬅️ 02-10. TypeScript Category Cheat Sheet: Пълно обобще...](02-97-Category-Cheat-Sheet.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-12. TypeScript Interview Q&A, Скрити Капани & Deb...](02-99-Interview-QA-Traps-And-Debugging.md)
 
 ---
 
@@ -179,8 +179,14 @@ async function fetchOrderSafe(id: number) {
 ```
 *   **Производителност:** Хвърлянето и хващането на изключения създава тежък обект със Stack Trace и забавя V8 двигателя. **Никога** не използвай `throw` за нормален контрол на потока (Flow Control) — при очаквани липси връщай `undefined`, `null` или Result обект `{ ok: false, error: "..." }`.
 
+
+
+
+
+
+
 ---
 
-[📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md)
+[⬅️ 02-10. TypeScript Category Cheat Sheet: Пълно обобще...](02-97-Category-Cheat-Sheet.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-12. TypeScript Interview Q&A, Скрити Капани & Deb...](02-99-Interview-QA-Traps-And-Debugging.md)
 
 © 2026 Dev-Library / 02-11. TypeScript Common Errors, Edge Cases & Fixes (Каталог на грешките)

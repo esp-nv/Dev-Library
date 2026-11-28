@@ -1,4 +1,4 @@
-[⬅️ 03-01. Глобални филтри и Soft Delete](03-01-Global-Query-Filters-And-Soft-Delete.md) | [📂 Глава 03. Напреднали защити в DbContext, Глобални филтри и Soft Delete](03-00-ADVANCED-DBCONTEXT-PROTECTIONS-INTRO.md) 
+[⬅️ 03-01. Глобални Query филтри и имплементиране на Sof...](03-01-Global-Query-Filters-And-Soft-Delete.md) | [📂 Назад към Databases & Entity Framework Core — Пълен Архитектур... Хъба](README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases & Entity Framework Core — Пълен Архитектур...](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [➡️ 04-95. EF Core Project Workflow: Карта Стъпка по Стъпка](04-95-Project-Workflow-And-Step-By-Step-Map.md)
 
 ---
 
@@ -104,7 +104,14 @@ if (violatedSettings.Any())
 *   **Капан №2 (Проблемът с производителността при масови обхождания):** Изпълняваш тежки LINQ заявки или външни повиквания към базата данни вътре в самия метод `EnforceGlobalThemeProtection()`. Тъй като този метод се задейства при всяко едно записване на ред, софтуерът ще забави работата си драстично.
     *   *Решение:* Четем изцяло и само транзитните записи, които вече се намират в паметта на `ChangeTracker.Entries<T>()`, без да правим нови заявки по мрежата.
 
+
+
+
+
+
+
 ---
-[⬅️ 03-01. Глобални филтри и Soft Delete](03-01-Global-Query-Filters-And-Soft-Delete.md) | [📂 Глава 03. Напреднали защити в DbContext, Глобални филтри и Soft Delete](03-00-ADVANCED-DBCONTEXT-PROTECTIONS-INTRO.md) 
+
+[⬅️ 03-01. Глобални Query филтри и имплементиране на Sof...](03-01-Global-Query-Filters-And-Soft-Delete.md) | [📂 Назад към Databases & Entity Framework Core — Пълен Архитектур... Хъба](README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases & Entity Framework Core — Пълен Архитектур...](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [➡️ 04-95. EF Core Project Workflow: Карта Стъпка по Стъпка](04-95-Project-Workflow-And-Step-By-Step-Map.md)
 
 © 2026 Dev-Library / 03-02. Прихващане на SaveChanges и ChangeTracker сканиране

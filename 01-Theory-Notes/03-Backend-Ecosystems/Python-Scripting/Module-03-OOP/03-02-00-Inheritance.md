@@ -1,4 +1,4 @@
-[⬅️ 03-01. Classes and Objects](03-01-00-Classes-And-Objects.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-02-01. Syntax From Scratch](03-02-01-Syntax-Inheritance.md)
+[⬅️ 03-01-01. Classes and Objects: Синтаксис от нулата &...](03-01-01-Syntax-Classes-And-Objects.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-02-01. Inheritance: Синтаксис от нулата & Cheat S...](03-02-01-Syntax-Inheritance.md)
 
 ---
 
@@ -132,5 +132,14 @@ print(f"JSON Експорт: {admin.to_json()}")
     1.  **`type(obj) is Class`** проверява за **абсолютно точно съвпадение** на класа и **игнорира наследяването** (`type(admin) is User` връща `False`, защото точният тип е `SystemAdmin`).
     2.  **`isinstance(obj, Class)`** уважава цялата йерархия на наследяване и връща **`True`** както за самия клас, така и за всеки негов родител или прародител (`isinstance(admin, User)` връща `True`). Затова в реалния код **винаги** се използва `isinstance()`.
 
+
+
+
+
+
+
 ---
-[⬅️ 03-01. Classes and Objects](03-01-00-Classes-And-Objects.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-02-01. Syntax From Scratch](03-02-01-Syntax-Inheritance.md)
+
+[⬅️ 03-01-01. Classes and Objects: Синтаксис от нулата &...](03-01-01-Syntax-Classes-And-Objects.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-02-01. Inheritance: Синтаксис от нулата & Cheat S...](03-02-01-Syntax-Inheritance.md)
+
+© 2026 Dev-Library / 03-02-00. Inheritance (Теория, MRO алгоритъм & Интервю Капани)

@@ -1,4 +1,4 @@
-[⬅️ 01-08. Индустриални QA Платформи](01-08-Jira-JQL-TestRail-And-CICD-Platforms.md) | 📂 Папка: 01-QA-Automation | [🏠 Начало](../README.md) | [➡️ 01-97. QA Category Cheat Sheet](01-97-Category-Cheat-Sheet.md)
+[⬅️ 01-06-01. Postman, RestSharp, REST Assured & K6: Син...](01-06-01-Syntax-API-And-Performance-Testing.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-97. QA Automation Category Cheat Sheet: Пълно обо...](01-97-Category-Cheat-Sheet.md)
 
 ---
 
@@ -96,5 +96,14 @@ await page.route("**/*", (route) => {
 });
 ```
 
+
+
+
+
+
+
 ---
-[⬅️ 01-08. Индустриални QA Платформи](01-08-Jira-JQL-TestRail-And-CICD-Platforms.md) | 📂 Папка: 01-QA-Automation | [🏠 Начало](../README.md) | [➡️ 01-97. QA Category Cheat Sheet](01-97-Category-Cheat-Sheet.md)
+
+[⬅️ 01-06-01. Postman, RestSharp, REST Assured & K6: Син...](01-06-01-Syntax-API-And-Performance-Testing.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-97. QA Automation Category Cheat Sheet: Пълно обо...](01-97-Category-Cheat-Sheet.md)
+
+© 2026 Dev-Library / 01-96. QA Automation Оптимизации: Кое е грешно, защо и как е по-добре (с Блок-схеми)

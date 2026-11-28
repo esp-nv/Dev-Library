@@ -1,4 +1,4 @@
-[⬅️ 04-03-01. Django ORM Syntax](04-03-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-04-00. Table Relationships](04-04-00-Relationships.md)
+[⬅️ 04-03-01. Django ORM CRUD: Синтаксис от нулата & Che...](04-03-01-Syntax-Django-ORM.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-04-00. Table Relationships](04-04-00-Relationships.md)
 
 ---
 
@@ -178,5 +178,14 @@ r.delete("product:1")
 | **Сортиране и Лимит** | `.order_by(desc(Model.id)).limit(10)` |
 | **Масов Update / Delete** | `session.execute(update(Model)...)` / `delete(Model)...` |
 
+
+
+
+
+
+
 ---
-[⬅️ 04-03-01. Django ORM Syntax](04-03-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-04-00. Table Relationships](04-04-00-Relationships.md)
+
+[⬅️ 04-03-01. Django ORM CRUD: Синтаксис от нулата & Che...](04-03-01-Syntax-Django-ORM.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-04-00. Table Relationships](04-04-00-Relationships.md)
+
+© 2026 Dev-Library / 04-03-02. SQLAlchemy 2.0 CRUD: Синтаксис от нулата & Cheat Sheet

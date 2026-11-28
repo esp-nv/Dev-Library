@@ -1,4 +1,4 @@
-[⬅️ 01-05-01. Playwright & Appium Cheat Sheet](01-05-01-Syntax-Playwright-AJAX-And-Appium.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-06-01. Postman, RestSharp, REST Assured & K6](01-06-01-Syntax-API-And-Performance-Testing.md)
+[⬅️ 01-05-01. Playwright & Appium Cheat Sheet](01-05-01-Syntax-Playwright-AJAX-And-Appium.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-06-01. Postman, RestSharp, REST Assured & K6: Син...](01-06-01-Syntax-API-And-Performance-Testing.md)
 
 ---
 
@@ -119,8 +119,14 @@ public async Task CreateOrder_ValidPayload_Returns201AndPersistsOrder()
 * **Въпрос 2:** *„Каква е разликата между **`401 Unauthorized`** и **`403 Forbidden`** при тестване на API сигурност?“*
   * **Отговор:** **`401 Unauthorized`** означава *„Не знаем кой си“* (липсващ, невалиден или изтекъл JWT токен — липсва **Authentication**). **`403 Forbidden`** означава *„Знаем кой си, но нямаш права за този ресурс“* (напр. обикновен потребител с валиден токен се опитва да извика `DELETE /api/admin/users` — отказана **Authorization**).
 
+
+
+
+
+
+
 ---
 
-[⬅️ 01-05-01. Playwright & Appium Cheat Sheet](01-05-01-Syntax-Playwright-AJAX-And-Appium.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-06-01. Postman, RestSharp, REST Assured & K6](01-06-01-Syntax-API-And-Performance-Testing.md)
+[⬅️ 01-05-01. Playwright & Appium Cheat Sheet](01-05-01-Syntax-Playwright-AJAX-And-Appium.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-06-01. Postman, RestSharp, REST Assured & K6: Син...](01-06-01-Syntax-API-And-Performance-Testing.md)
 
 © 2026 Dev-Library / 01-06-00. REST API, GraphQL, Contract & Load Testing (K6 & JMeter)

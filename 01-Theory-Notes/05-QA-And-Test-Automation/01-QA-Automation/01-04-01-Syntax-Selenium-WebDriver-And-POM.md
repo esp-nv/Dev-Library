@@ -1,4 +1,4 @@
-[⬅️ 01-04-00. Selenium WebDriver, DOM Locators & POM](01-04-00-Selenium-WebDriver-And-POM.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-05-00. Playwright, AJAX/jQuery & Mobile Appium](01-05-00-Playwright-AJAX-And-Appium.md)
+[⬅️ 01-04-00. Selenium WebDriver, DOM Locators, Explicit...](01-04-00-Selenium-WebDriver-And-POM.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-05-00. Playwright (Auto-Waiting), AJAX/jQuery & M...](01-05-00-Playwright-AJAX-And-Appium.md)
 
 ---
 
@@ -114,8 +114,14 @@ if (TestContext.CurrentContext.Result.Outcome.Status == NUnit.Framework.Interfac
 | **Качване към родител (Upward)** | *(Не се поддържа в CSS)* | `//td[text()='Ivan']/parent::tr`<br>`//input[@id='agree']/ancestor::form` |
 | **Пореден елемент (Индекс)** | `ul > li:first-child` / `li:nth-child(2)` | `(//ul/li)[1]` / `(//ul/li)[2]` *(XPath брои от 1!)* |
 
+
+
+
+
+
+
 ---
 
-[⬅️ 01-04-00. Selenium WebDriver, DOM Locators & POM](01-04-00-Selenium-WebDriver-And-POM.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-05-00. Playwright, AJAX/jQuery & Mobile Appium](01-05-00-Playwright-AJAX-And-Appium.md)
+[⬅️ 01-04-00. Selenium WebDriver, DOM Locators, Explicit...](01-04-00-Selenium-WebDriver-And-POM.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-05-00. Playwright (Auto-Waiting), AJAX/jQuery & M...](01-05-00-Playwright-AJAX-And-Appium.md)
 
 © 2026 Dev-Library / 01-04-01. Selenium & Locators Cheat Sheet (Синтаксис от Нулата)

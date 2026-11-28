@@ -1,4 +1,4 @@
-[⬅️ Теория, Сравнение & Интервю Капани](04-01-00-Models-And-Fields.md) | [📂 Назад към Module 04 Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04 Python ORM](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md)
+[⬅️ 04-02-02. SQLAlchemy (Alembic) Migrations: Синтаксис...](04-02-02-Syntax-SQLAlchemy.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-03-01. Django ORM CRUD: Синтаксис от нулата & Che...](04-03-01-Syntax-Django-ORM.md)
 
 ---
 
@@ -123,8 +123,14 @@ User.objects.filter(id=1).update(points=F("points") + 50)
     *   При `product.stock -= 1; product.save()`, и двата сървъра прочитат `stock = 1` в Python паметта, вадят `1` и записват `0` — продали сме 2 лаптопа, а сме имали само 1!
     *   Когато използваме **`F("stock") - 1`** (`Product.objects.filter(id=1).update(stock=F("stock") - 1)`), Python изобщо не зарежда числото в паметта си, а изпраща директна SQL инструкция: **`UPDATE products SET stock = stock - 1 WHERE id = 1`**. Базата данни заключва реда и изпълнява операцията атомарно, гарантирайки 100% точност.
 
+
+
+
+
+
+
 ---
 
-[⬅️ Теория, Сравнение & Интервю Капани](04-01-00-Models-And-Fields.md) | [📂 Назад към Module 04 Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04 Python ORM](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md)
+[⬅️ 04-02-02. SQLAlchemy (Alembic) Migrations: Синтаксис...](04-02-02-Syntax-SQLAlchemy.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-03-01. Django ORM CRUD: Синтаксис от нулата & Che...](04-03-01-Syntax-Django-ORM.md)
 
 © 2026 Dev-Library / 04-03-00. CRUD Operations and Queries (Теория, `QuerySet` срещу `Session` & Капани)

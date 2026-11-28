@@ -1,4 +1,4 @@
-[📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03 OOP](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [▶️ Започни от 03-00. Intro: Въведение в Python OOP & Архитектурен Roadmap](03-00-Intro.md)
+[📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от 03-00. Intro: Въведение в Python OOP & Архитектурен ...](03-00-Intro.md)
 
 ---
 
@@ -40,8 +40,14 @@
     *   📄 [Теория, Creational / Structural / Behavioral & Капани](03-10-00-Design-Patterns.md)
     *   🛠️ [Syntax-From-Scratch & Cheat Sheet](03-10-01-Syntax-Design-Patterns.md)
 
+
+
+
+
+
+
 ---
 
-[📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03 OOP](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [▶️ Започни от 03-00. Intro: Въведение в Python OOP & Архитектурен Roadmap](03-00-Intro.md)
+[📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [▶️ Започни от 03-00. Intro: Въведение в Python OOP & Архитектурен ...](03-00-Intro.md)
 
 © 2026 Dev-Library / Module 03: Python OOP (Object-Oriented Programming)

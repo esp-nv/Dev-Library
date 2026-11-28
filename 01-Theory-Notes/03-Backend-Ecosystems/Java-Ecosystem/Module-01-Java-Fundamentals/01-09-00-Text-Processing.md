@@ -1,4 +1,4 @@
-[⬅️ 01-08. Stream API & Lambdas](01-08-00-Stream-API.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-09-01. Syntax From Scratch](01-09-01-Syntax-Text-Processing.md)
+[⬅️ 01-08-01. Stream API & Lambda Expressions: Синтаксис...](01-08-01-Syntax-Stream-API.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-09-01. Text Processing (`String` & `StringBuilder...](01-09-01-Syntax-Text-Processing.md)
 
 ---
 
@@ -107,5 +107,14 @@ public class CleanStringBuilderDemo {
     1.  **`trim()` срещу `strip()`:** Старият `trim()` премахва само ASCII символи с код $\le 32$ (`\u0020`), но **не разпознава Unicode интервали** (като неразделим интервал `\u00A0` или типографски шпации). Модерният **`strip()`** (заедно с `stripLeading()` и `stripTrailing()`) използва `Character.isWhitespace()` и чисти правилно **всички Unicode интервали**.
     2.  **Compact Strings (Java 9+):** Преди Java 9 всеки `String` пазеше буквите в `char[]` (по 2 байта UTF-16 на символ), дори когато текстът е само на латиница. От Java 9 нататък `String` използва **`byte[]` + 1 байт кодировка (`LATIN1` или `UTF16`)** — ако текстът съдържа само Latin-1 символи, заема **1 байт на символ вместо 2 байта**, спестявайки до 50% от Heap паметта на сървъра!
 
+
+
+
+
+
+
 ---
-[⬅️ 01-08. Stream API & Lambdas](01-08-00-Stream-API.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-09-01. Syntax From Scratch](01-09-01-Syntax-Text-Processing.md)
+
+[⬅️ 01-08-01. Stream API & Lambda Expressions: Синтаксис...](01-08-01-Syntax-Stream-API.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-09-01. Text Processing (`String` & `StringBuilder...](01-09-01-Syntax-Text-Processing.md)
+
+© 2026 Dev-Library / 01-09-00. Text Processing (`String`, `StringBuilder` & String Pool — Теория & Капани)

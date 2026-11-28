@@ -1,4 +1,4 @@
-[⬅️ 03-00. Intro to Spring Data](03-00-Intro.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-01-01. Syntax From Scratch](03-01-01-Syntax-JDBC-Introduction.md)
+[⬅️ 03-00. Intro: Въведение в Spring Data, Hibernate & А...](03-00-Intro.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-01-01. DB Apps Introduction (JDBC): Синтаксис от ...](03-01-01-Syntax-JDBC-Introduction.md)
 
 ---
 
@@ -74,5 +74,14 @@ public class SafeJdbcQuery {
 *   **Интервю уловка:** `PreparedStatement` разделя SQL структурата от данните на ниво Execution Plan в базата данни, поради което входни данни с кавички или SQL команди се третират стриктно като низове.
 *   **Java 21+ спрямо C# 12+:** В JDBC индексите на параметрите и колоните започват от **`1`**, докато в ADO.NET колоните започват от **`0`**. В Spring Framework 6.1+ съществува модерен Fluent API клиент **`JdbcClient`** (аналог на Dapper в .NET).
 
+
+
+
+
+
+
 ---
-[⬅️ 03-00. Intro to Spring Data](03-00-Intro.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-01-01. Syntax From Scratch](03-01-01-Syntax-JDBC-Introduction.md)
+
+[⬅️ 03-00. Intro: Въведение в Spring Data, Hibernate & А...](03-00-Intro.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-01-01. DB Apps Introduction (JDBC): Синтаксис от ...](03-01-01-Syntax-JDBC-Introduction.md)
+
+© 2026 Dev-Library / 03-01-00. DB Apps Introduction (JDBC, `PreparedStatement` & HikariCP — Теория & Капани)

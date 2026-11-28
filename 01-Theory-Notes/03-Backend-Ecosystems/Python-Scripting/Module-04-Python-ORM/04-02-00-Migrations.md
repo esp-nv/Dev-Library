@@ -1,4 +1,4 @@
-[⬅️ 04-01. Models and Fields](04-01-00-Models-And-Fields.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-02-01. Django ORM Syntax](04-02-01-Syntax-Django-ORM.md)
+[⬅️ 04-01-02. SQLAlchemy 2.0 Models: Синтаксис от нулата...](04-01-02-Syntax-SQLAlchemy.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-02-01. Django ORM Migrations: Синтаксис от нулата...](04-02-01-Syntax-Django-ORM.md)
 
 ---
 
@@ -115,5 +115,14 @@ class Migration(migrations.Migration):
     2.  **Стъпка 2 (Backfill):** Пускаш фонов скрипт, който попълва стойностите на малки порции (Batches), и пускаш новия код, който вече пише в тази колона.
     3.  **Стъпка 3 (Contract):** Чак когато всички 10 милиона реда са попълнени, пускаш втора миграция, която слага ограничението `NOT NULL`.
 
+
+
+
+
+
+
 ---
-[⬅️ 04-01. Models and Fields](04-01-00-Models-And-Fields.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-02-01. Django ORM Syntax](04-02-01-Syntax-Django-ORM.md)
+
+[⬅️ 04-01-02. SQLAlchemy 2.0 Models: Синтаксис от нулата...](04-01-02-Syntax-SQLAlchemy.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-02-01. Django ORM Migrations: Синтаксис от нулата...](04-02-01-Syntax-Django-ORM.md)
+
+© 2026 Dev-Library / 04-02-00. Migrations and Database Schema (Теория, Alembic срещу `makemigrations` & Капани)

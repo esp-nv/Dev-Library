@@ -1,4 +1,4 @@
-[⬅️ 03-02-00. Теория & Капани](03-02-00-Hibernate-Intro.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-03-00. Entity Relations (1:1, 1:N, M:N)](03-03-00-Entity-Relations.md)
+[⬅️ 03-02-00. Introduction to Hibernate & Entity Lifecycle](03-02-00-Hibernate-Intro.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-03-00. Hibernate Code First & Entity Relations](03-03-00-Entity-Relations.md)
 
 ---
 
@@ -184,5 +184,14 @@ public class Article {
 | **`entityManager.flush()`** | Изпраща натрупаните SQL заявки веднага | Не комитва транзакцията, само синхронизира с БД |
 | **`entityManager.clear()`** | Изпразва First-Level Cache | Спасява от `OutOfMemoryError` при големи цикли |
 
+
+
+
+
+
+
 ---
-[⬅️ 03-02-00. Теория & Капани](03-02-00-Hibernate-Intro.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-03-00. Entity Relations (1:1, 1:N, M:N)](03-03-00-Entity-Relations.md)
+
+[⬅️ 03-02-00. Introduction to Hibernate & Entity Lifecycle](03-02-00-Hibernate-Intro.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-03-00. Hibernate Code First & Entity Relations](03-03-00-Entity-Relations.md)
+
+© 2026 Dev-Library / 03-02-01. Introduction to Hibernate & Entity Lifecycle: Синтаксис от нулата & Cheat Sheet

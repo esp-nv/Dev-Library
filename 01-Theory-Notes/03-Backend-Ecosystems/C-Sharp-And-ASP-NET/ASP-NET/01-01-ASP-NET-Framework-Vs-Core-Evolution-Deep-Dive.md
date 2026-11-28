@@ -1,4 +1,4 @@
-[⬅️ 01-00. Кратък справочник](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-02. Жизнен цикъл и Middleware](01-02-ASP-NET-Core-Lifecycle-And-Middleware.md)
+[⬅️ 01-00. ASP.NET Core Fundamentals](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 01-02. Жизнен цикъл и Middleware компоненти в ASP.NE...](01-02-ASP-NET-Core-Lifecycle-And-Middleware.md)
 
 ---
 
@@ -110,7 +110,14 @@ Status: 200 OK
 Успешна връзка към: Server=Localhost;Database=MyDb;Trusted_Connection=True;
 ```
 
+
+
+
+
+
+
 ---
-[⬅️ 01-00. Кратък справочник](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-02. Жизнен цикъл и Middleware](01-02-ASP-NET-Core-Lifecycle-And-Middleware.md)
+
+[⬅️ 01-00. ASP.NET Core Fundamentals](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 01-02. Жизнен цикъл и Middleware компоненти в ASP.NE...](01-02-ASP-NET-Core-Lifecycle-And-Middleware.md)
 
 © 2026 Dev-Library / 01-01. Еволюция на архитектурата: Класически .NET Framework срещу .NET Core+

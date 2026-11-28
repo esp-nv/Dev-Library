@@ -1,4 +1,4 @@
-[⬅️ 06-00. Intro & Roadmap](06-00-Intro.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-01-01. Syntax From Scratch](06-01-01-Syntax-Auth-And-Authorization.md)
+[⬅️ 06-00. Intro: Въведение в Django Advanced & Enterpri...](06-00-Intro.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-01-01. Django Auth & Authorization: Синтаксис от ...](06-01-01-Syntax-Auth-And-Authorization.md)
 
 ---
 
@@ -148,5 +148,14 @@ def delete_catalog_item(request, pk: int):
     2.  **`is_staff`:** Дава единствено правото да отвориш входната врата на **`/admin/` панела**, но **не ти дава никакви права** да виждаш или променяш таблици вътре, освен ако не ти бъдат дадени изрично через групи или права.
     3.  **`is_superuser`:** Има **абсолютно всички права** в системата автоматично — извикването на `user.has_perm("каквото.и_да_е")` винаги връща `True` без изобщо да проверява таблиците с права в базата данни.
 
+
+
+
+
+
+
 ---
-[⬅️ 06-00. Intro & Roadmap](06-00-Intro.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-01-01. Syntax From Scratch](06-01-01-Syntax-Auth-And-Authorization.md)
+
+[⬅️ 06-00. Intro: Въведение в Django Advanced & Enterpri...](06-00-Intro.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-01-01. Django Auth & Authorization: Синтаксис от ...](06-01-01-Syntax-Auth-And-Authorization.md)
+
+© 2026 Dev-Library / 06-01-00. Django Authentication and Authorization (Теория, Сесии, Пароли & Капани)

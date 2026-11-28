@@ -1,4 +1,4 @@
-[⬅️ 01-09. Text Processing](01-09-00-Text-Processing.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-10-01. Syntax From Scratch](01-10-01-Syntax-Regular-Expressions.md)
+[⬅️ 01-09-01. Text Processing (`String` & `StringBuilder...](01-09-01-Syntax-Text-Processing.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-10-01. Regular Expressions (Regex): Синтаксис от ...](01-10-01-Syntax-Regular-Expressions.md)
 
 ---
 
@@ -119,5 +119,14 @@ public class CleanRegexDemo {
 *   **Точен Senior отговор:** Стандартният Regex двигател в Java (`java.util.regex`) използва алгоритъм с връщане назад (**NFA Backtracking**). Когато шаблонът съдържа **вложени двусмислени квантификатори** (напр. `(a+)+$` или `([a-zA-Z]+)*$`) и получи невалиден вход като `"aaaaaaaaaaaaaaaaaaaaaaaaaaaa!"` (завършващ на `!`), двигателят изпробва **$2^N$ комбинации** от разбивания на буквите `'a'`, преди да се откаже (**Catastrophic Backtracking**), което удря 100% натоварване на процесора (**ReDoS атака**).
     *   *Решение:* Избягвай вложени квантификатори `(x+)+` или използвай **Possessive Quantifiers** (`a++`), които забраняват на двигателя да се връща назад при неуспех.
 
+
+
+
+
+
+
 ---
-[⬅️ 01-09. Text Processing](01-09-00-Text-Processing.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-10-01. Syntax From Scratch](01-10-01-Syntax-Regular-Expressions.md)
+
+[⬅️ 01-09-01. Text Processing (`String` & `StringBuilder...](01-09-01-Syntax-Text-Processing.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-10-01. Regular Expressions (Regex): Синтаксис от ...](01-10-01-Syntax-Regular-Expressions.md)
+
+© 2026 Dev-Library / 01-10-00. Regular Expressions (Regex — Теория, `Pattern` & `Matcher` & Капани)

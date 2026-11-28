@@ -1,4 +1,4 @@
-[⬅️ Назад към QA Automation Хъба](README.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-01-00. SDLC, STLC, Нива и Видове Тестване](01-01-00-SDLC-STLC-And-Testing-Types.md)
+[📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-01-00. SDLC, STLC, Нива и Видове Тестване](01-01-00-SDLC-STLC-And-Testing-Types.md)
 
 ---
 
@@ -63,8 +63,14 @@
 5. **Тема 01-05 (`-00` / `-01`):** Модерна автоматизация с Playwright (Auto-Waiting, Trace Viewer), AJAX/jQuery и мобилно тестване с Appium.
 6. **Тема 01-06 (`-00` / `-01`):** REST API, GraphQL, Contract тестване (Postman, RestSharp, REST Assured) и Performance/Load тестване (Grafana K6, JMeter).
 
+
+
+
+
+
+
 ---
 
-[⬅️ Назад към QA Automation Хъба](README.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-01-00. SDLC, STLC, Нива и Видове Тестване](01-01-00-SDLC-STLC-And-Testing-Types.md)
+[📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-01-00. SDLC, STLC, Нива и Видове Тестване](01-01-00-SDLC-STLC-And-Testing-Types.md)
 
 © 2026 Dev-Library / 01-00. Intro to QA Engineering, Testing Pyramid & Roadmap

@@ -1,4 +1,4 @@
-[⬅️ 02-02-01. Advanced Types & Utility Cheat Sheet](02-02-01-Syntax-Advanced-Types-And-Guards.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-03-01. OOP in TypeScript Cheat Sheet](02-03-01-Syntax-OOP-In-TypeScript.md)
+[⬅️ 02-02-01. Advanced Types & Utility Cheat Sheet](02-02-01-Syntax-Advanced-Types-And-Guards.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-03-01. OOP in TypeScript: Синтаксис от Нулата & C...](02-03-01-Syntax-OOP-In-TypeScript.md)
 
 ---
 
@@ -205,8 +205,14 @@ service.processCandidate(candidate);
 * **Въпрос 3:** *„Какво прави удивителният знак `!` след име на поле в клас (`private _name!: string;`) и кога се използва?“*
   * **Отговор:** Това е **Definite Assignment Assertion**. При включен строг режим (`strictPropertyInitialization: true`), TypeScript изисква всяко поле да получи начална стойност в конструктора. Знакът `!` казва на компилатора: *„Гарантирам, че това поле ще бъде инициализирано чрез помощен метод или Dependency Injection преди да се прочете“*.
 
+
+
+
+
+
+
 ---
 
-[⬅️ 02-02-01. Advanced Types & Utility Cheat Sheet](02-02-01-Syntax-Advanced-Types-And-Guards.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-03-01. OOP in TypeScript Cheat Sheet](02-03-01-Syntax-OOP-In-TypeScript.md)
+[⬅️ 02-02-01. Advanced Types & Utility Cheat Sheet](02-02-01-Syntax-Advanced-Types-And-Guards.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-03-01. OOP in TypeScript: Синтаксис от Нулата & C...](02-03-01-Syntax-OOP-In-TypeScript.md)
 
 © 2026 Dev-Library / 02-03-00. Обектно-Ориентирано Програмиране (OOP) в TypeScript (Дълбока Архитектура & SOLID)

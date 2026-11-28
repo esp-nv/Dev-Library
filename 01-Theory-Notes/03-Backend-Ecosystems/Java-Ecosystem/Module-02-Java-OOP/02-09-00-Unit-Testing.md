@@ -1,4 +1,4 @@
-[⬅️ 02-08. Exceptions & Error Handling](02-08-00-Exceptions-Handling.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-09-01. Syntax From Scratch](02-09-01-Syntax-Unit-Testing.md)
+[⬅️ 02-08-01. Exceptions and Error Handling: Синтаксис о...](02-08-01-Syntax-Exceptions-Handling.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-09-01. Unit Testing (JUnit 5 & Mockito): Синтакси...](02-09-01-Syntax-Unit-Testing.md)
 
 ---
 
@@ -153,5 +153,14 @@ class UserServiceTest {
 | **Настройка на поведение (Stub)** | `when(repo.save(any())).thenReturn(user);` | `mockRepo.Setup(r => r.Save(It.IsAny<User>())).Returns(user);` |
 | **Проверка за извикване (Verify)** | `verify(repo, times(1)).deleteById(5L);` | `mockRepo.Verify(r => r.DeleteById(5), Times.Once);` |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-08. Exceptions & Error Handling](02-08-00-Exceptions-Handling.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-09-01. Syntax From Scratch](02-09-01-Syntax-Unit-Testing.md)
+
+[⬅️ 02-08-01. Exceptions and Error Handling: Синтаксис о...](02-08-01-Syntax-Exceptions-Handling.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-09-01. Unit Testing (JUnit 5 & Mockito): Синтакси...](02-09-01-Syntax-Unit-Testing.md)
+
+© 2026 Dev-Library / 02-09-00. Unit Testing (JUnit 5 & Mockito — Теория, AAA Патерн & Капани)

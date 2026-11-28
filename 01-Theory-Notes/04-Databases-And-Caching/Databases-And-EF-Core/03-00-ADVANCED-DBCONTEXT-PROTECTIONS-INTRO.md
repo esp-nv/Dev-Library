@@ -1,8 +1,4 @@
-[⬅️ Главен справочник на темата](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) | [📂 Назад към Databases And EF Core Хъба](README.md) | [🌐 Домейн: 04. Databases & Caching](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases And EF Core](README.md) | [🌐 Следващ домейн: 05. QA & Test Automation](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md)
-
----
-
-[⏪ Глава 02-00. Основи на EF Core](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) | 📂 Глава 03. Напреднали защити в DbContext, Глобални филтри и Soft Delete | [🏠 Начало (EF Core)](README.md) | [➡️ 03-01. Глобални филтри и Soft Delete](03-01-Global-Query-Filters-And-Soft-Delete.md)
+[⬅️ 02-10. Напреднал LINQ, Стратегии за зареждане и Конк...](02-10-Advanced-LINQ-And-Query-Operations.md) | [📂 Назад към Databases & Entity Framework Core — Пълен Архитектур... Хъба](README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases & Entity Framework Core — Пълен Архитектур...](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [➡️ 03-01. Глобални Query филтри и имплементиране на Sof...](03-01-Global-Query-Filters-And-Soft-Delete.md)
 
 ---
 
@@ -70,8 +66,14 @@
 ---
 [⏪ Глава 02-00. Основи на EF Core](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) | 📂 Глава 03. Напреднали защити в DbContext, Глобални филтри и Soft Delete | [🏠 Начало (EF Core)](README.md) | [➡️ 03-01. Глобални филтри и Soft Delete](03-01-Global-Query-Filters-And-Soft-Delete.md)
 
+
+
+
+
+
+
 ---
 
-[⬅️ Главен справочник на темата](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) | [📂 Назад към Databases And EF Core Хъба](README.md) | [🌐 Домейн: 04. Databases & Caching](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases And EF Core](README.md) | [🌐 Следващ домейн: 05. QA & Test Automation](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md)
+[⬅️ 02-10. Напреднал LINQ, Стратегии за зареждане и Конк...](02-10-Advanced-LINQ-And-Query-Operations.md) | [📂 Назад към Databases & Entity Framework Core — Пълен Архитектур... Хъба](README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases & Entity Framework Core — Пълен Архитектур...](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [➡️ 03-01. Глобални Query филтри и имплементиране на Sof...](03-01-Global-Query-Filters-And-Soft-Delete.md)
 
 © 2026 Dev-Library / 03-00. Напреднали защити в DbContext, Глобални филтри и Soft Delete (Кратък справочник)

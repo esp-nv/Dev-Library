@@ -1,4 +1,4 @@
-[⬅️ 01-00. Intro to QA Engineering & Testing Pyramid](01-00-Intro-To-QA-Engineering.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-01-01. Шаблони & Cheat Sheet](01-01-01-Syntax-SDLC-STLC-And-Testing-Types.md)
+[⬅️ 01-00. Intro to QA Engineering, Testing Pyramid & Ro...](01-00-Intro-To-QA-Engineering.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-01-01. Шаблони & Cheat Sheet](01-01-01-Syntax-SDLC-STLC-And-Testing-Types.md)
 
 ---
 
@@ -131,8 +131,14 @@ Attachments: checkout_500_console.png, network_trace.har
 * **Въпрос 2:** *„Каква е разликата между **Error**, **Defect (Bug)** и **Failure**?“*
   * **Отговор:** Човекът допуска грешка в мисленето или писането (**Error / Mistake**), което създава дефект в кода или документацията (**Defect / Bug / Fault**); когато този код се изпълни при определени условия, системата се проваля и не изпълнява очакваното поведение (**Failure**).
 
+
+
+
+
+
+
 ---
 
-[⬅️ 01-00. Intro to QA Engineering & Testing Pyramid](01-00-Intro-To-QA-Engineering.md) | [📂 Текуща папка: 01. QA Automation](README.md) | [🏠 Начало](../../../README.md) | [📂 Следваща папка: 02. TypeScript Language](../02-TypeScript-Language/README.md) | [➡️ 01-01-01. Шаблони & Cheat Sheet](01-01-01-Syntax-SDLC-STLC-And-Testing-Types.md)
+[⬅️ 01-00. Intro to QA Engineering, Testing Pyramid & Ro...](01-00-Intro-To-QA-Engineering.md) | [📂 Назад към QA Automation & SDET Engineering Хъба](README.md) | [🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [➡️ 01-01-01. Шаблони & Cheat Sheet](01-01-01-Syntax-SDLC-STLC-And-Testing-Types.md)
 
 © 2026 Dev-Library / 01-01-00. SDLC, STLC, Нива и Видове Тестване (Теория, Сравнения & Капани)

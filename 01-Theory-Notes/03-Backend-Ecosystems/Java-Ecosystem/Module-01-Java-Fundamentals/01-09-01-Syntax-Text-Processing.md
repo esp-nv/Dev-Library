@@ -1,4 +1,4 @@
-[⬅️ 01-09-00. Теория & Капани](01-09-00-Text-Processing.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-10-00. Regular Expressions (Regex)](01-10-00-Regular-Expressions.md)
+[⬅️ 01-09-00. Text Processing](01-09-00-Text-Processing.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-10-00. Regular Expressions](01-10-00-Regular-Expressions.md)
 
 ---
 
@@ -109,5 +109,14 @@ String capitalized = new String(letters); // "Algorithm"
 | **`sb.setCharAt(idx, ch)`** | `StringBuilder` | Променя символ на конкретен индекс |
 | **`sb.setLength(0)`** | `StringBuilder` | Изчиства буфера за повторна употреба без нова алокация |
 
+
+
+
+
+
+
 ---
-[⬅️ 01-09-00. Теория & Капани](01-09-00-Text-Processing.md) | 📂 Папка: Module-01-Java-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 01-10-00. Regular Expressions (Regex)](01-10-00-Regular-Expressions.md)
+
+[⬅️ 01-09-00. Text Processing](01-09-00-Text-Processing.md) | [📂 Назад към Module 01: Java Fundamentals Хъба](README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Java Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [➡️ 01-10-00. Regular Expressions](01-10-00-Regular-Expressions.md)
+
+© 2026 Dev-Library / 01-09-01. Text Processing (`String` & `StringBuilder`): Синтаксис от нулата & Cheat Sheet

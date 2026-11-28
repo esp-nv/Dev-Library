@@ -1,4 +1,4 @@
-[⬅️ 02-04-01. Generics & Conditional Types Cheat Sheet](02-04-01-Syntax-Mastering-Generics.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-05-01. Decorators, Modules & Async Cheat Sheet](02-05-01-Syntax-Decorators-Modules-And-Async.md)
+[⬅️ 02-04-01. Generics & Conditional Types: Синтаксис от...](02-04-01-Syntax-Mastering-Generics.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-05-01. Decorators, Modules & Async TypeScript: Си...](02-05-01-Syntax-Decorators-Modules-And-Async.md)
 
 ---
 
@@ -141,8 +141,14 @@ coreProcessor.executeTransfer("BG_AUTH_8912739", 350);
 * **Въпрос 2:** *„Какъв е типът на променливата `error` в блока `try { ... } catch (error) { ... }` в модерен TypeScript (`strict: true`) и как се обработва безопасно?“*
   * **Отговор:** От TypeScript 4.4+ типът по подразбиране в `catch` блока е **`unknown`** (а не `any`), защото в JavaScript може да бъде хвърлено всичко (`throw new Error(...)`, `throw "грешка"` или `throw 404`). За да достъпим `error.message` безопасно, задължително проверяваме `if (error instanceof Error) { console.error(error.message); }`.
 
+
+
+
+
+
+
 ---
 
-[⬅️ 02-04-01. Generics & Conditional Types Cheat Sheet](02-04-01-Syntax-Mastering-Generics.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-05-01. Decorators, Modules & Async Cheat Sheet](02-05-01-Syntax-Decorators-Modules-And-Async.md)
+[⬅️ 02-04-01. Generics & Conditional Types: Синтаксис от...](02-04-01-Syntax-Mastering-Generics.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-05-01. Decorators, Modules & Async TypeScript: Си...](02-05-01-Syntax-Decorators-Modules-And-Async.md)
 
 © 2026 Dev-Library / 02-05-00. Decorators, ES Modules & Async TypeScript (AOP, Metadata & Капани)

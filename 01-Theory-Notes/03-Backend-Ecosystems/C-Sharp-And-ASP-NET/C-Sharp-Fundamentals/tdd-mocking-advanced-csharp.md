@@ -1,3 +1,7 @@
+[⬅️ Учебник: Текстообработка, String Immutability, Strin...](string-text-processing-csharp.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Учебник: Типове данни, Управление на паметта, Условн...](types-conditionals-loops-csharp.md)
+
+---
+
 # 📘 Учебник: Разширено Мокинг Ядро и Test-Driven Development (TDD) в C#
 
 **Файл:** `tdd-mocking-advanced-csharp.md` | **Ниво:** Архитектурно ядро / C# Advanced  
@@ -266,4 +270,14 @@ public void CompareModes()
 3. Един Assert / Една логическа концепция на тест: В TDD всеки тест отговаря на точно един бизнес въпрос (напр. "Какво става при отрицателно ID?").
 4. Изолация на [SetUp]: Винаги създавай нови инстанции на Mock<T> в [SetUp] метода, за да не се натрупват броячите на извикванията (Times.Once) от предишни тестове.
 ----
+
+
+
+
+
+
+---
+
+[⬅️ Учебник: Текстообработка, String Immutability, Strin...](string-text-processing-csharp.md) | [📂 Назад към C# Basic, Fundamentals, Advanced & OOP – Архитектурн... Хъба](README.md) | [📦 Предишен модул: ASP-NET](../ASP-NET/README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: C# Basic, Fundamentals, Advanced & OOP – Архитектурн...](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ Учебник: Типове данни, Управление на паметта, Условн...](types-conditionals-loops-csharp.md)
+
 © 2026 Dev-Library / Учебник: Разширено Мокинг Ядро и Test-Driven Development (TDD) в C#

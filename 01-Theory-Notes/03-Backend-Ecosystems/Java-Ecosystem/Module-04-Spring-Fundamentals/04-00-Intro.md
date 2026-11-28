@@ -1,4 +1,4 @@
-[⬅️ Назад към Модул 04 Индекс](README.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-01. Internet Explained & HTTP Protocol](04-01-00-Internet-And-HTTP.md)
+[📦 Към предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Назад към Module 04: Spring Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [➡️ 04-01-00. Internet Explained & HTTP Protocol](04-01-00-Internet-And-HTTP.md)
 
 ---
 
@@ -144,5 +144,14 @@ public class OrderController {
 | **Middleware / Interceptors** | Servlet `Filter` и Spring `HandlerInterceptor` | ASP.NET Core Middleware Pipeline (`app.Use(...)`) |
 | **Фронтенд шаблон за сървърно рендиране** | **Thymeleaf** (чисти HTML5 атрибути `th:text`, `th:each`) | **Razor Pages / MVC Views** (`@Model.Name`, `@foreach`) |
 
+
+
+
+
+
+
 ---
-[⬅️ Назад към Модул 04 Индекс](README.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-01. Internet Explained & HTTP Protocol](04-01-00-Internet-And-HTTP.md)
+
+[📦 Към предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Назад към Module 04: Spring Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [➡️ 04-01-00. Internet Explained & HTTP Protocol](04-01-00-Internet-And-HTTP.md)
+
+© 2026 Dev-Library / 04-00. Intro: Въведение в Spring Boot, MVC & Web Архитектура

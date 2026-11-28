@@ -1,4 +1,4 @@
-[⬅️ 04-01-01. Django ORM Syntax](04-01-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-02-00. Migrations](04-02-00-Migrations.md)
+[⬅️ 04-01-01. Django ORM Models: Синтаксис от нулата & C...](04-01-01-Syntax-Django-ORM.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-02-00. Migrations and Database Schema](04-02-00-Migrations.md)
 
 ---
 
@@ -179,5 +179,14 @@ class CourseMongoDocument(Document):
 | **Дата от сървъра** | `mapped_column(server_default=func.now())` | `DEFAULT CURRENT_TIMESTAMP` |
 | **Уникалност и Индекс** | `mapped_column(unique=True, index=True)` | `UNIQUE` + `CREATE INDEX` |
 
+
+
+
+
+
+
 ---
-[⬅️ 04-01-01. Django ORM Syntax](04-01-01-Syntax-Django-ORM.md) | 📂 Папка: Module-04-Python-ORM | [🏠 Начало](../../../../README.md) | [➡️ 04-02-00. Migrations](04-02-00-Migrations.md)
+
+[⬅️ 04-01-01. Django ORM Models: Синтаксис от нулата & C...](04-01-01-Syntax-Django-ORM.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-02-00. Migrations and Database Schema](04-02-00-Migrations.md)
+
+© 2026 Dev-Library / 04-01-02. SQLAlchemy 2.0 Models: Синтаксис от нулата & Cheat Sheet

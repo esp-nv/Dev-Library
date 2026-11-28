@@ -1,4 +1,4 @@
-[⬅️ 03-04-00. Теория & Капани](03-04-00-Static-And-Class-Methods.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-05-00. Polymorphism and Abstraction](03-05-00-Polymorphism-And-Abstraction.md)
+[⬅️ 03-04-00. Static and Class Methods](03-04-00-Static-And-Class-Methods.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-05-00. Polymorphism and Abstraction](03-05-00-Polymorphism-And-Abstraction.md)
 
 ---
 
@@ -117,5 +117,14 @@ class Order:
 | **Static Method** | `@staticmethod` | *Няма* | **Нищо** от класа или обекта (работи само с аргументите си) |
 | **Алтернативен конструктор** | `@classmethod` | `cls` | Връща `cls(...)` за поддръжка на наследяване |
 
+
+
+
+
+
+
 ---
-[⬅️ 03-04-00. Теория & Капани](03-04-00-Static-And-Class-Methods.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-05-00. Polymorphism and Abstraction](03-05-00-Polymorphism-And-Abstraction.md)
+
+[⬅️ 03-04-00. Static and Class Methods](03-04-00-Static-And-Class-Methods.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-05-00. Polymorphism and Abstraction](03-05-00-Polymorphism-And-Abstraction.md)
+
+© 2026 Dev-Library / 03-04-01. Static and Class Methods: Синтаксис от нулата & Cheat Sheet

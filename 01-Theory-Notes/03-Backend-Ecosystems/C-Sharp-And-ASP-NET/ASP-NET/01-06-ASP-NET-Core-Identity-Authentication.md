@@ -1,4 +1,4 @@
-[⬅️ 01-05. Слоеве, Сервизи и DTOs](01-05-Layers-Services-And-Data-Transfer-Objects.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-07. Етапи за изграждане](01-07-ASP-NET-Core-Application-Architecture-Steps.md)
+[⬅️ 01-05. Архитектурни слоеве, Сервизи и пренасяне на д...](01-05-Layers-Services-And-Data-Transfer-Objects.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 01-07. Етапи за изграждане на ASP.NET Core приложени...](01-07-ASP-NET-Core-Application-Architecture-Steps.md)
 
 ---
 
@@ -85,7 +85,14 @@ public class ProfileController : Controller
 *   **Защо се случва:** Този път сървърът разчита бисквитката успешно и знае точно кой си ти (`Аутентификацията е успешна`). Когато обаче стигне до втория атрибут `[Authorize(Roles = "Admin")]`, системата проверява твоя акаунт и вижда, че нямаш изискваната роля `"Admin"`. Сървърът казва: *"Аз знам кой си, но ти нямаш бизнес право (Авторизация) да триеш тези данни!"*.
 *   **Как да го избегнеш:** Подсигури софтуерно в кода, че при регистрация или промяна на потребителя, на съответния акаунт е наложена правилната роля през класа `RoleManager`, преди да викаш метода.
 
+
+
+
+
+
+
 ---
-[⬅️ 01-05. Слоеве, Сервизи и DTOs](01-05-Layers-Services-And-Data-Transfer-Objects.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md) | [🏠 Начало (ASP.NET)](README.md) | [➡️ 01-07. Етапи за изграждане](01-07-ASP-NET-Core-Application-Architecture-Steps.md)
+
+[⬅️ 01-05. Архитектурни слоеве, Сервизи и пренасяне на д...](01-05-Layers-Services-And-Data-Transfer-Objects.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 01-07. Етапи за изграждане на ASP.NET Core приложени...](01-07-ASP-NET-Core-Application-Architecture-Steps.md)
 
 © 2026 Dev-Library / 01-06. Потребителски сесии, бисквитки и сигурност с Identity

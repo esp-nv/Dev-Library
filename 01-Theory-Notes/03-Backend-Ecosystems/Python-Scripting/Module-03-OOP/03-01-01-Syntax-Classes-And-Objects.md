@@ -1,4 +1,4 @@
-[⬅️ 03-01-00. Теория & Капани](03-01-00-Classes-And-Objects.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-02-00. Inheritance](03-02-00-Inheritance.md)
+[⬅️ 03-01-00. Classes and Objects](03-01-00-Classes-And-Objects.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-02-00. Inheritance](03-02-00-Inheritance.md)
 
 ---
 
@@ -125,5 +125,14 @@ print(cfg.host)                         # Изход: localhost
 | **Всички полета на обекта** | `obj.__dict__` | Връща речник с полетата на инстанцията |
 | **Оптимизация на паметта** | `__slots__ = ("a", "b")` | Спира създаването на `__dict__` и пести RAM |
 
+
+
+
+
+
+
 ---
-[⬅️ 03-01-00. Теория & Капани](03-01-00-Classes-And-Objects.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-02-00. Inheritance](03-02-00-Inheritance.md)
+
+[⬅️ 03-01-00. Classes and Objects](03-01-00-Classes-And-Objects.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-02-00. Inheritance](03-02-00-Inheritance.md)
+
+© 2026 Dev-Library / 03-01-01. Classes and Objects: Синтаксис от нулата & Cheat Sheet

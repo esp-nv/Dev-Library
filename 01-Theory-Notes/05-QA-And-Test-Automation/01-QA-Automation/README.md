@@ -1,4 +1,4 @@
-[🌐 Домейн: 05. QA & Test Automation](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01 QA Automation](README.md) | [🌐 Следващ домейн: 06. Cloud, DevOps & Architecture](../../06-Cloud-DevOps-And-Architecture/README.md) | [▶️ Започни от 01-00. Intro to QA Engineering, Testing Pyramid & Roadmap](01-00-Intro-To-QA-Engineering.md)
+[🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [▶️ Започни от 01-00. Intro to QA Engineering, Testing Pyramid & Ro...](01-00-Intro-To-QA-Engineering.md)
 
 ---
 
@@ -34,8 +34,14 @@
 * **[01-98. Common Errors, Edge Cases & Fixes (Каталог на грешките)](01-98-Common-Errors-And-Fixes.md)** — *Обхваща:* Диагностика на `StaleElementReferenceException`, `NoSuchElementException`, `TimeoutException`, Flaky тестове в CI/CD и грешки при десериализация на JSON.
 * **[01-99. Interview Q&A, Скрити Капани & Debugging Techniques](01-99-Interview-QA-Traps-And-Debugging.md)** — *Обхваща:* Топ SDET интервю въпроси (Severity vs. Priority, Smoke vs. Sanity, Test Pyramid vs. Trophy, Mock vs. Stub), капани със Shadow DOM и дебъгване с Playwright Trace Viewer.
 
+
+
+
+
+
+
 ---
 
-[🌐 Домейн: 05. QA & Test Automation](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01 QA Automation](README.md) | [🌐 Следващ домейн: 06. Cloud, DevOps & Architecture](../../06-Cloud-DevOps-And-Architecture/README.md) | [▶️ Започни от 01-00. Intro to QA Engineering, Testing Pyramid & Roadmap](01-00-Intro-To-QA-Engineering.md)
+[🌐 Домейн: 05. QA и Автоматизирано Тестване](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: QA Automation & SDET Engineering](README.md) | [🌐 Следващ домейн: ️ 06. Облачна Инфраструктура, DevOps и Системна Архи...](../../06-Cloud-DevOps-And-Architecture/README.md) | [▶️ Започни от 01-00. Intro to QA Engineering, Testing Pyramid & Ro...](01-00-Intro-To-QA-Engineering.md)
 
 © 2026 Dev-Library / QA Automation & SDET Engineering (Пълен Архитектурен Справочник)

@@ -1,4 +1,5 @@
-[⬅️ 02-02. ApplicationDbContext Конфигурация](02-02-ApplicationDbContext-And-Fluent-API-Configuration.md) | [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) |  [➡️ 02-04. Мулти-провайдър Превключване](02-04-Multi-Database-Provider-Switch.md)
+[⬅️ 02-02. ApplicationDbContext и Fluent API конфигурация](02-02-ApplicationDbContext-And-Fluent-API-Configuration.md) | [📂 Назад към Databases & Entity Framework Core — Пълен Архитектур... Хъба](README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases & Entity Framework Core — Пълен Архитектур...](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [➡️ 02-04. Стратегия за мулти-провайдър: Превключване ме...](02-04-Multi-Database-Configuration-And-Switching.md)
+
 ---
 
 # 02-03. EF Core Fluent API и Миграции (Глобален Инженерен Пищов)
@@ -155,9 +156,14 @@ foreach (var foreignKey in modelBuilder.Model.GetEntityTypes().SelectMany(e => e
 Ако твоят `DbContext` се намира в папка `Data.DataAccess`, а уеб проектът ти е `Web.API`, трябва насила да кажеш на конзолата откъде да прочете `appsettings.json`:
 *   **Терминал / VS Code (.NET CLI):** `dotnet ef database update --project Data.DataAccess --startup-project Web.API`
 
+
+
+
+
+
+
 ---
 
-[⬅️ 02-02. ApplicationDbContext Конфигурация](02-02-ApplicationDbContext-And-Fluent-API-Configuration.md) | [📂 Глава 02. Основи на Entity Framework Core и Code-First](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md) |  [➡️ 02-04. Мулти-провайдър Превключване](02-04-Multi-Database-Provider-Switch.md)
+[⬅️ 02-02. ApplicationDbContext и Fluent API конфигурация](02-02-ApplicationDbContext-And-Fluent-API-Configuration.md) | [📂 Назад към Databases & Entity Framework Core — Пълен Архитектур... Хъба](README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases & Entity Framework Core — Пълен Архитектур...](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [➡️ 02-04. Стратегия за мулти-провайдър: Превключване ме...](02-04-Multi-Database-Configuration-And-Switching.md)
 
 © 2026 Dev-Library / 02-03. EF Core Fluent API и Миграции (Глобален Инженерен Пищов)
-

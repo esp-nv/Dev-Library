@@ -1,4 +1,4 @@
-[⬅️ 03-96. Python Оптимизации](03-96-Performance-And-Optimizations.md) | 📂 Папка: 03-Python-Scripting | [🏠 Начало](../README.md) | [➡️ 03-98. Common Errors And Fixes](03-98-Common-Errors-And-Fixes.md)
+[⬅️ 03-96. Python Оптимизации: Кое е грешно, защо и как ...](03-96-Performance-And-Optimizations.md) | [📂 Назад към Python Scripting & Software Engineering Хъба](README.md) | [📦 Предишен модул: Java-Ecosystem](../Java-Ecosystem/README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Python Scripting & Software Engineering](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../04-Databases-And-Caching/README.md) | [➡️ 03-98. Python Common Errors, Edge Cases & Fixes](03-98-Common-Errors-And-Fixes.md)
 
 ---
 
@@ -154,5 +154,14 @@ async def create_book(dto: CreateBookDto):
 # orders = Order.objects.select_related("customer").prefetch_related("items").filter(status="PAID")
 ```
 
+
+
+
+
+
+
 ---
-[⬅️ 03-96. Python Оптимизации](03-96-Performance-And-Optimizations.md) | 📂 Папка: 03-Python-Scripting | [🏠 Начало](../README.md) | [➡️ 03-98. Common Errors And Fixes](03-98-Common-Errors-And-Fixes.md)
+
+[⬅️ 03-96. Python Оптимизации: Кое е грешно, защо и как ...](03-96-Performance-And-Optimizations.md) | [📂 Назад към Python Scripting & Software Engineering Хъба](README.md) | [📦 Предишен модул: Java-Ecosystem](../Java-Ecosystem/README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Python Scripting & Software Engineering](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../04-Databases-And-Caching/README.md) | [➡️ 03-98. Python Common Errors, Edge Cases & Fixes](03-98-Common-Errors-And-Fixes.md)
+
+© 2026 Dev-Library / 03-97. Python Category Cheat Sheet: Пълно обобщение по категории & Библиотеки

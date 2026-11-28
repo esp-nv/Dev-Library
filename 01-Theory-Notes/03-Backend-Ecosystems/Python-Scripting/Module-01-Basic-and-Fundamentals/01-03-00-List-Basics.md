@@ -1,4 +1,4 @@
-[⬅️ 01-02. Data Types](01-02-00-Data-Types-And-Variables.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-03-01. Syntax From Scratch](01-03-01-Syntax-List-Basics.md)
+[⬅️ 01-02-01. Data Types and Variables: Синтаксис от нул...](01-02-01-Syntax-Data-Types-And-Variables.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-03-01. List Basics: Синтаксис от нулата & Cheat S...](01-03-01-Syntax-List-Basics.md)
 
 ---
 
@@ -119,5 +119,14 @@ print(f"Филтрирани високи портове: {backup_ports}")
     1.  **`my_list.sort()`:** Сортира списъка **на място (In-Place)** в паметта, променяйки оригинала директно, и **връща `None`**.
     2.  **`sorted(my_list)`:** Не докосва оригиналния списък, а създава и **връща изцяло нов сортиран списък** (работи и върху всякакви други колекции, не само списъци).
 
+
+
+
+
+
+
 ---
-[⬅️ 01-02. Data Types](01-02-00-Data-Types-And-Variables.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-03-01. Syntax From Scratch](01-03-01-Syntax-List-Basics.md)
+
+[⬅️ 01-02-01. Data Types and Variables: Синтаксис от нул...](01-02-01-Syntax-Data-Types-And-Variables.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-03-01. List Basics: Синтаксис от нулата & Cheat S...](01-03-01-Syntax-List-Basics.md)
+
+© 2026 Dev-Library / 01-03-00. List Basics (Теория, Памет & Интервю Капани)

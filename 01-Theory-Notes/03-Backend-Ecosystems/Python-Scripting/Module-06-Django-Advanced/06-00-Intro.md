@@ -1,4 +1,4 @@
-[⬅️ Назад към Индекса](README.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-01. Authentication & Authorization](06-01-00-Auth-And-Authorization.md)
+[📦 Към предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-01-00. Django Authentication and Authorization](06-01-00-Auth-And-Authorization.md)
 
 ---
 
@@ -107,5 +107,14 @@ def register_user_clean(request):
 *   **Уловката:** Начинаещите ползват вградения `django.contrib.auth.models.User` и решават, че ще го сменят по-късно, ако потрябва.
 *   **Точен Senior отговор:** Смяната на `AUTH_USER_MODEL` **в средата на вече съществуващ проект с миграции и данни е изключително болезнена и рискова операция**, защото всички вградени таблици (`admin`, `sessions`, `authtoken`) и чужди ключове вече са обвързани с първоначалния модел. Ако още в **ден 1 (преди първата миграция)** дефинираш `class CustomUser(AbstractUser): pass` и зададеш `AUTH_USER_MODEL = "accounts.CustomUser"` в `settings.py`, си осигуряваш безболезнено добавяне на нови полета (напр. телефон, аватар, дата на раждане) по всяко време в бъдещето само с една стандартна миграция.
 
+
+
+
+
+
+
 ---
-[⬅️ Назад към Индекса](README.md) | 📂 Папка: Module-06-Django-Advanced | [🏠 Начало](../../../../README.md) | [➡️ 06-01. Authentication & Authorization](06-01-00-Auth-And-Authorization.md)
+
+[📦 Към предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Назад към Module 06: Django Advanced Хъба](README.md) | [📦 Предишен модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 06: Django Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 06-01-00. Django Authentication and Authorization](06-01-00-Auth-And-Authorization.md)
+
+© 2026 Dev-Library / 06-00. Intro: Въведение в Django Advanced & Enterprise Архитектура

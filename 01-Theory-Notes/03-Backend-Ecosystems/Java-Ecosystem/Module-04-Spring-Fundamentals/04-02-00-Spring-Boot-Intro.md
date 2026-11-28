@@ -1,4 +1,4 @@
-[⬅️ 04-01. Internet Explained & HTTP Protocol](04-01-00-Internet-And-HTTP.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-02-01. Syntax From Scratch](04-02-01-Syntax-Spring-Boot-Intro.md)
+[⬅️ 04-01-01. Internet Explained & HTTP Protocol: Синтак...](04-01-01-Syntax-Internet-And-HTTP.md) | [📂 Назад към Module 04: Spring Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [➡️ 04-02-01. Spring Boot Introduction & Layered Archite...](04-02-01-Syntax-Spring-Boot-Intro.md)
 
 ---
 
@@ -117,5 +117,14 @@ spring.datasource.password=\${DB_PASSWORD:postgres}
 | **Автоматично рестартиране при промяна** | `spring-boot-devtools` | `dotnet watch run` (Hot Reload) |
 | **Packaging за Deployment** | Самостоятелен **`Fat JAR`** (`java -jar app.jar`) или Docker image | Framework-dependent DLL или Self-contained binary (`dotnet publish`) |
 
+
+
+
+
+
+
 ---
-[⬅️ 04-01. Internet Explained & HTTP Protocol](04-01-00-Internet-And-HTTP.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-02-01. Syntax From Scratch](04-02-01-Syntax-Spring-Boot-Intro.md)
+
+[⬅️ 04-01-01. Internet Explained & HTTP Protocol: Синтак...](04-01-01-Syntax-Internet-And-HTTP.md) | [📂 Назад към Module 04: Spring Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [➡️ 04-02-01. Spring Boot Introduction & Layered Archite...](04-02-01-Syntax-Spring-Boot-Intro.md)
+
+© 2026 Dev-Library / 04-02-00. Spring Boot Introduction & Layered Architecture (Теория, Auto-Configuration & Капани)

@@ -1,4 +1,4 @@
-[⬅️ 05-01. Web API & Global Error Handling](05-01-00-REST-And-Error-Handling.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-02-01. Syntax From Scratch](05-02-01-Syntax-Spring-Security.md)
+[⬅️ 05-01-01. Web API, REST Controllers & Global Error H...](05-01-01-Syntax-REST-And-Error-Handling.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 05-02-01. Spring Security 6+ & Authentication: Синта...](05-02-01-Syntax-Spring-Security.md)
 
 ---
 
@@ -173,5 +173,14 @@ public class SecurityConfig {
 | **Достъп до текущия потребител** | `SecurityContextHolder.getContext().getAuthentication()` | `HttpContext.User` (`ClaimsPrincipal`) |
 | **Алгоритъм за пароли по подразбиране** | `BCryptPasswordEncoder` (или `DelegatingPasswordEncoder`) | `PBKDF2` с HMAC-SHA512 (310 000 итерации в .NET 8) |
 
+
+
+
+
+
+
 ---
-[⬅️ 05-01. Web API & Global Error Handling](05-01-00-REST-And-Error-Handling.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-02-01. Syntax From Scratch](05-02-01-Syntax-Spring-Security.md)
+
+[⬅️ 05-01-01. Web API, REST Controllers & Global Error H...](05-01-01-Syntax-REST-And-Error-Handling.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 05-02-01. Spring Security 6+ & Authentication: Синта...](05-02-01-Syntax-Spring-Security.md)
+
+© 2026 Dev-Library / 05-02-00. Spring Security 6+ & Authentication (Теория, Filter Chain, BCrypt & Капани)

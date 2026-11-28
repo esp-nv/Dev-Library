@@ -1,4 +1,4 @@
-[⬅️ 02-03-01. OOP in TypeScript Cheat Sheet](02-03-01-Syntax-OOP-In-TypeScript.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-04-01. Generics & Conditional Types Cheat Sheet](02-04-01-Syntax-Mastering-Generics.md)
+[⬅️ 02-03-01. OOP in TypeScript: Синтаксис от Нулата & C...](02-03-01-Syntax-OOP-In-TypeScript.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-04-01. Generics & Conditional Types: Синтаксис от...](02-04-01-Syntax-Mastering-Generics.md)
 
 ---
 
@@ -135,8 +135,14 @@ console.log(`Дължина на низа: ${getLengthSecure("Успешен т�
 * **Въпрос 2:** *„Как работи филтрирането на ключове чрез `never` в Mapped & Conditional Types?“*
   * **Отговор:** Когато обхождаме ключовете на тип `[K in keyof T]: T[K] extends number ? K : never` и след това индексираме с `[keyof T]`, TypeScript автоматично премахва всички клонове, които са оценени на `never` (тъй като `never` е празното множество в обединенията — `"age" | never | "salary"` се опростява до `"age" | "salary"`).
 
+
+
+
+
+
+
 ---
 
-[⬅️ 02-03-01. OOP in TypeScript Cheat Sheet](02-03-01-Syntax-OOP-In-TypeScript.md) | [⬅️ Назад към  модул Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [⬅️ Назад към  02-Frontend-And-UI-UX](../README.md) [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: C-Sharp-And-ASP-NET/C-Sharp-Fundamentals](../../03-Backend-Ecosystems/C-Sharp-And-ASP-NET/C-Sharp-Fundamentals/README.md)  | [➡️ 02-04-01. Generics & Conditional Types Cheat Sheet](02-04-01-Syntax-Mastering-Generics.md)
+[⬅️ 02-03-01. OOP in TypeScript: Синтаксис от Нулата & C...](02-03-01-Syntax-OOP-In-TypeScript.md) | [📂 Назад към TypeScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: TypeScript Language](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [➡️ 02-04-01. Generics & Conditional Types: Синтаксис от...](02-04-01-Syntax-Mastering-Generics.md)
 
 © 2026 Dev-Library / 02-04-00. Овладяване на Дженерици (Generics, Constraints & Conditional Types)

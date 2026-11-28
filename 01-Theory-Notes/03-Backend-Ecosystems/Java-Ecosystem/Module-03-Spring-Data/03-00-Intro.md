@@ -1,4 +1,4 @@
-[⬅️ Назад към Модул 03 Индекс](README.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-01. DB Apps Introduction (JDBC)](03-01-00-JDBC-Introduction.md)
+[📦 Към предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-01-00. DB Apps Introduction](03-01-00-JDBC-Introduction.md)
 
 ---
 
@@ -128,5 +128,14 @@ public class UserService {
 | **Динамично филтриране** | `JpaSpecificationExecutor<T>` (Criteria API) или **QueryDSL** | Нативен `IQueryable<T>` с верижни `.Where(...)` методи |
 | **Second-Level Cache (Споделен кеш)** | Вградена поддръжка за L2 Cache (**Ehcache**, **Caffeine**, **Redis**) | Няма вграден L2 Cache в EF Core (ползва се ръчно `IMemoryCache` / Redis) |
 
+
+
+
+
+
+
 ---
-[⬅️ Назад към Модул 03 Индекс](README.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-01. DB Apps Introduction (JDBC)](03-01-00-JDBC-Introduction.md)
+
+[📦 Към предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-01-00. DB Apps Introduction](03-01-00-JDBC-Introduction.md)
+
+© 2026 Dev-Library / 03-00. Intro: Въведение в Spring Data, Hibernate & Архитектурен Roadmap

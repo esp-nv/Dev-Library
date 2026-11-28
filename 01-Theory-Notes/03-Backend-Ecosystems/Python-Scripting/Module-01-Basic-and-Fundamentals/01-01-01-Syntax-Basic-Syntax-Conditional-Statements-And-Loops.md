@@ -1,4 +1,4 @@
-[⬅️ Назад към Индекса](README.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-01. Basic Syntax](01-01-00-Basic-Syntax-Conditional-Statements-And-Loops.md)
+[⬅️ 01-01. Basic Syntax, Conditional Statements and Loops](01-01-00-Basic-Syntax-Conditional-Statements-And-Loops.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-02-00. Data Types and Variables](01-02-00-Data-Types-And-Variables.md)
 
 ---
 
@@ -176,5 +176,14 @@ for row in range(1, 3):          # Външен цикъл (Редове 1 и 2)
 | **Увеличаване на брояч** | `x += 1` (няма `x++`) | `count += 1` |
 | **Вложени блокове** | `+4 интервала` за всяко ниво | Ниво 1: `4`, Ниво 2: `8` интервала |
 
+
+
+
+
+
+
 ---
-[⬅️ Назад към Индекса](README.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-01. Basic Syntax](01-01-00-Basic-Syntax-Conditional-Statements-And-Loops.md)
+
+[⬅️ 01-01. Basic Syntax, Conditional Statements and Loops](01-01-00-Basic-Syntax-Conditional-Statements-And-Loops.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-02-00. Data Types and Variables](01-02-00-Data-Types-And-Variables.md)
+
+© 2026 Dev-Library / 01-00-a. Базов Синтаксис на Python от нулата (Първи стъпки & Cheat Sheet)

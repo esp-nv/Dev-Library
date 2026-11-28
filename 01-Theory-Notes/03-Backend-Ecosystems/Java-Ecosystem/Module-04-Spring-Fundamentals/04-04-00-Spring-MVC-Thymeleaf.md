@@ -1,4 +1,4 @@
-[⬅️ 04-03. Spring Core (IoC & Beans)](04-03-00-Spring-Core-IoC.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-04-01. Syntax From Scratch](04-04-01-Syntax-Spring-MVC-Thymeleaf.md)
+[⬅️ 04-03-01. Spring Core (IoC Container, Beans & DI): С...](04-03-01-Syntax-Spring-Core-IoC.md) | [📂 Назад към Module 04: Spring Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [➡️ 04-04-01. Spring MVC with Thymeleaf & Validation: Си...](04-04-01-Syntax-Spring-MVC-Thymeleaf.md)
 
 ---
 
@@ -71,5 +71,14 @@
 
 Двете платформи предлагат сходни концепции за сървърно рендиране (Thymeleaf срещу Razor Views), обвързване на параметри и управление на временни съобщения при пренасочване (`RedirectAttributes` срещу `TempData`).
 
+
+
+
+
+
+
 ---
-[⬅️ 04-03. Spring Core (IoC & Beans)](04-03-00-Spring-Core-IoC.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-04-01. Syntax From Scratch](04-04-01-Syntax-Spring-MVC-Thymeleaf.md)
+
+[⬅️ 04-03-01. Spring Core (IoC Container, Beans & DI): С...](04-03-01-Syntax-Spring-Core-IoC.md) | [📂 Назад към Module 04: Spring Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [➡️ 04-04-01. Spring MVC with Thymeleaf & Validation: Си...](04-04-01-Syntax-Spring-MVC-Thymeleaf.md)
+
+© 2026 Dev-Library / 04-04-00. Spring MVC with Thymeleaf & Validation (`@Valid` — Теория & Капани)

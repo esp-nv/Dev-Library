@@ -1,9 +1,4 @@
-[📂 Назад към Databases And EF Core Хъба](README.md) | [🌐 Домейн: 04. Databases & Caching](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases And EF Core](README.md) | [🌐 Следващ домейн: 05. QA & Test Automation](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [➡️ Главен справочник на темата](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
-
----
-
-📂 Глава 01. Основи на SQL Server, релации и T-SQL | [🏠 Начало (EF Core)](README.md) | [⏩ Глава 02-00. Основи на EF Core](02-00-EF-CORE-AND-CODE-FIRST-INTRO.md)
-
+[📂 Назад към Databases & Entity Framework Core — Пълен Архитектур... Хъба](README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases & Entity Framework Core — Пълен Архитектур...](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [➡️ 01-01. Проектиране на релации и физическо заемане на...](01-01-SQL-Server-Relations-And-Data-Types.md)
 
 ---
 
@@ -77,8 +72,14 @@
 ---
 📂 Глава 01. Основи на SQL Server, релации и T-SQL | [🏠 Начало (EF Core)](README.md) | [⏩ Глава 02-00. Основи на EF Core](02-00-EF-CORE-AND-CODE-FIRST-INTRO.md)
 
+
+
+
+
+
+
 ---
 
-[📂 Назад към Databases And EF Core Хъба](README.md) | [🌐 Домейн: 04. Databases & Caching](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases And EF Core](README.md) | [🌐 Следващ домейн: 05. QA & Test Automation](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [➡️ Главен справочник на темата](02-00-EF-CORE-AND-CODE-FIRST-INTRO-AND-CRUD.md)
+[📂 Назад към Databases & Entity Framework Core — Пълен Архитектур... Хъба](README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Databases & Entity Framework Core — Пълен Архитектур...](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [➡️ 01-01. Проектиране на релации и физическо заемане на...](01-01-SQL-Server-Relations-And-Data-Types.md)
 
 © 2026 Dev-Library / 01-00. Основи на SQL Server, релации и T-SQL операции (Кратък справочник)

@@ -1,4 +1,4 @@
-[⬅️ 03-00. Intro & Roadmap](03-00-Intro.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-01-01. Syntax From Scratch](03-01-01-Syntax-Classes-And-Objects.md)
+[⬅️ 03-00. Intro: Въведение в Python OOP & Архитектурен ...](03-00-Intro.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-01-01. Classes and Objects: Синтаксис от нулата &...](03-01-01-Syntax-Classes-And-Objects.md)
 
 ---
 
@@ -128,5 +128,14 @@ print(f"Взет изпит с 75 т.: {mod1.is_passed(75)}")
 *   **Точен Senior отговор:** По подразбиране всеки Python обект пази атрибутите си в динамичен речник `__dict__`, който заема много RAM памет. Когато дефинираме **`__slots__ = ("id", "name")`** вътре в класа, Python **не създава речник `__dict__`** за инстанциите, а заделя фиксиран, компактен масив от байтове само за тези две полета (намалявайки разхода на RAM с 40% до 60% и ускорявайки достъпа до свойствата).
     *   *Ограничение:* След като сложиш `__slots__`, вече **не можеш** динамично да добавяш нови произволни атрибути към обекта по време на изпълнение (`obj.new_field = 5` хвърля `AttributeError`).
 
+
+
+
+
+
+
 ---
-[⬅️ 03-00. Intro & Roadmap](03-00-Intro.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-01-01. Syntax From Scratch](03-01-01-Syntax-Classes-And-Objects.md)
+
+[⬅️ 03-00. Intro: Въведение в Python OOP & Архитектурен ...](03-00-Intro.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-01-01. Classes and Objects: Синтаксис от нулата &...](03-01-01-Syntax-Classes-And-Objects.md)
+
+© 2026 Dev-Library / 03-01-00. Classes and Objects (Теория, `self`, Dunder методи & Капани)

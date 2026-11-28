@@ -1,4 +1,4 @@
-[⬅️ 05-02. Spring Security 6+ & Authentication](05-02-00-Spring-Security.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-03-01. Syntax From Scratch](05-03-01-Syntax-JWT-Authentication.md)
+[⬅️ 05-02-01. Spring Security 6+ & Authentication: Синта...](05-02-01-Syntax-Spring-Security.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 05-03-01. Stateless Security with JWT & Refresh Toke...](05-03-01-Syntax-JWT-Authentication.md)
 
 ---
 
@@ -129,5 +129,14 @@ public SecurityFilterChain securityFilterChain(HttpSecurity http,
 | **Грешка при изтекъл токен (`ExpiredJwtException`)** | Хваща се във филтъра и се предава към `HandlerExceptionResolver` за статус `401` | Автоматично връща `401 Unauthorized` + header `WWW-Authenticate: Bearer error="invalid_token"` |
 | **OAuth2 / OpenID Connect (Keycloak / Auth0)** | `spring-boot-starter-oauth2-resource-server` (вграден JWT декодер без JJWT!) | `AddJwtBearer` с `options.Authority = "https://example.com"` |
 
+
+
+
+
+
+
 ---
-[⬅️ 05-02. Spring Security 6+ & Authentication](05-02-00-Spring-Security.md) | 📂 Папка: Module-05-Spring-Advanced | [🏠 Начало](../../README.md) | [➡️ 05-03-01. Syntax From Scratch](05-03-01-Syntax-JWT-Authentication.md)
+
+[⬅️ 05-02-01. Spring Security 6+ & Authentication: Синта...](05-02-01-Syntax-Spring-Security.md) | [📂 Назад към Module 05: Spring Advanced Хъба](README.md) | [📦 Предишен модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Spring Advanced](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [➡️ 05-03-01. Stateless Security with JWT & Refresh Toke...](05-03-01-Syntax-JWT-Authentication.md)
+
+© 2026 Dev-Library / 05-03-00. Stateless Security with JWT & Refresh Tokens (Теория & Капани)

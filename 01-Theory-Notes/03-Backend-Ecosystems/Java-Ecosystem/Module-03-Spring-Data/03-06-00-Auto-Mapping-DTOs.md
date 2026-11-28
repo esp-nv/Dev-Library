@@ -1,4 +1,4 @@
-[⬅️ 03-05. Advanced Querying (JPQL & N+1)](03-05-00-Advanced-Querying.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-06-01. Syntax From Scratch](03-06-01-Syntax-Auto-Mapping-DTOs.md)
+[⬅️ 03-05-01. Spring Data Advanced Querying: Синтаксис о...](03-05-01-Syntax-Advanced-Querying.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-06-01. Java Auto Mapping Objects (`MapStruct` & `...](03-06-01-Syntax-Auto-Mapping-DTOs.md)
 
 ---
 
@@ -121,5 +121,14 @@ public interface UserMapper {
 | **Мапиране към неизменяеми Records** | MapStruct поддържа нативно Java `record` (чрез конструктора му) | Mapperly и AutoMapper поддържат нативно C# `record` (чрез Primary Constructor) |
 | **Индустриална тенденция** | Масово преминаване от `ModelMapper` към **`MapStruct`** или ръчни `.toDto()` методи | Масово преминаване от `AutoMapper` към **`Mapperly`** или ръчни Extension методи `.ToDto()` |
 
+
+
+
+
+
+
 ---
-[⬅️ 03-05. Advanced Querying (JPQL & N+1)](03-05-00-Advanced-Querying.md) | 📂 Папка: Module-03-Spring-Data | [🏠 Начало](../../README.md) | [➡️ 03-06-01. Syntax From Scratch](03-06-01-Syntax-Auto-Mapping-DTOs.md)
+
+[⬅️ 03-05-01. Spring Data Advanced Querying: Синтаксис о...](03-05-01-Syntax-Advanced-Querying.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-06-01. Java Auto Mapping Objects (`MapStruct` & `...](03-06-01-Syntax-Auto-Mapping-DTOs.md)
+
+© 2026 Dev-Library / 03-06-00. Java Auto Mapping Objects (`ModelMapper` / `MapStruct` & DTOs — Теория & Капани)

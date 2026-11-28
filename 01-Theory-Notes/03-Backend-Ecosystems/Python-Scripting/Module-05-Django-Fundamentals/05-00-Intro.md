@@ -1,4 +1,4 @@
-[⬅️ Назад към Module 05: Django Fundamentals](README.md) | [📂 Текуща папка: Python Scripting](../../README.md) | [🏠 Начало](../../../../README.md) | [➡️ 05-01-00. Django Architecture & HTTP Lifecycle](05-01-00-Architecture-And-HTTP.md)
+[📦 Към предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-01-00. Internet, HTTP & Django Architecture](05-01-00-Architecture-And-HTTP.md)
 
 ---
 
@@ -60,8 +60,14 @@
 5. **05-05 (`-00` / `-01`):** Class-Based Views (CBV — `ListView`, `DetailView`, `CreateView`, `UpdateView`, `DeleteView`).
 6. **05-06 (`-00` / `-01`):** Персонализиране на вградения Django Admin панел.
 
+
+
+
+
+
+
 ---
 
-[⬅️ Назад към Module 05: Django Fundamentals](README.md) | [📂 Текуща папка: Python Scripting](../../README.md) | [🏠 Начало](../../../../README.md) | [➡️ 05-01-00. Django Architecture & HTTP Lifecycle](05-01-00-Architecture-And-HTTP.md)
+[📦 Към предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Назад към Module 05: Django Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 05: Django Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-06-Django-Advanced](../Module-06-Django-Advanced/README.md) | [➡️ 05-01-00. Internet, HTTP & Django Architecture](05-01-00-Architecture-And-HTTP.md)
 
 © 2026 Dev-Library / 05-00. Intro to Django Fundamentals & MTV Architecture

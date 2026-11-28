@@ -1,4 +1,4 @@
-[⬅️ 02-02. Encapsulation](02-02-00-Encapsulation.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-03-01. Syntax From Scratch](02-03-01-Syntax-Inheritance.md)
+[⬅️ 02-02-01. Encapsulation: Синтаксис от нулата & Cheat...](02-02-01-Syntax-Encapsulation.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-03-01. Inheritance (`extends`, `super` & `final`)...](02-03-01-Syntax-Inheritance.md)
 
 ---
 
@@ -152,5 +152,14 @@ class Student extends Person {
 | **Забрана за пренаписване на метод** | `public final void run()` | `public sealed override void Run()` |
 | **Diamond Problem решение** | Само 1 родителски клас; конфликт в `default` методи на интерфейси се решава с `InterfaceName.super.method()` | Само 1 родителски клас; интерфейсите с default методи се достъпват чрез каст `((IMyInterface)this).Method()` |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-02. Encapsulation](02-02-00-Encapsulation.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-03-01. Syntax From Scratch](02-03-01-Syntax-Inheritance.md)
+
+[⬅️ 02-02-01. Encapsulation: Синтаксис от нулата & Cheat...](02-02-01-Syntax-Encapsulation.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-03-01. Inheritance (`extends`, `super` & `final`)...](02-03-01-Syntax-Inheritance.md)
+
+© 2026 Dev-Library / 02-03-00. Inheritance (`extends`, `super` & `final` — Теория, Конструктори & Капани)

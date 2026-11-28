@@ -1,4 +1,4 @@
-[📂 Назад към Module 04 Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04 Python ORM](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ Теория, `QuerySet` срещу `Session` & Капани](04-03-00-CRUD-And-Queries.md)
+[⬅️ 04-00. Intro: Django ORM срещу SQLAlchemy & EF Core](04-00-Intro.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-01-01. Django ORM Models: Синтаксис от нулата & C...](04-01-01-Syntax-Django-ORM.md)
 
 ---
 
@@ -155,8 +155,14 @@ class Product(models.Model):
     2.  **`auto_now=True`:** Презаписва датата и часа **при всяко извикване на `obj.save()`** (`UPDATE`). Идеално за колона `updated_at`.
     *   *Скритата уловка:* Тъй като `auto_now=True` се задейства вътре в Python метода `.save()`, ако обновиш записите директно на ниво база данни чрез масов **`Product.objects.filter(...).update(price=50)`**, методът `.save()` **не се извиква** и колоната `updated_at` **няма да се обнови**!
 
+
+
+
+
+
+
 ---
 
-[📂 Назад към Module 04 Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📦 Екосистема: Python Scripting](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04 Python ORM](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ Теория, `QuerySet` срещу `Session` & Капани](04-03-00-CRUD-And-Queries.md)
+[⬅️ 04-00. Intro: Django ORM срещу SQLAlchemy & EF Core](04-00-Intro.md) | [📂 Назад към Module 04: Python ORM Хъба](README.md) | [📦 Предишен модул: Module-03-OOP](../Module-03-OOP/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Python ORM](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Django-Fundamentals](../Module-05-Django-Fundamentals/README.md) | [➡️ 04-01-01. Django ORM Models: Синтаксис от нулата & C...](04-01-01-Syntax-Django-ORM.md)
 
 © 2026 Dev-Library / 04-01-00. Models, Fields and Data Types (Теория, Сравнение & Интервю Капани)

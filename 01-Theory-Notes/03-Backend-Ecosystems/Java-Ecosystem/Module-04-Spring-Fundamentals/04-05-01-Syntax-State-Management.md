@@ -1,4 +1,4 @@
-[⬅️ 04-05-00. Теория & Капани](04-05-00-State-Management.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-06-00. Spring Essentials (Events & Scheduling)](04-06-00-Spring-Essentials.md)
+[⬅️ 04-05-00. State Management](04-05-00-State-Management.md) | [📂 Назад към Module 04: Spring Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [➡️ 04-06-00. Spring Essentials](04-06-00-Spring-Essentials.md)
 
 ---
 
@@ -162,5 +162,14 @@ public class RegistrationWizardController {
 | **`session.removeAttribute("key")`** | Изтрива един запис от сесията | Сесията остава активна |
 | **`session.invalidate()`** | Унищожава цялата сесия на сървъра | Задължително при Logout |
 
+
+
+
+
+
+
 ---
-[⬅️ 04-05-00. Теория & Капани](04-05-00-State-Management.md) | 📂 Папка: Module-04-Spring-Fundamentals | [🏠 Начало](../../README.md) | [➡️ 04-06-00. Spring Essentials (Events & Scheduling)](04-06-00-Spring-Essentials.md)
+
+[⬅️ 04-05-00. State Management](04-05-00-State-Management.md) | [📂 Назад към Module 04: Spring Fundamentals Хъба](README.md) | [📦 Предишен модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 04: Spring Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-05-Spring-Advanced](../Module-05-Spring-Advanced/README.md) | [➡️ 04-06-00. Spring Essentials](04-06-00-Spring-Essentials.md)
+
+© 2026 Dev-Library / 04-05-01. State Management (Cookies & HttpSession): Синтаксис от нулата & Cheat Sheet

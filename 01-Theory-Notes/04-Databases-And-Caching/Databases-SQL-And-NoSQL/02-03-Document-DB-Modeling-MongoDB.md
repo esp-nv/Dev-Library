@@ -1,4 +1,4 @@
-⬅️ [02-02. Нормализация на БД](02-02-SQL-Database-Normalization.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [02-04. Моделиране в Key-Value и Wide-Column (Redis & Cassandra)](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md)
+[⬅️ 02-02. Нормализация на Бази Данни (1NF, 2NF, 3NF) и ...](02-02-SQL-Database-Normalization.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 02-04. Моделиране в Key-Value (Redis) и Wide-Column](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md)
 
 ---
 
@@ -132,7 +132,14 @@ public record OrderItemSubDoc(string ProductName, int Quantity, decimal UnitPric
 * **Какво се случва:** MongoDB автоматично индексира само `_id`. Ако търсиш често по `customer.userId` или `orderNumber` без да си създал индекс (`db.orders.createIndex({ "customer.userId": 1 })`), MongoDB прави **COLLSCAN** (чете всеки един документ в колекцията).
 * **Как да избегнеш:** Винаги слагай индекс върху полетата, по които правиш `Find()` или `Sort()`.
 
+
+
+
+
+
+
 ---
-⬅️ [02-02. Нормализация на БД](02-02-SQL-Database-Normalization.md) | [📂 Глава 02-00. Проектиране и Моделиране на Бази Данни (SQL и NoSQL)](02-00-DATA-MODELING-OVERVIEW.md) | 🏠 [Библиотека БД](README.md)  | ➡️ [02-04. Моделиране в Key-Value и Wide-Column (Redis & Cassandra)](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md)
+
+[⬅️ 02-02. Нормализация на Бази Данни (1NF, 2NF, 3NF) и ...](02-02-SQL-Database-Normalization.md) | [📂 Назад към ️ Databases (SQL & NoSQL) – Архитектурна Библиотека Хъба](README.md) | [📦 Предишен модул: Databases-And-EF-Core](../Databases-And-EF-Core/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: ️ Databases (SQL & NoSQL) – Архитектурна Библиотека](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [📦 Следващ модул: Redis-Caching](../Redis-Caching/README.md) | [➡️ 02-04. Моделиране в Key-Value (Redis) и Wide-Column](02-04-KeyValue-And-WideColumn-Modeling-Redis-Cassandra.md)
 
 © 2026 Dev-Library / 02-03. Особености при моделиране в Document БД (MongoDB)

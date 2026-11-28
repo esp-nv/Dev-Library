@@ -1,4 +1,4 @@
-[⬅️ 01-04-00. Sass и SCSS Архитектура](01-04-00-Sass-And-SCSS-Architecture.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-05. Сравнение на CSS стиловете и рамките](01-05-CSS-Methodologies-And-Frameworks-Comparison.md)
+[⬅️ 01-04-00. Sass и SCSS Архитектура](01-04-00-Sass-And-SCSS-Architecture.md) | [📂 Назад към 01. HTML5 & CSS3 Foundations Хъба](README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [➡️ 01-05. Архитектурно и Хардуерно Сравнение на Стиловете](01-05-CSS-Methodologies-And-Frameworks-Comparison.md)
 
 ---
 
@@ -157,8 +157,14 @@ sass --watch scss/main.scss:css/style.css
 
 * **[01-05. Пълно сравнение на CSS стиловете, методологиите и рамките](01-05-CSS-Methodologies-And-Frameworks-Comparison.md)** — Детайлен архитектурен и хардуерен одит в таблица по категории: Pure CSS, SCSS, Tailwind CSS, Bootstrap 5 и CSS-in-JS.
 
----
-[⬅️ 01-04-00. Sass и SCSS Архитектура](01-04-00-Sass-And-SCSS-Architecture.md) | [⬅️ Назад към 01-Core-Tools-And-Fundamentals](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) [🌐 Следващ домейн: 03-Backend-Ecosystems](../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](Responsive-Forms-And-Frameworks/README.md) | [➡️ 01-05. Сравнение на CSS стиловете и рамките](01-05-CSS-Methodologies-And-Frameworks-Comparison.md)
 
+
+
+
+
+
+---
+
+[⬅️ 01-04-00. Sass и SCSS Архитектура](01-04-00-Sass-And-SCSS-Architecture.md) | [📂 Назад към 01. HTML5 & CSS3 Foundations Хъба](README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: 01. HTML5 & CSS3 Foundations](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: JavaScript-Language](../JavaScript-Language/README.md) | [➡️ 01-05. Архитектурно и Хардуерно Сравнение на Стиловете](01-05-CSS-Methodologies-And-Frameworks-Comparison.md)
 
 © 2026 Dev-Library / 01-04-01. Syntax-From-Scratch & SCSS Cheat Sheet (Променливи, Mixins и Цикли)

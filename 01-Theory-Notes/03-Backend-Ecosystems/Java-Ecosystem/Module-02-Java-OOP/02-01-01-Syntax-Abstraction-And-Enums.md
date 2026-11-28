@@ -1,4 +1,4 @@
-[⬅️ 02-01-00. Теория & Капани](02-01-00-Abstraction-And-Enums.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-02-00. Encapsulation](02-02-00-Encapsulation.md)
+[⬅️ 02-01-00. Working with Abstraction](02-01-00-Abstraction-And-Enums.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-02-00. Encapsulation](02-02-00-Encapsulation.md)
 
 ---
 
@@ -137,5 +137,14 @@ public class Circle {
 | **Статична константа** | `public static final int MAX = 10;` | Инициализира се при декларация или в `static {}` блок |
 | **Static Import** | `import static pkg.Class.method;` | Внася статични методи/константи директно в класа |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-01-00. Теория & Капани](02-01-00-Abstraction-And-Enums.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-02-00. Encapsulation](02-02-00-Encapsulation.md)
+
+[⬅️ 02-01-00. Working with Abstraction](02-01-00-Abstraction-And-Enums.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-02-00. Encapsulation](02-02-00-Encapsulation.md)
+
+© 2026 Dev-Library / 02-01-01. Working with Abstraction (`Enums`, `Static` & Packages): Синтаксис от нулата & Cheat Sheet

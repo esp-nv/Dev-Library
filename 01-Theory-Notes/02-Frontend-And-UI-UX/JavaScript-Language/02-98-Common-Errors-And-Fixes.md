@@ -1,4 +1,4 @@
-[⬅️ 02-97. Category Cheat Sheet](02-97-Category-Cheat-Sheet.md) | [📂 Назад към JavaScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-99. Interview Q&A, Скрити Капани & Debugging Techniques](02-99-Interview-QA-Traps-And-Debugging.md)
+[⬅️ 02-97. JavaScript Category Cheat Sheet](02-97-Category-Cheat-Sheet.md) | [📂 Назад към JavaScript Language & Architecture Хъба](README.md) | [📦 Предишен модул: HTML5-CSS3-And-SASS](../HTML5-CSS3-And-SASS/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language & Architecture](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-99. Interview Q&A, Скрити Капани & Debugging Tech...](02-99-Interview-QA-Traps-And-Debugging.md)
 
 ---
 
@@ -86,8 +86,14 @@
 | `UnhandledPromiseRejection` | Липсва `try/catch` около `await` или `.catch()` след Promise | Обвийте `await` блока в `try { ... } catch (err) { ... }` |
 | `this` е `undefined` вътре в метод | Методът е подаден като callback (`el.onclick = obj.save`) | Използвайте `() => obj.save()` или `obj.save.bind(obj)` |
 
+
+
+
+
+
+
 ---
 
-[⬅️ 02-97. Category Cheat Sheet](02-97-Category-Cheat-Sheet.md) | [📂 Назад към JavaScript Language Хъба](README.md) | [📦 Предишен модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [🌐 Домейн: 02. Frontend & UI/UX](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language](README.md) | [🌐 Следващ домейн: 03. Backend Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: TypeScript-Language](../TypeScript-Language/README.md) | [➡️ 02-99. Interview Q&A, Скрити Капани & Debugging Techniques](02-99-Interview-QA-Traps-And-Debugging.md)
+[⬅️ 02-97. JavaScript Category Cheat Sheet](02-97-Category-Cheat-Sheet.md) | [📂 Назад към JavaScript Language & Architecture Хъба](README.md) | [📦 Предишен модул: HTML5-CSS3-And-SASS](../HTML5-CSS3-And-SASS/README.md) | [🌐 Домейн: 02. Фронтенд и UI/UX Дизайн](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: JavaScript Language & Architecture](README.md) | [🌐 Следващ домейн: 03-Backend-Ecosystems](../../03-Backend-Ecosystems/README.md) | [📦 Следващ модул: Responsive-Forms-And-Frameworks](../Responsive-Forms-And-Frameworks/README.md) | [➡️ 02-99. Interview Q&A, Скрити Капани & Debugging Tech...](02-99-Interview-QA-Traps-And-Debugging.md)
 
 © 2026 Dev-Library / 02-98. Common Errors, Edge Cases & Fixes (Каталог на грешките)

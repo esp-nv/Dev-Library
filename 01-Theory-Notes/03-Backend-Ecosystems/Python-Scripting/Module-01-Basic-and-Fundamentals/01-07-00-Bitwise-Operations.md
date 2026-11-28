@@ -1,4 +1,4 @@
-[⬅️ 01-06. Dictionaries](01-06-00-Dictionaries.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-07-01. Syntax From Scratch](01-07-01-Syntax-Bitwise-Operations.md)
+[⬅️ 01-06-01. Dictionaries: Синтаксис от нулата & Cheat ...](01-06-01-Syntax-Dictionaries.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-07-01. Bitwise Operations: Синтаксис от нулата & ...](01-07-01-Syntax-Bitwise-Operations.md)
 
 ---
 
@@ -119,5 +119,14 @@ print(f"Може ли да пише (след):  {(user_permissions & WRITE) != 
 *   **Точен Senior отговор:** В двоичната бройна система всяка степен на двойката има **само един вдигнат бит `1`**, последван от нули (напр. `8` е `1000`), а числото преди него (`7`) има само единици на по-младшите позиции (`0111`). Когато приложим побитово И между тях (`8 & 7`), резултатът винаги е точно **`0`**!
     *   **Формула:** `is_power_of_two = (n > 0) and ((n & (n - 1)) == 0)` (проверката `n > 0` е задължителна, за да изключи нулата).
 
+
+
+
+
+
+
 ---
-[⬅️ 01-06. Dictionaries](01-06-00-Dictionaries.md) | 📂 Папка: Module-01-Basic-and-Fundamentals | [🏠 Начало](../../../../README.md) | [➡️ 01-07-01. Syntax From Scratch](01-07-01-Syntax-Bitwise-Operations.md)
+
+[⬅️ 01-06-01. Dictionaries: Синтаксис от нулата & Cheat ...](01-06-01-Syntax-Dictionaries.md) | [📂 Назад към Module 01: Python Basic and Fundamentals Хъба](README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 01: Python Basic and Fundamentals](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-02-Advance](../Module-02-Advance/README.md) | [➡️ 01-07-01. Bitwise Operations: Синтаксис от нулата & ...](01-07-01-Syntax-Bitwise-Operations.md)
+
+© 2026 Dev-Library / 01-07-00. Bitwise Operations (Теория, Двоична логика & Интервю Капани)

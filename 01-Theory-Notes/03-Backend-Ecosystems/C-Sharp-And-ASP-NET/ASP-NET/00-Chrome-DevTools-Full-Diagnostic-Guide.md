@@ -1,4 +1,4 @@
-[⬅️ 00-03. Тестване с Postman](00-03-Postman-API-Testing-Fundamentals.md) | 📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) | [⏩ Глава 01-00. Еволюция на ASP.NET](01-00-ASP-NET-VERSIONS-AND-EVOLUTION.md)
+[⬅️ 00-06. Глобален уеб справочник за HTTP статус кодове...](00-06-HTTP-Status-Codes-Full-Reference.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 00-03. Пълен диагностичен наръчник за Postman](00-Postman-API-Testing-Fundamentals.md)
 
 ---
 
@@ -91,7 +91,14 @@
 *   **Какво показва:** Позволява ти да направиш моментна снимка на паметта (**Heap Snapshot**) на JavaScript виртуалната машина в браузъра.
 *   **Защо се използва:** За откриване на тежки софтуерни течове на памет (**Memory Leaks**). Прозорецът ти показва точно колко мегабайта (`MB`) заема всеки един създаден обект или DOM елемент в RAM паметта и кои изоставени обекти (`Detached Elements`) са останали блокирани на диска, защото някоя функция е забравила да изтрие указателя им.
 
+
+
+
+
+
+
 ---
-[⬅️ 00-03. Тестване с Postman](00-03-Postman-API-Testing-Fundamentals.md) | 📂 Глава 00. Въведение в уеб технологиите и Git | [🏠 Начало (ASP.NET)](README.md) | [⏩ Глава 01-00. Еволюция на ASP.NET](01-00-ASP-NET-VERSIONS-AND-EVOLUTION.md)
+
+[⬅️ 00-06. Глобален уеб справочник за HTTP статус кодове...](00-06-HTTP-Status-Codes-Full-Reference.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 00-03. Пълен диагностичен наръчник за Postman](00-Postman-API-Testing-Fundamentals.md)
 
 © 2026 Dev-Library / 00-04. Пълен диагностичен наръчник за Chrome DevTools

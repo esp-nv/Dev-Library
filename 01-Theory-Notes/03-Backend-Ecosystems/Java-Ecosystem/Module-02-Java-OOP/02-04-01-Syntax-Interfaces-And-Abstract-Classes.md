@@ -1,4 +1,4 @@
-[⬅️ 02-04-00. Теория & Капани](02-04-00-Interfaces-And-Abstract-Classes.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-05-00. Polymorphism](02-05-00-Polymorphism.md)
+[⬅️ 02-04-00. Interfaces and Abstraction](02-04-00-Interfaces-And-Abstract-Classes.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-05-00. Polymorphism](02-05-00-Polymorphism.md)
 
 ---
 
@@ -150,5 +150,14 @@ public class TaxDemo {
 | **Абстрактен клас** | `public abstract class Vehicle` | Може да има полета, конструктори и конкретни методи |
 | **Абстрактен метод** | `public abstract void start();` | Няма тяло `{}`; класовете-наследници трябва да го напишат |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-04-00. Теория & Капани](02-04-00-Interfaces-And-Abstract-Classes.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-05-00. Polymorphism](02-05-00-Polymorphism.md)
+
+[⬅️ 02-04-00. Interfaces and Abstraction](02-04-00-Interfaces-And-Abstract-Classes.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-05-00. Polymorphism](02-05-00-Polymorphism.md)
+
+© 2026 Dev-Library / 02-04-01. Interfaces and Abstraction: Синтаксис от нулата & Cheat Sheet

@@ -1,4 +1,4 @@
-[🏛️ Главен Портал (Dev-Library)](../../README.md) | [📚 Инженерна Библиотека (01-Theory-Notes)](../README.md) | [🏠 Начало (00-Learning-Roadmaps)](README.md)
+[📂 Назад към Примерни Пътеки за Учене и Инженерни Сравнения Хъба](README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../README.md) | [🏛️ Начало Dev-Library](../../README.md) | [📂 Текуща папка: Примерни Пътеки за Учене и Инженерни Сравнения](README.md) | [🌐 Следващ домейн: ️ 01. Инструменти, Контрол на Версиите и Алгоритми](../01-Core-Tools-And-Fundamentals/README.md) | [📦 Следващ модул: 01-Core-Tools-And-Fundamentals](../01-Core-Tools-And-Fundamentals/README.md) | [➡️ 01-01-Level-1-The-Quick-Wins](01-01-Level-1-The-Quick-Wins.md)
 
 ---
 

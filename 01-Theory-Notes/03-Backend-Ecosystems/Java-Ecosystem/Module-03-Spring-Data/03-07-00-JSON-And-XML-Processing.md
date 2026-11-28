@@ -1,4 +1,4 @@
-[⬅️ Теория, `JOIN FETCH`, Projections, Pagination & Капани](03-05-00-Advanced-Querying.md) | [📂 Назад към Module 03 Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03 Spring Data](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md)
+[⬅️ 03-06-01. Java Auto Mapping Objects (`MapStruct` & `...](03-06-01-Syntax-Auto-Mapping-DTOs.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-07-01. JSON and XML Processing (Jackson & Gson): ...](03-07-01-Syntax-JSON-And-XML-Processing.md)
 
 ---
 
@@ -138,8 +138,14 @@ public class SafeJacksonParsing {
 | **Защита от циклични референции** | `@JsonManagedReference` / `@JsonBackReference` или `@JsonIdentityInfo` | `ReferenceHandler.IgnoreCycles` в `JsonSerializerOptions` |
 | **Полиморфна сериализация** | `@JsonTypeInfo` и `@JsonSubTypes` | `[JsonPolymorphic]` и `[JsonDerivedType(typeof(...), "type")]` (от .NET 7+) |
 
+
+
+
+
+
+
 ---
 
-[⬅️ Теория, `JOIN FETCH`, Projections, Pagination & Капани](03-05-00-Advanced-Querying.md) | [📂 Назад към Module 03 Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📦 Екосистема: Java Ecosystem](../README.md) | [🌐 Домейн: 03. Backend Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03 Spring Data](README.md) | [🌐 Следващ домейн: 04. Databases & Caching](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md)
+[⬅️ 03-06-01. Java Auto Mapping Objects (`MapStruct` & `...](03-06-01-Syntax-Auto-Mapping-DTOs.md) | [📂 Назад към Module 03: Spring Data Хъба](README.md) | [📦 Предишен модул: Module-02-Java-OOP](../Module-02-Java-OOP/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Spring Data](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Spring-Fundamentals](../Module-04-Spring-Fundamentals/README.md) | [➡️ 03-07-01. JSON and XML Processing (Jackson & Gson): ...](03-07-01-Syntax-JSON-And-XML-Processing.md)
 
 © 2026 Dev-Library / 03-07-00. JSON and XML Processing (Jackson & Gson — Теория, Безкрайна рекурсия & Капани)

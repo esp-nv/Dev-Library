@@ -1,4 +1,4 @@
-[⬅️ 03-01-01. Syntax-From-Scratch & SEO Audit Checklist](03-01-01-Syntax.md) | [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [📂 Текуща папка: 03. Technical SEO & Redis Caching](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md) | [➡️ 03-02-01. Syntax-From-Scratch & Redis CLI Cheat Sheet](03-02-00-Redis-Caching-Architecture.md)
+[📦 Към предишен модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [📂 Назад към Кеширане в Паметта с Redis Хъба](README.md) | [📦 Предишен модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Кеширане в Паметта с Redis](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [➡️ 03-02-01. Syntax-From-Scratch & Redis CLI Cheat Shee...](03-02-01-Syntax-Redis.md)
 
 ---
 
@@ -79,5 +79,14 @@ Redis не съхранява просто текстови низове — т�
 
 ---
 [⬅️ 03-01-01. Syntax-From-Scratch & SEO Audit Checklist](03-01-01-Syntax.md) | [📂 Предишна папка: 02. Responsive, Forms & Frameworks](../02-Responsive-Forms-And-Frameworks/README.md) | [📂 Текуща папка: 03. Technical SEO & Redis Caching](README.md) | [🏠 Начало](../../../../README.md) | [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md) | [➡️ 03-02-01. Syntax-From-Scratch & Redis CLI Cheat Sheet](03-02-00-Redis-Caching-Architecture.md)
+
+
+
+
+
+
 ---
+
+[📦 Към предишен модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [📂 Назад към Кеширане в Паметта с Redis Хъба](README.md) | [📦 Предишен модул: Databases-SQL-And-NoSQL](../Databases-SQL-And-NoSQL/README.md) | [🌐 Домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../README.md) | [🏛️ Начало Dev-Library](../../../README.md) | [📂 Текуща папка: Кеширане в Паметта с Redis](README.md) | [🌐 Следващ домейн: 05. QA и Автоматизирано Тестване](../../05-QA-And-Test-Automation/README.md) | [➡️ 03-02-01. Syntax-From-Scratch & Redis CLI Cheat Shee...](03-02-01-Syntax-Redis.md)
+
 © 2026 Dev-Library / 03-02-00. Redis Caching Архитектура и Структури от данни (Теория, Cache-Aside и Капани)

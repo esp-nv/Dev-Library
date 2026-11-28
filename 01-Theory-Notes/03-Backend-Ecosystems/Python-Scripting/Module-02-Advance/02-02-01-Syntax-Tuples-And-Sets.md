@@ -1,4 +1,4 @@
-[⬅️ 02-02-00. Теория & Капани](02-02-00-Tuples-And-Sets.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-03-00. Multidimensional Lists](02-03-00-Multidimensional-Lists.md)
+[⬅️ 02-02-00. Tuples and Sets](02-02-00-Tuples-And-Sets.md) | [📂 Назад към Module 02: Python Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Python Advance](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md) | [➡️ 02-03-00. Multidimensional Lists](02-03-00-Multidimensional-Lists.md)
 
 ---
 
@@ -107,5 +107,14 @@ all_teams = {group_1, group_2}  # Обикновен set вътре в set би 
 | **Сечение (A и B)** | `a & b` | Само общите елементи |
 | **Разлика (A без B)** | `a - b` | Само тези, които са в `a`, но не и в `b` |
 
+
+
+
+
+
+
 ---
-[⬅️ 02-02-00. Теория & Капани](02-02-00-Tuples-And-Sets.md) | [📂 Папка: Module-02-Advance](README.md) | [🏠 Начало](../../../../README.md) | [➡️ 02-03-00. Multidimensional Lists](02-03-00-Multidimensional-Lists.md)
+
+[⬅️ 02-02-00. Tuples and Sets](02-02-00-Tuples-And-Sets.md) | [📂 Назад към Module 02: Python Advance Хъба](README.md) | [📦 Предишен модул: Module-01-Basic-and-Fundamentals](../Module-01-Basic-and-Fundamentals/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Python Advance](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-OOP](../Module-03-OOP/README.md) | [➡️ 02-03-00. Multidimensional Lists](02-03-00-Multidimensional-Lists.md)
+
+© 2026 Dev-Library / 02-02-01. Tuples and Sets: Синтаксис от нулата & Cheat Sheet

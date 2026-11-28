@@ -1,4 +1,4 @@
-[⬅️ 01-07. Етапи за изграждане](01-07-ASP-NET-Core-Application-Architecture-Steps.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-00. Напреднало Интро](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
+[⬅️ 01-07. Етапи за изграждане на ASP.NET Core приложени...](01-07-ASP-NET-Core-Application-Architecture-Steps.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 01-09. Наръчник по конфигурация: AutoMapper и Identi...](01-09-AutoMapper-Identity-Configuration-Guide.md)
 
 ---
 
@@ -146,7 +146,14 @@ public class StudentService
 | `MissingMethodException: No parameterless constructor defined.` | Използвала си чистия `System.Activator` за клас, изискващ услуги от IoC паметта. | Подмени го със системния **`ActivatorUtilities.CreateInstance<T>(provider, args)`**, който е свързан с DI. |
 | `NullReferenceException: Object reference not set to an instance.` | Използвала си `type.GetField("name")` за private поле, без да укажеш задължителните търсещи BindingFlags. | Наложи изричното присъствие на маските: **`BindingFlags.Instance | BindingFlags.NonPublic`** в скобите на метода. |
 
+
+
+
+
+
+
 ---
-[⬅️ 01-07. Етапи за изграждане](01-07-ASP-NET-Core-Application-Architecture-Steps.md) | [📂 01-00. ASP.NET Core Fundamentals (Кратък справочник)](01-00-ASP-NET-CORE-FUNDAMENTALS-INTRO.md)  | [🏠 Начало (ASP.NET)](README.md) | [➡️ 02-00. ASP.NET Core Advanced (Кратък справочник)](02-00-ASP-NET-CORE-ADVANCED-INTRO.md)
+
+[⬅️ 01-07. Етапи за изграждане на ASP.NET Core приложени...](01-07-ASP-NET-Core-Application-Architecture-Steps.md) | [📂 Назад към ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас Хъба](README.md) | [📂 Родителски модул: C-Sharp-And-ASP-NET](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: ASP.NET Core & Web Платформи — Пълен Архитектурен Атлас](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: C-Sharp-Fundamentals](../C-Sharp-Fundamentals/README.md) | [➡️ 01-09. Наръчник по конфигурация: AutoMapper и Identi...](01-09-AutoMapper-Identity-Configuration-Guide.md)
 
 © 2026 Dev-Library / 01-08. ASP.NET Core Fundamentals (Глобален Инженерен Пищов)

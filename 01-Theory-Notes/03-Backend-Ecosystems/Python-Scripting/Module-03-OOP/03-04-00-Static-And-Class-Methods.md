@@ -1,4 +1,4 @@
-[⬅️ 03-03. Encapsulation](03-03-00-Encapsulation.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-04-01. Syntax From Scratch](03-04-01-Syntax-Static-And-Class-Methods.md)
+[⬅️ 03-03-01. Encapsulation: Синтаксис от нулата & Cheat...](03-03-01-Syntax-Encapsulation.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-04-01. Static and Class Methods: Синтаксис от нул...](03-04-01-Syntax-Static-And-Class-Methods.md)
 
 ---
 
@@ -135,5 +135,14 @@ print(f"Тип 2: {type(super_admin).__name__}  | Име: {super_admin.username}
     2.  Избирам **`@staticmethod`**, когато функцията не докосва нито обекта (`self`), нито класа (`cls`), но е **логически и домейн-обвързана** с този клас (напр. `DateValidator.is_leap_year(2026)`) и искам наследниците да могат да я пренаписват (Override) при нужда.
     3.  Избирам **обикновена функция на ниво модул**, ако тя е общопомощна (Utility) и няма директна връзка с конкретен клас.
 
+
+
+
+
+
+
 ---
-[⬅️ 03-03. Encapsulation](03-03-00-Encapsulation.md) | 📂 Папка: Module-03-OOP | [🏠 Начало](../../../../README.md) | [➡️ 03-04-01. Syntax From Scratch](03-04-01-Syntax-Static-And-Class-Methods.md)
+
+[⬅️ 03-03-01. Encapsulation: Синтаксис от нулата & Cheat...](03-03-01-Syntax-Encapsulation.md) | [📂 Назад към Module 03: Python OOP Хъба](README.md) | [📦 Предишен модул: Module-02-Advance](../Module-02-Advance/README.md) | [📂 Родителски модул: Python Scripting & Software Engineering](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 03: Python OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-04-Python-ORM](../Module-04-Python-ORM/README.md) | [➡️ 03-04-01. Static and Class Methods: Синтаксис от нул...](03-04-01-Syntax-Static-And-Class-Methods.md)
+
+© 2026 Dev-Library / 03-04-00. Static and Class Methods (Теория, `@classmethod` vs `@staticmethod` & Капани)

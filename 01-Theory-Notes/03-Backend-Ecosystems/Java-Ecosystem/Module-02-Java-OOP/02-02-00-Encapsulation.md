@@ -1,4 +1,4 @@
-[⬅️ 02-01. Working with Abstraction & Enums](02-01-00-Abstraction-And-Enums.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-02-01. Syntax From Scratch](02-02-01-Syntax-Encapsulation.md)
+[⬅️ 02-01-01. Working with Abstraction (`Enums`, `Static...](02-01-01-Syntax-Abstraction-And-Enums.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-02-01. Encapsulation: Синтаксис от нулата & Cheat...](02-02-01-Syntax-Encapsulation.md)
 
 ---
 
@@ -61,5 +61,14 @@
 * **`protected`:** В Java включва целия пакет, докато в C# важи стриктно само за наследници (еквивалент на Java `protected` в C# е `protected internal`).
 * **Properties и Read-Only:** Java разчита на конвенцията с гетъри/сетъри и `Collections.unmodifiableList`, докато C# поддържа езикови свойства (`get; init;`) и `IReadOnlyList<T>`.
 
+
+
+
+
+
+
 ---
-[⬅️ 02-01. Working with Abstraction & Enums](02-01-00-Abstraction-And-Enums.md) | 📂 Папка: Module-02-Java-OOP | [🏠 Начало](../../README.md) | [➡️ 02-02-01. Syntax From Scratch](02-02-01-Syntax-Encapsulation.md)
+
+[⬅️ 02-01-01. Working with Abstraction (`Enums`, `Static...](02-01-01-Syntax-Abstraction-And-Enums.md) | [📂 Назад към Module 02: Java OOP Хъба](README.md) | [📦 Предишен модул: Module-01-Java-Fundamentals](../Module-01-Java-Fundamentals/README.md) | [📂 Родителски модул: Java & Spring Boot Ecosystem](../README.md) | [🌐 Домейн: 03-Backend-Ecosystems](../../README.md) | [📚 Инженерна Библиотека 01-Theory-Notes](../../../README.md) | [🏛️ Начало Dev-Library](../../../../README.md) | [📂 Текуща папка: Module 02: Java OOP](README.md) | [🌐 Следващ домейн: ️ 04. Бази Данни, ORM Системи и Кеширане](../../../04-Databases-And-Caching/README.md) | [📦 Следващ модул: Module-03-Spring-Data](../Module-03-Spring-Data/README.md) | [➡️ 02-02-01. Encapsulation: Синтаксис от нулата & Cheat...](02-02-01-Syntax-Encapsulation.md)
+
+© 2026 Dev-Library / 02-02-00. Encapsulation (Теория, Access Modifiers, Defensive Copying & Капани)
