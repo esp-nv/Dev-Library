@@ -11,10 +11,11 @@ public static class DetailReportsWriter
 {
     private static readonly Encoding Utf8NoBom = new UTF8Encoding(false);
 
-    public static void WriteAll(FolderNode rootTree, AuditStats stats, string reportsDir)
+    public static void WriteAll(FolderNode rootTree, AuditStats stats, string reportsDir, LinkUnifierConfig? cfg = null)
     {
+        cfg ??= new LinkUnifierConfig();
         Directory.CreateDirectory(reportsDir);
-        SummaryReportWriter.Write(rootTree, stats, reportsDir);
+        SummaryReportWriter.Write(rootTree, stats, reportsDir, cfg);
 
         string ts = DateTime.Now.ToString("dddd, yyyy-MM-dd HH:mm:ss", new CultureInfo("bg-BG"));
         var emptyDirs = new List<string>();
@@ -23,18 +24,17 @@ public static class DetailReportsWriter
         var inProgressList = stats.RejectedLog.Where(r => r.Contains("В ПРОЦЕС")).ToList();
 
         WriteSectionFile(
-            Path.Combine(reportsDir, "02-approved-links.txt"),
+            Path.Combine(reportsDir, cfg.ApprovedReportFile),
             $"ОДОБРЕНИ И ПРИЛОЖЕНИ ПРОМЕНИ ({stats.ApprovedLog.Count}) — {ts}",
             stats.ApprovedLog,
             "Няма одобрени промени при това пускане.");
 
         WriteSectionFile(
-            Path.Combine(reportsDir, "03-deleted-lines.txt"),
+            Path.Combine(reportsDir, cfg.DeletedReportFile),
             $"ИЗТРИТИ ОСТАРЕЛИ РЕДОВЕ ({stats.DeletedLinesLog.Count}) — {ts}",
             stats.DeletedLinesLog,
             "Няма изтрити редове при това пускане.");
 
-        // 04: Групиран одит по файл
         int linkCount = stats.LastAuditIssues.Count(i => !i.IsAnchorOnly);
         int anchorCount = stats.LastAuditIssues.Count(i => i.IsAnchorOnly);
 
@@ -70,31 +70,71 @@ public static class DetailReportsWriter
                 }
             }
         }
-        File.WriteAllText(Path.Combine(reportsDir, "04-grouped-audit-report.txt"), grouped.ToString(), Utf8NoBom);
+        File.WriteAllText(Path.Combine(reportsDir, cfg.GroupedAuditReportFile), grouped.ToString(), Utf8NoBom);
 
         WriteSectionFile(
-            Path.Combine(reportsDir, "05-empty-folders.txt"),
+            Path.Combine(reportsDir, cfg.EmptyFoldersReportFile),
             $"ПРАЗНИ ПАПКИ ОТ POST-ORDER DFS ОБХОЖДАНЕТО ({emptyDirs.Count}) — {ts}",
             emptyDirs.Select(d => $"📂 {d}"),
             "🎉 Няма празни директории в библиотеката!");
 
         WriteSectionFile(
-            Path.Combine(reportsDir, "06-crud-changes.txt"),
+            Path.Combine(reportsDir, cfg.CrudReportFile),
             $"CRUD ОПЕРАЦИИ ПО ФАЙЛОВЕ И ПАПКИ ({stats.CrudLog.Count}) — {ts}",
             stats.CrudLog,
             "Няма извършени CRUD операции при това пускане.");
 
         WriteSectionFile(
-            Path.Combine(reportsDir, "07-navbar-footer-sync.txt"),
+            Path.Combine(reportsDir, cfg.NavSyncReportFile),
             $"СИНХРОНИЗИРАНИ NAVBAR И FOOTER ФАЙЛОВЕ ({stats.NavSyncLog.Count}) — {ts}",
             stats.NavSyncLog,
             "Няма променени Navbar/Footer файлове (всички са актуални).");
 
         WriteSectionFile(
-            Path.Combine(reportsDir, "08-in-progress-to-create.txt"),
-            $"МАРКИРАНИ В ПРОЦЕС / ЗА ДОБАВЯНЕ ({inProgressList.Count}) — {ts}",
+            Path.Combine(reportsDir, cfg.InProgressReportFile),
+            $"МАРКИРАНИ В ПРОЦЕС / ЗА ДОБАВЯНЕ ПРИ СЕСИЯТА ({inProgressList.Count}) — {ts}",
             inProgressList,
-            "Няма маркирани елементи 'в процес / за добавяне'.");
+            "Няма маркирани елементи 'в процес / за добавяне' при текущата сесия.");
+
+        var missingFiles = stats.LastAuditIssues
+            .Where(i => !i.IsAnchorOnly && i.Reason.Contains("не съществува"))
+            .ToList();
+
+        var missingSb = new StringBuilder();
+        missingSb.AppendLine("================================================================================");
+        missingSb.AppendLine($"ЛИНКОВЕ КЪМ НЕСЪЩЕСТВУВАЩИ ФАЙЛОВЕ (ИМА ЛИНК, НО НЯМА ФАЙЛ: {missingFiles.Count}) — {ts}");
+        missingSb.AppendLine("================================================================================");
+
+        if (missingFiles.Count == 0)
+        {
+            missingSb.AppendLine("🎉 Всички линкове сочат към съществуващи файлове!");
+        }
+        else
+        {
+            var uniqueTargets = missingFiles
+                .GroupBy(m => m.LinkTarget)
+                .OrderByDescending(g => g.Count())
+                .ToList();
+
+            missingSb.AppendLine($"📌 Уникални липсващи целеви пътища: {uniqueTargets.Count}");
+            missingSb.AppendLine("--------------------------------------------------------------------------------");
+            foreach (var ug in uniqueTargets)
+                missingSb.AppendLine($"   • {ug.Key}  (споменат {ug.Count()} пъти)");
+
+            missingSb.AppendLine();
+            missingSb.AppendLine("--------------------------------------------------------------------------------");
+            missingSb.AppendLine("📂 РАЗБИВКА ПО ИЗХОДЕН ФАЙЛ (КЪДЕ СЕ НАМИРА ЛИНКЪТ):");
+            missingSb.AppendLine("--------------------------------------------------------------------------------");
+
+            foreach (var fg in missingFiles.GroupBy(m => m.RelativeFile))
+            {
+                missingSb.AppendLine();
+                missingSb.AppendLine($"📄 {fg.Key} ({fg.Count()}):");
+                foreach (var item in fg)
+                    missingSb.AppendLine($"   • [#{item.Id}] ред {item.LineNumber}: {item.OriginalLink}");
+            }
+        }
+        File.WriteAllText(Path.Combine(reportsDir, cfg.MissingFilesReportFile), missingSb.ToString(), Utf8NoBom);
     }
 
     private static void WriteSectionFile(string path, string header, IEnumerable<string> lines, string emptyMsg)

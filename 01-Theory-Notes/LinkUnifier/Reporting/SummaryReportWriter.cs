@@ -11,16 +11,17 @@ public static class SummaryReportWriter
 {
     private static readonly Encoding Utf8NoBom = new UTF8Encoding(false);
 
-    public static void Write(FolderNode rootTree, AuditStats stats, string reportsDir)
+    public static void Write(FolderNode rootTree, AuditStats stats, string reportsDir, LinkUnifierConfig? cfg = null)
     {
+        cfg ??= new LinkUnifierConfig();
         string ts = DateTime.Now.ToString("dddd, yyyy-MM-dd HH:mm:ss", new CultureInfo("bg-BG"));
+        string toolName = Path.GetFileName(Directory.GetParent(reportsDir)?.FullName ?? "LINKUNIFIER").ToUpperInvariant();
 
         var emptyDirs = new List<string>();
         TreeScanner.CollectEmptyNodes(rootTree, emptyDirs);
 
         var inProgressNewlyMarked = stats.RejectedLog.Where(r => r.Contains("В ПРОЦЕС")).ToList();
 
-        // Структура (еднаква формула с 00-library-tree-map.md)
         int totalDomains = rootTree.SubFolders.Count;
         int totalModules = 0;
         int totalLessons = 0;
@@ -32,48 +33,62 @@ public static class SummaryReportWriter
             totalLessons += less;
         }
 
-        // Броячи за 1/ Линкове и 2/ #anchor котви
         int validLinks = stats.ValidRefs.Count(v => !v.IsAnchorOnly);
         int validAnchors = stats.ValidRefs.Count(v => v.IsAnchorOnly);
 
-        int fixedLinks = stats.ApprovedLog.Count(l => !l.Contains("(#"));
-        int fixedAnchors = stats.ApprovedLog.Count(l => l.Contains("(#"));
-
         int totalInProgress = stats.InProgressRefs.Count;
 
-        int brokenLinks = stats.LastAuditIssues.Count(i => !i.IsAnchorOnly);
+        var missingFileIssues = stats.LastAuditIssues.Where(i => !i.IsAnchorOnly && i.Reason.Contains("не съществува")).ToList();
+        var wrongPathIssues = stats.LastAuditIssues.Where(i => !i.IsAnchorOnly && !i.Reason.Contains("не съществува")).ToList();
+
+        int brokenLinks = missingFileIssues.Count + wrongPathIssues.Count;
         int brokenAnchors = stats.LastAuditIssues.Count(i => i.IsAnchorOnly);
 
         int allLinksTotal = validLinks + totalInProgress + brokenLinks;
         int allAnchorsTotal = validAnchors + brokenAnchors;
         int grandTotal = allLinksTotal + allAnchorsTotal;
 
+        double linksHealth = (validLinks + brokenLinks) == 0 ? 100.0 : (validLinks * 100.0) / (validLinks + brokenLinks);
+        double anchorsHealth = (validAnchors + brokenAnchors) == 0 ? 100.0 : (validAnchors * 100.0) / (validAnchors + brokenAnchors);
+        double totalHealthAll = (validLinks + validAnchors + brokenLinks + brokenAnchors) == 0
+            ? 100.0
+            : ((validLinks + validAnchors) * 100.0) / (validLinks + validAnchors + brokenLinks + brokenAnchors);
+
         var sb = new StringBuilder();
         sb.AppendLine("================================================================================");
-        sb.AppendLine($"ОБЩО ОДИТНО РЕЗЮМЕ ОТ LINKUNIFIER — {ts}");
+        sb.AppendLine($"ОБЩО ОДИТНО РЕЗЮМЕ ОТ {toolName} — {ts}");
         sb.AppendLine("================================================================================");
         sb.AppendLine($"• Общо домейни / модули / уроци:        {totalDomains} домейна | {totalModules} модула | {totalLessons} урока");
-        sb.AppendLine($"• Визуална карта и йерархия:           reports/00-library-tree-map.md");
+        sb.AppendLine($"• Визуална карта и йерархия:           {cfg.ReportsFolderName}/{cfg.TreeMapReportFile}");
         sb.AppendLine($"• Преименувани *-Syntax.md файлове:       {stats.RenamedSyntaxFiles}");
         sb.AppendLine($"• Създадени липсващи README.md:          {stats.CreatedReadmes}");
-        sb.AppendLine($"• Синхронизирани Navbar/Footer файлове:   {stats.UpdatedNavFiles}  -> виж 07-navbar-footer-sync.txt");
-        sb.AppendLine($"• Оправени при текущата сесия:           {stats.ApprovedLog.Count}  -> виж 02-approved-links.txt");
-        sb.AppendLine($"• Маркирани 'в разработка' (нови):       {inProgressNewlyMarked.Count}  -> виж 08-in-progress-to-create.txt");
+        sb.AppendLine($"• Синхронизирани Navbar/Footer файлове:   {stats.UpdatedNavFiles}  -> виж {cfg.NavSyncReportFile}");
+        sb.AppendLine($"• Оправени при текущата сесия:           {stats.ApprovedLog.Count}  -> виж {cfg.ApprovedReportFile}");
+        sb.AppendLine($"• Маркирани 'в разработка' (нови):       {inProgressNewlyMarked.Count}  -> виж {cfg.InProgressReportFile}");
+        sb.AppendLine($"• Линкове към несъществуващи файлове:    {missingFileIssues.Count}  -> виж {cfg.MissingFilesReportFile}");
+        sb.AppendLine($"• Линкове с грешен относителен път:      {wrongPathIssues.Count}  -> виж {cfg.GroupedAuditReportFile}");
         sb.AppendLine($"• Отказани / пропуснати при одита:       {stats.SkippedLog.Count}");
-        sb.AppendLine($"• Изтрити остарели редове:               {stats.DeletedLinesLog.Count}  -> виж 03-deleted-lines.txt");
-        sb.AppendLine($"• Празни папки от DFS обхождането:        {emptyDirs.Count}  -> виж 05-empty-folders.txt");
-        sb.AppendLine($"• CRUD операции по файлове/папки:         {stats.CrudLog.Count}  -> виж 06-crud-changes.txt");
+        sb.AppendLine($"• Изтрити остарели редове:               {stats.DeletedLinesLog.Count}  -> виж {cfg.DeletedReportFile}");
+        sb.AppendLine($"• Празни папки от DFS обхождането:        {emptyDirs.Count}  -> виж {cfg.EmptyFoldersReportFile}");
+        sb.AppendLine($"• CRUD операции по файлове/папки:         {stats.CrudLog.Count}  -> виж {cfg.CrudReportFile}");
         sb.AppendLine();
-        sb.AppendLine("--------------------------------------------------------------------------------");
-        sb.AppendLine("📊 ПЪЛНА СТАТИСТИКА ЗА ЛИНКОВЕ И #ANCHOR КОТВИ (ВАЛИДНИ + В РАЗРАБОТКА + СЧУПЕНИ)");
-        sb.AppendLine("--------------------------------------------------------------------------------");
-        sb.AppendLine($"• 1/ Линкове:        Валидни: {validLinks,-5} | В разраб.: {totalInProgress,-4} | Счупени: {brokenLinks,-4} | Общо: {allLinksTotal}");
-        sb.AppendLine($"• 2/ #anchor котви:  Валидни: {validAnchors,-5} | В разраб.: 0    | Счупени: {brokenAnchors,-4} | Общо: {allAnchorsTotal}");
-        sb.AppendLine($"• ОБЩО (1/ + 2/):    Валидни: {validLinks + validAnchors,-5} | В разраб.: {totalInProgress,-4} | Счупени: {brokenLinks + brokenAnchors,-4} | Общо: {grandTotal}");
+        sb.AppendLine("-----------------------------------------------------------------------------------------------------------");
+        sb.AppendLine("📊 ПЪЛНА СТАТИСТИКА ЗА ЛИНКОВЕ И #ANCHOR КОТВИ ПО КАТЕГОРИИ");
+        sb.AppendLine("-----------------------------------------------------------------------------------------------------------");
+        sb.AppendLine(string.Format("{0,-20} | {1,8} | {2,8} | {3,11} | {4,11} | {5,11} | {6,8} | {7,7}",
+            "Категория", "Валидни", "В разр.", "Липсв. файл", "Грешен път", "Счуп.(Общо)", "Общо", "Здраве"));
+        sb.AppendLine(new string('-', 107));
+        sb.AppendLine(string.Format("{0,-20} | {1,8} | {2,8} | {3,11} | {4,11} | {5,11} | {6,8} | {7,6:F1}%",
+            "1/ Линкове", validLinks, totalInProgress, missingFileIssues.Count, wrongPathIssues.Count, brokenLinks, allLinksTotal, linksHealth));
+        sb.AppendLine(string.Format("{0,-20} | {1,8} | {2,8} | {3,11} | {4,11} | {5,11} | {6,8} | {7,6:F1}%",
+            "2/ #anchor котви", validAnchors, 0, "-", brokenAnchors, brokenAnchors, allAnchorsTotal, anchorsHealth));
+        sb.AppendLine(new string('-', 107));
+        sb.AppendLine(string.Format("{0,-20} | {1,8} | {2,8} | {3,11} | {4,11} | {5,11} | {6,8} | {7,6:F1}%",
+            "ОБЩО (1/ + 2/)", validLinks + validAnchors, totalInProgress, missingFileIssues.Count, wrongPathIssues.Count + brokenAnchors, brokenLinks + brokenAnchors, grandTotal, totalHealthAll));
         sb.AppendLine();
-        sb.AppendLine("--------------------------------------------------------------------------------");
+        sb.AppendLine("-----------------------------------------------------------------------------------------------------------");
         sb.AppendLine("🌐 РАЗБИВКА ПО ДОМЕЙНИ (ВАЛИДНИ | В РАЗРАБОТКА | СЧУПЕНИ | ОБЩО | ЗДРАВЕ %)");
-        sb.AppendLine("--------------------------------------------------------------------------------");
+        sb.AppendLine("-----------------------------------------------------------------------------------------------------------");
         sb.AppendLine(string.Format("{0,-34} | {1,4} | {2,5} | {3,7} | {4,8} | {5,11} | {6,6} | {7,7}",
             "Домейн (Папка)", "Мод.", "Уроци", "Валидни", "В разр.", "Счуп.(Л/#)", "Общо", "Здраве"));
         sb.AppendLine(new string('-', 103));
@@ -97,7 +112,6 @@ public static class SummaryReportWriter
                 d.FolderName, mods, less, dValid, dWip, brokenCol, dTotal, health));
         }
 
-        // Файлове в корена на 01-Theory-Notes (извън папките-домейни)
         var domainPrefixes = rootTree.SubFolders.Select(d => d.FolderName + "/").ToList();
         int rValid = stats.ValidRefs.Count(v => !domainPrefixes.Any(p => v.RelativeFile.StartsWith(p, StringComparison.OrdinalIgnoreCase)));
         int rWip = stats.InProgressRefs.Count(w => !domainPrefixes.Any(p => w.RelativeFile.StartsWith(p, StringComparison.OrdinalIgnoreCase)));
@@ -111,18 +125,17 @@ public static class SummaryReportWriter
             double rHealth = (rValid + rBroken) == 0 ? 100.0 : (rValid * 100.0) / (rValid + rBroken);
             string rBrokenCol = $"{rBroken} ({rLinks}/{rAnchors})";
             sb.AppendLine(string.Format("{0,-34} | {1,4} | {2,5} | {3,7} | {4,8} | {5,11} | {6,6} | {7,6:F1}%",
-                "(Корен на 01-Theory-Notes)", 0, rootTree.Lessons.Count, rValid, rWip, rBrokenCol, rTotal, rHealth));
+                $"(Корен на {rootTree.FolderName})", 0, rootTree.Lessons.Count, rValid, rWip, rBrokenCol, rTotal, rHealth));
         }
 
         int totalValidAll = validLinks + validAnchors;
         int totalBrokenAll = brokenLinks + brokenAnchors;
-        double totalHealth = (totalValidAll + totalBrokenAll) == 0 ? 100.0 : (totalValidAll * 100.0) / (totalValidAll + totalBrokenAll);
         string totalBrokenCol = $"{totalBrokenAll} ({brokenLinks}/{brokenAnchors})";
 
         sb.AppendLine(new string('-', 103));
         sb.AppendLine(string.Format("{0,-34} | {1,4} | {2,5} | {3,7} | {4,8} | {5,11} | {6,6} | {7,6:F1}%",
-            "ОБЩО ЗА БИБЛИОТЕКАТА", totalModules, totalLessons, totalValidAll, totalInProgress, totalBrokenCol, grandTotal, totalHealth));
+            "ОБЩО ЗА БИБЛИОТЕКАТА", totalModules, totalLessons, totalValidAll, totalInProgress, totalBrokenCol, grandTotal, totalHealthAll));
 
-        File.WriteAllText(Path.Combine(reportsDir, "01-summary-report.txt"), sb.ToString(), Utf8NoBom);
+        File.WriteAllText(Path.Combine(reportsDir, cfg.SummaryReportFile), sb.ToString(), Utf8NoBom);
     }
 }

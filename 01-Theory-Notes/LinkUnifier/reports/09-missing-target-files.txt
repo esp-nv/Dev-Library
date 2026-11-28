@@ -1,0 +1,127 @@
+================================================================================
+ЛИНКОВЕ КЪМ НЕСЪЩЕСТВУВАЩИ ФАЙЛОВЕ (ИМА ЛИНК, НО НЯМА ФАЙЛ: 60) — събота, 2026-11-28 20:40:00
+================================================================================
+📌 Уникални липсващи целеви пътища: 34
+--------------------------------------------------------------------------------
+   • ../04-Exam-Preparation/README.md  (споменат 4 пъти)
+   • 00-Learning-Roadmaps/Full-Stack-And-QA-Automation-Roadmap/README.md  (споменат 2 пъти)
+   • 01-Core-Tools-And-Fundamentals/Algorithms-Introduction/README.md  (споменат 2 пъти)
+   • 01-Core-Tools-And-Fundamentals/Linux-And-Bash-Scripting/README.md  (споменат 2 пъти)
+   • 02-Frontend-And-UI-UX/UI-UX-Design-And-Figma/README.md  (споменат 2 пъти)
+   • 02-Frontend-And-UI-UX/JavaScript-And-TypeScript/README.md  (споменат 2 пъти)
+   • 02-Frontend-And-UI-UX/Modern-SPA-Frameworks/README.md  (споменат 2 пъти)
+   • 03-Backend-Ecosystems/Node-Express-And-NestJS/README.md  (споменат 2 пъти)
+   • 03-Backend-Ecosystems/PHP-Laravel-And-WordPress/README.md  (споменат 2 пъти)
+   • 03-Backend-Ecosystems/REST-API-And-GraphQL/README.md  (споменат 2 пъти)
+   • 04-Databases-And-Caching/SQL-And-Relational-DBs/README.md  (споменат 2 пъти)
+   • 04-Databases-And-Caching/ORM-Systems/README.md  (споменат 2 пъти)
+   • 04-Databases-And-Caching/NoSQL-And-Redis-Caching/README.md  (споменат 2 пъти)
+   • 04-Databases-And-Caching/Data-Engineering-And-Streaming/README.md  (споменат 2 пъти)
+   • 05-QA-And-Test-Automation/Manual-QA-And-Jira/README.md  (споменат 2 пъти)
+   • 05-QA-And-Test-Automation/Multi-Language-Unit-Testing/README.md  (споменат 2 пъти)
+   • 05-QA-And-Test-Automation/UI-And-Mobile-Automation/README.md  (споменат 2 пъти)
+   • 05-QA-And-Test-Automation/API-And-Performance-Testing/README.md  (споменат 2 пъти)
+   • 06-Cloud-DevOps-And-Architecture/System-Design-And-Architecture/README.md  (споменат 2 пъти)
+   • 06-Cloud-DevOps-And-Architecture/Docker-And-Kubernetes/README.md  (споменат 2 пъти)
+   • 06-Cloud-DevOps-And-Architecture/Cloud-Platforms-AWS-And-Azure/README.md  (споменат 2 пъти)
+   • 06-Cloud-DevOps-And-Architecture/CI-CD-And-SEO/README.md  (споменат 2 пъти)
+   • 07-Game-Development/Unity-And-C-Sharp-Scripting/README.md  (споменат 2 пъти)
+   • 07-Game-Development/Game-Design-Patterns/README.md  (споменат 2 пъти)
+   • ./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/README.md  (споменат 1 пъти)
+   • Linux-And-Bash-Scripting/README.md  (споменат 1 пъти)
+   • ../../03-Backend-Ecosystems/Node-Express-And-NestJS/README.md  (споменат 1 пъти)
+   • UI-UX-Design-And-Figma/README.md  (споменат 1 пъти)
+   • JavaScript-And-SPA-Frameworks/README.md  (споменат 1 пъти)
+   • 00-Learning-Roadmaps/Study-Checklists-And-Logs/README.md  (споменат 1 пъти)
+   • Security-And-Penetration-Testing/README.md  (споменат 1 пъти)
+   • Docker-And-Kubernetes/README.md  (споменат 1 пъти)
+   • Cloud-Platforms-AWS-And-Azure/README.md  (споменат 1 пъти)
+   • 03-Backend-Ecosystems/Java-Scripting/README.md  (споменат 1 пъти)
+
+--------------------------------------------------------------------------------
+📂 РАЗБИВКА ПО ИЗХОДЕН ФАЙЛ (КЪДЕ СЕ НАМИРА ЛИНКЪТ):
+--------------------------------------------------------------------------------
+
+📄 00-Learning-Roadmaps/02-01-Level-2-Natural-Extensions.md (1):
+   • [#5] ред 103: [Главен индекс на Ниво 2 (README.md)](./02-Level-2-Natural-Extensions-QA-Automation-TypeScript-Python-Java/README.md)
+
+📄 01-Core-Tools-And-Fundamentals/README.md (1):
+   • [#36] ред 32: [04. Linux, Terminal & Bash Scripting (`Linux-And-Bash-Scripting/`)](Linux-And-Bash-Scripting/README.md)
+
+📄 02-Frontend-And-UI-UX/JavaScript-Language/02-06-Browser-JS-vs-NodeJS-Runtime-Comparison.md (1):
+   • [#53] ред 79: [📦 Node.js, Express & NestJS](../../03-Backend-Ecosystems/Node-Express-And-NestJS/README.md)
+
+📄 02-Frontend-And-UI-UX/README.md (2):
+   • [#55] ред 38: [04. UI/UX Design, Figma & Accessibility (`UI-UX-Design-And-Figma/`)](UI-UX-Design-And-Figma/README.md)
+   • [#56] ред 41: [05. JavaScript (ES6+) & Модерни SPA Рамки (`JavaScript-And-SPA-Frameworks/`)](JavaScript-And-SPA-Frameworks/README.md)
+
+📄 03-Backend-Ecosystems/README.md (24):
+   • [#142] ред 18: [Full-Stack & QA Automation Roadmap (Нива 1–4)](00-Learning-Roadmaps/Full-Stack-And-QA-Automation-Roadmap/README.md)
+   • [#143] ред 19: [Дневници и Чеклистове на Обучението](00-Learning-Roadmaps/Study-Checklists-And-Logs/README.md)
+   • [#146] ред 24: [Алгоритми и Структури от Данни (Algorithms)](01-Core-Tools-And-Fundamentals/Algorithms-Introduction/README.md)
+   • [#147] ред 25: [Linux, Terminal & Bash Scripting](01-Core-Tools-And-Fundamentals/Linux-And-Bash-Scripting/README.md)
+   • [#149] ред 29: [UI/UX Design & Figma](02-Frontend-And-UI-UX/UI-UX-Design-And-Figma/README.md)
+   • [#151] ред 31: [JavaScript (ES6+) & TypeScript](02-Frontend-And-UI-UX/JavaScript-And-TypeScript/README.md)
+   • [#152] ред 32: [Модерни SPA Рамки (React, Vue 3, Angular)](02-Frontend-And-UI-UX/Modern-SPA-Frameworks/README.md)
+   • [#157] ред 39: [Node.js, Express & NestJS](03-Backend-Ecosystems/Node-Express-And-NestJS/README.md)
+   • [#158] ред 40: [Modern PHP 8.3+, Laravel & WordPress](03-Backend-Ecosystems/PHP-Laravel-And-WordPress/README.md)
+   • [#159] ред 41: [REST API, RESTful & GraphQL (API Архитектура)](03-Backend-Ecosystems/REST-API-And-GraphQL/README.md)
+   • [#161] ред 46: [Релационни Бази Данни (SQL Server & PostgreSQL)](04-Databases-And-Caching/SQL-And-Relational-DBs/README.md)
+   • [#162] ред 47: [ORM Системи (EF Core & Hibernate/JPA)](04-Databases-And-Caching/ORM-Systems/README.md)
+   • [#163] ред 48: [NoSQL и Кеширане в Паметта (Redis & MongoDB)](04-Databases-And-Caching/NoSQL-And-Redis-Caching/README.md)
+   • [#164] ред 49: [Event Streaming и Опашки (Apache Kafka & RabbitMQ)](04-Databases-And-Caching/Data-Engineering-And-Streaming/README.md)
+   • [#166] ред 53: [Manual QA, Test Design & Jira](05-QA-And-Test-Automation/Manual-QA-And-Jira/README.md)
+   • [#167] ред 54: [Unit Testing & Mocking (C#, Java, TS, Python)](05-QA-And-Test-Automation/Multi-Language-Unit-Testing/README.md)
+   • [#168] ред 55: [Web UI & Mobile Автоматизация](05-QA-And-Test-Automation/UI-And-Mobile-Automation/README.md)
+   • [#169] ред 56: [API, Contract & Performance Тестване](05-QA-And-Test-Automation/API-And-Performance-Testing/README.md)
+   • [#171] ред 60: [System Design & Software Architecture](06-Cloud-DevOps-And-Architecture/System-Design-And-Architecture/README.md)
+   • [#172] ред 61: [Docker & Kubernetes (Контейнеризация)](06-Cloud-DevOps-And-Architecture/Docker-And-Kubernetes/README.md)
+   • [#173] ред 62: [Cloud Платформи (AWS & Microsoft Azure)](06-Cloud-DevOps-And-Architecture/Cloud-Platforms-AWS-And-Azure/README.md)
+   • [#174] ред 63: [CI/CD, Observability & Technical SEO](06-Cloud-DevOps-And-Architecture/CI-CD-And-SEO/README.md)
+   • [#176] ред 67: [Unity Engine & C# Game Scripting](07-Game-Development/Unity-And-C-Sharp-Scripting/README.md)
+   • [#177] ред 68: [Game Design Patterns & Архитектура](07-Game-Development/Game-Design-Patterns/README.md)
+
+📄 04-Databases-And-Caching/Redis-Caching/03-02-00-Redis-Caching-Architecture.md (1):
+   • [#213] ред 81: [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md)
+
+📄 04-Databases-And-Caching/Redis-Caching/03-02-01-Syntax-Redis.md (1):
+   • [#217] ред 137: [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md)
+
+📄 05-QA-And-Test-Automation/README.md (1):
+   • [#223] ред 21: [02. Security & Penetration Testing (OWASP Top 10)](Security-And-Penetration-Testing/README.md)
+
+📄 06-Cloud-DevOps-And-Architecture/README.md (2):
+   • [#224] ред 26: [03. Docker & Kubernetes (Контейнеризация)](Docker-And-Kubernetes/README.md)
+   • [#225] ред 29: [04. Cloud Платформи (AWS & Microsoft Azure)](Cloud-Platforms-AWS-And-Azure/README.md)
+
+📄 06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-00-Technical-SEO-And-Meta-Tags.md (1):
+   • [#233] ред 88: [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md)
+
+📄 06-Cloud-DevOps-And-Architecture/Technical-SEO-And-Web-Vitals/03-01-01-Syntax-SEO.md (1):
+   • [#236] ред 153: [📂 Следваща папка: 04. Exam Preparation & Judge Simulations](../04-Exam-Preparation/README.md)
+
+📄 07-Game-Development/README.md (24):
+   • [#241] ред 18: [Full-Stack & QA Automation Roadmap (Нива 1–4)](00-Learning-Roadmaps/Full-Stack-And-QA-Automation-Roadmap/README.md)
+   • [#245] ред 24: [Алгоритми и Структури от Данни (Algorithms)](01-Core-Tools-And-Fundamentals/Algorithms-Introduction/README.md)
+   • [#246] ред 25: [Linux, Terminal & Bash Scripting](01-Core-Tools-And-Fundamentals/Linux-And-Bash-Scripting/README.md)
+   • [#248] ред 29: [UI/UX Design & Figma](02-Frontend-And-UI-UX/UI-UX-Design-And-Figma/README.md)
+   • [#250] ред 31: [JavaScript (ES6+) & TypeScript](02-Frontend-And-UI-UX/JavaScript-And-TypeScript/README.md)
+   • [#251] ред 32: [Модерни SPA Рамки (React, Vue 3, Angular)](02-Frontend-And-UI-UX/Modern-SPA-Frameworks/README.md)
+   • [#254] ред 37: [Java 21+ & Spring Boot 3](03-Backend-Ecosystems/Java-Scripting/README.md)
+   • [#256] ред 39: [Node.js, Express & NestJS](03-Backend-Ecosystems/Node-Express-And-NestJS/README.md)
+   • [#257] ред 40: [Modern PHP 8.3+, Laravel & WordPress](03-Backend-Ecosystems/PHP-Laravel-And-WordPress/README.md)
+   • [#258] ред 41: [REST API, RESTful & GraphQL (API Архитектура)](03-Backend-Ecosystems/REST-API-And-GraphQL/README.md)
+   • [#260] ред 46: [Релационни Бази Данни (SQL Server & PostgreSQL)](04-Databases-And-Caching/SQL-And-Relational-DBs/README.md)
+   • [#261] ред 47: [ORM Системи (EF Core & Hibernate/JPA)](04-Databases-And-Caching/ORM-Systems/README.md)
+   • [#262] ред 48: [NoSQL и Кеширане в Паметта (Redis & MongoDB)](04-Databases-And-Caching/NoSQL-And-Redis-Caching/README.md)
+   • [#263] ред 49: [Event Streaming и Опашки (Apache Kafka & RabbitMQ)](04-Databases-And-Caching/Data-Engineering-And-Streaming/README.md)
+   • [#265] ред 53: [Manual QA, Test Design & Jira](05-QA-And-Test-Automation/Manual-QA-And-Jira/README.md)
+   • [#266] ред 54: [Unit Testing & Mocking (C#, Java, TS, Python)](05-QA-And-Test-Automation/Multi-Language-Unit-Testing/README.md)
+   • [#267] ред 55: [Web UI & Mobile Автоматизация](05-QA-And-Test-Automation/UI-And-Mobile-Automation/README.md)
+   • [#268] ред 56: [API, Contract & Performance Тестване](05-QA-And-Test-Automation/API-And-Performance-Testing/README.md)
+   • [#270] ред 60: [System Design & Software Architecture](06-Cloud-DevOps-And-Architecture/System-Design-And-Architecture/README.md)
+   • [#271] ред 61: [Docker & Kubernetes (Контейнеризация)](06-Cloud-DevOps-And-Architecture/Docker-And-Kubernetes/README.md)
+   • [#272] ред 62: [Cloud Платформи (AWS & Microsoft Azure)](06-Cloud-DevOps-And-Architecture/Cloud-Platforms-AWS-And-Azure/README.md)
+   • [#273] ред 63: [CI/CD, Observability & Technical SEO](06-Cloud-DevOps-And-Architecture/CI-CD-And-SEO/README.md)
+   • [#275] ред 67: [Unity Engine & C# Game Scripting](07-Game-Development/Unity-And-C-Sharp-Scripting/README.md)
+   • [#276] ред 68: [Game Design Patterns & Архитектура](07-Game-Development/Game-Design-Patterns/README.md)

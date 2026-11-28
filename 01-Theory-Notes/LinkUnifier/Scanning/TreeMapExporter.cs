@@ -11,9 +11,10 @@ public static class TreeMapExporter
 
     public static void ExportMarkdown(FolderNode root, string outputMdPath)
     {
+        string rootName = root.FolderName;
         string ts = DateTime.Now.ToString("dddd, yyyy-MM-dd HH:mm:ss", new CultureInfo("bg-BG"));
         var sb = new StringBuilder();
-        sb.AppendLine("# 🌲 Визуална Карта и Йерархия на Библиотеката (`01-Theory-Notes`)");
+        sb.AppendLine($"# 🌲 Визуална Карта и Йерархия на Библиотеката (`{rootName}`)");
         sb.AppendLine();
         sb.AppendLine($"> **Генерирано на:** `{ts}` | **Общо домейни:** `{root.SubFolders.Count}`");
         sb.AppendLine();
@@ -33,7 +34,7 @@ public static class TreeMapExporter
             string status = lessons == 0 ? "🟡 Празен / Планиран" : "✅ Активен";
             sb.AppendLine($"| {idx++} | **{domain.DisplayTitle}** | `{domain.FolderName}` | {mods} | {lessons} | {status} |");
         }
-        sb.AppendLine($"| — | **ОБЩО ЗА БИБЛИОТЕКАТА** | `01-Theory-Notes` | **{totalModules}** | **{totalLessons}** | — |");
+        sb.AppendLine($"| — | **ОБЩО ЗА БИБЛИОТЕКАТА** | `{rootName}` | **{totalModules}** | **{totalLessons}** | — |");
         sb.AppendLine();
         sb.AppendLine("---");
         sb.AppendLine();
@@ -53,7 +54,7 @@ public static class TreeMapExporter
         sb.AppendLine($"{pad}* {icon} **{node.DisplayTitle}** (`{node.FolderName}/`) — *{node.Lessons.Count} урока*");
 
         foreach (var lesson in node.Lessons)
-            sb.AppendLine($"{pad}  * 📄 [{lesson.Title}](../01-Theory-Notes/{lesson.RelativePath}) (`{lesson.FileName}`)");
+            sb.AppendLine($"{pad}  * 📄 [{lesson.Title}](../../{lesson.RelativePath}) (`{lesson.FileName}`)");
 
         foreach (var sub in node.SubFolders)
             AppendTreeNode(sb, sub, indent + 1);

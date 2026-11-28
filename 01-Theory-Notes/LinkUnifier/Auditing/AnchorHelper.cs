@@ -30,7 +30,8 @@ public static class AnchorHelper
             var m = Regex.Match(trimmed, @"^#{1,6}\s+(.+)$");
             if (!m.Success) continue;
 
-            string slug = ToGitHubSlug(m.Groups[1].Value);
+            string rawHeading = m.Groups.Cast<Group>().ElementAt(1).Value;
+            string slug = ToGitHubSlug(rawHeading);
             if (string.IsNullOrEmpty(slug)) continue;
 
             if (usedCount.TryGetValue(slug, out int count))
@@ -49,8 +50,10 @@ public static class AnchorHelper
 
     public static string ToGitHubSlug(string headingText)
     {
+        // Премахваме Markdown линкове [текст](url) -> текст и излишни интервали
         string text = Regex.Replace(headingText, @"\[([^\]]+)\]\([^)]+\)", "$1");
-        text = text.Replace("`", "").Replace("*", "").Replace("_", "").Trim().ToLowerInvariant();
+        text = Regex.Replace(text, @"\s+", " ").Trim();
+        text = text.Replace("`", "").Replace("*", "").Replace("_", "").ToLowerInvariant();
 
         var sb = new StringBuilder();
         foreach (char c in text)
@@ -60,7 +63,41 @@ public static class AnchorHelper
             else if (char.IsWhiteSpace(c))
                 sb.Append('-');
         }
-        return Regex.Replace(sb.ToString(), @"-{2,}", "-").Trim('-');
+        return sb.ToString();
+    }
+
+    /// <summary>
+    /// Нормализирана форма за детайлно търсене (свива -- в -, маха излишни интервали/тирета и уеднаквява визуални дубликати).
+    /// </summary>
+    public static string NormalizeForComparison(string slug)
+    {
+        if (string.IsNullOrWhiteSpace(slug)) return "";
+        string s = Uri.UnescapeDataString(slug).Trim().ToLowerInvariant();
+        s = Regex.Replace(s, @"\s+", "-");
+        s = Regex.Replace(s, @"-{2,}", "-");
+        return s.Trim('-');
+    }
+
+    /// <summary>
+    /// Намира най-точното съвпадение сред наличните котви (първо нормализирано, после по Levenshtein разстояние).
+    /// </summary>
+    public static string FindBestAnchorMatch(string brokenAnchor, HashSet<string> validAnchors)
+    {
+        if (validAnchors.Count == 0) return brokenAnchor.Trim();
+
+        string normBroken = NormalizeForComparison(brokenAnchor);
+
+        // 1. Търсим точно съвпадение след премахване на излишни интервали и двойни тирета
+        var normalizedHit = validAnchors.FirstOrDefault(a =>
+            NormalizeForComparison(a).Equals(normBroken, StringComparison.OrdinalIgnoreCase));
+
+        if (normalizedHit != null)
+            return normalizedHit;
+
+        // 2. Ако няма директно съвпадение, търсим най-близкото по Levenshtein върху нормализираните стойности
+        return validAnchors
+            .OrderBy(a => LevenshteinDistance(NormalizeForComparison(a), normBroken))
+            .First();
     }
 
     public static int LevenshteinDistance(string a, string b)

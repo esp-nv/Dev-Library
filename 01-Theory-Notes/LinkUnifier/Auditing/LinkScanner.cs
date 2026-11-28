@@ -11,13 +11,19 @@ public static class LinkScanner
     private static readonly Regex LinkRegex = new(@"\[([^\]]+)\]\(([^)]+)\)", RegexOptions.Compiled);
     private static readonly Regex InProgressRegex = new(@"\*\*([^*]+)\*\*\s*\*в разработка\*", RegexOptions.Compiled);
 
-    public static List<LinkIssue> ScanAll(string rootNotesDir, AuditStats stats)
+    public static List<LinkIssue> ScanAll(string rootNotesDir, AuditStats stats, LinkUnifierConfig? cfg = null)
     {
+        cfg ??= new LinkUnifierConfig();
         stats.ValidRefs.Clear();
         stats.InProgressRefs.Clear();
 
         var allValidFiles = Directory.GetFiles(rootNotesDir, "*.*", SearchOption.AllDirectories)
-            .Where(f => !f.Contains($"{Path.DirectorySeparatorChar}."))
+            .Where(f =>
+            {
+                var relParts = Path.GetRelativePath(rootNotesDir, f)
+                    .Split(Path.DirectorySeparatorChar, Path.AltDirectorySeparatorChar);
+                return !relParts.Any(p => p.StartsWith(".") || cfg.IgnoredFolders.Contains(p, StringComparer.OrdinalIgnoreCase));
+            })
             .ToList();
 
         var mdFiles = allValidFiles
@@ -45,7 +51,6 @@ public static class LinkScanner
                 }
                 if (inCodeBlock) continue;
 
-                // Отчитаме елементите, маркирани *(в разработка)*
                 foreach (Match ip in InProgressRegex.Matches(line))
                 {
                     stats.InProgressRefs.Add(new ValidRefInfo { RelativeFile = relFile, IsAnchorOnly = false });
@@ -53,8 +58,8 @@ public static class LinkScanner
 
                 foreach (Match m in LinkRegex.Matches(line))
                 {
-                    string text = m.Groups[1].Value;
-                    string target = m.Groups[2].Value.Trim();
+                    string text = m.Groups.Cast<Group>().ElementAt(1).Value.Trim();
+                    string target = m.Groups.Cast<Group>().ElementAt(2).Value.Trim();
 
                     if (target.StartsWith("http://", StringComparison.OrdinalIgnoreCase) ||
                         target.StartsWith("https://", StringComparison.OrdinalIgnoreCase) ||
@@ -65,7 +70,7 @@ public static class LinkScanner
                     // 1. Вътрешна #anchor котва в същия файл
                     if (target.StartsWith("#"))
                     {
-                        string anchor = Uri.UnescapeDataString(target.Substring(1));
+                        string anchor = Uri.UnescapeDataString(target.Substring(1)).Trim();
                         if (!headingCache.TryGetValue(file, out var anchors))
                         {
                             anchors = AnchorHelper.ExtractHeadingsAsAnchors(file);
@@ -74,9 +79,10 @@ public static class LinkScanner
 
                         if (!anchors.Contains(anchor))
                         {
-                            string bestAnchor = anchors
-                                .OrderBy(a => AnchorHelper.LevenshteinDistance(a, anchor))
-                                .FirstOrDefault() ?? anchor;
+                            string bestAnchor = AnchorHelper.FindBestAnchorMatch(anchor, anchors);
+                            string detailReason = target.Contains(' ')
+                                ? $"Котвата '{target}' съдържа излишни интервали"
+                                : $"Невалидна вътрешна котва '{target}'";
 
                             issues.Add(new LinkIssue
                             {
@@ -87,7 +93,7 @@ public static class LinkScanner
                                 LinkTarget = target,
                                 OriginalLink = m.Value,
                                 ProposedReplacement = $"[{text}](#{bestAnchor})",
-                                Reason = $"Невалидна вътрешна котва '{target}'",
+                                Reason = detailReason,
                                 IsAnchorOnly = true
                             });
                         }
@@ -99,8 +105,9 @@ public static class LinkScanner
                     }
 
                     // 2. Относителен линк към файл / папка
-                    string targetPathPart = target.Split('#')[0].Trim();
-                    string anchorPart = target.Contains('#') ? Uri.UnescapeDataString(target.Split('#')[1]) : "";
+                    string[] parts = target.Split('#');
+                    string targetPathPart = parts.First().Trim();
+                    string anchorPart = parts.Length > 1 ? Uri.UnescapeDataString(parts.ElementAt(1)).Trim() : "";
                     string baseDir = Path.GetDirectoryName(file) ?? rootNotesDir;
                     string resolvedPath = Path.GetFullPath(Path.Combine(baseDir, targetPathPart));
 
@@ -132,9 +139,7 @@ public static class LinkScanner
 
                         if (!targetAnchors.Contains(anchorPart))
                         {
-                            string bestAnchor = targetAnchors
-                                .OrderBy(a => AnchorHelper.LevenshteinDistance(a, anchorPart))
-                                .FirstOrDefault() ?? anchorPart;
+                            string bestAnchor = AnchorHelper.FindBestAnchorMatch(anchorPart, targetAnchors);
                             string relTarget = LinkResolver.MakeRelative(baseDir, resolvedPath);
 
                             issues.Add(new LinkIssue

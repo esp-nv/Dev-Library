@@ -1,0 +1,22 @@
+{
+  "JsonMapFileName": "library-map.json",
+  "ReportsFolderName": "reports",
+  "IgnoredFolders": [
+    "assets",
+    "bin",
+    "obj",
+    ".git",
+    ".vs",
+    ".vscode"
+  ],
+  "TreeMapReportFile": "00-library-tree-map.md",
+  "SummaryReportFile": "01-summary-report.txt",
+  "ApprovedReportFile": "02-approved-links.txt",
+  "DeletedReportFile": "03-deleted-lines.txt",
+  "GroupedAuditReportFile": "04-grouped-audit-report.txt",
+  "EmptyFoldersReportFile": "05-empty-folders.txt",
+  "CrudReportFile": "06-crud-changes.txt",
+  "NavSyncReportFile": "07-navbar-footer-sync.txt",
+  "InProgressReportFile": "08-in-progress-to-create.txt",
+  "MissingFilesReportFile": "09-missing-target-files.txt"
+}
